@@ -2,12 +2,25 @@
 
 # __Hand Washing Station__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2033.md)
+* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1902.md)
+* [Hand Washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
+* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
+* [Washing Hands](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1379.md)
+* [Frequent Hand Washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1704.md)
+* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_817.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
+
 ## Property: has_MitigationSource
 
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

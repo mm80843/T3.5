@@ -6,3 +6,16 @@
 
 * [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 
+## Closest similar item
+
+* [fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3069.md)
+* [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3070.md)
+* [fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3071.md)
+* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3072.md)
+* [fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3073.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3074.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3075.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3076.md)
+* [fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3077.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3078.md)
+

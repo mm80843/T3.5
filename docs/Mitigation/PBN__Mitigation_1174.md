@@ -2,12 +2,25 @@
 
 # __Telemedicine services__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Telemedical Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_385.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_48.md)
+* [Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
+* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1721.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
+* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1252.md)
+
 ## Property: has_MitigationSource
 
 * [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -15,6 +28,6 @@ Enables virtual consultations and diagnoses, reducing the need for in-person vis
 
 ## This Mitigation is enabled by the following technologies
 
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 

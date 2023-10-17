@@ -2,6 +2,26 @@
 
 # __Physical distancing__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
+* [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2617.md)
+
+## Closest similar item
+
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2667.md)
+* [distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2498.md)
+* [physical distancing markers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2668.md)
+* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2669.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2670.md)
+* [wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2671.md)
+* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
+
 ## Property: has_MitigationSource
 
 * [The City Under COVID‐19: Podcasting As Digital Methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
@@ -15,13 +35,6 @@
 * [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
 * [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_165.md)
 * [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
-* [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2617.md)
-* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 
 ## Property: has_MitigationPrinciple
 

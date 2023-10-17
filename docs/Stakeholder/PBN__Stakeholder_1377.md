@@ -2,19 +2,32 @@
 
 # __socially and economically disadvantaged groups__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q106394435](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q106394435.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2106.md)
+* [socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_199.md)
+* [socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1370.md)
+* [socially disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2121.md)
+* [disadvantaged communities and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_415.md)
+* [individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_375.md)
+* [individuals in socially disadvantaged areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1320.md)
+* [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
+* [especially socially disadvantaged individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1065.md)
+* [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)
 
 ## Risk affecting this stakeholder
 
 * [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q106394435](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q106394435.md)
 

@@ -2,13 +2,26 @@
 
 # __Expert System__
 
-## Property: has_MitigationSource
-
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2468.md)
+
+## Closest similar item
+
+* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1755.md)
+* [AI-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
+* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
+* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+
+## Property: has_MitigationSource
+
+* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 
 ## Property: has_MitigationPrinciple
 

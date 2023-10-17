@@ -2,54 +2,67 @@
 
 # __Negative impact on mental health__
 
-## Name of the risk
-
-Increased rates of anxiety, depression, and stress-related conditions
-
-## Description of the risk
-
-Psychological distress and mental health disorders due to the pandemic
-
-## Mitigations of this risk
-
-* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2995.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
 
 ## People affected by this risk
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
+## Name of the risk
+
+Increased rates of anxiety, depression, and stress-related conditions
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
+* [Mental Health Harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1432.md)
+* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
+* [Economic impact, mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
+* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1380.md)
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
+
+## Description of the risk
+
+Psychological distress and mental health disorders due to the pandemic
+
+## Technologies linked to the risk
+
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Mitigations of this risk
+
+* [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2995.md)
+
+## Articles mentionning the risk
+
+* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
 

@@ -6,3 +6,16 @@
 
 * [Lack of quantitative evidence for the effectiveness of UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
 
+## Closest similar item
+
+* [users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
+* [healthcare practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_544.md)
+* [physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [medical professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2005.md)
+* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+* [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
+* [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+* [healthcare researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1879.md)
+

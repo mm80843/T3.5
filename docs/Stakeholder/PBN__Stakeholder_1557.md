@@ -2,19 +2,32 @@
 
 # __residents who engage in online activities and share personal information__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## Closest similar item
+
+* [resident who engage in online activity and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2475.md)
+* [online users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_882.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [residents without adequate internet access or digital skills](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1552.md)
+* [local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_483.md)
+* [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+* [resident without adequate internet acces or digital skill](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2471.md)
+* [residents with limited knowledge or skills in using digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1556.md)
+* [other residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [resident without adequate internet acce or digital skill](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2452.md)
 
 ## Risk affecting this stakeholder
 
 * [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
 

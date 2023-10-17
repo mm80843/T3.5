@@ -11,3 +11,16 @@
 
 * [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1821.md)
 
+## Closest similar item
+
+* [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
+* [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
+* [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
+* [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
+* [privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
+* [media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
+* [enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1999.md)
+

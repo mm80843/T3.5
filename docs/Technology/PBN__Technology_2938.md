@@ -13,6 +13,19 @@
 * [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2110.md)
 * [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2111.md)
 * [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1231.md)
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
 * [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
+
+## Closest similar item
+
+* [big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
+* [social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3184.md)
+* [big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1572.md)
+* [big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4167.md)
+* [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4535.md)
 

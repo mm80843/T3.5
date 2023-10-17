@@ -2,6 +2,19 @@
 
 # __conservation efforts__
 
+## Closest similar item
+
+* [conservation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2663.md)
+* [conservation organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2696.md)
+* [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+* [conservation practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_429.md)
+* [conservation sites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1480.md)
+* [conservation authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2691.md)
+* [conservationists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_935.md)
+* [conservation site](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2710.md)
+* [wildlife conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_545.md)
+* [wildlife conservation organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2678.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Environmental protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_984.md)

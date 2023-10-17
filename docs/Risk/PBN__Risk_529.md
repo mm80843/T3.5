@@ -6,3 +6,16 @@
 
 * [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_741.md)
 
+## Closest similar item
+
+* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
+* [Lack of private sector investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2589.md)
+* [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
+* [Disruption in automobile sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_410.md)
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
+* [Infringement on privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3434.md)
+* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
+* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
+

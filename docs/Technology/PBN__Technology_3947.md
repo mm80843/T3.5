@@ -6,3 +6,16 @@
 
 * [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
 
+## Closest similar item
+
+* [individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
+* [access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
+* [controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4350.md)
+* [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2336.md)
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [access control system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3007.md)
+* [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
+* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+

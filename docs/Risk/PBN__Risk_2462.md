@@ -6,3 +6,16 @@
 
 * [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
 
+## Closest similar item
+
+* [Transmission in the community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3029.md)
+* [Transmission within a specific area or community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3030.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+* [Transmission, Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2680.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Transmission among colleagues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3027.md)
+* [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
+* [Transmission clusters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2620.md)
+* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
+

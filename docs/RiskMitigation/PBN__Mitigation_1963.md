@@ -2,12 +2,25 @@
 
 # __Portable Awnings__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Portable Air Conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
+* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_289.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
+* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
+* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
+* [Delivery Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
+* [Surveillance Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_356.md)
+* [Safety Wearables and Carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
+
 ## Property: has_MitigationSource
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

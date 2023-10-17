@@ -2,15 +2,28 @@
 
 # __healthcare manager__
 
-## This Stakeholder is identified by the following QID
-
-* [Q69943983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69943983.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
+## Closest similar item
+
+* [healthcare managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1197.md)
+* [healthcare administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_559.md)
+* [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
+* [healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1855.md)
+* [health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1064.md)
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [hospital administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1869.md)
+* [healthcare professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1873.md)
+* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_799.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q69943983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69943983.md)
 

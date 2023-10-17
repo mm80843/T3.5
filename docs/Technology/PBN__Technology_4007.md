@@ -6,3 +6,16 @@
 
 * [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1680.md)
 
+## Closest similar item
+
+* [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
+* [thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
+* [temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
+* [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2833.md)
+* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+* [temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
+* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
+* [temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
+* [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
+

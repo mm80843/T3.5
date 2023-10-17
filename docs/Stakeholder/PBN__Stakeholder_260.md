@@ -10,3 +10,16 @@
 
 * [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 
+## Closest similar item
+
+* [unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_811.md)
+* [unemployed individuals)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_265.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1708.md)
+* [low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1262.md)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+* [displaced workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1519.md)
+* [workers in low-wage jobs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1715.md)
+* [workers and firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_211.md)
+* [construction industry workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
+

@@ -2,55 +2,68 @@
 
 # __Claims of a once-in-a-century pandemic__
 
-## Name of the risk
-
-Misallocation of resources, overreaction
-
-## Description of the risk
-
-Claims about the severity and impact of the pandemic can lead to extreme reactions and unnecessary measures
-
-## Mitigations of this risk
-
-* [Evaluate claims critically, rely on accurate and evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2050.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
-* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Misallocation of resources, overreaction
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Closest similar item
+
+* [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
+* [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
+* [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
+* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
+* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
+* [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
+* [Environmental impacts of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_931.md)
+* [Economic decline during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_516.md)
+* [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_700.md)
+* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
+
+## Description of the risk
+
+Claims about the severity and impact of the pandemic can lead to extreme reactions and unnecessary measures
 
 ## Technologies linked to the risk
 
 * [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 * [fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_808.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Evaluate claims critically, rely on accurate and evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2050.md)
+
+## Articles mentionning the risk
+
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 

@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
 * [Virtual induction and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_709.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
+
+## Closest similar item
+
+* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
+* [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
+* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_998.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_306.md)
+* [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_477.md)
+* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
 

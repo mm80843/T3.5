@@ -6,3 +6,16 @@
 
 * [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 
+## Closest similar item
+
+* [Adoption of cleaner and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_175.md)
+* [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2897.md)
+* [Implement stricter air pollution regulations, reduce emissions from vehicles and industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1595.md)
+* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
+* [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2881.md)
+* [Implement stricter vehicle emissions standards, promote electric vehicles and low-carbon fuels, improve public transport and active travel options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1672.md)
+* [Promote inclusive policies for clean energy access, subsidize clean energy solutions for low-income households](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2149.md)
+* [Implement sustainable strategies for economic recovery, promote clean and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2460.md)
+* [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2145.md)
+* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_543.md)
+

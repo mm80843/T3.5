@@ -6,3 +6,16 @@
 
 * [Adequate Planning of Infrastructural Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
 
+## Closest similar item
+
+* [High population density increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_604.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
+* [Exposure to virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3144.md)
+* [Virus Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2521.md)
+* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1871.md)
+* [Virus Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+

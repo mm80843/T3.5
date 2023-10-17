@@ -12,3 +12,16 @@
 * [Data Acquisition and Integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
 * [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
 
+## Closest similar item
+
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
+* [data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
+* [data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
+* [data integration and exchange platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1124.md)
+* [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [integrated data systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3629.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+* [open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
+

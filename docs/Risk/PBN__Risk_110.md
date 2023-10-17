@@ -6,3 +6,16 @@
 
 * [Increasing public interest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_134.md)
 
+## Closest similar item
+
+* [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
+* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
+* [Wildlife conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_151.md)
+* [Lack of wildlife support in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1382.md)
+* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
+* [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_772.md)
+* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
+* [Inadequate provision of public parks without government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_143.md)
+* [Limited understanding of complex conservation challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3342.md)
+* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
+

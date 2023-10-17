@@ -10,3 +10,16 @@
 
 * [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
 
+## Closest similar item
+
+* [job search platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
+* [job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
+* [Job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [online recruitment platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_813.md)
+* [job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+* [job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+* [job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_45.md)
+* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2250.md)
+* [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
+* [workforce management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1491.md)
+

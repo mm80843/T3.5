@@ -10,3 +10,16 @@
 
 * [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
 
+## Closest similar item
+
+* [environmental monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3565.md)
+* [environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
+* [air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_233.md)
+* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2447.md)
+* [pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
+* [air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2530.md)
+* [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
+* [Environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2697.md)
+

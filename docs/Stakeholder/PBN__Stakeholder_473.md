@@ -6,3 +6,16 @@
 
 * [Extended reach of WBE](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
 
+## Closest similar item
+
+* [remote regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1567.md)
+* [neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_105.md)
+* [areas with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1088.md)
+* [local economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_520.md)
+* [developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)
+* [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
+* [poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
+* [residents of central areas with high economic activity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_727.md)
+* [general population in areas with underfunded green space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_572.md)
+* [such as tropical regions or areas with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1134.md)
+

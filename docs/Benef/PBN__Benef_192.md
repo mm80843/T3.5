@@ -2,6 +2,10 @@
 
 # __Improved air quality__
 
+## Name of the Benefit
+
+Reduced airborne transmission risk by removing or diluting viral particles in the air
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from increased property value and demand.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_196.md)
@@ -18,6 +22,24 @@
 * [Private investors in green roofs can contribute to cleaner air and creating a healthier environment for urban residents, benefiting municipalities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1412.md)
 * [Improved respiratory health and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1420.md)
 
+## Stakeholders benefitting from this Benefit
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
+
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -33,26 +55,4 @@
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
-
-## Name of the Benefit
-
-Reduced airborne transmission risk by removing or diluting viral particles in the air
-
-## Stakeholders benefitting from this Benefit
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
-* [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
-* [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
 

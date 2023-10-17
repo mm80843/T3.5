@@ -10,3 +10,16 @@
 
 * [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
 
+## Closest similar item
+
+* [quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
+* [quality control processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
+* [data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1087.md)
+* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2244.md)
+* [data quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1688.md)
+* [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+* [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
+* [monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
+* [digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3528.md)
+* [performance tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1417.md)
+

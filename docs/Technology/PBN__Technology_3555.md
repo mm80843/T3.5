@@ -6,3 +6,16 @@
 
 * [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
 
+## Closest similar item
+
+* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3294.md)
+* [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
+* [cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
+* [acetone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3488.md)
+* [sanitizer)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3146.md)
+* [ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1581.md)
+* [products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4058.md)
+* [centrifugation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4431.md)
+* [polycarbonate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
+* [chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
+

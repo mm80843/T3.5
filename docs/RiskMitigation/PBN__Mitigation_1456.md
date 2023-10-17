@@ -2,13 +2,26 @@
 
 # __Online Grocery Delivery__
 
-## Property: has_MitigationSource
-
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
+
+## Closest similar item
+
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
+* [Online shopping for home delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
+* [Online shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1168.md)
+* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
+* [Management of Deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
+* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
+* [Flexible Delivery Hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
+* [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
+* [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1564.md)
+* [Tracking logistics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2351.md)
+
+## Property: has_MitigationSource
+
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
 ## Property: has_MitigationPrinciple
 

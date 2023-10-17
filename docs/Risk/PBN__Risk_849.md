@@ -2,39 +2,9 @@
 
 # __Risk of infection through face-to-face contact__
 
-## Name of the risk
-
-Increased risk of infection, potential transmission of infectious diseases
-
-## Description of the risk
-
-Printing and delivery of letters of diagnosis can increase the risk of infection through face-to-face contact
-
-## Mitigations of this risk
-
-* [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
-* [Use blockchain for verifying insurance claims and payments, reducing the need for physical documentation and face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1701.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [insurance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_358.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 
 ## People affected by this risk
 
@@ -42,15 +12,58 @@ Printing and delivery of letters of diagnosis can increase the risk of infection
 * [insurance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_358.md)
 * [insurance subscribers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_456.md)
 
+## Name of the risk
+
+Increased risk of infection, potential transmission of infectious diseases
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2541.md)
+* [Infection Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1767.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+* [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2617.md)
+* [Spread of infections through surface touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2475.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
+* [Disease transmission through personal contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2783.md)
+* [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
+* [Direct contact with infectious material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2615.md)
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
+
+## Description of the risk
+
+Printing and delivery of letters of diagnosis can increase the risk of infection through face-to-face contact
+
+## Technologies linked to the risk
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Use blockchain for verifying insurance claims and payments, reducing the need for physical documentation and face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1701.md)
+* [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
+
+## Articles mentionning the risk
+
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [insurance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_358.md)
 

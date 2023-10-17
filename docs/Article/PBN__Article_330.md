@@ -2,6 +2,10 @@
 
 # __The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime__
 
+## Title of the article
+
+The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
+
 ## Referenced by other articles
 
 * [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
@@ -13,10 +17,6 @@
 * [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 * [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-
-## Title of the article
-
-The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
 
 ## Year of publication
 

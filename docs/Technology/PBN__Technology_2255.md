@@ -2,12 +2,25 @@
 
 # __Equitable urban planning and policies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
+* [equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
+* [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2742.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
 
 ## This Technology belongs to this TechGroup
 

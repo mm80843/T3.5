@@ -2,12 +2,25 @@
 
 # __Supplementing with ceiling mounted fans__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Cooling Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1767.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
+* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1275.md)
+* [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
+
 ## Property: has_MitigationSource
 
 * [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

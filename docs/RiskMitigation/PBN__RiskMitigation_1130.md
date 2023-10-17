@@ -2,6 +2,10 @@
 
 # __Air filtration and UV light sterilisation__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduction in airborne SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1119.md)
@@ -10,7 +14,16 @@
 * [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_752.md)
 * [Improved environmental safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1122.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
+* [Improve ventilation, implement air filtration and UV light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1767.md)
+* [Increase respiratory isolation capacity, improve ventilation systems, implement air filtration and UV light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1766.md)
+* [UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
+* [Implement infection control measures, improve ventilation systems, implement air filtration and UV light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1768.md)
+* [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
+* [Increase ventilation and air filtration, use UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2982.md)
+* [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
+* [Control temperature and humidity levels, use UVGI or filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1641.md)
+* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
 

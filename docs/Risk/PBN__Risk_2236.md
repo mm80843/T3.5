@@ -2,13 +2,45 @@
 
 # __Inequality__
 
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
+
+## People affected by this risk
+
+* [residents of low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_132.md)
+
 ## Name of the risk
 
 Limited access to health benefits of greenspaces
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
+* [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
+* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
+* [Inequality exacerbation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
+* [Economic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2495.md)
+* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
+* [Exclusion and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3258.md)
+* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
+
 ## Description of the risk
 
 Greenspace availability is lower in low-income neighborhoods
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
 
 ## Mitigations of this risk
 
@@ -16,39 +48,20 @@ Greenspace availability is lower in low-income neighborhoods
 * [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_26.md)
 * [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_30.md)
 
-## Property: has_RiskHealth
+## Articles mentionning the risk
 
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [residents of low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_132.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 

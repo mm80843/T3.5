@@ -2,15 +2,15 @@
 
 # __Public engagement is key for containing COVID-19 pandemic__
 
-## DOI of the article
+## Year of publication
 
-10.4103/ijmr.ijmr_780_20
+2020
 
 ## Title of the article
 
 Public engagement is key for containing COVID-19 pandemic
 
-## Year of publication
+## DOI of the article
 
-2020
+10.4103/ijmr.ijmr_780_20
 

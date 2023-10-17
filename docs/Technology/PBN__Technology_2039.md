@@ -2,13 +2,26 @@
 
 # __Project management tools__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q167035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167035.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [project management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_740.md)
+* [project evaluation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4127.md)
+* [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
+* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4478.md)
+* [collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3038.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
+
+## This Technology is identified by the following QID
+
+* [Q167035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167035.md)
 
 ## This Technology belongs to this TechGroup
 

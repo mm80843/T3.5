@@ -6,3 +6,16 @@
 
 * [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
 
+## Closest similar item
+
+* [language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1205.md)
+* [Language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2304.md)
+* [java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
+* [language-specific materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1208.md)
+* [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [language resources technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3975.md)
+* [multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
+* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1322.md)
+* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
+

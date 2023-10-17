@@ -2,12 +2,25 @@
 
 # __Outdoor activities/usage of open spaces__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Use of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1468.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
+* [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
+* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
+* [Outdoor Recreation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
+* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
+
 ## Property: has_MitigationSource
 
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

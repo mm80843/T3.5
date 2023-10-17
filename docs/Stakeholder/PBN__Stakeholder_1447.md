@@ -4,9 +4,22 @@
 
 ## Risk affecting this stakeholder
 
-* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
 * [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 * [Personal Protective Equipment (PPE) usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2144.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
+* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
+
+## Closest similar item
+
+* [hotel staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1739.md)
+* [facility owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1171.md)
+* [maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_704.md)
+* [Maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1690.md)
+* [facilities managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_705.md)
+* [facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2061.md)
+* [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
 

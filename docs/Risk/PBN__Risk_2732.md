@@ -6,3 +6,16 @@
 
 * [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
 
+## Closest similar item
+
+* [Bacterial activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Pathogen propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
+* [Transmission of germs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2456.md)
+* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3068.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
+* [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2259.md)
+* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
+

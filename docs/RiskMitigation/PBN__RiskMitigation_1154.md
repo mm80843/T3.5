@@ -2,11 +2,24 @@
 
 # __GPS tracking and prediction__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+
 ## Property: has_MitigationBenefit
 
 * [Monitoring and tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1155.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+* [Mobile tracking and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1158.md)
+* [GPS-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1152.md)
+* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1408.md)
+* [Continuously improve location tracking algorithms, ensure reliable Bluetooth connectivity, conduct regular testing and updates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2575.md)
+* [Logistical tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1412.md)
+* [Integration of GIS and GPS applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_465.md)
+* [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
+* [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1163.md)
+* [Digital tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_633.md)
+* [COVID-19 tracking apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1164.md)
 

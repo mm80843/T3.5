@@ -2,13 +2,49 @@
 
 # __Transmission of COVID-19__
 
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [especially those in close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1429.md)
+
 ## Name of the risk
 
 High risk of spreading the disease and increasing the number of cases.
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
+* [Confusion on COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1718.md)
+* [High transmission capability of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_702.md)
+* [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
+* [Temperature and COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1247.md)
+* [Lack of reliable information on COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_352.md)
+* [Airborne transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_967.md)
+* [Transmission of COVID-19 through surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_226.md)
+* [Transmission of COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
+
 ## Description of the risk
 
 Transmission of COVID-19 can occur person-to-person and person-to-surface-to-person through aerosols emitted by infected individuals.
+
+## Technologies linked to the risk
+
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Mitigations of this risk
 
@@ -20,48 +56,25 @@ Transmission of COVID-19 can occur person-to-person and person-to-surface-to-per
 * [Enhanced Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
 * [Self-Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_707.md)
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
-* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
 * [Promoting personal hygiene, social distancing, and proper ventilation in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2774.md)
+* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
 * [Increased Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
 
-## Property: has_RiskHealth
+## Articles mentionning the risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
 
-## Property: has_RiskType
+## Property: has_RiskISO_Impact
 
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
-* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
-* [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [especially those in close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1429.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
 

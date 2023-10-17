@@ -6,3 +6,16 @@
 
 * [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
 
+## Closest similar item
+
+* [sms messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4408.md)
+* [messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4027.md)
+* [video communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+* [messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1427.md)
+* [sms technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3993.md)
+* [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
+* [social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
+* [Targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2136.md)
+

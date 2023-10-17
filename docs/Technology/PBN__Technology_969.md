@@ -10,3 +10,16 @@
 
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
 
+## Closest similar item
+
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
+* [information brochures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_252.md)
+* [digital newsletters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_881.md)
+* [information resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4081.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4344.md)
+* [information and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4055.md)
+* [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2147.md)
+

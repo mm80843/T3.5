@@ -10,3 +10,16 @@
 
 * [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
 
+## Closest similar item
+
+* [communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
+* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2503.md)
+* [coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
+* [coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3883.md)
+* [coordination mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4311.md)
+* [collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3357.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+

@@ -6,3 +6,16 @@
 
 * [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_622.md)
 
+## Closest similar item
+
+* [Service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
+* [ICT service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3354.md)
+* [Interrupted or delayed access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_99.md)
+* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
+* [Interrupted access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1789.md)
+* [Essential services maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_995.md)
+* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
+* [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
+* [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1630.md)
+* [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+

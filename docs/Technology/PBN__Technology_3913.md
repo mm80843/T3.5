@@ -6,3 +6,16 @@
 
 * [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1546.md)
 
+## Closest similar item
+
+* [reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1862.md)
+* [reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
+* [reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
+* [reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2153.md)
+* [reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3524.md)
+* [public education on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1925.md)
+* [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
+* [news and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4011.md)
+* [trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_938.md)
+

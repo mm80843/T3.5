@@ -6,3 +6,16 @@
 
 * [Overfitting of Anomaly Detection Models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
 
+## Closest similar item
+
+* [Develop strategies to streamline the process of training algorithms using large datasets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1560.md)
+* [Increase data collection and improve model validation and calibration; communicate uncertainty and limitations effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
+* [Improve testing capacity and accuracy; increase data collection and surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1893.md)
+* [Use multiple data collection methods, record limitations specific to each method to account for their influence on validity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1882.md)
+* [Rigorous data validation processes, integration of multiple reliable data sources, expert review and validation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3002.md)
+* [Implement rigorous data validation processes, cross-check data with other reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2064.md)
+* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2047.md)
+* [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2216.md)
+* [Improving data quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_773.md)
+* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2129.md)
+

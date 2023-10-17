@@ -2,13 +2,26 @@
 
 # __Standard working procedures__
 
-## Property: has_MitigationSource
-
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
+
+## Closest similar item
+
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
+* [Simplified procedures for essential activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1490.md)
+* [Standardization of analytical protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_231.md)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
+* [Safe Work Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_630.md)
+* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
+* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
+* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
+
+## Property: has_MitigationSource
+
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 
 ## Property: has_MitigationPrinciple
 

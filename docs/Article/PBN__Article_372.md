@@ -2,15 +2,15 @@
 
 # __Waste Management during the COVID-19 Pandemic: From Response to Recovery__
 
-## DOI of the article
+## Year of publication
 
-10.18356/abfaaadd-en
+2020
 
 ## Title of the article
 
 Waste Management during the COVID-19 Pandemic: From Response to Recovery
 
-## Year of publication
+## DOI of the article
 
-2020
+10.18356/abfaaadd-en
 

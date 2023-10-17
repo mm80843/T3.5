@@ -2,13 +2,26 @@
 
 # __Disconnection bans__
 
-## Property: has_MitigationSource
-
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Energy insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3312.md)
+
+## Closest similar item
+
+* [Bans on disconnections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1981.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_545.md)
+* [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
+* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
+* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1582.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1553.md)
+* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2341.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
+* [National Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1549.md)
+
+## Property: has_MitigationSource
+
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 
 ## Property: has_MitigationPrinciple
 

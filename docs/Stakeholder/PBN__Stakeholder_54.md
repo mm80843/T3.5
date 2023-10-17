@@ -2,6 +2,38 @@
 
 # __citizens__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## Closest similar item
+
+* [citizen](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2537.md)
+* [urban citizenry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_200.md)
+* [and citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_382.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1015.md)
+* [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+* [low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
+* [Low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2324.md)
+* [civilians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_542.md)
+* [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
+
+## Risk affecting this stakeholder
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
+* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
+* [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_70.md)
@@ -26,23 +58,4 @@
 ## This Stakeholder is identified by the following QID
 
 * [Q1393123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1393123.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Risk affecting this stakeholder
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
-* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
-* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
-* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
-* [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 

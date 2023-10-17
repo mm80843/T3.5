@@ -10,3 +10,16 @@
 
 * [Increase in local opportunity cost for PCA-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
 
+## Closest similar item
+
+* [Livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
+* [economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
+* [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
+* [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
+* [community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
+* [income support measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
+* [welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3620.md)
+* [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+

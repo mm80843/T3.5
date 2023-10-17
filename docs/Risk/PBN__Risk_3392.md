@@ -6,3 +6,16 @@
 
 * [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
 
+## Closest similar item
+
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
+* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
+* [Global spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_379.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
+* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
+

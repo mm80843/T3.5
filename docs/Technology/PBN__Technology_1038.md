@@ -10,3 +10,16 @@
 
 * [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 
+## Closest similar item
+
+* [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
+* [accessibility measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4109.md)
+* [accessibility features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4024.md)
+* [improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
+* [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
+* [public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4502.md)
+* [promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
+* [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
+* [geographic information systems (gis) can help identify areas with low ugs access and guide planning efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1034.md)
+

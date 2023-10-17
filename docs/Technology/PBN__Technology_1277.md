@@ -10,3 +10,16 @@
 
 * [Lack of passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1895.md)
 
+## Closest similar item
+
+* [natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1014.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2707.md)
+* [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2235.md)
+* [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2690.md)
+* [enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1720.md)
+* [natural or mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3834.md)
+* [natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)
+* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2673.md)
+* [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4069.md)
+

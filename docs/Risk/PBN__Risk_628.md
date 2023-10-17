@@ -6,3 +6,16 @@
 
 * [Targeted Regional Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_871.md)
 
+## Closest similar item
+
+* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2690.md)
+* [Gender disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_627.md)
+* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
+* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
+* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
+* [Poor knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
+* [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
+* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+

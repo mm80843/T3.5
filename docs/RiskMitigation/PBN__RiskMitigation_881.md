@@ -2,11 +2,24 @@
 
 # __WBE surveillance__
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationBenefit
 
 * [Identification of immunized patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_882.md)
 * [More accurate estimation of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_883.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
+* [Implement WBE surveillance as a cost-effective and rapid tool for population health assessment and monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1961.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1410.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1223.md)
+* [WBE for monitoring Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1024.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1031.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
+* [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1201.md)
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
+* [Use of WBE for tracking COVID-19 prevalence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1208.md)
 

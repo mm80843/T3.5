@@ -8,7 +8,20 @@
 
 ## Risks linked to this technology
 
-* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
 * [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
 * [Increase in unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2230.md)
+* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
+
+## Closest similar item
+
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
+* [workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3613.md)
+* [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2633.md)
+* [job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
+* [Job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+* [job retention programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3893.md)
+* [employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
 

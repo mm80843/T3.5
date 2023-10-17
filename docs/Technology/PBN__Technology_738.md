@@ -11,3 +11,16 @@
 * [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
 
+## Closest similar item
+
+* [remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
+* [remote work options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
+* [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
+* [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
+* [remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+* [remote working](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
+* [remote consultation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1424.md)
+

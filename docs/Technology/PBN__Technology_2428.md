@@ -2,14 +2,27 @@
 
 # __IoT protocols__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+* [IoT protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2428.md)
+* [iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3945.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2941.md)
+* [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+* [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
 * [IoT Devices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_143.md)
+
+## This Technology is identified by the following QID
+
+* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 
 ## This Technology belongs to this TechGroup
 

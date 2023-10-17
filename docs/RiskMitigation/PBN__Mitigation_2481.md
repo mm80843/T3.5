@@ -2,13 +2,26 @@
 
 # __Nature interaction__
 
-## Property: has_MitigationSource
-
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_475.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
+* [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
+* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
+* [Views of nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_122.md)
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
+* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
+
+## Property: has_MitigationSource
+
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 
 ## Property: has_MitigationPrinciple
 

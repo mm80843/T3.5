@@ -6,3 +6,16 @@
 
 * [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2311.md)
 
+## Closest similar item
+
+* [chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
+* [chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1906.md)
+* [liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1905.md)
+* [chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3959.md)
+* [chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
+* [chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2817.md)
+* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+* [sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
+* [sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3302.md)
+

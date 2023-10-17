@@ -6,3 +6,16 @@
 
 * [Blockchain-based secure cross-platform sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1059.md)
 
+## Closest similar item
+
+* [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2328.md)
+* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
+* [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1630.md)
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1517.md)
+* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+* [Lack of access to education and information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2662.md)
+

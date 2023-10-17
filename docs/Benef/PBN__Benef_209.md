@@ -2,20 +2,20 @@
 
 # __Decreased contact and proximity__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Increased demand for spaces with physical barriers, resulting in higher rental rates and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_216.md)
-
-## Articles mentionning this Benefit
-
-* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
-
 ## Name of the Benefit
 
 Reduced contact and proximity among individuals, minimizing the risk of disease transmission.
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Increased demand for spaces with physical barriers, resulting in higher rental rates and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_216.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+
+## Articles mentionning this Benefit
+
+* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 

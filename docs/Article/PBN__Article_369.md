@@ -2,15 +2,15 @@
 
 # __Governance of Urban Green Spaces across Latin America - Insights from Semi-Structured Interviews to Managers Amid COVID-19__
 
-## DOI of the article
+## Year of publication
 
-10.2139/ssrn.3782285
+2021
 
 ## Title of the article
 
 Governance of Urban Green Spaces across Latin America - Insights from Semi-Structured Interviews to Managers Amid COVID-19
 
-## Year of publication
+## DOI of the article
 
-2021
+10.2139/ssrn.3782285
 

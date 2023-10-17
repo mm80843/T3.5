@@ -10,3 +10,16 @@
 
 * [Vulnerability to COVID-19 in LMICs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
 
+## Closest similar item
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_336.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2511.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1072.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
+* [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4032.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
+

@@ -6,3 +6,16 @@
 
 * [Rethinking the city’s landscape and role of UGS in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_960.md)
 
+## Closest similar item
+
+* [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
+* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
+* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
+* [Psychological impact of social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3034.md)
+* [Decline in Well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
+* [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
+* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
+* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2040.md)
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
+* [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_643.md)
+

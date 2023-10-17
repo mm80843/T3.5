@@ -2,13 +2,26 @@
 
 # __Designing with nature__
 
-## Property: has_MitigationSource
-
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1663.md)
+* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_475.md)
+* [Views of nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_122.md)
+* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2481.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
+* [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
+* [Biophilic Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
+* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Green and Sustainable Design Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
+
+## Property: has_MitigationSource
+
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 
 ## Property: has_MitigationPrinciple
 

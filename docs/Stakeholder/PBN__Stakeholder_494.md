@@ -2,23 +2,28 @@
 
 # __water authorities__
 
-## This Stakeholder can get these Benefits from mitigation measures
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Natural greywater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1255.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## Closest similar item
+
+* [water authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2428.md)
+* [water management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1514.md)
+* [water management authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2425.md)
+* [water management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1073.md)
+* [water management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2405.md)
+* [water utilities/policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_400.md)
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+* [water and sanitation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1367.md)
+* [water utility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2666.md)
+* [water utilities/public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_398.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
-* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q7973265](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7973265.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 
 ## Risk affecting this stakeholder
 
@@ -29,4 +34,12 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_117.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Natural greywater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1255.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7973265](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7973265.md)
 

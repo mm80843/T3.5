@@ -6,3 +6,16 @@
 
 * [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2423.md)
 
+## Closest similar item
+
+* [robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
+* [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2886.md)
+* [health data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3321.md)
+* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2245.md)
+* [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
+* [better laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
+* [digital health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
+

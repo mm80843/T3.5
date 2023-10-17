@@ -6,3 +6,16 @@
 
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 
+## Closest similar item
+
+* [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+* [community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2752.md)
+* [pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_848.md)
+* [vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
+* [rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3900.md)
+* [rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1785.md)
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+

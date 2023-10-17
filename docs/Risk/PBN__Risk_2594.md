@@ -6,3 +6,16 @@
 
 * [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
 
+## Closest similar item
+
+* [Inadequate water storage, poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
+* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
+* [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2979.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
+* [Lack of access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_119.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
+* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2969.md)
+

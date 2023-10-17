@@ -6,3 +6,16 @@
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
 
+## Closest similar item
+
+* [Spread of infections through surface touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2475.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
+* [Pathogen transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_968.md)
+* [Virus Transmission through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_508.md)
+* [Disease transmission through contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2715.md)
+* [Person-to-person transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_646.md)
+* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
+* [Infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2541.md)
+

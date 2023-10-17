@@ -4,8 +4,21 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
 * [Minority population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2200.md)
-* [Minority group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2208.md)
+* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
 * [Minority groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2223.md)
+* [Minority group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2208.md)
+
+## Closest similar item
+
+* [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
+* [Specific Populations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_91.md)
+* [Community Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_134.md)
+* [Age Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_142.md)
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Social Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_131.md)
+* [Community Associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
+* [Geographically Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_74.md)
+* [Economic and Social Status](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
+* [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
 

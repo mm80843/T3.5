@@ -2,13 +2,26 @@
 
 # __Rent controls__
 
-## Property: has_MitigationSource
-
-* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
+
+## Closest similar item
+
+* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
+* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_26.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+* [Governance of urban space to improve access to neighborhood resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1539.md)
+* [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_831.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_307.md)
+
+## Property: has_MitigationSource
+
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 
 ## Property: has_MitigationPrinciple
 

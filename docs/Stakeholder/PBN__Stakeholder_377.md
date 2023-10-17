@@ -6,3 +6,16 @@
 
 * [Enhanced access to integrated UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_966.md)
 
+## Closest similar item
+
+* [especially those living in areas with extreme population densities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_376.md)
+* [people living in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_566.md)
+* [People living in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2280.md)
+* [individuals in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1323.md)
+* [residents of densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_960.md)
+* [individual in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2103.md)
+* [urban populations living in crowded areas and high-density neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1583.md)
+* [urban population living in crowded area and high-density neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2506.md)
+* [residents of densely populated cities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1160.md)
+* [resident of densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2493.md)
+

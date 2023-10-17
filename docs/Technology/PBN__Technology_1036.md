@@ -10,3 +10,16 @@
 
 * [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 
+## Closest similar item
+
+* [Accessible paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2338.md)
+* [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
+* [bicycle paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
+* [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
+* [provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
+* [controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4350.md)
+* [accessibility measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4109.md)
+* [access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [accessibility features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4024.md)
+

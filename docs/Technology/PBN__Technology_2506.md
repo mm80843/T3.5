@@ -2,6 +2,19 @@
 
 # __Security systems__
 
+## Closest similar item
+
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2506.md)
+* [cybersecurity technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1576.md)
+* [intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1636.md)
+* [data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2336.md)
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+
 ## This Technology belongs to this TechSubgroup
 
 * [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)

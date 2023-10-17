@@ -2,13 +2,26 @@
 
 # __Research on transmission routes__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1067164](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1067164.md)
+* [Research on transmission routes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2796.md)
+* [railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
+* [modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
+* [alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_111.md)
+* [data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3169.md)
+* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
+* [alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1992.md)
+* [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2888.md)
+* [demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
+* [Demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2889.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+
+## This Technology is identified by the following QID
+
+* [Q1067164](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1067164.md)
 
 ## This Technology belongs to this TechGroup
 

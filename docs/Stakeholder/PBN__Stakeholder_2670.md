@@ -6,6 +6,19 @@
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 
+## Closest similar item
+
+* [environmental scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2664.md)
+* [environmental researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2673.md)
+* [environmental researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [ecologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1461.md)
+* [environmental engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_678.md)
+* [scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1862.md)
+* [environmental engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2682.md)
+* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
+* [ecologist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2701.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)

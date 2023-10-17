@@ -2,19 +2,19 @@
 
 # __Improved occupant comfort__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Private investors would benefit from improved tenant satisfaction and reduced vacancy rates, leading to potentially higher rental income and property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1257.md)
-
-## Articles mentionning this Benefit
-
-* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
-
 ## Name of the Benefit
 
 Monitoring the IEQ parameters allows for ensuring adequate temperature and humidity conditions, improving the comfort and productivity of the occupants.
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors would benefit from improved tenant satisfaction and reduced vacancy rates, leading to potentially higher rental income and property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1257.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Articles mentionning this Benefit
+
+* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 

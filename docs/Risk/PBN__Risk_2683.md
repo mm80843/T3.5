@@ -6,3 +6,16 @@
 
 * [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 
+## Closest similar item
+
+* [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
+* [Job and income loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3400.md)
+* [Job losses and unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3108.md)
+* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
+* [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2501.md)
+* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
+* [Financial Loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1578.md)
+* [Financial loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2498.md)
+* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2844.md)
+* [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_408.md)
+

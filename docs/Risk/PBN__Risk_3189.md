@@ -6,3 +6,16 @@
 
 * [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 
+## Closest similar item
+
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [Inadequate cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
+* [Inadequate cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3162.md)
+* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
+* [Inadequate Sanitation and Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
+* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
+* [Poor cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1487.md)
+* [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
+* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
+

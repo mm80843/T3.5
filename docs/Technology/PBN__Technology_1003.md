@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)
 * [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
+* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)
+
+## Closest similar item
+
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2091.md)
+* [data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
+* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [real-time data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4437.md)
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
+* [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2529.md)
+* [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
+* [remote data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1700.md)
 

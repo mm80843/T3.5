@@ -11,3 +11,16 @@
 * [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_722.md)
 * [Reduction in faecal contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_960.md)
 
+## Closest similar item
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [health care workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_408.md)
+* [healthcare workers,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_522.md)
+* [workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1711.md)
+* [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1713.md)
+* [hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
+* [healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1855.md)
+* [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
+* [Worker in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1654.md)
+* [worker in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1731.md)
+

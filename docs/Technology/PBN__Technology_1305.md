@@ -10,3 +10,16 @@
 
 * [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
 
+## Closest similar item
+
+* [Regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2407.md)
+* [security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2506.md)
+* [regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_330.md)
+* [regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1668.md)
+* [secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
+* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
+* [lightweight security algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
+* [data monitoring tools and regular updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
+* [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
+

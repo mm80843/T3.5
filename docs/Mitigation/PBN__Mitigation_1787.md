@@ -2,13 +2,26 @@
 
 # __Control of Moisture and Humidity__
 
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Mold Growth, Poor IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3254.md)
+
+## Closest similar item
+
+* [Humidity Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Maintaining optimum humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1846.md)
+* [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
+* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
+* [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
+* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Layering DMEM to prevent drying](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_258.md)
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_MitigationPrinciple
 

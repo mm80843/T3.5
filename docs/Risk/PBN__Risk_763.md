@@ -6,3 +6,16 @@
 
 * [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
 
+## Closest similar item
+
+* [Inaccurate or unreliable COVID-19 information disseminated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1783.md)
+* [Inadequate monitoring of the spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
+* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+* [Need for accurate and up-to-date COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_838.md)
+* [Need for reliable and up-to-date data on COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_765.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
+* [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
+* [Lack of knowledge on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
+* [Limited availability of up-to-date information on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_92.md)
+

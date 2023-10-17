@@ -6,3 +6,16 @@
 
 * [Robust RT-qPCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
 
+## Closest similar item
+
+* [rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
+* [digital PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
+* [real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4001.md)
+* [rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3502.md)
+* [rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
+* [quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3687.md)
+* [pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3069.md)
+* [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
+* [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
+* [qRT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
+

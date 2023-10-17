@@ -2,11 +2,24 @@
 
 # __Softening Labor Market Impact__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
+
 ## Property: has_MitigationBenefit
 
 * [Mitigating job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_481.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Automation Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
+* [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_580.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_833.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
+* [Economic stimulus, support for affected industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_901.md)
+* [Promoting decent work and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_288.md)
+* [Extend support measures to temporary migrants and gig workers, strengthen regulation for gig economy workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2952.md)
+* [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
+* [Economic diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1002.md)
 

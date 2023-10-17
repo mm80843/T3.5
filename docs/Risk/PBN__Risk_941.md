@@ -6,3 +6,16 @@
 
 * [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1305.md)
 
+## Closest similar item
+
+* [Health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_747.md)
+* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2040.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
+* [Mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2460.md)
+* [Decline in Well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
+* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2474.md)
+* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
+* [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_694.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+

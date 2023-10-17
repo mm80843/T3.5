@@ -10,3 +10,16 @@
 
 * [Impact on public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1573.md)
 
+## Closest similar item
+
+* [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+* [digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4168.md)
+* [newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3806.md)
+* [information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
+* [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
+* [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
+* [digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
+* [digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
+* [digital reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
+

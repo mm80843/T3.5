@@ -4,7 +4,20 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
 * [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
+* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
 * [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
+
+## Closest similar item
+
+* [health and safety officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1291.md)
+* [health and safety agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_829.md)
+* [health and safety team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_988.md)
+* [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
+* [occupational health and safety agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1259.md)
+* [Occupational health and safety agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1860.md)
+* [safety department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1454.md)
+* [Occupational health and safety agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1876.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [occupational health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_620.md)
 

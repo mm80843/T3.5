@@ -6,3 +6,16 @@
 
 * [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
 
+## Closest similar item
+
+* [Thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_126.md)
+* [Thermal Discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2479.md)
+* [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2932.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
+* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
+* [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
+* [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
+* [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2430.md)
+* [High indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_783.md)
+

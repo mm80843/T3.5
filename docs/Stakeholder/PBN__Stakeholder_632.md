@@ -11,3 +11,16 @@
 * [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
 * [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
 
+## Closest similar item
+
+* [legal advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1408.md)
+* [experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_540.md)
+* [legal teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1258.md)
+* [technical experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_718.md)
+* [legal departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1438.md)
+* [risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)
+* [technical expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
+* [legal aid organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_715.md)
+* [authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_277.md)
+* [it experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1470.md)
+

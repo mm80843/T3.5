@@ -6,3 +6,16 @@
 
 * [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_245.md)
 
+## Closest similar item
+
+* [LC1: Local services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_205.md)
+* [Limited access to services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3436.md)
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
+* [Essential services maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_995.md)
+* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
+* [Facilitating essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2562.md)
+* [EU2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
+* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_497.md)
+* [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
+

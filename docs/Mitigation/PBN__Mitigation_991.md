@@ -2,13 +2,26 @@
 
 # __Efficient workforce management__
 
-## Property: has_MitigationSource
-
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Difficulties in labor control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2849.md)
+
+## Closest similar item
+
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1505.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1568.md)
+* [Job Search](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_389.md)
+* [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
+* [Effective healthcare management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1886.md)
+* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_129.md)
+* [Improving office productivity and lowering overhead costs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
+* [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
+* [Staff Compartmentalization within Zones/Cohorts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_866.md)
+
+## Property: has_MitigationSource
+
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
 ## Property: has_MitigationPrinciple
 

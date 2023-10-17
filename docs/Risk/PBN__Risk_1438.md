@@ -2,53 +2,66 @@
 
 # __Increase in domestic violence__
 
-## Name of the risk
-
-Physical and psychological harm to victims, strained social support systems
-
-## Description of the risk
-
-Social issues exacerbated during pandemic, leading to higher occurrence of domestic violence
-
-## Mitigations of this risk
-
-* [Enhance support services for victims, increase public awareness, provide safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1950.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [domestic violence organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_934.md)
+* [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Physical and psychological harm to victims, strained social support systems
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Closest similar item
+
+* [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
+* [Increased domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2499.md)
+* [Increased levels of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_483.md)
+* [Increase in mental diseases and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_101.md)
+* [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_833.md)
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+* [Domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2.md)
+* [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
+* [Limited capacity of domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3085.md)
+* [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
+
+## Description of the risk
+
+Social issues exacerbated during pandemic, leading to higher occurrence of domestic violence
 
 ## Technologies linked to the risk
 
 * [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
 * [telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_698.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [Enhance support services for victims, increase public awareness, provide safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1950.md)
+
+## Articles mentionning the risk
+
+* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_12.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [domestic violence organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_934.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 

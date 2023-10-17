@@ -8,3 +8,16 @@
 * [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
 * [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
 
+## Closest similar item
+
+* [facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1971.md)
+* [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
+* [healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1254.md)
+* [facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2061.md)
+* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [building facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1989.md)
+* [facility owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
+* [healthcare facilities)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1037.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
+

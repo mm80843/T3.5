@@ -2,12 +2,12 @@
 
 # __Local Moran’s I statistic__
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationSource
 
 * [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

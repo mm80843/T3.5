@@ -8,3 +8,16 @@
 * [Improved access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_667.md)
 * [Improved sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_668.md)
 
+## Closest similar item
+
+* [low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_588.md)
+* [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2187.md)
+* [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
+* [Low-income community in urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2291.md)
+* [urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_776.md)
+* [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
+* [Low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2215.md)
+* [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)
+* [Low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2373.md)
+* [urban community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2487.md)
+

@@ -2,6 +2,14 @@
 
 # __Wastewater-based surveillance (WBS)__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Early detection and mitigation of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_882.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
+* [Limited testing access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_881.md)
+* [Asset value improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_883.md)
+
 ## Property: has_MitigationBenefit
 
 * [Population prevalence estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1205.md)
@@ -10,11 +18,16 @@
 * [Improved public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1208.md)
 * [Efficacy of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1209.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Limited testing access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_881.md)
-* [Early detection and mitigation of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_882.md)
-* [Asset value improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_883.md)
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Wastewater-based epidemiology (WBE) surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_880.md)
+* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+* [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1021.md)
+* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2562.md)
+* [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3075.md)
 

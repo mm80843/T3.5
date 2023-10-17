@@ -2,18 +2,31 @@
 
 # __transparency measures__
 
+## Closest similar item
+
+* [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
+* [data transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
+* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
+* [transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
+* [transparent peer-review and publishing processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_785.md)
+* [Transparent peer-review and publishing processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2093.md)
+* [isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1855.md)
+* [accessibility measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4109.md)
+* [restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3585.md)
+* [regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3206.md)
+
 ## Risks linked to this technology
 
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
 * [Adoption and Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
 
-## This Technology is identified by the following QID
-
-* [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
+
+## This Technology is identified by the following QID
+
+* [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
 
 ## This Technology belongs to this TechGroup
 

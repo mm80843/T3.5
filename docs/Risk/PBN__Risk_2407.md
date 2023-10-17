@@ -6,3 +6,16 @@
 
 * [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_13.md)
 
+## Closest similar item
+
+* [Healthcare Providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3667.md)
+* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3668.md)
+* [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3669.md)
+* [Hospital Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3670.md)
+* [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3671.md)
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3672.md)
+* [Healthcare Condition-Specific Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3673.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3674.md)
+* [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3675.md)
+* [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3676.md)
+

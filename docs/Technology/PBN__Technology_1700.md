@@ -10,3 +10,16 @@
 
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 
+## Closest similar item
+
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2091.md)
+* [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
+* [real-time data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4437.md)
+* [remote consultation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1424.md)
+* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
+* [remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
+* [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
+* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+

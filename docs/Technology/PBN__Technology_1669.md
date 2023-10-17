@@ -10,3 +10,16 @@
 
 * [Lack of awareness about campus safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2151.md)
 
+## Closest similar item
+
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
+* [safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3053.md)
+* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
+* [safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
+* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2186.md)
+* [safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2178.md)
+

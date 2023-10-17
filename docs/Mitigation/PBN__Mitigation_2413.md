@@ -2,13 +2,26 @@
 
 # __PMMoV as an internal reference__
 
-## Property: has_MitigationSource
-
-* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Variability in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3448.md)
+
+## Closest similar item
+
+* [Modular Construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
+* [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2088.md)
+* [Regulation of DV](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_740.md)
+* [Controlling source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
+* [Multimodal and Multiplexed Measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
+* [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_662.md)
+* [Normative obligation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Practical PPE rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1563.md)
+* [PPE usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2036.md)
+
+## Property: has_MitigationSource
+
+* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
 
 ## Property: has_MitigationPrinciple
 

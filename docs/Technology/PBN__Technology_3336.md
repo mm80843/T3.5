@@ -6,3 +6,16 @@
 
 * [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
 
+## Closest similar item
+
+* [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
+* [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
+* [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3128.md)
+* [suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1865.md)
+* [medical imaging techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3792.md)
+* [high-quality surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3226.md)
+* [heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)
+* [sterilization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4108.md)
+* [surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
+

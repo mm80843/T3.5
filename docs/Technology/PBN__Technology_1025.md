@@ -10,3 +10,16 @@
 
 * [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 
+## Closest similar item
+
+* [antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_789.md)
+* [antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
+* [antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2548.md)
+* [antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4111.md)
+* [covering high-touch surfaces with antimicrobial material](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1730.md)
+* [surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
+* [antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
+* [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
+

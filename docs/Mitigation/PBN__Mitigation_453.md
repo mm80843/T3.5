@@ -2,12 +2,25 @@
 
 # __Including walking and standing up__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Regular Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
+* [Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
+* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_78.md)
+* [Walking, Cycling, and Public Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
+* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
+* [Promote Physical Activity and Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1833.md)
+* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
+* [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_66.md)
+* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_476.md)
+* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
+
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

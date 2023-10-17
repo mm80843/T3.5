@@ -10,3 +10,16 @@
 
 * [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2098.md)
 
+## Closest similar item
+
+* [standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4161.md)
+* [standardization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1639.md)
+* [adherence to regulatory standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
+* [regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
+* [compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
+* [laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1320.md)
+* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+* [standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_153.md)
+

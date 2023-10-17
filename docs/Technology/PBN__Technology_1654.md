@@ -10,3 +10,16 @@
 
 * [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
 
+## Closest similar item
+
+* [clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2245.md)
+* [diagnostic testing equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2904.md)
+* [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
+* [diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
+* [testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+* [portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_955.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
+* [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+

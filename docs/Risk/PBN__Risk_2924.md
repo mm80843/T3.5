@@ -6,3 +6,16 @@
 
 * [Large-Scale & Longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1104.md)
 
+## Closest similar item
+
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
+* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2428.md)
+* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1945.md)
+* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2071.md)
+* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2893.md)
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
+* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
+* [Slow timelines, lack of tools and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2631.md)
+* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+* [Lack of clarity and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2804.md)
+

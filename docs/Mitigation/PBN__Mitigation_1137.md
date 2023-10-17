@@ -2,13 +2,26 @@
 
 # __Public education and communication__
 
-## Property: has_MitigationSource
-
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
+
+## Closest similar item
+
+* [Education and Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1618.md)
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_251.md)
+* [Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1776.md)
+* [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
+* [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
+* [Clear and compassionate public communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2325.md)
+
+## Property: has_MitigationSource
+
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 
 ## Property: has_MitigationPrinciple
 

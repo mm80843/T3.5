@@ -6,3 +6,16 @@
 
 * [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_828.md)
 
+## Closest similar item
+
+* [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3155.md)
+* [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
+* [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
+* [Negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2530.md)
+* [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1819.md)
+* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
+* [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
+* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2688.md)
+* [Health harming behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4.md)
+* [Health Harming Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1433.md)
+

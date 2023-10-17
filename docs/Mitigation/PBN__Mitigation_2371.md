@@ -2,12 +2,25 @@
 
 # __Data dashboards__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Online dashboard for WBE data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_761.md)
+* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1394.md)
+* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_696.md)
+* [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
+* [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
+* [Analysis Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
+* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2224.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+
 ## Property: has_MitigationSource
 
 * [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

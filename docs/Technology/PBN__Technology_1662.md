@@ -10,3 +10,16 @@
 
 * [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
 
+## Closest similar item
+
+* [air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
+* [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4532.md)
+* [portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
+* [indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
+* [air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
+* [airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1118.md)
+* [personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
+* [improved airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
+

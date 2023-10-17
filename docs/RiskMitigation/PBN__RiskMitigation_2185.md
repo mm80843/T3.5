@@ -6,3 +6,16 @@
 
 * [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
 
+## Closest similar item
+
+* [Rapid Expansion of AIIR Capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_392.md)
+* [Relocate additional health care personnel, especially those with experience in respiratory or intensive care, to AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2191.md)
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2993.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1518.md)
+* [Increase healthcare capacity, optimize resource allocation, and enhance emergency preparedness.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2467.md)
+* [Stricter protective measures in the ICU](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1271.md)
+* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1456.md)
+* [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
+* [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2317.md)
+

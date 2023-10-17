@@ -6,3 +6,16 @@
 
 * [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
 
+## Closest similar item
+
+* [individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_614.md)
+* [individual living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2370.md)
+* [individuals living alone or with limited social connections; older adults; individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2204.md)
+* [individual living alone or with limited social connections; older adults; individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2225.md)
+* [individuals with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_616.md)
+* [individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1146.md)
+* [individual with limited social connection](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2301.md)
+* [individuals in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1582.md)
+* [individual in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2251.md)
+* [general population undergoing isolation and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1031.md)
+

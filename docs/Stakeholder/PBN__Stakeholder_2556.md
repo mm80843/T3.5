@@ -6,6 +6,19 @@
 
 * [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 
+## Closest similar item
+
+* [Property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2556.md)
+* [property owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1997.md)
+* [Property owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2553.md)
+* [real estate owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1943.md)
+* [commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)
+* [estate owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1960.md)
+* [real estate owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1990.md)
+* [estate owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2001.md)
+* [property managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_938.md)
+* [Property managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2551.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)

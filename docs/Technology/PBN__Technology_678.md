@@ -10,3 +10,16 @@
 
 * [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
 
+## Closest similar item
+
+* [Correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2761.md)
+* [proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3066.md)
+* [air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3303.md)
+* [proper operation and maintenance of heat recovery systems in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_686.md)
+* [Proper operation and maintenance of heat recovery systems in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2765.md)
+* [air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3666.md)
+* [regular cleaning and maintenance of hvac system components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [HVAC maintenance and calibration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
+* [hvac maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4059.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+

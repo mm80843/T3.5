@@ -10,3 +10,16 @@
 
 * [Spread of COVID-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
 
+## Closest similar item
+
+* [telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
+* [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2277.md)
+* [telemedicine for mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1611.md)
+* [Telemedicine for mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2290.md)
+* [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4089.md)
+

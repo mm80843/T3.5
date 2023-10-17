@@ -2,15 +2,15 @@
 
 # __The Handbook of Salutogenesis__
 
-## DOI of the article
+## Year of publication
 
-10.1007/978-3-030-79515-3
+2022
 
 ## Title of the article
 
 The Handbook of Salutogenesis
 
-## Year of publication
+## DOI of the article
 
-2022
+10.1007/978-3-030-79515-3
 

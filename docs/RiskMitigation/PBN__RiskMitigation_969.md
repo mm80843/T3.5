@@ -2,11 +2,24 @@
 
 # __Offshore medical rigs__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Difficulty in confinement of COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_704.md)
+
 ## Property: has_MitigationBenefit
 
 * [Additional healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_976.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Difficulty in confinement of COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_704.md)
+* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_755.md)
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
+* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2255.md)
+* [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1465.md)
+* [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1804.md)
+* [Medical supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_968.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_503.md)
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
+* [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2851.md)
+* [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
 

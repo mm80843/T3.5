@@ -2,6 +2,19 @@
 
 # __firewalls__
 
+## Closest similar item
+
+* [use firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1919.md)
+* [security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2506.md)
+* [network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
+* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
+* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
+* [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
+* [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
+
 ## Risks linked to this technology
 
 * [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)

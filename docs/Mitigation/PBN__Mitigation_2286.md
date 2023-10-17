@@ -2,12 +2,25 @@
 
 # __Shut off air circulation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
+* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
+* [Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1362.md)
+* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
+* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
+* [Airflow Direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2013.md)
+* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1431.md)
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
+* [Forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2285.md)
+
 ## Property: has_MitigationSource
 
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

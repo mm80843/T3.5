@@ -10,3 +10,16 @@
 
 * [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
 
+## Closest similar item
+
+* [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
+* [mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
+* [climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
+* [mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_979.md)
+* [climate change adaptation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
+* [genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
+* [climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
+* [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
+* [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
+* [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+

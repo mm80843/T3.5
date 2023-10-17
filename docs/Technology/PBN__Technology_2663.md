@@ -2,13 +2,26 @@
 
 # __Plexiglass__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q146123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q146123.md)
+* [Plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
+* [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+* [personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+
+## This Technology is identified by the following QID
+
+* [Q146123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q146123.md)
 
 ## This Technology belongs to this TechGroup
 

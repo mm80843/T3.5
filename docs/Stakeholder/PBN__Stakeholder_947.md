@@ -2,21 +2,34 @@
 
 # __transportation authorities__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Impact on micro-mobility and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_915.md)
-* [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
-* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
-* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
-* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
-* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
-* [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
-* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
-* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## Closest similar item
+
+* [transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_733.md)
+* [transportation authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1620.md)
+* [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
+* [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)
+* [public transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1304.md)
+* [transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1624.md)
+* [transportation agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1625.md)
+* [transportation departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_773.md)
+* [transportation department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1449.md)
+* [transportation providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1085.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
+* [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
+* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
+* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
+* [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
+* [Impact on micro-mobility and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_915.md)
+* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
+* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
 
 ## Risk affecting this stakeholder
 

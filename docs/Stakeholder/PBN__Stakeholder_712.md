@@ -6,3 +6,16 @@
 
 * [Lack of Legal Protections and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1184.md)
 
+## Closest similar item
+
+* [People facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2306.md)
+* [person facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2292.md)
+* [women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_565.md)
+* [individuals affected by the loss of loved ones or economic hardships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1149.md)
+* [woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2331.md)
+* [individuals facing economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1287.md)
+* [individual affected by the lo of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2164.md)
+* [individuals and households facing job loss or economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1341.md)
+* [individual affected by the los of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2269.md)
+* [socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2106.md)
+

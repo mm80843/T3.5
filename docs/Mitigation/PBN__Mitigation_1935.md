@@ -2,13 +2,26 @@
 
 # __Integration of Medical Tools and Devices through the Internet__
 
-## Property: has_MitigationSource
-
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Real-time Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3292.md)
+
+## Closest similar item
+
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
+* [AI-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
+* [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
+* [Integration with emerging technologies for improved outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
+* [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
+* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
+
+## Property: has_MitigationSource
+
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1935.md)
 
+## Closest similar item
+
+* [public health measures such as social distancing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3588.md)
+* [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
+* [social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
+* [social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3082.md)
+* [public health communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1635.md)
+* [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
+* [public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1158.md)
+* [effective public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
+* [public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3952.md)
+

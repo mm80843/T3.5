@@ -2,16 +2,29 @@
 
 # __city planners__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
-* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
-* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
-* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## Closest similar item
+
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [city planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1607.md)
+* [urban planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1615.md)
+* [planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_624.md)
+* [urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1229.md)
+* [urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
+* [urban planning authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1611.md)
+* [urban planning organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1606.md)
+* [urban planning department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1602.md)
+* [urban planning agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_552.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
+* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+* [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

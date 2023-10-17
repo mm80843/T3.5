@@ -2,13 +2,26 @@
 
 # __Lightweight structures__
 
-## Property: has_MitigationSource
-
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Construction speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3363.md)
+
+## Closest similar item
+
+* [Lightweight Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
+* [Healthy Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_140.md)
+* [Multi-functional Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
+* [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
+* [Hygienic Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
+* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
+
+## Property: has_MitigationSource
+
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
 ## Property: has_MitigationPrinciple
 

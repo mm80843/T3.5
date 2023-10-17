@@ -2,13 +2,26 @@
 
 # __Tracking logistics in healthcare__
 
-## Property: has_MitigationSource
-
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Logistics inefficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
+
+## Closest similar item
+
+* [Healthcare instrument tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1882.md)
+* [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2352.md)
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
+* [Medical supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1879.md)
+* [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
+* [Transparency and traceability in the medical supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1892.md)
+* [GPS-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1697.md)
+* [Improved supply chain management for medical parts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1890.md)
+* [Management of Deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
+
+## Property: has_MitigationSource
+
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
 ## Property: has_MitigationPrinciple
 

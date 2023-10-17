@@ -2,14 +2,27 @@
 
 # __Worker in indoor environment__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1299240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1299240.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
+## Closest similar item
+
+* [indoor worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2570.md)
+* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1794.md)
+* [indoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_808.md)
+* [worker in enclosed indoorspace](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1732.md)
+* [Worker in outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1730.md)
+* [workers in enclosed indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_838.md)
+* [person in indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2237.md)
+* [worker in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2589.md)
+* [person in indoor building and space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2240.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1744.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1299240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1299240.md)
 

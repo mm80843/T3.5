@@ -2,12 +2,25 @@
 
 # __Air filtration systems__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
+* [air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
+* [air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2675.md)
+* [air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3145.md)
+* [high-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3146.md)
+* [filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2674.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
+* [portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3147.md)
+* [water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2679.md)
+
 ## Property: has_MitigationSource
 
 * [The City Under COVID‐19: Podcasting As Digital Methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
 
+## Closest similar item
+
+* [open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2990.md)
+* [sealed entrances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4183.md)
+* [self-closing doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
+* [open communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
+* [open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
+* [open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
+* [Open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
+

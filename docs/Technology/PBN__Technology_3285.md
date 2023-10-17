@@ -6,3 +6,16 @@
 
 * [Slum Clearance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
 
+## Closest similar item
+
+* [local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
+* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
+* [urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4362.md)
+* [apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4267.md)
+* [zoning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4037.md)
+* [ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
+* [land-use policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_598.md)
+* [equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
+* [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2742.md)
+* [local sourcing and sustainable material choices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3454.md)
+

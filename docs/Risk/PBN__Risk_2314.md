@@ -2,36 +2,41 @@
 
 # __Contagious diseases transmission through hospital wastes and wastewater__
 
-## Name of the risk
-
-Increased spread of contagious diseases and risk of infection.
-
-## Description of the risk
-
-Hospital wastes and wastewater contaminated with contagious diseases pathogens can lead to the transmission of diseases to individuals coming into contact with the waste or through contaminated water sources.
-
-## Mitigations of this risk
-
-* [Proper disinfection and treatment of hospital wastes and wastewater to eliminate pathogens.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3007.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
-* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
-* [water authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_494.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
+* [individuals coming into contact with contaminated water sources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1542.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Increased spread of contagious diseases and risk of infection.
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2313.md)
+* [Improper disposal of infectious hospital wastes and wastewater could cause serious risks to public health and environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_665.md)
+* [Improper disposal of infectious hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_669.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
+* [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
+* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+* [Contagious Disease Propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Contagious transmission of pathogens in public settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1227.md)
+
+## Description of the risk
+
+Hospital wastes and wastewater contaminated with contagious diseases pathogens can lead to the transmission of diseases to individuals coming into contact with the waste or through contaminated water sources.
 
 ## Technologies linked to the risk
 
@@ -41,22 +46,30 @@ Hospital wastes and wastewater contaminated with contagious diseases pathogens c
 * [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
 * [various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
-* [hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
-* [individuals coming into contact with contaminated water sources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1542.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Proper disinfection and treatment of hospital wastes and wastewater to eliminate pathogens.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3007.md)
+
+## Articles mentionning the risk
+
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
+* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [water authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_494.md)
 

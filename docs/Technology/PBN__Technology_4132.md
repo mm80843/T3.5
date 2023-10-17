@@ -6,3 +6,15 @@
 
 * [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
 
+## Closest similar item
+
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3986.md)
+* [loc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
+* [omop](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4216.md)
+* [rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1062.md)
+* [loinc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4219.md)
+* [sio)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3984.md)
+* [-](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
+* [camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3478.md)
+* [mopso](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3809.md)
+

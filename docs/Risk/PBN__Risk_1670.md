@@ -2,52 +2,65 @@
 
 # __Increased growth of algae and cyanobacteria in urban ponds__
 
-## Name of the risk
-
-Poor water quality, toxic algae exposure
-
-## Description of the risk
-
-Low water circulation and excessive nutrient input in urban ponds can lead to the growth of algae and toxic blooms
-
-## Mitigations of this risk
-
-* [Proper pond design and maintenance, nutrient control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2225.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
-* [park authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1102.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 
 ## People affected by this risk
 
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1099.md)
 
+## Name of the risk
+
+Poor water quality, toxic algae exposure
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Urban bodies of water and wetlands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_67.md)
+* [Algal blooms, release of toxins](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2947.md)
+* [Bacterial growth and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2732.md)
+* [Increased disease prevalence near bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3089.md)
+* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
+* [Influence of human activities and uses on microbial community structure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_211.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1574.md)
+* [Increase in risk of West Nile virus infection due to urban greening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_61.md)
+* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+
+## Description of the risk
+
+Low water circulation and excessive nutrient input in urban ponds can lead to the growth of algae and toxic blooms
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Proper pond design and maintenance, nutrient control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2225.md)
+
+## Articles mentionning the risk
+
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+* [park authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1102.md)
 

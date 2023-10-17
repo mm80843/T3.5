@@ -4,7 +4,20 @@
 
 ## Risk affecting this stakeholder
 
+* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
 * [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
 * [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
-* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
+
+## Closest similar item
+
+* [Occupants of residential buildings in Kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2580.md)
+* [Occupant of residential building in Kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2565.md)
+* [occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2600.md)
+* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
+* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
+* [building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_654.md)
+* [people in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1536.md)
 

@@ -12,3 +12,16 @@
 * [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
 * [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
 
+## Closest similar item
+
+* [Exponential community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1520.md)
+* [Community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2462.md)
+* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+* [International Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3282.md)
+* [Spread from outside](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3149.md)
+* [Community relations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3335.md)
+* [Contagious Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
+* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+

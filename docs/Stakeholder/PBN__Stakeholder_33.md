@@ -2,6 +2,69 @@
 
 # __healthcare facilities__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Closest similar item
+
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2756.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
+* [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2757.md)
+* [improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2758.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2759.md)
+* [modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2760.md)
+* [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2761.md)
+* [equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2762.md)
+* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
+* [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2763.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
+* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
+* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1367.md)
+* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
+* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
+* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
+* [Insufficient evidence on UVGI as an engineering control for preventing healthcare-associated tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
+* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1985.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
+* [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
+* [Inadequate Sanitation and Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
+* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
+* [and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
+* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
+* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
+* [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
+* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_37.md)
@@ -39,57 +102,7 @@
 * [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1194.md)
 * [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1275.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
-* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
-* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
-* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1367.md)
-* [Insufficient evidence on UVGI as an engineering control for preventing healthcare-associated tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
-* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
-* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
-* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
-* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
-* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
-* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
-* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
-
 ## This Stakeholder is identified by the following QID
 
 * [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Risk affecting this stakeholder
-
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
-* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
-* [Inadequate Sanitation and Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
-* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
-* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
-* [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
-* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
-* [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
-* [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1985.md)
-* [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
-* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
-* [Disruption of core clinical services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
-* [and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
-* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
-* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

@@ -10,3 +10,16 @@
 
 * [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
 
+## Closest similar item
+
+* [proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_860.md)
+* [Proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
+* [sanitation supplies and facilities (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3445.md)
+* [sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_704.md)
+* [sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1218.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2556.md)
+* [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
+* [improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+

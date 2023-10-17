@@ -10,3 +10,16 @@
 
 * [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
 
+## Closest similar item
+
+* [outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1749.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2545.md)
+* [air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2522.md)
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
+* [air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2530.md)
+* [environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
+

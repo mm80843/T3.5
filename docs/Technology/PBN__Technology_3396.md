@@ -6,3 +6,16 @@
 
 * [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
 
+## Closest similar item
+
+* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+* [monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
+* [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2544.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
+* [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2518.md)
+* [technological tracking device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
+* [diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
+* [multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3024.md)
+

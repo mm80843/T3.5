@@ -2,53 +2,66 @@
 
 # __Reliance on technology__
 
-## Name of the risk
-
-Limited effectiveness of mobile technology alone, potential for neglect of other important preventive measures
-
-## Description of the risk
-
-Over-reliance on mobile technology and applications for disease control and prevention
-
-## Mitigations of this risk
-
-* [Promote a holistic approach to disease control, emphasize the importance of other preventive measures (e.g., hand hygiene, social distancing), integrate mobile technology with existing public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2578.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Stakeholders who can mitigate this risk
-
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [integration of mobile technology with public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1389.md)
 
 ## People affected by this risk
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [all individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1319.md)
 
+## Name of the risk
+
+Limited effectiveness of mobile technology alone, potential for neglect of other important preventive measures
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
+* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3074.md)
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
+* [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
+* [Reliance on fossil fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3262.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+
+## Description of the risk
+
+Over-reliance on mobile technology and applications for disease control and prevention
+
+## Technologies linked to the risk
+
+* [integration of mobile technology with public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1389.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Mitigations of this risk
+
+* [Promote a holistic approach to disease control, emphasize the importance of other preventive measures (e.g., hand hygiene, social distancing), integrate mobile technology with existing public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2578.md)
+
+## Articles mentionning the risk
+
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
 

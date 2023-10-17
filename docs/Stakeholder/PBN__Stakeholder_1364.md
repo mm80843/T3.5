@@ -2,19 +2,32 @@
 
 # __women in informal economy__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q944235](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q944235.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [woman in informal economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2351.md)
+* [workers in the informal sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1796.md)
+* [worker in the informal sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1756.md)
+* [informal sector workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1263.md)
+* [informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_96.md)
+* [women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_565.md)
+* [informal sector worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1786.md)
+* [woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2331.md)
+* [informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_920.md)
+* [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
 
 ## Risk affecting this stakeholder
 
 * [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Gender Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_84.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q944235](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q944235.md)
 

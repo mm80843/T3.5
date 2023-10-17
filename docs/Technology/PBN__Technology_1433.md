@@ -10,3 +10,16 @@
 
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
 
+## Closest similar item
+
+* [peer review](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
+* [expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
+* [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
+* [ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+* [peer-review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4421.md)
+* [peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1228.md)
+* [Peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
+* [improved peer-review processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1926.md)
+* [strengthen peer review process](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_802.md)
+

@@ -2,13 +2,26 @@
 
 # __Robotic disinfection systems__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q73984](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73984.md)
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
+* [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [Disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2877.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
+
+## This Technology is identified by the following QID
+
+* [Q73984](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73984.md)
 
 ## This Technology belongs to this TechGroup
 

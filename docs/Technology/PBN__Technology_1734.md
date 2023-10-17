@@ -10,3 +10,16 @@
 
 * [PVP6](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2195.md)
 
+## Closest similar item
+
+* [separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
+* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+* [separate air cycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4184.md)
+* [separate rooms or designated areas for contagion control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3426.md)
+* [air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3303.md)
+* [automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1733.md)
+* [smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
+* [air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3666.md)
+* [room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
+

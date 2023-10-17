@@ -2,17 +2,30 @@
 
 # __workers in low-wage jobs__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1988850](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1988850.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
+## Closest similar item
+
+* [worker in low-wage job](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1662.md)
+* [low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1262.md)
+* [low-skilled workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_212.md)
+* [unemployed workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_260.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1708.md)
+* [low-income earners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_213.md)
+* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1691.md)
+* [workers and firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_211.md)
+* [workers in high-risk industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_834.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
 * [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1988850](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1988850.md)
 

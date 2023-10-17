@@ -2,13 +2,26 @@
 
 # __Active Smoke-Free Policies__
 
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Secondhand Smoke Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3250.md)
+
+## Closest similar item
+
+* [Tailored Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_687.md)
+* [Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
+* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
+* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
+* [Restricted visitor policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1010.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
+* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2443.md)
+* [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_MitigationPrinciple
 

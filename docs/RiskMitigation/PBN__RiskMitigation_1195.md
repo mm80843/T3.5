@@ -2,11 +2,24 @@
 
 # __Adequate ventilation__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
+* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_348.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_517.md)
+* [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1075.md)
+* [Proper ventilation arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1346.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_372.md)
+* [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_719.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 

@@ -10,3 +10,16 @@
 
 * [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
 
+## Closest similar item
+
+* [online travel platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
+* [virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_442.md)
+* [virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1808.md)
+* [promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
+* [online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_993.md)
+* [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
+* [virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2631.md)
+* [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
+* [expansion of digital platforms and virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2738.md)
+

@@ -10,3 +10,16 @@
 
 * [Inaccurate case-based risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2166.md)
 
+## Closest similar item
+
+* [data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1087.md)
+* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2244.md)
+* [quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
+* [statistical techniques for data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3963.md)
+* [quality control tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_692.md)
+* [quality control processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
+* [data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1575.md)
+* [data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2071.md)
+* [data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1086.md)
+

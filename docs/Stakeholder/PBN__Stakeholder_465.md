@@ -6,3 +6,16 @@
 
 * [Enhanced surveillance and detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1190.md)
 
+## Closest similar item
+
+* [re-infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1296.md)
+* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
+* [infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_114.md)
+* [individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2146.md)
+* [individual in close proximity to infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2122.md)
+* [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
+* [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
+* [individuals in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_794.md)
+* [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
+* [individual in close proximity to an infected person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2303.md)
+

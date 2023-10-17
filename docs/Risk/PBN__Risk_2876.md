@@ -6,3 +6,16 @@
 
 * [Reducing Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
 
+## Closest similar item
+
+* [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
+* [Exclusion from government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_563.md)
+* [Exclusion of startups/delayed support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2867.md)
+* [Lack of support for users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2837.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
+* [Exclusion of startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2863.md)
+* [Exclusion of vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2745.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
+

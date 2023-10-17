@@ -6,3 +6,16 @@
 
 * [Exercises and Trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
 
+## Closest similar item
+
+* [simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
+* [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2527.md)
+* [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
+* [simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
+* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
+

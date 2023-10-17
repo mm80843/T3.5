@@ -6,3 +6,16 @@
 
 * [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
 
+## Closest similar item
+
+* [Healthy lifestyle apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2198.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2253.md)
+* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
+* [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4032.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1072.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
+

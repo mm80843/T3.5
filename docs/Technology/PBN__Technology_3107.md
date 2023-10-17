@@ -6,3 +6,16 @@
 
 * [Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
 
+## Closest similar item
+
+* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
+* [uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
+* [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
+* [germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3833.md)
+* [uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1007.md)
+* [UV-C germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2221.md)
+* [UVGI systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2574.md)
+* [uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3062.md)
+* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4392.md)
+* [uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+

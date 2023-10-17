@@ -2,13 +2,26 @@
 
 # __Remote meetings and video conferencing__
 
-## Property: has_MitigationSource
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2800.md)
+
+## Closest similar item
+
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Teleconferencing and Virtual Meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1738.md)
+* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1722.md)
+* [Video Conference Platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Remote supervision](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_70.md)
+* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
+
+## Property: has_MitigationSource
+
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
 ## Property: has_MitigationPrinciple
 

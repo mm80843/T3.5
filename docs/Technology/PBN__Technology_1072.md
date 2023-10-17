@@ -6,3 +6,16 @@
 
 * [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
 
+## Closest similar item
+
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
+* [insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3314.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
+

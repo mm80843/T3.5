@@ -6,3 +6,16 @@
 
 * [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
 
+## Closest similar item
+
+* [insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2677.md)
+* [innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
+* [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2331.md)
+* [building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4062.md)
+* [proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3868.md)
+* [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
+* [upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_647.md)
+* [Upgrading HVAC systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2682.md)
+* [thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3936.md)
+

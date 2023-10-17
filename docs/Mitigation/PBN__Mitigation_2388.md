@@ -2,12 +2,25 @@
 
 # __Insecticide-treated bed nets (ITNs)__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
+* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2394.md)
+* [Antiviral Coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
+* [Disinfectant fogging systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1411.md)
+* [Pollen Allergy Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
+* [Elimination of Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
+
 ## Property: has_MitigationSource
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

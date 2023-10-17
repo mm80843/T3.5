@@ -10,3 +10,16 @@
 
 * [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
 
+## Closest similar item
+
+* [information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1898.md)
+* [online platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_879.md)
+* [online platforms for sharing information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_253.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3570.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+

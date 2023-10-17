@@ -6,3 +6,16 @@
 
 * [Enhanced access to integrated UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_966.md)
 
+## Closest similar item
+
+* [neighborhood associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2482.md)
+* [especially those in densely populated and low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1228.md)
+* [particularly those in densely populated areas or shared living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_814.md)
+* [Particularly those in densely populated areas or shared living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2339.md)
+* [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
+* [residents of underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1233.md)
+* [residents of low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_133.md)
+* [especially those in densely populated and low-income neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2262.md)
+* [residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1298.md)
+* [urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_776.md)
+

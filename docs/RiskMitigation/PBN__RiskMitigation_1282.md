@@ -2,11 +2,24 @@
 
 # __Rapid diagnostic tests__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Slow testing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_925.md)
+
 ## Property: has_MitigationBenefit
 
 * [Faster results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1265.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Slow testing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_925.md)
+* [rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3436.md)
+* [rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3437.md)
+* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3438.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3439.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3440.md)
+* [rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3441.md)
+* [enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3442.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3443.md)
+* [rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3444.md)
+* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3445.md)
 

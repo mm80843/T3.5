@@ -6,3 +6,16 @@
 
 * [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
 
+## Closest similar item
+
+* [smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1015.md)
+* [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
+* [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1931.md)
+* [Smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2269.md)
+* [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+* [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+

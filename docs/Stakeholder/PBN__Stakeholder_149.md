@@ -2,6 +2,32 @@
 
 # __construction industry__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Closest similar item
+
+* [construction firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_282.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [building industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1112.md)
+* [construction company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_621.md)
+* [construction industry professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1308.md)
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+* [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
+* [construction industry professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2012.md)
+* [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
+* [construction industry workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved project management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_295.md)
@@ -15,20 +41,7 @@
 * [Contractual stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1013.md)
 * [Worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1014.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
-
 ## This Stakeholder is identified by the following QID
 
 * [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

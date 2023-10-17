@@ -6,3 +6,16 @@
 
 * [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1658.md)
 
+## Closest similar item
+
+* [loc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
+* [loinc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4219.md)
+* [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
+* [twitter)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4231.md)
+* [high risk)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3131.md)
+* [id now test)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
+* [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
+* [bathroom)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
+* [ssd)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4133.md)
+* [yolo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4132.md)
+

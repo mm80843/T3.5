@@ -10,3 +10,16 @@
 
 * [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
 
+## Closest similar item
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
+* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2539.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+* [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
+

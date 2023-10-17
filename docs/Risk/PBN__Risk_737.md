@@ -6,3 +6,16 @@
 
 * [Integrated surveillance of human cases and vectors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1019.md)
 
+## Closest similar item
+
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
+* [Population movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_311.md)
+* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2641.md)
+* [Reduction of socialization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1093.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2895.md)
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
+* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2774.md)
+* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+

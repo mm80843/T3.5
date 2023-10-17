@@ -6,3 +6,16 @@
 
 * [Data collection through online survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
 
+## Closest similar item
+
+* [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
+* [web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
+* [electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1826.md)
+* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
+* [online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4198.md)
+* [e-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
+* [questionnaire design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3335.md)
+* [e-participation tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
+

@@ -10,3 +10,16 @@
 
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
 
+## Closest similar item
+
+* [simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1385.md)
+* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2836.md)
+* [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
+* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
+* [touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
+* [mobile interface](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3391.md)
+* [contactless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_489.md)
+* [application programming interfaces (apis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
+* [electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
+* [web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+

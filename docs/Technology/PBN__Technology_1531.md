@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
 * [Shift in transmission range of diseases, hosts, and vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
+* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
+
+## Closest similar item
+
+* [Remote sensing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2438.md)
+* [remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
+* [Remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
+* [remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1366.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
+* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
 

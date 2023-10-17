@@ -2,13 +2,26 @@
 
 # __Remote working__
 
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
+* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Remote supervision](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_70.md)
+* [Adoption of remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
+
+## Property: has_MitigationSource
+
+* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
 
 ## Property: has_MitigationPrinciple
 

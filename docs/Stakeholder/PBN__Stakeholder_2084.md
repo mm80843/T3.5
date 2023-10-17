@@ -2,14 +2,27 @@
 
 # __service provider__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2169973](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2169973.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
+## Closest similar item
+
+* [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+* [Provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1792.md)
+* [provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2033.md)
+* [Providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1707.md)
+* [providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1984.md)
+* [internet service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2058.md)
+* [internet service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1553.md)
+* [Network provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1686.md)
+* [essential service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_156.md)
+* [essential service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1787.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q2169973](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2169973.md)
 

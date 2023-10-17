@@ -2,12 +2,25 @@
 
 # __Infrared thermal imaging__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Implementation of thermal imaging cameras and temperature screening protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3160.md)
+* [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3161.md)
+* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3162.md)
+* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3163.md)
+* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3164.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
+* [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3156.md)
+* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
+* [Shading](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3165.md)
+
 ## Property: has_MitigationSource
 
 * [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

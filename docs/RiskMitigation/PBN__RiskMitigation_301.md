@@ -2,11 +2,24 @@
 
 # __Prioritizing shipments of essential goods__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
+
 ## Property: has_MitigationBenefit
 
 * [Priority access to essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_304.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
+* [Ensure timely and appropriate distribution of supplies and address needs effectively.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2690.md)
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
+* [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2057.md)
+* [Calibrated stockpiles of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_304.md)
+* [Increase in food deliveries and availability of basic food products](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_679.md)
+* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
+* [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1846.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3124.md)
+* [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
+* [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3038.md)
 

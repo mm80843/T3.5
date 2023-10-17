@@ -2,13 +2,26 @@
 
 # __urban communities__
 
-## Risk affecting this stakeholder
-
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## Closest similar item
+
+* [urban community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2487.md)
+* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
+* [Local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2494.md)
+* [poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_588.md)
+* [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2187.md)
+* [Local community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2501.md)
+* [urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+
+## Risk affecting this stakeholder
+
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

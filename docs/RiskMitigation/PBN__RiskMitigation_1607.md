@@ -6,3 +6,16 @@
 
 * [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1155.md)
 
+## Closest similar item
+
+* [Development of biosensors specifically designed to overcome interferences from the wastewater matrix by implementing extensive sample clean-up processes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1605.md)
+* [Development of biosensors and LOC/POC systems for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_882.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
+* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+* [Optimization and validation of biomarker measurement methods for wastewater analysis, including ELISA and mass spectrometry.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1608.md)
+* [Biosensors and nanoscale tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_811.md)
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Monitoring community wastewater influent and implementing real-time monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2521.md)
+* [Sequencing wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_990.md)
+

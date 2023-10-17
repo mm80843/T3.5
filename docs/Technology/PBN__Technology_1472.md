@@ -10,3 +10,16 @@
 
 * [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
 
+## Closest similar item
+
+* [fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1796.md)
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [virtual tax assistance platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3367.md)
+* [tariff reforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_88.md)
+* [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
+* [flexibility policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4105.md)
+

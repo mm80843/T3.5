@@ -2,34 +2,39 @@
 
 # __Increase in mental health issues__
 
-## Name of the risk
-
-Decreased quality of life, impaired functioning, increased healthcare costs
-
-## Description of the risk
-
-Increase in anxiety, depression, and other mental health issues due to pandemic-related stresses
-
-## Mitigations of this risk
-
-* [Implementing mental health support programs, providing access to teletherapy and counseling services, promoting self-care practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1586.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
-* [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Decreased quality of life, impaired functioning, increased healthcare costs
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
+* [Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+* [Economic impact, mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
+* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+
+## Description of the risk
+
+Increase in anxiety, depression, and other mental health issues due to pandemic-related stresses
 
 ## Technologies linked to the risk
 
@@ -37,20 +42,28 @@ Increase in anxiety, depression, and other mental health issues due to pandemic-
 * [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
 * [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Implementing mental health support programs, providing access to teletherapy and counseling services, promoting self-care practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1586.md)
+
+## Articles mentionning the risk
+
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
+* [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
 

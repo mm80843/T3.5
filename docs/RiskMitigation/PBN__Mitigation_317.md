@@ -2,12 +2,25 @@
 
 # __Real-time mobile apps__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Mobile Apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1731.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1236.md)
+* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+
 ## Property: has_MitigationSource
 
 * [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

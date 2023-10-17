@@ -2,16 +2,28 @@
 
 # __data nan nan warehousing__
 
+## Closest similar item
+
+* [data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1575.md)
+* [data filtering and processing nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
+* [big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1572.md)
+* [improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1571.md)
+* [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2848.md)
+* [encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
+* [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2611.md)
+* [standardization of protocols and nan standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
+* [nan nan antibacterial fabrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3990.md)
+
 ## Risks linked to this technology
 
 * [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
 
+## This Technology belongs to this TechSubgroup
+
+
 ## This Technology is identified by the following QID
 
 * [Q1014345](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1014345.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

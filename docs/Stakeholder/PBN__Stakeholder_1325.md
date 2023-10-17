@@ -4,6 +4,19 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
 * [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
+* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
+
+## Closest similar item
+
+* [IT support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2643.md)
+* [it support personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_781.md)
+* [IT support staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2621.md)
+* [support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
+* [support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2459.md)
+* [support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1150.md)
+* [support organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2451.md)
+* [community support service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2454.md)
+* [community support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1425.md)
+* [community support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2473.md)
 

@@ -11,3 +11,16 @@
 * [Variability and specificity of PCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
 * [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
 
+## Closest similar item
+
+* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
+* [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
+* [laboratory management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_702.md)
+* [laboratory supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1055.md)
+* [laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
+* [clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1847.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [clinical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1384.md)
+* [testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1159.md)
+* [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
+

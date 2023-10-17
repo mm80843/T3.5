@@ -2,6 +2,19 @@
 
 # __property developers__
 
+## Closest similar item
+
+* [housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1396.md)
+* [property matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4400.md)
+* [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
+* [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
+* [local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
+* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
+* [urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_383.md)
+* [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2334.md)
+
 ## Risks linked to this technology
 
 * [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1967.md)

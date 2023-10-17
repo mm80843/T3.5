@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+
+## Closest similar item
+
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
+* [big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4167.md)
+* [social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3184.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4535.md)
+* [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+* [big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1572.md)
 

@@ -6,3 +6,16 @@
 
 * [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
 
+## Closest similar item
+
+* [Lack of comprehensive and coordinated climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3325.md)
+* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
+* [Limited focus on global climate initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2858.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Lack of global response to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
+* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_552.md)
+* [Lack of alignment with global climate goals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3323.md)
+* [Lack of funding and maintenance for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_145.md)
+* [Neglecting climate change measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2875.md)
+

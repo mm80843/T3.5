@@ -2,14 +2,27 @@
 
 # __Anonymization techniques__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q17006654](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17006654.md)
+* [anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1382.md)
+* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
+* [anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
+* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
+* [privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2422.md)
+* [anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1936.md)
+* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1589.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
 * [Data Anonymization and Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_137.md)
+
+## This Technology is identified by the following QID
+
+* [Q17006654](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17006654.md)
 
 ## This Technology belongs to this TechGroup
 

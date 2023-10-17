@@ -6,3 +6,16 @@
 
 * [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_173.md)
 
+## Closest similar item
+
+* [efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_655.md)
+* [extra light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
+* [lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4104.md)
+* [lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4296.md)
+* [led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
+* [LED lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2853.md)
+* [natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
+* [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+* [advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
+

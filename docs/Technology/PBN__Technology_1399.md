@@ -10,3 +10,16 @@
 
 * [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
 
+## Closest similar item
+
+* [ergonomic furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
+* [ergonomic office furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_127.md)
+* [outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2991.md)
+* [flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
+* [furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4295.md)
+* [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
+* [standing desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
+* [outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2361.md)
+* [adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
+

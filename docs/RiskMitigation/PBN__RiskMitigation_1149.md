@@ -2,12 +2,25 @@
 
 # __Mobile technology applications__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+
 ## Property: has_MitigationBenefit
 
 * [Precise monitoring of hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1149.md)
 * [Efficient screening of population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1150.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
+* [Mobile technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1161.md)
+* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
+* [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
+* [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1160.md)
+* [Development of mobile applications, websites, and communication channels for information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2358.md)
+* [Mobile technology in counseling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1162.md)
+* [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1163.md)
+* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1166.md)
+* [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
 

@@ -2,12 +2,25 @@
 
 # __Use of Outdoor Spaces__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
+* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
+* [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
+* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
+* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
+
 ## Property: has_MitigationSource
 
 * [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

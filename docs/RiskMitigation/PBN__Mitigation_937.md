@@ -2,12 +2,25 @@
 
 # __Proper coughing and sneezing techniques__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Cough and Sneeze Etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1970.md)
+* [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_537.md)
+* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1283.md)
+* [Pollen Allergy Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1744.md)
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
+* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
+* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

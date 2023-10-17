@@ -10,3 +10,16 @@
 
 * [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
 
+## Closest similar item
+
+* [Trajectory analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2515.md)
+* [spatial analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_542.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
+* [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2527.md)
+* [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+* [performance tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1417.md)
+* [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+* [data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
+

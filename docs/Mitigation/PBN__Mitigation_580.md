@@ -2,13 +2,26 @@
 
 # __Wildlife trade ban__
 
-## Property: has_MitigationSource
-
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2640.md)
+
+## Closest similar item
+
+* [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_545.md)
+* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
+* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1582.md)
+* [Protection of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1830.md)
+* [Reduce wildlife urban interfaces (WUIs)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2054.md)
+* [Repeal of disposable bag bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
+* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2265.md)
+* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+
+## Property: has_MitigationSource
+
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 
 ## Property: has_MitigationPrinciple
 

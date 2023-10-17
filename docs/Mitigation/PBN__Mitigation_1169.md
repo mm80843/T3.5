@@ -2,12 +2,25 @@
 
 # __Broad sidewalks and pedestrian crossings__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
+* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_313.md)
+* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
+* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
+* [Wider trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1165.md)
+* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1162.md)
+* [Implementing low-cost and temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_790.md)
+* [Reduction in Pedestrian Flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_910.md)
+* [Walking, Cycling, and Public Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
+* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2791.md)
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

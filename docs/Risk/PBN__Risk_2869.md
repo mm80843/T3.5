@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Strengthening Entrepreneurial Ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
 * [External Assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
+* [Strengthening Entrepreneurial Ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
+
+## Closest similar item
+
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2874.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
+* [Lack of support for users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2837.md)
+* [Lack of financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2587.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
+* [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
 

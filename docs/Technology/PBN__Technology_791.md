@@ -10,3 +10,16 @@
 
 * [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
 
+## Closest similar item
+
+* [self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_788.md)
+* [surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
+* [self-disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1757.md)
+* [regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2570.md)
+* [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+

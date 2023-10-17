@@ -10,3 +10,16 @@
 
 * [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
 
+## Closest similar item
+
+* [improved airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
+* [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [floor-level air returns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4182.md)
+* [adequate airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
+* [airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1118.md)
+* [hvac systems with increased fresh air flowrate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3811.md)
+* [air distribution evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4206.md)
+* [higher air exchange rates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_503.md)
+* [indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
+

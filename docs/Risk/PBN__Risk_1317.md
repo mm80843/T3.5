@@ -2,35 +2,39 @@
 
 # __Inequitable access to healthcare__
 
-## Name of the risk
-
-Higher infection rates, disproportionate mortality rates, increased health disparities.
-
-## Description of the risk
-
-Unequal access to healthcare services exacerbates the impact of epidemics on marginalized populations.
-
-## Mitigations of this risk
-
-* [Improving healthcare access and affordability, addressing systemic inequities in healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1806.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [social welfare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_833.md)
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Higher infection rates, disproportionate mortality rates, increased health disparities.
+
+## Property: has_RiskISO_Purpose
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_17.md)
+
+## Closest similar item
+
+* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
+* [Inequality in access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1994.md)
+* [Healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2517.md)
+* [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
+* [Limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3107.md)
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [Limited access to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3234.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
+* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1398.md)
+
+## Description of the risk
+
+Unequal access to healthcare services exacerbates the impact of epidemics on marginalized populations.
 
 ## Technologies linked to the risk
 
@@ -38,20 +42,29 @@ Unequal access to healthcare services exacerbates the impact of epidemics on mar
 * [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
 * [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
-* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_17.md)
+* [Improving healthcare access and affordability, addressing systemic inequities in healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1806.md)
+
+## Articles mentionning the risk
+
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [social welfare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_833.md)
 

@@ -10,3 +10,16 @@
 
 * [Epidemiological Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
 
+## Closest similar item
+
+* [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2246.md)
+* [access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4119.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
+* [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+* [improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_254.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2177.md)
+

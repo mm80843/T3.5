@@ -2,13 +2,26 @@
 
 # __Regular inspection and maintenance__
 
-## Property: has_MitigationSource
-
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inadequate maintenance and operation of HVAC systems and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
+
+## Closest similar item
+
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
+* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
+* [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
+* [Good maintenance practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_343.md)
+* [Regular HVAC Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
+* [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
+
+## Property: has_MitigationSource
+
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
 ## Property: has_MitigationPrinciple
 
@@ -16,6 +29,6 @@ Regular inspection and maintenance of HVAC systems ensures proper functioning an
 
 ## This Mitigation is enabled by the following technologies
 
-* [qualified hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
 * [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+* [qualified hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
 

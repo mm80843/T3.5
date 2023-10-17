@@ -2,12 +2,25 @@
 
 # __Adaptive Reuse__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Adaptive reuse](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
+* [Temporary Use Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_523.md)
+* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
+* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
+* [Retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_33.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
+* [Adaptability and Flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1028.md)
+* [Flexibility and Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
+* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1655.md)
+
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

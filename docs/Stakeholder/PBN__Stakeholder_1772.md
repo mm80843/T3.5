@@ -2,15 +2,28 @@
 
 # __Project team__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1454317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454317.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
+## Closest similar item
+
+* [Project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1772.md)
+* [project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_979.md)
+* [project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_321.md)
+* [Project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1722.md)
+* [construction project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2090.md)
+* [construction project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1309.md)
+* [Project manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1726.md)
+* [project developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_905.md)
+* [Project developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1674.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1454317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454317.md)
 

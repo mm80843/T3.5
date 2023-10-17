@@ -10,3 +10,16 @@
 
 * [Tissue tropism and pathogenesis of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2360.md)
 
+## Closest similar item
+
+* [identification of receptor molecules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1954.md)
+* [research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1962.md)
+* [Research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2797.md)
+* [biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3281.md)
+* [protease inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3920.md)
+* [drug development and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3437.md)
+* [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
+* [antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_838.md)
+* [anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
+* [molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+

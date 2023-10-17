@@ -6,3 +6,16 @@
 
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
 
+## Closest similar item
+
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+* [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [digital health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
+* [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
+* [healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
+* [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
+

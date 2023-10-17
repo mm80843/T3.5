@@ -2,19 +2,19 @@
 
 # __Reduced burden on healthcare system__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Private investors in healthcare facilities can benefit from improved asset value and reduced strain on resources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_140.md)
-
-## Articles mentionning this Benefit
-
-* [Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
-
 ## Name of the Benefit
 
 NPI measures such as physical distancing and restrictions on movement can reduce the spread of infections, leading to decreased hospital admissions for other diseases and a lighter burden on healthcare facilities.
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors in healthcare facilities can benefit from improved asset value and reduced strain on resources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_140.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+
+## Articles mentionning this Benefit
+
+* [Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
 

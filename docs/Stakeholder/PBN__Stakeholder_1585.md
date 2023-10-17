@@ -6,3 +6,16 @@
 
 * [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
 
+## Closest similar item
+
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
+* [residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2507.md)
+* [visitors to secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_770.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [all residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_511.md)
+* [resident and visitor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
+* [park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1099.md)
+* [Park visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2689.md)
+* [including residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1236.md)
+

@@ -2,11 +2,24 @@
 
 # __Universal access to critical infrastructures__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+
 ## Property: has_MitigationBenefit
 
 * [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_698.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_665.md)
+* [Emphasis on ICT infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_240.md)
+* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_668.md)
+* [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2531.md)
+* [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2978.md)
+* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1728.md)
+* [Implement policies and strategies to ensure equitable access to green infrastructure in all neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2579.md)
+* [Implement policies to address inequalities in access to resources, provide support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1454.md)
+* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_614.md)
+* [Improve accessibility to UGS by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2249.md)
 

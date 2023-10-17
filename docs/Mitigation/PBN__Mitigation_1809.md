@@ -2,13 +2,26 @@
 
 # __Working from home, where possible with regulations__
 
-## Property: has_MitigationSource
-
-* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+
+## Closest similar item
+
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
+* [Working from Home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1705.md)
+* [Ability to Work from Home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1298.md)
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
+* [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2439.md)
+* [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2434.md)
+* [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
+* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
+
+## Property: has_MitigationSource
+
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
 
 ## Property: has_MitigationPrinciple
 

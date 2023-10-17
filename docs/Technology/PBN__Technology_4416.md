@@ -6,3 +6,16 @@
 
 * [Preprocessing disinfection of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2330.md)
 
+## Closest similar item
+
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
+* [Disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2877.md)
+* [disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
+* [cleaning and disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2547.md)
+

@@ -10,3 +10,16 @@
 
 * [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 
+## Closest similar item
+
+* [fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1796.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [monetary incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+* [economic policies and planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4083.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [progressive tax policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1472.md)
+* [Inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2403.md)
+* [inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1477.md)
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+

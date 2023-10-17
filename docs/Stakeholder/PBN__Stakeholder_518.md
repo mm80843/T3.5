@@ -2,17 +2,22 @@
 
 # __urban managers__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1320.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q30263062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30263062.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## Closest similar item
+
+* [urban manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1626.md)
+* [city administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_720.md)
+* [city planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1607.md)
+* [urban planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1615.md)
+* [managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1521.md)
+* [city administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1623.md)
+* [urban authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_434.md)
+* [urban planning organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_832.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
 
 ## Risk affecting this stakeholder
 
@@ -20,4 +25,12 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1320.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q30263062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30263062.md)
 

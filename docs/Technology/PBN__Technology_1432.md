@@ -10,3 +10,16 @@
 
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
 
+## Closest similar item
+
+* [ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_62.md)
+* [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2419.md)
+* [ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
+* [clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2510.md)
+* [enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1999.md)
+* [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
+* [ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+

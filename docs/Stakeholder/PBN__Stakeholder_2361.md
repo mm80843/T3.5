@@ -2,16 +2,29 @@
 
 # __person in indoor space with air-conditioning system__
 
-## This Stakeholder is identified by the following QID
-
-* [Q101419599](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q101419599.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 
+## Closest similar item
+
+* [people in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_925.md)
+* [People in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2329.md)
+* [person in indoor building and space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2240.md)
+* [person in indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2237.md)
+* [individual in crowded indoor space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2376.md)
+* [person in space connected to ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2358.md)
+* [building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_929.md)
+* [individual in indoor setting with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2189.md)
+* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1671.md)
+* [worker in enclosed indoorspace](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1732.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q101419599](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q101419599.md)
 

@@ -2,13 +2,26 @@
 
 # __AI technology for accurate and cost-effective tests__
 
-## Property: has_MitigationSource
-
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of access to tests in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3050.md)
+
+## Closest similar item
+
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
+* [AI-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
+* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1791.md)
+* [AI algorithms for initial screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2114.md)
+* [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
+* [AI-driven tools for running clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1396.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
+* [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+
+## Property: has_MitigationSource
+
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 
 ## Property: has_MitigationPrinciple
 

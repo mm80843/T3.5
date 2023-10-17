@@ -2,11 +2,24 @@
 
 # __Development of new materials for better insulation__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced building performance and comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_297.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
+* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1735.md)
+* [insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1193.md)
+* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_453.md)
+* [Improve insulation, use energy management systems, and implement efficient HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1687.md)
+* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1084.md)
+* [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
+* [Implement proper noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2891.md)
+* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1568.md)
+* [Improve HVAC systems and thermal insulation to achieve a balance between supply and demand.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1913.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3264.md)
 

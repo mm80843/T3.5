@@ -2,12 +2,25 @@
 
 # __Remote control of critical infrastructure__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Rapidity of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
+* [Robustness of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2177.md)
+* [Resourcefulness of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
+* [Redundancy of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+
 ## Property: has_MitigationSource
 
 * [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,19 +2,32 @@
 
 # __construction project teams__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q1454317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454317.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Closest similar item
+
+* [construction project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2090.md)
+* [project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_979.md)
+* [construction project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
+* [project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_622.md)
+* [Project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1772.md)
+* [construction project manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2020.md)
+* [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
+* [construction project planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1241.md)
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+* [Project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1722.md)
 
 ## Risk affecting this stakeholder
 
 * [Communication Challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1454317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454317.md)
 

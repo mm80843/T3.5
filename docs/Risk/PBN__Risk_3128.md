@@ -6,3 +6,16 @@
 
 * [Retaining health as a priority in economic, political, food, and built environment sectors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1541.md)
 
+## Closest similar item
+
+* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
+* [health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2533.md)
+* [Health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3017.md)
+* [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
+* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2688.md)
+* [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
+* [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
+* [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
+

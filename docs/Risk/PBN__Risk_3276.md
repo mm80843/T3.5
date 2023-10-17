@@ -6,3 +6,16 @@
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 
+## Closest similar item
+
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2312.md)
+* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
+* [Privacy and Security of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3018.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+* [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
+* [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
+

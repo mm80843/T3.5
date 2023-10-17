@@ -10,3 +10,16 @@
 
 * [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
 
+## Closest similar item
+
+* [Gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2090.md)
+* [monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
+* [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2779.md)
+* [sewage monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
+* [existing health data capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3320.md)
+* [real-time monitoring of sewage flow rate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1980.md)
+* [surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
+* [technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
+* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+

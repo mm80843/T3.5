@@ -10,3 +10,16 @@
 
 * [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
 
+## Closest similar item
+
+* [public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4314.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
+* [public engagement strategies and community involvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_733.md)
+* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
+* [public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_446.md)
+* [public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2135.md)
+* [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
+* [community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1303.md)
+

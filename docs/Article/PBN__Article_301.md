@@ -6,6 +6,6 @@
 
 * [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
 * [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
 * [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
 

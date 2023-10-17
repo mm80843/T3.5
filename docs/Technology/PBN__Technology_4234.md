@@ -6,3 +6,16 @@
 
 * [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
 
+## Closest similar item
+
+* [facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3864.md)
+* [face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4269.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2043.md)
+* [Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4489.md)
+* [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3762.md)
+

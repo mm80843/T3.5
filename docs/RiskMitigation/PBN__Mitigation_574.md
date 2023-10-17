@@ -2,13 +2,26 @@
 
 # __Enforcing data sharing__
 
-## Property: has_MitigationSource
-
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
+
+## Closest similar item
+
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
+* [Secure and transparent data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1881.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
+* [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+* [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
+* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
+* [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
+* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
+
+## Property: has_MitigationSource
+
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
 ## Property: has_MitigationPrinciple
 

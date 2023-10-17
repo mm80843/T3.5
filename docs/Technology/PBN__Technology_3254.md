@@ -6,3 +6,16 @@
 
 * [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
 
+## Closest similar item
+
+* [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
+* [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
+* [flexible mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
+* [furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4295.md)
+* [modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2668.md)
+* [flexible shelving](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
+* [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+* [ergonomic furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
+* [outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+

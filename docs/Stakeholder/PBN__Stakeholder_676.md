@@ -6,3 +6,16 @@
 
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 
+## Closest similar item
+
+* [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
+* [nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_204.md)
+* [nurse](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1780.md)
+* [elderly residents of care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_871.md)
+* [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
+* [care facility administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_873.md)
+* [healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1254.md)
+* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+* [such as homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1127.md)
+* [housing providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1903.md)
+

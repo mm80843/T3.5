@@ -2,11 +2,24 @@
 
 # __Proper wastewater treatment and management__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
+* [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2300.md)
+* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_802.md)
+* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2552.md)
+* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)
+* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_804.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Ensure proper sealing and separation of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2877.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
 

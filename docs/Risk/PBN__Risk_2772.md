@@ -6,3 +6,16 @@
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 
+## Closest similar item
+
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
+* [Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
+* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1380.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
+* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+* [Increased mental and physical health problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3087.md)
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
+

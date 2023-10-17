@@ -6,3 +6,16 @@
 
 * [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
 
+## Closest similar item
+
+* [Virus inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2492.md)
+* [Virus accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2950.md)
+* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
+* [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
+* [Survival of the virus outside the host](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1249.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
+* [Virus Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
+

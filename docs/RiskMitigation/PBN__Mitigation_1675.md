@@ -2,13 +2,26 @@
 
 # __Proper training and education__
 
-## Property: has_MitigationSource
-
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
+
+## Closest similar item
+
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
+* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
+* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1843.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2202.md)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
+* [Education and Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1618.md)
+* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+
+## Property: has_MitigationSource
+
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
 ## Property: has_MitigationPrinciple
 

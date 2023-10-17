@@ -12,3 +12,16 @@
 * [Increased access to nature and outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_440.md)
 * [Reduced energy consumption and costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_441.md)
 
+## Closest similar item
+
+* [household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
+* [households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_764.md)
+* [household consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_248.md)
+* [large households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1391.md)
+* [vulnerable household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2185.md)
+* [impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
+* [Low-income household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2139.md)
+* [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
+* [lower-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1255.md)
+* [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
+

@@ -2,13 +2,26 @@
 
 # __Genome sequencing__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q2068526](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2068526.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2793.md)
+* [sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2944.md)
+* [next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4141.md)
+* [comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4470.md)
+* [analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
+* [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
+* [bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
+* [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
+* [dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1706.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+
+## This Technology is identified by the following QID
+
+* [Q2068526](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2068526.md)
 
 ## This Technology belongs to this TechGroup
 

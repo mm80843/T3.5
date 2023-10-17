@@ -2,11 +2,24 @@
 
 # __Border control and travel restrictions__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
+* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_437.md)
+* [Implement border control measures and travel restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3011.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1194.md)
+* [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2848.md)
+* [Strengthen border control measures and screening procedures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3012.md)
+* [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2127.md)
+* [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2126.md)
+* [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2716.md)
+* [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_975.md)
 

@@ -7,3 +7,16 @@
 * [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1348.md)
 * [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
 
+## Closest similar item
+
+* [affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1820.md)
+* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
+* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
+* [improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
+* [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
+* [public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4502.md)
+* [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
+* [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+* [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+

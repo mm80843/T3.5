@@ -2,12 +2,25 @@
 
 # __Clear and compassionate public communication__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
+* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_251.md)
+* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
+* [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+
 ## Property: has_MitigationSource
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

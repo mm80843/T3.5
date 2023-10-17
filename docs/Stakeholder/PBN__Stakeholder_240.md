@@ -2,6 +2,19 @@
 
 # __general motors__
 
+## Closest similar item
+
+* [vehicle manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1898.md)
+* [vehicle manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_737.md)
+* [Oil company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2018.md)
+* [transportation company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1963.md)
+* [oil companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1213.md)
+* [Oil companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1904.md)
+* [transportation companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_864.md)
+* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1972.md)
+* [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Continued production and sales](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_563.md)

@@ -2,15 +2,28 @@
 
 # __Platform developers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q183888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q183888.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
+## Closest similar item
+
+* [Platform developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2656.md)
+* [Platform developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2659.md)
+* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+* [application developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1403.md)
+* [software developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1574.md)
+* [app developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1142.md)
+* [developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1889.md)
+* [technology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_763.md)
+* [project developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_905.md)
+* [Project developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1674.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Software and App Development](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_70.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q183888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q183888.md)
 

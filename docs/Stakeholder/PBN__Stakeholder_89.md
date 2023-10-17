@@ -31,3 +31,16 @@
 * [Improved public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1208.md)
 * [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1241.md)
 
+## Closest similar item
+
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+* [investor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1911.md)
+* [private businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_291.md)
+* [private organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_247.md)
+* [venture capitalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1958.md)
+* [venture capitalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2023.md)
+* [private investors in wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_210.md)
+* [investment professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1333.md)
+* [private organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2091.md)
+* [private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
+

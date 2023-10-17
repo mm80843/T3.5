@@ -10,3 +10,16 @@
 
 * [Mixed Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
 
+## Closest similar item
+
+* [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
+* [standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
+* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2418.md)
+* [protocol guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2903.md)
+* [standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
+* [reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
+* [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
+* [communication and marketing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_734.md)
+* [Targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2136.md)
+* [targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_893.md)
+

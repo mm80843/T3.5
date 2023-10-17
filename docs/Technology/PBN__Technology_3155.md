@@ -6,3 +6,16 @@
 
 * [TCID50 assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
 
+## Closest similar item
+
+* [research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1953.md)
+* [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
+* [biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
+* [tissues](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3578.md)
+* [separation of infected individuals from others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3090.md)
+* [biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
+* [microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4395.md)
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
+* [immunological memory](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2916.md)
+

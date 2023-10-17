@@ -2,17 +2,22 @@
 
 # __young people__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q111314161](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q111314161.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [youth](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_491.md)
+* [young person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2127.md)
+* [younger age group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2192.md)
+* [younger age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1338.md)
+* [older people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_107.md)
+* [Older people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2165.md)
+* [women and young children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_521.md)
+* [adolescents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_579.md)
+* [older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_461.md)
+* [Older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2150.md)
 
 ## Risk affecting this stakeholder
 
@@ -20,4 +25,12 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q111314161](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q111314161.md)
 

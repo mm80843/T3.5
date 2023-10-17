@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
+* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
+
+## Closest similar item
+
+* [Integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
+* [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
+* [auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
+* [insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+* [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
+* [pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4048.md)
+* [entomological surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4114.md)
+* [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
+* [insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
+* [mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
 

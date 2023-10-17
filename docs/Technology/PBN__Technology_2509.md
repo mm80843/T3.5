@@ -2,12 +2,25 @@
 
 # __Crisis management protocols__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1141276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1141276.md)
+* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2509.md)
+* [crisis management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2910.md)
+* [emergency management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
+* [create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1381.md)
+* [disaster management center](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4410.md)
+* [emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2492.md)
+* [emergency systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
+* [emergency response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_32.md)
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q1141276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1141276.md)
 
 ## This Technology belongs to this TechGroup
 

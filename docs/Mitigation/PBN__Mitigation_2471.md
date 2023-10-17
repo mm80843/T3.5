@@ -2,13 +2,26 @@
 
 # __Enhanced cleaning practices__
 
-## Property: has_MitigationSource
-
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inadequate cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
+
+## Closest similar item
+
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
+* [Enhanced Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
+* [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1854.md)
+* [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
+* [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
+* [Routine cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1522.md)
+* [Enhanced Cleaning and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
+
+## Property: has_MitigationSource
+
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 
 ## Property: has_MitigationPrinciple
 

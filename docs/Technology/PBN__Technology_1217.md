@@ -10,3 +10,16 @@
 
 * [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
 
+## Closest similar item
+
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2253.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
+* [public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1438.md)
+* [marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2753.md)
+* [workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1517.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+

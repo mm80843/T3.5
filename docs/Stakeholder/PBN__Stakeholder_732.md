@@ -12,3 +12,16 @@
 * [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
 * [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
 
+## Closest similar item
+
+* [public transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1304.md)
+* [public transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1619.md)
+* [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1182.md)
+* [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
+* [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
+* [transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_733.md)
+* [public transport passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1302.md)
+* [transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1624.md)
+* [public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
+* [public transportation users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1584.md)
+

@@ -2,57 +2,70 @@
 
 # __Disruption of construction projects__
 
-## Name of the risk
-
-Delays in project completion, increased costs, and potential financial loss for construction companies and governments.
-
-## Description of the risk
-
-Construction projects have been delayed or temporarily stopped due to workforce shortage and budget cuts during the pandemic.
-
-## Mitigations of this risk
-
-* [Developing robust contingency plans and alternative timelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2089.md)
-* [System Robustness Against COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
-
-## Property: has_RiskHealth
-
-
 ## Property: has_RiskType
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Delays in project completion, increased costs, and potential financial loss for construction companies and governments.
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Closest similar item
+
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_306.md)
+* [Financial crisis in the construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_303.md)
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
+* [Production disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3039.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+* [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2742.md)
+* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
+* [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1560.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+
+## Description of the risk
+
+Construction projects have been delayed or temporarily stopped due to workforce shortage and budget cuts during the pandemic.
 
 ## Technologies linked to the risk
 
 * [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 * [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [Developing robust contingency plans and alternative timelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2089.md)
+* [System Robustness Against COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
+
+## Articles mentionning the risk
+
+* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 

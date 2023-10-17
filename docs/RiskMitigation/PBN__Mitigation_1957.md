@@ -2,13 +2,26 @@
 
 # __Digital platforms__
 
-## Property: has_MitigationSource
-
-* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3307.md)
+
+## Closest similar item
+
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1957.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4211.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4212.md)
+* [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4213.md)
+* [digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4214.md)
+* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4215.md)
+* [digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4216.md)
+* [digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4217.md)
+* [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4218.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4219.md)
+
+## Property: has_MitigationSource
+
+* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 
 ## Property: has_MitigationPrinciple
 

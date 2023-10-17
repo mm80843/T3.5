@@ -2,13 +2,26 @@
 
 # __Proper Building Ventilation__
 
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Poor Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2668.md)
+
+## Closest similar item
+
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2000.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2302.md)
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_213.md)
+* [Adequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
+* [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1848.md)
+* [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_934.md)
+* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2034.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -2,13 +2,26 @@
 
 # __Air cleaning devices__
 
-## Property: has_MitigationSource
-
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Closest similar item
+
+* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2303.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_729.md)
+* [Portable Air Filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2089.md)
+* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
+* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
+* [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1854.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
+
+## Property: has_MitigationSource
+
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
 
 ## Property: has_MitigationPrinciple
 

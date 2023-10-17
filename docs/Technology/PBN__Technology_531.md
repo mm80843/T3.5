@@ -10,3 +10,16 @@
 
 * [Systemic risk in economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1342.md)
 
+## Closest similar item
+
+* [resilient production systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3627.md)
+* [financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
+* [resilience-based practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4313.md)
+* [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
+* [sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
+* [equitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)
+* [equitable governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1593.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
+

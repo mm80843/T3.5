@@ -2,15 +2,15 @@
 
 # __Biophilic Design and Bio-Collaboration__
 
-## DOI of the article
+## Year of publication
 
-10.15187/adr.2015.02.113.1.71
+2015
 
 ## Title of the article
 
 Biophilic Design and Bio-Collaboration
 
-## Year of publication
+## DOI of the article
 
-2015
+10.15187/adr.2015.02.113.1.71
 

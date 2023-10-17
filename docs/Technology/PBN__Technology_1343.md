@@ -12,3 +12,16 @@
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 
+## Closest similar item
+
+* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2085.md)
+* [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
+* [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
+* [ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2086.md)
+* [web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
+* [ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
+* [ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
+* [smart technologies for site communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1371.md)
+

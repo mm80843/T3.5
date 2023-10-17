@@ -6,3 +6,16 @@
 
 * [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1562.md)
 
+## Closest similar item
+
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
+* [Increased traffic congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2564.md)
+* [Increased congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2798.md)
+* [Urban crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1064.md)
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1325.md)
+* [Urban Density and Crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2378.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
+* [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2881.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+

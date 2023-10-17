@@ -2,13 +2,26 @@
 
 # __Teleconferencing and Virtual Meetings__
 
-## Property: has_MitigationSource
-
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+
+## Closest similar item
+
+* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Teleconference Format for Academic Conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2035.md)
+* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_616.md)
+* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
+* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1252.md)
+* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
+
+## Property: has_MitigationSource
+
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 
 ## Property: has_MitigationPrinciple
 

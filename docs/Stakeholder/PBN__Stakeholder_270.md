@@ -6,3 +6,16 @@
 
 * [Compliance with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_643.md)
 
+## Closest similar item
+
+* [health club members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_272.md)
+* [health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
+* [health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1871.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [healthcare organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1872.md)
+* [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1014.md)
+* [world health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1039.md)
+* [health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1249.md)
+* [global health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_860.md)
+

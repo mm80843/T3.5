@@ -6,3 +6,16 @@
 
 * [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
 
+## Closest similar item
+
+* [thick walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2957.md)
+* [movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
+* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1265.md)
+* [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
+* [adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4291.md)
+* [specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
+* [roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
+* [containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4191.md)
+

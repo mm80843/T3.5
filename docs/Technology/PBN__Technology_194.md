@@ -10,3 +10,16 @@
 
 * [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
 
+## Closest similar item
+
+* [adaptive HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2577.md)
+* [improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
+* [Improved HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2232.md)
+* [enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1519.md)
+* [hvac system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3818.md)
+* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+* [hvac system modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3068.md)
+* [smart hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1981.md)
+

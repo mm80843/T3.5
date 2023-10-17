@@ -6,3 +6,16 @@
 
 * [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
 
+## Closest similar item
+
+* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
+* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
+* [Increased urban densification and urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_329.md)
+* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2739.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
+* [Unhealthy outdoor conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_390.md)
+* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2593.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
+* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1407.md)
+

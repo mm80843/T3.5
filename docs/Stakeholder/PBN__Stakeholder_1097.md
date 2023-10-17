@@ -6,3 +6,16 @@
 
 * [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
 
+## Closest similar item
+
+* [People living and working near roads with planted vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2129.md)
+* [person living and working near road with planted vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2294.md)
+* [people living near poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_570.md)
+* [People living near poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2401.md)
+* [individuals living in areas with natural outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_306.md)
+* [people living in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_566.md)
+* [People living in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2280.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1744.md)
+* [individuals living in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1420.md)
+* [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
+

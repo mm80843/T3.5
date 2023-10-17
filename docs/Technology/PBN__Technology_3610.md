@@ -6,3 +6,16 @@
 
 * [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
 
+## Closest similar item
+
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
+* [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+* [green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
+* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
+

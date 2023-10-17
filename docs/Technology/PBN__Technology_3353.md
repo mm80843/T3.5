@@ -6,3 +6,16 @@
 
 * [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
 
+## Closest similar item
+
+* [proactive decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
+* [policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
+* [policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
+* [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+* [community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2996.md)
+* [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
+* [public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_446.md)
+* [public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4314.md)
+* [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+

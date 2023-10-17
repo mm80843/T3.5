@@ -10,3 +10,16 @@
 
 * [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
 
+## Closest similar item
+
+* [negative air machines with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2374.md)
+* [air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
+* [air purifiers with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2892.md)
+* [negative air machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
+* [hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)
+* [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+* [air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3287.md)
+* [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+* [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+

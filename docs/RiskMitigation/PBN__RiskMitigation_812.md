@@ -2,10 +2,23 @@
 
 # __Knowledge management and BIM__
 
+## Risks possibly mitigated by this Mitigation
+
+
 ## Property: has_MitigationBenefit
 
 * [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
+* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1068.md)
+* [Knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_378.md)
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
+* [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1546.md)
+* [Knowledge graphs and linked data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_844.md)
+* [Schema design and knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_111.md)
+* [Relational capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_785.md)
+* [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
+* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1106.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_333.md)
 

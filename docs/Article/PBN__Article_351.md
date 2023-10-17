@@ -2,15 +2,15 @@
 
 # __The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands__
 
-## DOI of the article
+## Year of publication
 
-10.2139/ssrn.3598215
+2020
 
 ## Title of the article
 
 The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands
 
-## Year of publication
+## DOI of the article
 
-2020
+10.2139/ssrn.3598215
 

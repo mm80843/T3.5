@@ -2,12 +2,25 @@
 
 # __AI and IoT technologies__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
+* [Integration of IoT and AI Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1578.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2018.md)
+* [IoT-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_285.md)
+* [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_438.md)
+* [IoT buttons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2020.md)
+* [IoT buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1181.md)
+* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
+
 ## Property: has_MitigationSource
 
 * [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

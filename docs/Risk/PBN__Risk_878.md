@@ -6,3 +6,16 @@
 
 * [Community action networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1202.md)
 
+## Closest similar item
+
+* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2413.md)
+* [Insufficient protection for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
+* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
+* [Exclusion of vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2745.md)
+* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1898.md)
+* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2869.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2874.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
+

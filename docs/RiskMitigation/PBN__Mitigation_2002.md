@@ -2,13 +2,26 @@
 
 # __Testing urological wastewater__
 
-## Property: has_MitigationSource
-
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3327.md)
+
+## Closest similar item
+
+* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
+* [Wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1081.md)
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
+* [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_512.md)
+
+## Property: has_MitigationSource
+
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
 
+## Closest similar item
+
+* [online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4198.md)
+* [online survey technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3725.md)
+* [design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2384.md)
+* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
+* [electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1826.md)
+* [workplace design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4106.md)
+* [web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
+* [self-assessment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
+

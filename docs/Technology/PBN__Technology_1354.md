@@ -10,3 +10,16 @@
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 
+## Closest similar item
+
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2759.md)
+* [automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1451.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
+* [smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4347.md)
+* [automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2986.md)
+* [automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3944.md)
+* [automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
+* [testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_783.md)
+* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+

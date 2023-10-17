@@ -2,3 +2,16 @@
 
 # __Water sensors__
 
+## Closest similar item
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1725.md)
+* [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+* [light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
+

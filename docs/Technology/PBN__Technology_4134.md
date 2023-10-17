@@ -6,3 +6,16 @@
 
 * [Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
 
+## Closest similar item
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
+* [contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
+* [use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
+* [digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3831.md)
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
+* [Mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2462.md)
+* [contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
+

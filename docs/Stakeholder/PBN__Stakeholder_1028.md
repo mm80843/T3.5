@@ -6,3 +6,16 @@
 
 * [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
 
+## Closest similar item
+
+* [general population in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_571.md)
+* [urban population in highly urbanized area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2461.md)
+* [urban populations in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1001.md)
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+* [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
+* [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+* [the general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
+* [residents of densely populated cities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1160.md)
+

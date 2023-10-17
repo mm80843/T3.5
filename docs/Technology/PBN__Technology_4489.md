@@ -6,3 +6,16 @@
 
 * [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 
+## Closest similar item
+
+* [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3762.md)
+* [object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4337.md)
+* [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
+* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2077.md)
+* [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
+* [facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3864.md)
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3914.md)
+

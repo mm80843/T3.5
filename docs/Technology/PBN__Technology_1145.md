@@ -10,3 +10,16 @@
 
 * [Lack of public understanding of COVID-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
 
+## Closest similar item
+
+* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2158.md)
+* [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2625.md)
+* [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2635.md)
+* [online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_629.md)
+* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
+* [websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1089.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [educational platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
+

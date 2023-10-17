@@ -2,19 +2,19 @@
 
 # __Lower infection rates__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Private investors can invest in the development of more essential services in urban areas, attracting residents with convenient access to everyday needs, leading to increased demand for properties and potential for higher rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_30.md)
-
-## Articles mentionning this Benefit
-
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-
 ## Name of the Benefit
 
 Ensures that essential services, such as supermarkets and pharmacies, are adequately distributed in urban areas, reducing congestion and lowering the risk of infection.
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors can invest in the development of more essential services in urban areas, attracting residents with convenient access to everyday needs, leading to increased demand for properties and potential for higher rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_30.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+
+## Articles mentionning this Benefit
+
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 

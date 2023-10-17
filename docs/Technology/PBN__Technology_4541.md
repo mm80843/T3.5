@@ -2,3 +2,16 @@
 
 # __Automation__
 
+## Closest similar item
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
+* [automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2986.md)
+* [automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
+* [automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
+* [testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_783.md)
+* [automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1633.md)
+* [automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3944.md)
+* [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
+* [automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1354.md)
+

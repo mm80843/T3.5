@@ -6,3 +6,16 @@
 
 * [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
 
+## Closest similar item
+
+* [Manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2075.md)
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2029.md)
+* [Manufacturing company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2027.md)
+* [industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_766.md)
+* [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
+* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1691.md)
+* [industry organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1896.md)
+* [automobile industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_241.md)
+* [Worker in the manufacturing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1814.md)
+

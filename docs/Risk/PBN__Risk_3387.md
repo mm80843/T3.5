@@ -6,3 +6,16 @@
 
 * [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2211.md)
 
+## Closest similar item
+
+* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1545.md)
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
+* [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
+* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
+* [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_144.md)
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1042.md)
+* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
+* [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
+

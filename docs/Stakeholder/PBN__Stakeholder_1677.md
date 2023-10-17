@@ -2,15 +2,28 @@
 
 # __Maintenance contractor__
 
-## This Stakeholder is identified by the following QID
-
-* [Q15982656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15982656.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
+## Closest similar item
+
+* [maintenance contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1120.md)
+* [Maintenance contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1823.md)
+* [maintenance personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_151.md)
+* [maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_704.md)
+* [Maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1690.md)
+* [contractor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1977.md)
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+* [individual in charge of building maintenance and operation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2327.md)
+* [individuals in charge of building maintenance and operations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_666.md)
+* [Landscape maintenance company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1820.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q15982656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15982656.md)
 

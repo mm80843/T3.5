@@ -2,9 +2,18 @@
 
 # __Air quality sensors__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q65007050](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q65007050.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2536.md)
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3043.md)
+* [smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
+* [air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2522.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4532.md)
+* [air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2530.md)
+* [air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -12,6 +21,10 @@
 * [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
 * [Air Quality Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_103.md)
 * [HVAC and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_72.md)
+
+## This Technology is identified by the following QID
+
+* [Q65007050](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q65007050.md)
 
 ## This Technology belongs to this TechGroup
 

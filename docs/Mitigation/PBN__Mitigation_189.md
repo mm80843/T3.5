@@ -2,13 +2,26 @@
 
 # __Green and Sustainable Design Practices__
 
-## Property: has_MitigationSource
-
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Environmental Impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
+
+## Closest similar item
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+* [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
+* [Sustainable Design and Construction of Projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
+* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Sustainable Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
+* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+
+## Property: has_MitigationSource
+
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
 ## Property: has_MitigationPrinciple
 

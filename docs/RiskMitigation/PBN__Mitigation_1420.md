@@ -2,14 +2,27 @@
 
 # __Ultraviolet germicidal irradiation__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
+
+## Closest similar item
+
+* [Implement UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
+* [Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
+* [Ultraviolet germicidal irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2310.md)
+* [UV Irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
+* [Germicidal UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
+* [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
+* [Upper room germicidal UV fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
+
 ## Property: has_MitigationSource
 
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
 
 ## Property: has_MitigationPrinciple
 

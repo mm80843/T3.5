@@ -2,13 +2,26 @@
 
 # __Secure servers__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q169489](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q169489.md)
+* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
+* [secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
+* [secure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4425.md)
+* [security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2506.md)
+* [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
+* [secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1304.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2600.md)
+* [network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Data Anonymization and Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_137.md)
+
+## This Technology is identified by the following QID
+
+* [Q169489](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q169489.md)
 
 ## This Technology belongs to this TechGroup
 

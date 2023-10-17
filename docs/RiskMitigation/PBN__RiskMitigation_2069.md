@@ -6,3 +6,16 @@
 
 * [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
 
+## Closest similar item
+
+* [Support ongoing research for vaccine development and antiviral medications, repurpose existing drugs for treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
+* [Improve surveillance for drug resistance, invest in vaccine development infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2137.md)
+* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2759.md)
+* [Develop and distribute effective medications and vaccines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2016.md)
+* [Vaccines development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_984.md)
+* [Improve vaccine efficacy through research and development.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2512.md)
+* [Support research and development of vaccine and antiviral treatments, promote preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2316.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_598.md)
+* [Development and distribution of an effective vaccine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2992.md)
+* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_866.md)
+

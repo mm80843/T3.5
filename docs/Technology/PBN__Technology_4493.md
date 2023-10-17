@@ -6,3 +6,16 @@
 
 * [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2424.md)
 
+## Closest similar item
+
+* [electric vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
+* [self-driving cars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3789.md)
+* [driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3999.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
+* [landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4242.md)
+* [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
+* [ramps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1037.md)
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2869.md)
+* [intelligent transportation systems (its)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3646.md)
+

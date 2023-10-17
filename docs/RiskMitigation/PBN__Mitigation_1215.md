@@ -2,13 +2,26 @@
 
 # __Electrical infrastructure__
 
-## Property: has_MitigationSource
-
-* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Support life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2964.md)
+
+## Closest similar item
+
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
+* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+* [Rapidity of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
+* [Green and Blue Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
+* [Redundancy of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
+* [Urban Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
+
+## Property: has_MitigationSource
+
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -2,13 +2,26 @@
 
 # __Vaccine__
 
-## Property: has_MitigationSource
-
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of long-term protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+
+## Closest similar item
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
+* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
+* [Preventive Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
+* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1556.md)
+* [Universal vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2402.md)
+* [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
+* [Vaccination Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1229.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_599.md)
+* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1255.md)
+
+## Property: has_MitigationSource
+
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
 ## Property: has_MitigationPrinciple
 

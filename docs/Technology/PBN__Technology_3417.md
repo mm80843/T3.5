@@ -7,3 +7,16 @@
 * [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
 * [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
 
+## Closest similar item
+
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
+* [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
+* [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
+* [regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3206.md)
+* [regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
+* [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+

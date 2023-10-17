@@ -2,12 +2,25 @@
 
 # __Advanced Air Distribution__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Optimization of fresh air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2290.md)
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Ventilation distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1366.md)
+* [Enhanced Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1225.md)
+* [Good Indoor Airflow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1463.md)
+* [Air Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
+* [Improved Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1645.md)
+* [Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+
 ## Property: has_MitigationSource
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

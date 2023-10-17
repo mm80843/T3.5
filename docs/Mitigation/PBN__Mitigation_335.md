@@ -2,13 +2,26 @@
 
 # __Data ownership decentralization__
 
-## Property: has_MitigationSource
-
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Potential data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2534.md)
+
+## Closest similar item
+
+* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1160.md)
+* [Decentralized Finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_434.md)
+* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
+* [Decentralization of activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_305.md)
+* [Centralization and Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1288.md)
+* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_569.md)
+* [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+
+## Property: has_MitigationSource
+
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
 ## Property: has_MitigationPrinciple
 

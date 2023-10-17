@@ -6,3 +6,16 @@
 
 * [Optimal decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
 
+## Closest similar item
+
+* [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3274.md)
+* [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_393.md)
+* [Lack of accurate predictions and decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2984.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+* [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
+* [Misleading Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
+* [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+* [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
+* [Inaccurate results or bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3044.md)
+* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+

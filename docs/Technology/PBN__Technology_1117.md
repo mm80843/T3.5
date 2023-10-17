@@ -10,3 +10,16 @@
 
 * [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 
+## Closest similar item
+
+* [building design and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4390.md)
+* [natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_703.md)
+* [natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1014.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2707.md)
+* [implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
+* [ventilation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3896.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2348.md)
+

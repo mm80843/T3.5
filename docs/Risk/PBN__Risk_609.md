@@ -2,60 +2,73 @@
 
 # __Fomite transmission__
 
-## Name of the risk
-
-Increased transmission risk through contact with contaminated surfaces
-
-## Description of the risk
-
-Virus survival on surfaces like metal, plastic, and cardboard
-
-## Mitigations of this risk
-
-* [Enhanced cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_535.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
-* [Surface cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1382.md)
-* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2790.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-* [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
-* [uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1649.md)
 
 ## People affected by this risk
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [those who touch shared surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1441.md)
 
+## Name of the risk
+
+Increased transmission risk through contact with contaminated surfaces
+
 ## Property: has_RiskISO_Purpose
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Closest similar item
+
+* [Transmission via fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_800.md)
+* [Fomite spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3010.md)
+* [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1554.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
+
+## Description of the risk
+
+Virus survival on surfaces like metal, plastic, and cardboard
+
+## Technologies linked to the risk
+
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1649.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Enhanced cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_535.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Surface cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1382.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2790.md)
+
+## Articles mentionning the risk
+
+* [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
 

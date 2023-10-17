@@ -10,3 +10,16 @@
 
 * [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
 
+## Closest similar item
+
+* [employee support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
+* [support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
+* [workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4082.md)
+* [job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+* [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
+* [support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
+* [economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
+* [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
+

@@ -2,12 +2,25 @@
 
 # __Circle packing algorithm__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2222.md)
+* [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2088.md)
+* [Efficient Space Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1758.md)
+* [Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
+* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
+* [Proper Space Arrangement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
+* [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2355.md)
+* [Uncrowded spacing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_219.md)
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

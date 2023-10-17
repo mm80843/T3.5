@@ -2,13 +2,26 @@
 
 # __Spatial distancing__
 
-## Property: has_MitigationSource
-
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
+
+## Closest similar item
+
+* [Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
+* [Spatial configuration promoting social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1272.md)
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
+* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
 ## Property: has_MitigationPrinciple
 

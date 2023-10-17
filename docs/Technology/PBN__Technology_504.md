@@ -10,3 +10,16 @@
 
 * [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 
+## Closest similar item
+
+* [hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_857.md)
+* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2821.md)
+* [handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
+* [soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3798.md)
+* [hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4021.md)
+* [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
+* [soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2984.md)
+* [hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3140.md)
+* [handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_667.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2258.md)
+

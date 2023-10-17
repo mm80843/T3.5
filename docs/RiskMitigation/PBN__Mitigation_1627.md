@@ -2,12 +2,25 @@
 
 # __Preventive and therapeutic measures__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
+* [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1473.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_237.md)
+* [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
+* [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
+* [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2446.md)
+* [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2419.md)
+
 ## Property: has_MitigationSource
 
 * [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
 
+## Closest similar item
+
+* [free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1940.md)
+* [free Wi-Fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2367.md)
+* [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
+* [mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
+* [real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
+* [Real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2115.md)
+* [advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_173.md)
+* [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
+* [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
+* [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
+

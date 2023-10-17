@@ -6,3 +6,16 @@
 
 * [Precision Medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_762.md)
 
+## Closest similar item
+
+* [personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3964.md)
+* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
+* [artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3838.md)
+* [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
+* [data analytics for targeted assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1244.md)
+* [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
+* [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
+

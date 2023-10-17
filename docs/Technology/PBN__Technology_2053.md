@@ -2,12 +2,25 @@
 
 # __Data analytics to identify high-risk areas and populations__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q4150801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4150801.md)
+* [use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_563.md)
+* [data analytics for identifying high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1525.md)
+* [identifying and protecting individuals with high risk factors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3518.md)
+* [risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
+* [Risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2045.md)
+* [epidemiological data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4002.md)
+* [risk assessment and management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
+* [public epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3306.md)
+* [data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_476.md)
+* [comprehensive urban planning and risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1948.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q4150801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4150801.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -10,3 +10,16 @@
 
 * [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1545.md)
 
+## Closest similar item
+
+* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2319.md)
+* [park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
+* [maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
+* [landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
+* [landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
+* [landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
+* [maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
+* [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
+* [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
+

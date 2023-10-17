@@ -10,3 +10,16 @@
 
 * [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
 
+## Closest similar item
+
+* [medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
+* [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2245.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+* [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
+* [supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+* [improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_254.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2177.md)
+

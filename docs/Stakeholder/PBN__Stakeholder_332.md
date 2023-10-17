@@ -6,3 +6,16 @@
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
 
+## Closest similar item
+
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_483.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [urban resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2472.md)
+* [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+* [nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1275.md)
+* [individual living in urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2216.md)
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+* [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+

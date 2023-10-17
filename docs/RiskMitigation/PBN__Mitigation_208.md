@@ -2,13 +2,26 @@
 
 # __Establishing virtual platforms and telecommunication__
 
-## Property: has_MitigationSource
-
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
+
+## Closest similar item
+
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1957.md)
+* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2332.md)
+* [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_241.md)
+* [Video Conference Platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
+* [Teleconferencing and Virtual Meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1738.md)
+* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1245.md)
+* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2116.md)
+* [Proper management of ICT infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2143.md)
+
+## Property: has_MitigationSource
+
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 
 ## Property: has_MitigationPrinciple
 

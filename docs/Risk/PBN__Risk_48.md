@@ -6,3 +6,16 @@
 
 * [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_65.md)
 
+## Closest similar item
+
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2442.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
+* [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
+* [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+* [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
+

@@ -2,56 +2,69 @@
 
 # __Delayed decision making__
 
-## Name of the risk
-
-Halt in controlling the spread of the disease and potential increase in cases
-
-## Description of the risk
-
-Delay in making timely decisions to control the outbreak
-
-## Mitigations of this risk
-
-* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
-* [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3102.md)
-* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2461.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Halt in controlling the spread of the disease and potential increase in cases
+
+## Property: has_RiskISO_Purpose
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_8.md)
+
+## Closest similar item
+
+* [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3038.md)
+* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
+* [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2179.md)
+* [Delayed implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3236.md)
+* [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3273.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
+* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
+* [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_393.md)
+
+## Description of the risk
+
+Delay in making timely decisions to control the outbreak
 
 ## Technologies linked to the risk
 
 * [decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
 * [real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_8.md)
+* [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3102.md)
+* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2461.md)
+
+## Articles mentionning the risk
+
+* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
 

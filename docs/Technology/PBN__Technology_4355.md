@@ -6,3 +6,16 @@
 
 * [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2234.md)
 
+## Closest similar item
+
+* [cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3911.md)
+* [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
+* [energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_868.md)
+* [electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
+* [microwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4406.md)
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2839.md)
+* [energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3398.md)
+* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
+

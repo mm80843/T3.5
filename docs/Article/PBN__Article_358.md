@@ -2,15 +2,15 @@
 
 # __Emerging challenges of vector-borne diseases for Canadian cities__
 
-## DOI of the article
+## Year of publication
 
-10.14745/ccdr.v42i10a12
+2016
 
 ## Title of the article
 
 Emerging challenges of vector-borne diseases for Canadian cities
 
-## Year of publication
+## DOI of the article
 
-2016
+10.14745/ccdr.v42i10a12
 

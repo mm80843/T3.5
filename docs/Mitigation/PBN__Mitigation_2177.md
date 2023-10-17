@@ -2,13 +2,26 @@
 
 # __Robustness of Critical Infrastructure__
 
-## Property: has_MitigationSource
-
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Threat events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
+
+## Closest similar item
+
+* [Rapidity of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
+* [Redundancy of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
+* [Resourcefulness of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
+* [Remote control of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1631.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
+* [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
+* [System Robustness Against COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
+* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
+* [Resilience Building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
+
+## Property: has_MitigationSource
+
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
 ## Property: has_MitigationPrinciple
 

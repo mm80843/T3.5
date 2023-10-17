@@ -10,3 +10,16 @@
 
 * [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 
+## Closest similar item
+
+* [enhanced screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1566.md)
+* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
+* [advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
+* [development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1972.md)
+* [health screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_985.md)
+* [development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_464.md)
+* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2066.md)
+* [development of rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1971.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+

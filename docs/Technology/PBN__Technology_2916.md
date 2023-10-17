@@ -6,3 +6,16 @@
 
 * [Herd Immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
 
+## Closest similar item
+
+* [immunoassays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3282.md)
+* [vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2271.md)
+* [vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2915.md)
+* [vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1564.md)
+* [rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1624.md)
+* [antigen rapid tests (arts)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
+

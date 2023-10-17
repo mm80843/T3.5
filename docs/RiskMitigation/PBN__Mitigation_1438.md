@@ -2,12 +2,25 @@
 
 # __Evaluating control measures__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
+* [Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
+* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
+* [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1087.md)
+* [Government Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Environmental Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_755.md)
+* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [Combined Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

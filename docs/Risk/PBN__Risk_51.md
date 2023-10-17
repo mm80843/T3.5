@@ -6,3 +6,16 @@
 
 * [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_68.md)
 
+## Closest similar item
+
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3328.md)
+* [Lack of control over movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3208.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
+* [Lack of coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3438.md)
+* [Lack of knowledge and inhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3097.md)
+* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3158.md)
+* [Job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
+* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1250.md)
+* [Lack of awareness/ability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2653.md)
+

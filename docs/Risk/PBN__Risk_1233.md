@@ -2,54 +2,67 @@
 
 # __Dependency on technology__
 
-## Name of the risk
-
-Reduced reliance on individual judgment, decreased physical interaction with healthcare professionals.
-
-## Description of the risk
-
-Increasing reliance on wearables for health monitoring may lead to overdependence on technology and diminishing of personal judgment and responsibility.
-
-## Mitigations of this risk
-
-* [Balanced approach combining technology with personal judgment and regular healthcare consultations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1686.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [wearable device users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_641.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
-* [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
 
 ## People affected by this risk
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [wearable device users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_641.md)
 
+## Name of the risk
+
+Reduced reliance on individual judgment, decreased physical interaction with healthcare professionals.
+
 ## Property: has_RiskISO_Purpose
 
 * [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Closest similar item
+
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
+* [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
+* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3074.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
+* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+
+## Description of the risk
+
+Increasing reliance on wearables for health monitoring may lead to overdependence on technology and diminishing of personal judgment and responsibility.
+
+## Technologies linked to the risk
+
+* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
+* [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Mitigations of this risk
+
+* [Balanced approach combining technology with personal judgment and regular healthcare consultations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1686.md)
+
+## Articles mentionning the risk
+
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [wearable device users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_641.md)
 

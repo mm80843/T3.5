@@ -10,3 +10,16 @@
 
 * [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 
+## Closest similar item
+
+* [debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
+* [financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
+* [financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1331.md)
+* [fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
+* [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
+* [contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_460.md)
+* [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [digital fundraising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1696.md)
+* [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
+* [financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
+

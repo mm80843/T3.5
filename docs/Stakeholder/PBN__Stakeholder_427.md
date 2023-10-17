@@ -2,6 +2,19 @@
 
 # __construction organization__
 
+## Closest similar item
+
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+* [construction company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_621.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [construction firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_282.md)
+* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+* [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
+* [Occupant of building and organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2601.md)
+* [construction project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2090.md)
+* [construction project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
+* [construction project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1309.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)

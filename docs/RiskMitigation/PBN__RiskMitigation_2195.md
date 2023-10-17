@@ -6,3 +6,16 @@
 
 * [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
 
+## Closest similar item
+
+* [Implement hygiene and sanitation measures, promote social distancing, improve air ventilation and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2909.md)
+* [Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1803.md)
+* [Improve cleanliness and maintenance of urban green spaces, implement social distancing measures and capacity limits, provide clear communication on safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2409.md)
+* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1737.md)
+* [Implement strict hygiene and sanitation protocols, promote social distancing measures, and provide education on proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2721.md)
+* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1924.md)
+* [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3051.md)
+* [Implement strict hygiene and sanitation measures, promote social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2471.md)
+* [Building and maintaining adequate public health infrastructure, promoting hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1697.md)
+* [Improve sanitation infrastructure, promote hygiene education and practices, increase access to clean water sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1899.md)
+

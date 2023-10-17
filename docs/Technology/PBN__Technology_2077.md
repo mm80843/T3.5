@@ -2,13 +2,26 @@
 
 # __Optimization algorithms__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q24476018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24476018.md)
+* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2077.md)
+* [optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3679.md)
+* [optimization algorithms (nsga-ii](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3808.md)
+* [route optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
+* [cost optimization strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_162.md)
+* [data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_176.md)
+* [Data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2099.md)
+* [algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3914.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+
+## This Technology is identified by the following QID
+
+* [Q24476018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24476018.md)
 
 ## This Technology belongs to this TechGroup
 

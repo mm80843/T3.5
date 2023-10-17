@@ -6,3 +6,16 @@
 
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1081.md)
 
+## Closest similar item
+
+* [environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
+* [increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_525.md)
+* [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
+

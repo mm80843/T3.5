@@ -2,13 +2,26 @@
 
 # __Biosensor technology__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q669391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q669391.md)
+* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2814.md)
+* [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
+* [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
+* [bio-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+* [improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2451.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+
+## This Technology is identified by the following QID
+
+* [Q669391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q669391.md)
 
 ## This Technology belongs to this TechGroup
 

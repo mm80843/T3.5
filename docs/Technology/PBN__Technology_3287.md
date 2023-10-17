@@ -6,3 +6,16 @@
 
 * [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
 
+## Closest similar item
+
+* [air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
+* [air purifiers with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2892.md)
+* [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+* [hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)
+* [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+* [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2236.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4550.md)
+* [negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
+

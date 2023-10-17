@@ -6,3 +6,16 @@
 
 * [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1271.md)
 
+## Closest similar item
+
+* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1576.md)
+* [Inadequate hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3214.md)
+* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
+* [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
+* [Lack of Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2524.md)
+* [Lack of personal cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1089.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
+* [Inadequate Hygiene Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
+* [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
+* [Poor Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2975.md)
+

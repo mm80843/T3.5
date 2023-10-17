@@ -2,13 +2,26 @@
 
 # __UV radiation__
 
-## Property: has_MitigationSource
-
-* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Exposing items or surfaces to UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2548.md)
+
+## Closest similar item
+
+* [uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3712.md)
+* [ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3713.md)
+* [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3714.md)
+* [UV irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3715.md)
+* [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3716.md)
+* [uv](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3717.md)
+* [ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3718.md)
+* [UV irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3719.md)
+* [uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3720.md)
+* [uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3721.md)
+
+## Property: has_MitigationSource
+
+* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 
 ## Property: has_MitigationPrinciple
 

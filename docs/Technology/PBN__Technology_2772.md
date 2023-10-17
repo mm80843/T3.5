@@ -2,12 +2,25 @@
 
 # __Biology techs__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q864503](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q864503.md)
+* [biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2895.md)
+* [scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
+* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
+* [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
+* [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2774.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_314.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q864503](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q864503.md)
 
 ## This Technology belongs to this TechGroup
 

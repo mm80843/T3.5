@@ -6,3 +6,16 @@
 
 * [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
 
+## Closest similar item
+
+* [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2513.md)
+* [motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
+* [motion sensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3096.md)
+* [motion-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+

@@ -2,12 +2,25 @@
 
 # __Public health education through social media__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_251.md)
+* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
+* [Public Health Education and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
+* [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
+* [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_268.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_968.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
+* [Public Health Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

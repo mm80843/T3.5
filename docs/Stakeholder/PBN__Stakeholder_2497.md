@@ -6,6 +6,19 @@
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_812.md)
+* [nonprofit organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1888.md)
+* [Nonprofit organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2460.md)
+* [Nonprofit](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2458.md)
+* [nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_810.md)
+* [Nonprofits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2449.md)
+* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+* [charitable organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_755.md)
+* [non-governmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1959.md)
+* [non-governmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1920.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 

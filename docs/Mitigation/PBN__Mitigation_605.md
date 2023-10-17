@@ -2,13 +2,26 @@
 
 # __Providing platforms for cross-sectoral dialogue__
 
-## Property: has_MitigationSource
-
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Silos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2654.md)
+
+## Closest similar item
+
+* [Use video chat and online platforms for communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3872.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3529.md)
+* [Improving communication channels, sharing findings in non-technical language, coordination between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3873.md)
+* [to digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3874.md)
+* [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3875.md)
+* [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3849.md)
+* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3876.md)
+* [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1500.md)
+
+## Property: has_MitigationSource
+
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
 ## Property: has_MitigationPrinciple
 

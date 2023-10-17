@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Accurate Content Evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1360.md)
 * [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
+* [Accurate Content Evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1360.md)
+
+## Closest similar item
+
+* [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+* [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2126.md)
+* [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
+* [Misleading content](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3088.md)
+* [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)
+* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+* [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3133.md)
+* [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3274.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
+* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
 

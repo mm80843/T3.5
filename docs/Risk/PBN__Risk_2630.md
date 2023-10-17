@@ -6,3 +6,16 @@
 
 * [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
 
+## Closest similar item
+
+* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
+* [Fraudulent data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
+* [Fraudulent Claims](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3293.md)
+* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
+* [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
+* [Lack of credibility as a source of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_400.md)
+* [False claims and harmful actions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2780.md)
+* [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2333.md)
+* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1518.md)
+* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
+

@@ -2,18 +2,31 @@
 
 # __women experiencing economic hardship__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q8031587](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8031587.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2331.md)
+* [people facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_712.md)
+* [People facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2306.md)
+* [person facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2292.md)
+* [women in informal economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1364.md)
+* [individuals affected by the loss of loved ones or economic hardships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1149.md)
+* [woman in informal economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2351.md)
+* [individual affected by the lo of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2164.md)
+* [individuals and households facing job loss or economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1341.md)
+* [individual affected by the los of loved one or economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2269.md)
 
 ## Risk affecting this stakeholder
 
 * [Financial strain as a risk factor for intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1038.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q8031587](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8031587.md)
 

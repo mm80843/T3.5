@@ -8,3 +8,16 @@
 * [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
 
+## Closest similar item
+
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+* [public health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1361.md)
+* [healthcare professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1873.md)
+* [medical professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2005.md)
+* [occupational health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_620.md)
+* [professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1194.md)
+* [Professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1733.md)
+* [healthcare practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_544.md)
+* [health and safety professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_835.md)
+

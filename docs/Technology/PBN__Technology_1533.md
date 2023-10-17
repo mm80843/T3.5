@@ -10,3 +10,16 @@
 
 * [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
 
+## Closest similar item
+
+* [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
+* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3178.md)
+* [enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
+* [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2543.md)
+* [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
+* [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2483.md)
+

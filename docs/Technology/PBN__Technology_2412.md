@@ -2,14 +2,27 @@
 
 # __Data sharing platforms__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
+* [improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_886.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
+* [information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1898.md)
+* [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3625.md)
+* [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
+* [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
+* [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Digital Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_93.md)
 * [Data Sharing and Validation Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_141.md)
+
+## This Technology is identified by the following QID
+
+* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
 
 ## This Technology belongs to this TechGroup
 

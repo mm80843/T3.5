@@ -10,3 +10,16 @@
 
 * [Impact of economic recovery responses on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
 
+## Closest similar item
+
+* [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
+* [policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1609.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
+* [advocacy campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_444.md)
+* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+* [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+* [legal advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_159.md)
+* [lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1327.md)
+

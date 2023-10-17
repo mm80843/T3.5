@@ -2,14 +2,27 @@
 
 # __Traffic restrictions__
 
+## Risks possibly mitigated by this Mitigation
+
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [Mobility Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
+* [Reduction in Traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+* [Restricted Travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1382.md)
+* [Movement Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1711.md)
+* [Restricting inter-city flights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1121.md)
+* [Travel prohibition in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2104.md)
+* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_545.md)
+
 ## Property: has_MitigationSource
 
 * [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 * [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 

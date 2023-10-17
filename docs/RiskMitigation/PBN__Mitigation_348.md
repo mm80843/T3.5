@@ -2,13 +2,26 @@
 
 # __Restrictions on Private Gatherings__
 
-## Property: has_MitigationSource
-
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+
+## Closest similar item
+
+* [Restrictions on Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1380.md)
+* [Restricted Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_681.md)
+* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1584.md)
+* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_595.md)
+* [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2438.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2102.md)
+* [Banning of large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1531.md)
+* [Avoidance of large gatherings, and gatherings in smaller public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1811.md)
+* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_668.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1386.md)
+
+## Property: has_MitigationSource
+
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 
 ## Property: has_MitigationPrinciple
 

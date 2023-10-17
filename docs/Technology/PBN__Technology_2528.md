@@ -2,13 +2,26 @@
 
 # __Data collection technologies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
+* [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2529.md)
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
+* [digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2648.md)
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2091.md)
+* [data collection and sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_941.md)
+* [research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
+## This Technology is identified by the following QID
+
+* [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
 
 ## This Technology belongs to this TechGroup
 

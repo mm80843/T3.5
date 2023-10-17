@@ -2,9 +2,24 @@
 
 # __artificial intelligence (ai)__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q11660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11660.md)
+* [Artificial Intelligence (AI)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2074.md)
+* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2124.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
+* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [AI](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
+
+## Risks linked to this technology
+
+* [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
 
 ## This Technology enables the following mitigations
 
@@ -14,9 +29,7 @@
 * [AI-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
 * [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
-* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
-* [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
+* [Q11660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11660.md)
 

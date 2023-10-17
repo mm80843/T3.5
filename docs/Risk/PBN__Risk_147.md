@@ -5,8 +5,21 @@
 ## Mitigations of this risk
 
 * [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_177.md)
-* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_178.md)
 * [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_179.md)
+* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_178.md)
 * [Civil right to counsel in eviction cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_180.md)
 * [Medicaid expansion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_181.md)
+
+## Closest similar item
+
+* [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
+* [Risk of COVID-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
+* [Risk of spreading COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
+* [Infection risk of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
+* [Increased risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2823.md)
+* [Transmission of COVID-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
+* [Increased eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2514.md)
+* [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
 

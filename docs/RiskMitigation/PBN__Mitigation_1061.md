@@ -2,13 +2,26 @@
 
 # __Outdoor Recreation__
 
-## Property: has_MitigationSource
-
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
+
+## Closest similar item
+
+* [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
+* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
+* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
+* [Use of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1468.md)
+* [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
+
+## Property: has_MitigationSource
+
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
 
+## Closest similar item
+
+* [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
+* [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2170.md)
+* [public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4414.md)
+* [press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
+* [information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
+* [news and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4011.md)
+* [advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
+* [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
+* [public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
+

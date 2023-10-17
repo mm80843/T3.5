@@ -2,12 +2,25 @@
 
 # __Worker Education__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
+* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1675.md)
+* [Supporting workers and migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_207.md)
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
+* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

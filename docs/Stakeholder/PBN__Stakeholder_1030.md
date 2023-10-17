@@ -6,3 +6,16 @@
 
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
 
+## Closest similar item
+
+* [travel industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2063.md)
+* [industries reliant on tourism and travel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_597.md)
+* [tourism and travel industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_519.md)
+* [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+* [tourism industry,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_386.md)
+* [tourism providers and destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_195.md)
+* [tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1079.md)
+* [travel agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_563.md)
+* [workers in affected industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1476.md)
+* [workers in the tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1777.md)
+

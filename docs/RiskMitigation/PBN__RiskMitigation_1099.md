@@ -2,11 +2,24 @@
 
 # __Robots and drones__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduction of inter-personal communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1089.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1284.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
+* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1430.md)
+* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_90.md)
+* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1286.md)
+* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_809.md)
+* [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
+* [Deploy telehealth solutions, use of AI and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
+* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1287.md)
 

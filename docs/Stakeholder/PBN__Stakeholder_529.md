@@ -2,6 +2,27 @@
 
 # __construction professionals__
 
+## Closest similar item
+
+* [construction industry professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1308.md)
+* [construction industry professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2012.md)
+* [building professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_98.md)
+* [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
+* [construction industry workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+* [construction industry worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1936.md)
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+
+## Risk affecting this stakeholder
+
+* [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
+* [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1996.md)
+* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
+* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
+* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1366.md)
@@ -13,12 +34,4 @@
 ## This Stakeholder is identified by the following QID
 
 * [Q21778977](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21778977.md)
-
-## Risk affecting this stakeholder
-
-* [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1996.md)
-* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
-* [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
-* [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
-* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
 

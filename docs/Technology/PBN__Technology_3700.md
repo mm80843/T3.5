@@ -6,3 +6,16 @@
 
 * [Pollen Allergy Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
 
+## Closest similar item
+
+* [auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
+* [insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+* [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
+* [development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
+* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2771.md)
+* [integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
+* [Integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
+* [plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4396.md)
+* [indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
+

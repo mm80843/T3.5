@@ -4,8 +4,21 @@
 
 ## This Technology enables the following mitigations
 
-* [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
 * [Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
-* [Mental Restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_930.md)
+* [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
 * [Social Cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
+* [Mental Restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_930.md)
+
+## Closest similar item
+
+* [provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3610.md)
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [guidelines for accessing private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
 

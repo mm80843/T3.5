@@ -2,12 +2,25 @@
 
 # __Adoption of smart meters and sensors__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
+* [Smartwatch Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
+* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
+* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1353.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1687.md)
+* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1907.md)
+* [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+
 ## Property: has_MitigationSource
 
 * [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Overcrowding in vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1907.md)
 
+## Closest similar item
+
+* [reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
+* [digital reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3480.md)
+* [virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
+* [meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3124.md)
+* [virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
+* [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+* [online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
+* [online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
+* [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2399.md)
+

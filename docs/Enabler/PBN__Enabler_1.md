@@ -2,15 +2,28 @@
 
 # __DigitalPlatform__
 
-## Property: has_BP_EnablerTitle
+## Thees blueprints use this enabler
 
-enabler_002
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+
+## Closest similar item
+
+* [digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+* [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_45.md)
+* [expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_46.md)
+* [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_47.md)
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
+* [digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
+* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_50.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_51.md)
+* [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+* [digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
 
 ## Property: has_TechEquivalent
 
 * [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4529.md)
 
-## Thees blueprints use this enabler
+## Property: has_BP_EnablerTitle
 
-* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+enabler_002
 

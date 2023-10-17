@@ -6,3 +6,16 @@
 
 * [Encouraging mixed-use developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_705.md)
 
+## Closest similar item
+
+* [Lack of greenspace in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_170.md)
+* [Quality of greenspace in high-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_171.md)
+* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2588.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
+* [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
+* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1546.md)
+* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
+* [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_144.md)
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1619.md)
+

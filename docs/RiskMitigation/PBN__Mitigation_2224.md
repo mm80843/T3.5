@@ -2,12 +2,25 @@
 
 # __Visualization tool__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
+* [Analysis Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
+* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_696.md)
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2371.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
+* [GIS tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
+* [Online dashboard for WBE data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_761.md)
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

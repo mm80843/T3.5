@@ -2,19 +2,32 @@
 
 # __environmental engineers__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q19377727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19377727.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 
+## Closest similar item
+
+* [environmental engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2682.md)
+* [environmental researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2673.md)
+* [environmental scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2664.md)
+* [environmental worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2709.md)
+* [environmental scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2670.md)
+* [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
+* [environmental managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_381.md)
+* [environmental workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1307.md)
+* [engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1906.md)
+* [environmental researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q19377727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19377727.md)
 

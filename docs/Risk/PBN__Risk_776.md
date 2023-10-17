@@ -5,3 +5,16 @@
 ## Mitigations of this risk
 
 
+## Closest similar item
+
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2916.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2774.md)
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
+* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2895.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
+

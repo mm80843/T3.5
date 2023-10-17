@@ -10,3 +10,16 @@
 
 * [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2398.md)
 
+## Closest similar item
+
+* [Advancements in translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2117.md)
+* [translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1322.md)
+* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
+* [translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
+* [translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1259.md)
+* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
+* [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+* [multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
+* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+

@@ -6,3 +6,16 @@
 
 * [Rapid conversion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1210.md)
 
+## Closest similar item
+
+* [infrastructure development and plumbing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_458.md)
+* [bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3905.md)
+* [and speakers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3843.md)
+* [and hybrid ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3106.md)
+* [such as regular cleaning and repairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1197.md)
+* [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
+* [sanitation supplies and facilities (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3445.md)
+* [hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
+* [Hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2591.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
+

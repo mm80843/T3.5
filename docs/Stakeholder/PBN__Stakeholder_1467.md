@@ -6,3 +6,16 @@
 
 * [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
 
+## Closest similar item
+
+* [IT engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2651.md)
+* [IT engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2603.md)
+* [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
+* [engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1906.md)
+* [it professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_628.md)
+* [IT professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2633.md)
+* [IT companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
+* [IT company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2647.md)
+* [technology developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1957.md)
+* [IT expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
+

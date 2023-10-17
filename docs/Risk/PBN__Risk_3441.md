@@ -6,3 +6,16 @@
 
 * [Steroids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2398.md)
 
+## Closest similar item
+
+* [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
+* [COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2528.md)
+* [Underreporting of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
+* [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
+* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Difficulty in confinement of COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_704.md)
+* [Spread of Covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
+* [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
+* [COVID-19 symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3136.md)
+* [COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
+

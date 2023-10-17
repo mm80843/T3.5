@@ -2,12 +2,25 @@
 
 # __Passive design strategies__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Design buildings with passive design strategies and multiple bathrooms for emergencies.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3020.md)
+* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3021.md)
+* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3022.md)
+* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3023.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3024.md)
+* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3025.md)
+* [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3026.md)
+* [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3027.md)
+* [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2697.md)
+* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3028.md)
+
 ## Property: has_MitigationSource
 
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

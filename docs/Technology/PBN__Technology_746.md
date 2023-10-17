@@ -10,3 +10,16 @@
 
 * [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
 
+## Closest similar item
+
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
+* [implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_301.md)
+* [Contactless fare payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2589.md)
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
+* [contactless transactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1017.md)
+* [virtual payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_129.md)
+* [digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1947.md)
+* [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
+* [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
+

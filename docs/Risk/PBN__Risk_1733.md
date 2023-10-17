@@ -2,39 +2,42 @@
 
 # __Transmission via respiratory droplets__
 
-## Name of the risk
-
-Increased transmission of the virus through close contact with contaminated surfaces.
-
-## Description of the risk
-
-Respiratory droplets carrying the virus can contaminate the built environment.
-
-## Mitigations of this risk
-
-* [Practice social distancing, wear masks, and maintain good hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2298.md)
-* [Encourage the use of face masks, proper disposal of tissues, and regular disinfection practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2439.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1254.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased transmission of the virus through close contact with contaminated surfaces.
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1373.md)
+* [Contamination, transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2491.md)
+* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
+* [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
+* [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2506.md)
+* [Transmission via droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1280.md)
+* [Respiratory transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2510.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
+* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
+
+## Description of the risk
+
+Respiratory droplets carrying the virus can contaminate the built environment.
 
 ## Technologies linked to the risk
 
@@ -43,23 +46,33 @@ Respiratory droplets carrying the virus can contaminate the built environment.
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 * [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+* [Encourage the use of face masks, proper disposal of tissues, and regular disinfection practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2439.md)
+* [Practice social distancing, wear masks, and maintain good hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2298.md)
 
 ## Articles mentionning the risk
 
 * [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
 * [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1254.md)
 

@@ -4,6 +4,19 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
 * [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
+* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
+
+## Closest similar item
+
+* [Network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1817.md)
+* [Network operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1784.md)
+* [operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_330.md)
+* [network providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1397.md)
+* [Network providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1652.md)
+* [grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_250.md)
+* [network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1433.md)
+* [Network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1663.md)
+* [transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1303.md)
+* [building operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_152.md)
 

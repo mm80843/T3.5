@@ -6,3 +6,16 @@
 
 * [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2433.md)
 
+## Closest similar item
+
+* [housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3665.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_456.md)
+* [housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1396.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)
+* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2726.md)
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2996.md)
+* [government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4329.md)
+

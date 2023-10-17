@@ -6,3 +6,16 @@
 
 * [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
 
+## Closest similar item
+
+* [alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4337.md)
+* [improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
+* [Improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2105.md)
+* [thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2432.md)
+* [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
+

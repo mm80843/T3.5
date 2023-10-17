@@ -2,11 +2,24 @@
 
 # __Natural ventilation and operable windows__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Poor natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_956.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved indoor air quality and comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1317.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Poor natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_956.md)
+* [Window ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1386.md)
+* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1970.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2874.md)
+* [Increased natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_484.md)
+* [Level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_227.md)
+* [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_719.md)
+* [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_192.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
 

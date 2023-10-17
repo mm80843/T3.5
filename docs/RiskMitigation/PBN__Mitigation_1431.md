@@ -2,13 +2,26 @@
 
 # __Avoidance of air recirculation__
 
-## Property: has_MitigationSource
-
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Recycling of contaminated air within the HVAC system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3069.md)
+
+## Closest similar item
+
+* [Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1362.md)
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
+* [Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_726.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
+* [Ventilation and Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1713.md)
+* [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_727.md)
+* [Air Filtration and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
+
+## Property: has_MitigationSource
+
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
 ## Property: has_MitigationPrinciple
 

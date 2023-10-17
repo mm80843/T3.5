@@ -2,12 +2,25 @@
 
 # __Improved Ventilation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+* [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
+* [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Improved Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_807.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+* [Enhanced Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
+
 ## Property: has_MitigationSource
 
 * [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

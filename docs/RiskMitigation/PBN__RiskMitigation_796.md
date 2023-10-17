@@ -2,11 +2,24 @@
 
 # __Use of color and design elements__
 
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+
 ## Property: has_MitigationBenefit
 
 * [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Incorporate green elements in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1786.md)
+* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2572.md)
+* [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_799.md)
+* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_612.md)
+* [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1976.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
+* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
+* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1082.md)
+* [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)
+* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1091.md)
 

@@ -2,11 +2,24 @@
 
 # __Implement digital twin framework__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient use of resources in vaccination process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_156.md)
+
 ## Property: has_MitigationBenefit
 
 * [Real-time monitoring and optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_213.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Inefficient use of resources in vaccination process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_156.md)
+* [Digital twins and modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_807.md)
+* [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
+* [to digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
+* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1038.md)
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1110.md)
+* [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1340.md)
+* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1432.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1327.md)
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2052.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 

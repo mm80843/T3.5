@@ -6,3 +6,16 @@
 
 * [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 
+## Closest similar item
+
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
+* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
+* [tourism operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2009.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [tourism organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1481.md)
+* [tourism boards](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1610.md)
+* [tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1079.md)
+* [tourism providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
+* [tourism operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2047.md)
+

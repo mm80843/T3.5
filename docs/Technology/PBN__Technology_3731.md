@@ -6,3 +6,16 @@
 
 * [Expandability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
 
+## Closest similar item
+
+* [enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2017.md)
+* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
+* [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
+* [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
+* [biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
+* [open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
+* [building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
+* [architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
+

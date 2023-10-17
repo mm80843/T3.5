@@ -2,13 +2,13 @@
 
 # __Support for children’s education__
 
-## Property: has_MitigationSource
-
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3110.md)
+
+## Property: has_MitigationSource
+
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
 ## Property: has_MitigationPrinciple
 
@@ -16,6 +16,6 @@ Providing support for children's education, including access to educational reso
 
 ## This Mitigation is enabled by the following technologies
 
-* [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
 * [digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3895.md)
+* [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
 

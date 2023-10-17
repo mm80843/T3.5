@@ -10,3 +10,16 @@
 
 * [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
 
+## Closest similar item
+
+* [contingency planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_635.md)
+* [preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
+* [scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3814.md)
+* [planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2988.md)
+* [participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4213.md)
+* [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
+* [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
+

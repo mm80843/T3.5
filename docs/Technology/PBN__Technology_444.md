@@ -10,3 +10,16 @@
 
 * [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
 
+## Closest similar item
+
+* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
+* [lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1327.md)
+* [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+* [legal advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_159.md)
+* [policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
+* [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
+* [lobbying initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
+* [fundraising campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_448.md)
+

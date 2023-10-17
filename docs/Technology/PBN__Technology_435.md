@@ -10,3 +10,16 @@
 
 * [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
 
+## Closest similar item
+
+* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
+* [use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_497.md)
+* [signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4103.md)
+* [hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
+* [personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2211.md)
+* [personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2554.md)
+* [hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4102.md)
+

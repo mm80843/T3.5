@@ -8,3 +8,16 @@
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
 * [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
 
+## Closest similar item
+
+* [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
+* [smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
+* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
+* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
+* [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
+* [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
+* [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+

@@ -2,12 +2,25 @@
 
 # __Ability to Work from Home__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
+* [Working from Home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1705.md)
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
+* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1809.md)
+* [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2434.md)
+* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
+* [Stay at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2268.md)
+* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,18 +2,31 @@
 
 # __individuals in isolation__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q1674502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1674502.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [individual in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2160.md)
+* [isolated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_65.md)
+* [individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1146.md)
+* [individual in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2251.md)
+* [general population undergoing isolation and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1031.md)
+* [individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_614.md)
+* [self-isolating individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_35.md)
+* [individuals living alone or with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1343.md)
+* [individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
+* [individual living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2370.md)
 
 ## Risk affecting this stakeholder
 
 * [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1674502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1674502.md)
 

@@ -2,15 +2,28 @@
 
 # __wearable manufacturer__
 
-## This Stakeholder is identified by the following QID
-
-* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
+## Closest similar item
+
+* [wearable manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_761.md)
+* [wearable device manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1976.md)
+* [wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
+* [manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1968.md)
+* [Manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2000.md)
+* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1972.md)
+* [device manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1901.md)
+* [medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_548.md)
+* [device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1435.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
 

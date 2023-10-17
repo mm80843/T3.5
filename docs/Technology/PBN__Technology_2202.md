@@ -2,6 +2,19 @@
 
 # __Air purifiers__
 
+## Closest similar item
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [use of air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1045.md)
+* [air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
+* [use of air purifiers or ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_859.md)
+* [Use of air purifiers or ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2665.md)
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
+* [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+* [air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
+* [air purifiers with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2892.md)
+
 ## This Technology belongs to this TechSubgroup
 
 * [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)

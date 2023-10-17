@@ -10,3 +10,16 @@
 
 * [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1975.md)
 
+## Closest similar item
+
+* [Time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2038.md)
+* [time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
+* [real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1707.md)
+* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2473.md)
+* [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
+* [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
+* [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2481.md)
+* [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
+* [monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
+* [real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
+

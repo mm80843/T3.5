@@ -2,14 +2,6 @@
 
 # __Automation__
 
-## Property: has_BP_EnablerTitle
-
-enabler_017
-
-## Property: has_TechEquivalent
-
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
-
 ## Thees blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
@@ -24,4 +16,25 @@ enabler_017
 * [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
+## Closest similar item
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_177.md)
+* [automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_178.md)
+* [automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_179.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
+* [testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_181.md)
+* [automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
+* [automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
+* [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_184.md)
+* [automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
+
+## Property: has_TechEquivalent
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_017
 

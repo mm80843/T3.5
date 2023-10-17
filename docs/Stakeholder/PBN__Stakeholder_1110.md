@@ -2,18 +2,31 @@
 
 # __especially those living in flats__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q6659294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6659294.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [especially those living in flat](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2123.md)
+* [particularly those living in small apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1104.md)
+* [Particularly those living in small apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2168.md)
+* [Particularly those living in small apartment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2110.md)
+* [especially urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1038.md)
+* [especially those in densely populated and low-income neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2262.md)
+* [especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_897.md)
+* [especially those living in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2333.md)
+* [especially those in densely populated and low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1228.md)
+* [especially those living in noisy area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2242.md)
 
 ## Risk affecting this stakeholder
 
 * [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1684.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q6659294](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6659294.md)
 

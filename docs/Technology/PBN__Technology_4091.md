@@ -6,3 +6,16 @@
 
 * [Distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1818.md)
 
+## Closest similar item
+
+* [hardware](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3931.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [ict](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4283.md)
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
+

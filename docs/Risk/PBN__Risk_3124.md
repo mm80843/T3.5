@@ -6,3 +6,16 @@
 
 * [Reduced traveling and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
 
+## Closest similar item
+
+* [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
+* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_130.md)
+* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
+* [Decreased physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
+* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_46.md)
+* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
+* [Physical health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2986.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
+

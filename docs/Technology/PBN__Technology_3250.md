@@ -6,3 +6,16 @@
 
 * [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
 
+## Closest similar item
+
+* [high-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
+* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2712.md)
+* [high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1115.md)
+* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2708.md)
+* [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
+* [high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_272.md)
+* [use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_501.md)
+* [installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
+* [Installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2763.md)
+* [high-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1350.md)
+

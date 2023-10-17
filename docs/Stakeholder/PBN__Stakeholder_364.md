@@ -2,6 +2,19 @@
 
 # __architect__
 
+## Closest similar item
+
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [Landscape architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1678.md)
+* [building designer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1916.md)
+* [landscape architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_944.md)
+* [Landscape architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1801.md)
+* [building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
+* [building design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1242.md)
+* [building professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_98.md)
+* [interior designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1418.md)
+* [builder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1975.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_916.md)

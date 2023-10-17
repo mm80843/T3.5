@@ -2,36 +2,42 @@
 
 # __Limited data sharing__
 
-## Name of the risk
-
-Limited accessibility to research data, hindered collaboration and reproducibility.
-
-## Description of the risk
-
-Challenges in data sharing, including lack of awareness, concerns over transparency and ethics, sociopolitical barriers, and commercial restrictions.
-
-## Mitigations of this risk
-
-* [Enforce data sharing requirements, incentivize data sharing, improve legal and regulatory frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1832.md)
-
-## Property: has_RiskHealth
-
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
-* [research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [funding bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_851.md)
+* [data providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_850.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Limited accessibility to research data, hindered collaboration and reproducibility.
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3019.md)
+* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
+* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
+* [Limited access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_381.md)
+* [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2624.md)
+* [Data sharing barriers, legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2627.md)
+
+## Description of the risk
+
+Challenges in data sharing, including lack of awareness, concerns over transparency and ethics, sociopolitical barriers, and commercial restrictions.
 
 ## Technologies linked to the risk
 
@@ -39,21 +45,28 @@ Challenges in data sharing, including lack of awareness, concerns over transpare
 * [data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_517.md)
 * [audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_518.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [data providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_850.md)
-* [funding bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_851.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Enforce data sharing requirements, incentivize data sharing, improve legal and regulatory frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1832.md)
+
+## Articles mentionning the risk
+
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
+* [research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
+* [funding bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_851.md)
 

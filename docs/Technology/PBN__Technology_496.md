@@ -10,3 +10,16 @@
 
 * [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
 
+## Closest similar item
+
+* [advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1561.md)
+* [improved virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_59.md)
+* [Improved virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2788.md)
+* [viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
+* [advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_792.md)
+* [pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
+* [airborne virus filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3211.md)
+* [attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4471.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+

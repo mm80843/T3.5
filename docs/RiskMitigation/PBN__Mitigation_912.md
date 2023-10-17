@@ -2,12 +2,25 @@
 
 # __Monitoring Environmental Indicators__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Environmental Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_755.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
+* [Monitoring Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_911.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
+* [Indoor Air Quality Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1773.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

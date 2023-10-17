@@ -10,3 +10,16 @@
 
 * [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
 
+## Closest similar item
+
+* [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2746.md)
+* [public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1499.md)
+* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2730.md)
+* [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
+* [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+* [green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2745.md)
+* [space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
+

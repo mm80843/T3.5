@@ -6,3 +6,16 @@
 
 * [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2352.md)
 
+## Closest similar item
+
+* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+* [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
+* [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
+* [location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3708.md)
+* [mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
+* [crowd surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2921.md)
+* [technological tracking device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
+* [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
+* [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
+* [crowd-monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1836.md)
+

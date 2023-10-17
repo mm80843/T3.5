@@ -4,9 +4,22 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
-* [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
 * [Lack of Social Distancing Implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
 * [Inadequate Hygiene Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
 * [Failure to Disinfect and Clean Work Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
+* [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
+* [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
+
+## Closest similar item
+
+* [managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1521.md)
+* [site engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_981.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1659.md)
+* [management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1453.md)
+* [hiring managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_984.md)
+* [office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1289.md)
+* [Office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1725.md)
+* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+* [real estate managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2065.md)
 

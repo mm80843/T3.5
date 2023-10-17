@@ -2,12 +2,25 @@
 
 # __Run HVAC system longer hours__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Regular HVAC Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
+* [Enhanced HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1756.md)
+* [Increasing fresh air supply in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1345.md)
+* [Extending working hours of the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1348.md)
+* [Clean and functional HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2288.md)
+* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_220.md)
+* [Zoned Air Conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
+* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2048.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Shut off air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2286.md)
+
 ## Property: has_MitigationSource
 
 * [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

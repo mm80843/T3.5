@@ -4,6 +4,19 @@
 
 ## This Technology enables the following mitigations
 
-* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1336.md)
 * [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
+* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1336.md)
+
+## Closest similar item
+
+* [quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
+* [quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
+* [quarantine guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4039.md)
+* [quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
+* [quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
+* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2502.md)
+* [isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
+* [material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3143.md)
+* [shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
+* [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
 

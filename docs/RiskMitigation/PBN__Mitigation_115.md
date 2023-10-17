@@ -2,13 +2,26 @@
 
 # __Standardization of protocols for seamless communication and privacy protection__
 
-## Property: has_MitigationSource
-
-* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Disjointed insights and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2449.md)
+
+## Closest similar item
+
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
+* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_111.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
+* [Standardization of analytical protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_231.md)
+* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_518.md)
+* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
+* [Secure and transparent data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1881.md)
+* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
+* [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
+
+## Property: has_MitigationSource
+
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
 
+## Closest similar item
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2070.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [AI](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
+* [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
+* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
+* [AI support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2068.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [Artificial Intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
+

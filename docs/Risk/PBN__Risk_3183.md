@@ -6,3 +6,16 @@
 
 * [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
 
+## Closest similar item
+
+* [Increased energy demands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3396.md)
+* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
+* [Higher energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2696.md)
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
+* [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
+* [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
+* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
+* [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2429.md)
+

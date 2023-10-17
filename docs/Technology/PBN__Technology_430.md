@@ -10,3 +10,16 @@
 
 * [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 
+## Closest similar item
+
+* [job placement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1694.md)
+* [online recruitment platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_813.md)
+* [job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
+* [Job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+* [job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+* [online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
+* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
+* [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+

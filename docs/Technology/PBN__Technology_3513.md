@@ -7,3 +7,16 @@
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
 * [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1791.md)
 
+## Closest similar item
+
+* [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+* [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
+* [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
+* [better laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
+* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+* [access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
+

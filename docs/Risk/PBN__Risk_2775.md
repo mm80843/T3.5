@@ -6,3 +6,16 @@
 
 * [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
 
+## Closest similar item
+
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2662.md)
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
+* [Disruption of Work and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
+* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3232.md)
+* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3110.md)
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1517.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+

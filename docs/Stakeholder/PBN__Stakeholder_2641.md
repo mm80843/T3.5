@@ -2,15 +2,28 @@
 
 # __datum curator__
 
-## This Stakeholder is identified by the following QID
-
-* [Q674426](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q674426.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
+## Closest similar item
+
+* [datum scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2605.md)
+* [datum management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1884.md)
+* [datum collector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2645.md)
+* [datum analyst](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2662.md)
+* [datum owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2637.md)
+* [datum management company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1970.md)
+* [datum protection officer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2615.md)
+* [datum security professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2636.md)
+* [datum protection authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2649.md)
+* [datum handler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q674426](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q674426.md)
 

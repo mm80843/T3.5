@@ -2,11 +2,24 @@
 
 # __Natural light__
 
+## Risks possibly mitigated by this Mitigation
+
+* [PVP5: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_178.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [PVP5: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_178.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1305.md)
+* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_848.md)
+* [Use of natural light, proper artificial lighting design, glare control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1567.md)
+* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2896.md)
+* [Sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_730.md)
+* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2570.md)
+* [Encourage indoor gardening, provide access to natural light, create green views in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2765.md)
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1394.md)
+* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_136.md)
+* [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
 

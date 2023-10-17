@@ -6,3 +6,16 @@
 
 * [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
 
+## Closest similar item
+
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+* [Inadequate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_572.md)
+* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
+* [Inadequate Safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2670.md)
+* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1958.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
+* [Lack of Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
+* [Lack of protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3213.md)
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+

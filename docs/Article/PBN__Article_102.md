@@ -12,26 +12,13 @@
 * [Isolation of workers from the hazard](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_501.md)
 * [Minimized face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_502.md)
 
-## Short summary of the article
-
-This research abstract summarizes a study that explores the prevention and control of the COVID-19 outbreak in offshore workplaces, with a focus on the oil and gas industry. The study identifies various measures that can be implemented to prevent the spread of COVID-19 in offshore facilities. This includes pre-employment and periodic medical check-ups, as well as the identification and management of workers with comorbidities who may be more susceptible to severe illness. The study also highlights the importance of self-health evaluation, close contact tracing, and the establishment of temporary isolation and quarantine facilities in offshore workplaces. Engineering controls, administrative controls, personal protective equipment (PPE), and their combination are recommended as effective strategies for controlling COVID-19 in offshore workplaces. The study also discusses the challenges faced in implementing these prevention and control measures, such as limited facilities for self-quarantine and workers' compliance with health protocols. Overall, the study emphasizes the need for comprehensive and systematic efforts to prevent and control COVID-19 in offshore workplaces to ensure the health and safety of workers and maintain business continuity.
-
 ## Summary of the article
 
 COVID-19 is a sickness caused by a virus called SARS-CoV-2. It has spread all over the world and has affected many industries and workers. Some workers, like those who work on offshore platforms, are at a higher risk of getting COVID-19 because they work closely with other people in a small space. To prevent the spread of the virus at work, companies can do things like giving workers medical check-ups, making sure they have good ventilation, and providing handwashing stations with soap and hand sanitizer. They can also use things called barriers or partitions to separate workers from each other. It's important for companies to control the virus at work so that workers stay safe and healthy.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
-* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
-* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
-* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
-* [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
-* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
-* [Personal Protective Equipment (PPE) usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2144.md)
+This research abstract summarizes a study that explores the prevention and control of the COVID-19 outbreak in offshore workplaces, with a focus on the oil and gas industry. The study identifies various measures that can be implemented to prevent the spread of COVID-19 in offshore facilities. This includes pre-employment and periodic medical check-ups, as well as the identification and management of workers with comorbidities who may be more susceptible to severe illness. The study also highlights the importance of self-health evaluation, close contact tracing, and the establishment of temporary isolation and quarantine facilities in offshore workplaces. Engineering controls, administrative controls, personal protective equipment (PPE), and their combination are recommended as effective strategies for controlling COVID-19 in offshore workplaces. The study also discusses the challenges faced in implementing these prevention and control measures, such as limited facilities for self-quarantine and workers' compliance with health protocols. Overall, the study emphasizes the need for comprehensive and systematic efforts to prevent and control COVID-19 in offshore workplaces to ensure the health and safety of workers and maintain business continuity.
 
 ## This article points to following mitigation
 
@@ -46,6 +33,19 @@ COVID-19 is a sickness caused by a virus called SARS-CoV-2. It has spread all ov
 * [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2037.md)
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2038.md)
 * [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
+
+## List of risks in an article
+
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
+* [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
+* [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
+* [Personal Protective Equipment (PPE) usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2144.md)
+* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
+* [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
+* [Comorbid workers working from home (WFH)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
+* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 
 ## Title of the article
 

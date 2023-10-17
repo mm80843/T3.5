@@ -11,26 +11,13 @@
 * [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_507.md)
 * [Reduced strain on healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_508.md)
 
-## Short summary of the article
-
-In this study, the authors analyze the effects of anti-contagion policies on the growth rate of COVID-19 infections in six countries: China, South Korea, Italy, Iran, France, and the United States. They use a reduced-form econometric approach to estimate the effects of policies on infection growth rates by comparing the growth rate before and after the implementation of each policy. The results show that the implementation of anti-contagion policies significantly slowed the growth of infections in all six countries. The estimated effects of all policies combined were large enough to offset a large fraction of the baseline growth rate of infections. The study also provides projections of the cumulative number of infections that would have occurred in each country if no policies had been implemented, and the results suggest that anti-contagion policies have already substantially reduced the number of COVID-19 infections observed worldwide. These findings emphasize the importance of implementing and maintaining such policies to mitigate the spread of COVID-19. However, the study notes that these results should be interpreted in conjunction with other models and not as a substitute for process-based epidemiological models.
-
 ## Summary of the article
 
 The COVID-19 pandemic has made countries around the world implement policies to slow down the spread of the virus. These policies include things like closing restaurants and restricting travel. It is important to know if these policies are actually working and slowing down the spread of infections. Scientists studied the effects of these policies in six countries: China, South Korea, Italy, Iran, France, and the United States. They found that the policies did indeed slow down the growth rate of infections. Without these policies, there would have been many more cases of COVID-19. So, these policies are important in protecting people and controlling the spread of the virus.
 
-## Referenced by other articles
+## Short summary of the article
 
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
-
-## List of risks in an article
-
-* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1489.md)
-* [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)
-* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
-* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1492.md)
-* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
+In this study, the authors analyze the effects of anti-contagion policies on the growth rate of COVID-19 infections in six countries: China, South Korea, Italy, Iran, France, and the United States. They use a reduced-form econometric approach to estimate the effects of policies on infection growth rates by comparing the growth rate before and after the implementation of each policy. The results show that the implementation of anti-contagion policies significantly slowed the growth of infections in all six countries. The estimated effects of all policies combined were large enough to offset a large fraction of the baseline growth rate of infections. The study also provides projections of the cumulative number of infections that would have occurred in each country if no policies had been implemented, and the results suggest that anti-contagion policies have already substantially reduced the number of COVID-19 infections observed worldwide. These findings emphasize the importance of implementing and maintaining such policies to mitigate the spread of COVID-19. However, the study notes that these results should be interpreted in conjunction with other models and not as a substitute for process-based epidemiological models.
 
 ## This article points to following mitigation
 
@@ -40,9 +27,22 @@ The COVID-19 pandemic has made countries around the world implement policies to 
 * [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
 * [Emergency declarations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_822.md)
 
+## List of risks in an article
+
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
+* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1489.md)
+* [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)
+* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1492.md)
+* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
+
 ## Title of the article
 
 The effect of large-scale anti-contagion policies on the COVID-19 pandemic
+
+## Referenced by other articles
+
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
 ## Year of publication
 

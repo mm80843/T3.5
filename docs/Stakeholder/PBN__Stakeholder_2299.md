@@ -2,17 +2,30 @@
 
 # __child__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+* [Particularly child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2359.md)
+* [young person](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2127.md)
+* [child of immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2172.md)
+* [adolescent](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2522.md)
+* [adolescents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_579.md)
+* [Kindergarten](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1635.md)
+* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
+* [youth](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_491.md)
+* [student](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
+
 ## This Stakeholder is identified by the following QID
 
 * [Q10954511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10954511.md)
 * [Q7569](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7569.md)
 * [Q55786729](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55786729.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
 

@@ -2,40 +2,9 @@
 
 # __Excessive noise levels__
 
-## Name of the risk
-
-Increased stress, difficulty in communication
-
-## Description of the risk
-
-Loud and disruptive sounds in physical spaces
-
-## Mitigations of this risk
-
-* [Implement noise reduction measures, use sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2931.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
-* [acoustic engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1510.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1833.md)
-* [soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
 
 ## People affected by this risk
 
@@ -43,15 +12,59 @@ Loud and disruptive sounds in physical spaces
 * [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 
+## Name of the risk
+
+Increased stress, difficulty in communication
+
 ## Property: has_RiskISO_Purpose
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Closest similar item
+
+* [Noise Disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2482.md)
+* [Increase in neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_869.md)
+* [Reduction of environmental noise level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
+* [Environmental noise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_841.md)
+* [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
+* [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
+* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
+* [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
+* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
+
+## Description of the risk
+
+Loud and disruptive sounds in physical spaces
+
+## Technologies linked to the risk
+
+* [soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
+* [noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1833.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Mitigations of this risk
+
+* [Implement noise reduction measures, use sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2931.md)
+
+## Articles mentionning the risk
+
+* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [acoustic engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1510.md)
 

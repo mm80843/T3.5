@@ -2,13 +2,26 @@
 
 # __Tick Control__
 
-## Property: has_MitigationSource
-
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Tick-borne infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
+
+## Closest similar item
+
+* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
+* [Automatic Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
+* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [Smartwatch Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+* [IoT buttons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2020.md)
+* [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1959.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+
+## Property: has_MitigationSource
+
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 
 ## Property: has_MitigationPrinciple
 

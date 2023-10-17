@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2313.md)
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
+* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2313.md)
+
+## Closest similar item
+
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [advanced wastewater treatment technologies such as uv disinfection or ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1358.md)
+* [regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2570.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+* [disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
 

@@ -2,13 +2,26 @@
 
 # __Monitoring data sources__
 
-## Property: has_MitigationSource
-
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+
+## Closest similar item
+
+* [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Continuous Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
+* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
+* [Monitoring Traffic Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
+* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
+
+## Property: has_MitigationSource
+
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
 ## Property: has_MitigationPrinciple
 

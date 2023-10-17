@@ -6,3 +6,16 @@
 
 * [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1391.md)
 
+## Closest similar item
+
+* [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2690.md)
+* [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4069.md)
+* [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2235.md)
+* [natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)
+* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2673.md)
+* [natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_703.md)
+* [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
+* [natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1014.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2707.md)
+

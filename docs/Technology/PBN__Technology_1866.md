@@ -10,3 +10,16 @@
 
 * [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
 
+## Closest similar item
+
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2178.md)
+* [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
+* [secure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4425.md)
+* [regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1668.md)
+* [quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
+* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2502.md)
+* [protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
+* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+

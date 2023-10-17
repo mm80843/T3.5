@@ -6,3 +6,16 @@
 
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 
+## Closest similar item
+
+* [movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
+* [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
+* [use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1267.md)
+* [thick walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2957.md)
+* [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
+* [glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1265.md)
+* [adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
+* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
+

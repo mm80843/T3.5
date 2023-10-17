@@ -10,3 +10,16 @@
 
 * [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
 
+## Closest similar item
+
+* [technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3171.md)
+* [emerging technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_275.md)
+* [improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_528.md)
+* [technological means](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4166.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_281.md)
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
+* [technology transfer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3577.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+

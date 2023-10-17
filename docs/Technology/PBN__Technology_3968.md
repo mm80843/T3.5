@@ -6,3 +6,16 @@
 
 * [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
 
+## Closest similar item
+
+* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
+* [water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
+* [automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1633.md)
+* [automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1451.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
+* [automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2986.md)
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
+* [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+* [automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
+

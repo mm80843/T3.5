@@ -2,13 +2,26 @@
 
 # __Robot-assisted swabbing and blood testing__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q333482](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q333482.md)
+* [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2886.md)
+* [premoistened swabs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3906.md)
+* [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
+* [blood collection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4492.md)
+* [clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1972.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
+## This Technology is identified by the following QID
+
+* [Q333482](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q333482.md)
 
 ## This Technology belongs to this TechGroup
 

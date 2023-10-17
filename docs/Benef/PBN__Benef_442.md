@@ -2,6 +2,10 @@
 
 # __Improved mental health__
 
+## Name of the Benefit
+
+Window designs that allow for interesting views and spaces of retreat promote resident well-being and reduce stress.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in the expansion of urban green spaces can expect increased property values as people prioritize living near green spaces for improved mental health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_476.md)
@@ -12,6 +16,15 @@
 * [Improved mental health can lead to increased productivity, reduced absenteeism, and improved overall well-being for individuals, which can positively impact their financial well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1467.md)
 * [Increased mental health can lead to improved productivity, reduced healthcare costs, and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1484.md)
 
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
+* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+
 ## Articles mentionning this Benefit
 
 * [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
@@ -20,17 +33,4 @@
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
-
-## Name of the Benefit
-
-Window designs that allow for interesting views and spaces of retreat promote resident well-being and reduce stress.
-
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
-* [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
 

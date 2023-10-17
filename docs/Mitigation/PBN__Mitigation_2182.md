@@ -2,13 +2,26 @@
 
 # __Interdependencies Mapping__
 
-## Property: has_MitigationSource
-
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+
+## Closest similar item
+
+* [Case-based mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2086.md)
+* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2085.md)
+* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2368.md)
+* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1798.md)
+* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1483.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
+* [Relational Capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
+
+## Property: has_MitigationSource
+
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
 ## Property: has_MitigationPrinciple
 

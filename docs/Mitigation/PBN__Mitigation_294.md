@@ -2,13 +2,26 @@
 
 # __Controlling Access Points__
 
-## Property: has_MitigationSource
-
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
+
+## Closest similar item
+
+* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_156.md)
+* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
+* [Limited Visitor Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_460.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2378.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1687.md)
+* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_412.md)
+* [Barrier-Free Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
+* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
+* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
+
+## Property: has_MitigationSource
+
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 
 ## Property: has_MitigationPrinciple
 

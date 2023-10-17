@@ -2,12 +2,25 @@
 
 # __Photocatalytic Oxidation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
+* [Monitoring reactions and performance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1604.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2310.md)
+* [UV Irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [RH effect on UV inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
+* [Wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
+* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
+
 ## Property: has_MitigationSource
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

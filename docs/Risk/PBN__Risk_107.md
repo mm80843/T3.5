@@ -6,3 +6,16 @@
 
 * [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_131.md)
 
+## Closest similar item
+
+* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
+* [Declining funding flows](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
+* [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
+* [Exclusion from government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_563.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
+

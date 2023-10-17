@@ -2,13 +2,26 @@
 
 # __UV light disinfection__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
+* [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2559.md)
+* [uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1253.md)
+* [UV-C light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2705.md)
+* [uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
+* [UV disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2681.md)
+* [UV-C disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2706.md)
+* [uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
+* [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
+* [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2349.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+
+## This Technology is identified by the following QID
+
+* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 
 ## This Technology belongs to this TechGroup
 

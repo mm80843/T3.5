@@ -10,3 +10,16 @@
 
 * [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
 
+## Closest similar item
+
+* [animal surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
+* [Animal surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2868.md)
+* [mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_979.md)
+* [monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
+* [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2544.md)
+* [vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
+* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2442.md)
+* [Risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2452.md)
+* [drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_416.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2455.md)
+

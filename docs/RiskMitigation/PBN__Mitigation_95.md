@@ -2,13 +2,26 @@
 
 # __Heightened surveillance and mosquito control measures__
 
-## Property: has_MitigationSource
-
-* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of understanding disease transmission pattern](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2436.md)
+
+## Closest similar item
+
+* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
+* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
+* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
+* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1068.md)
+* [Vector Surveillance and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
+* [Global virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
+
+## Property: has_MitigationSource
+
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
 ## Property: has_MitigationPrinciple
 

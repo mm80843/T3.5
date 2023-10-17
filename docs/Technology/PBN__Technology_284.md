@@ -10,3 +10,16 @@
 
 * [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
 
+## Closest similar item
+
+* [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [open-source platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
+* [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
+* [open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
+* [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+* [open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_786.md)
+

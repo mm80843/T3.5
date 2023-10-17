@@ -2,15 +2,15 @@
 
 # __Automated infrastructure: COVID-19 and the shifting geographies of supply chain capitalism__
 
-## DOI of the article
+## Year of publication
 
-10.1177/03091325211038718
+2022
 
 ## Title of the article
 
 Automated infrastructure: COVID-19 and the shifting geographies of supply chain capitalism
 
-## Year of publication
+## DOI of the article
 
-2022
+10.1177/03091325211038718
 

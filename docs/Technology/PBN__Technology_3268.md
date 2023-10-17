@@ -6,3 +6,16 @@
 
 * [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
 
+## Closest similar item
+
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
+* [liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3482.md)
+* [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [cleaning disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4516.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+

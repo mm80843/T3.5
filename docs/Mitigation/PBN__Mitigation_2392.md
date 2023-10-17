@@ -2,12 +2,25 @@
 
 # __Genetic manipulation of mosquitoes (Gene drive)__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
+* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_95.md)
+* [Design and Disease Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1291.md)
+* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2304.md)
+* [Inoculation of virus onto Hela cells](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_254.md)
+* [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+* [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
+
 ## Property: has_MitigationSource
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -15,6 +28,6 @@ Genetic manipulation of mosquitoes involves using genetic modification technolog
 
 ## This Mitigation is enabled by the following technologies
 
-* [genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4462.md)
 * [such as crispr/cas9](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4463.md)
+* [genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4462.md)
 

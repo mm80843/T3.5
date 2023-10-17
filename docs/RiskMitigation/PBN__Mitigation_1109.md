@@ -2,13 +2,26 @@
 
 # __Partitioning to make anterooms__
 
-## Property: has_MitigationSource
-
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Migration of infectious particles from the isolation room into the corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2928.md)
+
+## Closest similar item
+
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
+* [Portable Acoustic Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1961.md)
+* [Segregation of subsets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
+* [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1205.md)
+* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_129.md)
+* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2001.md)
+* [Modular Construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
+* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
+* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2480.md)
+
+## Property: has_MitigationSource
+
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 
 ## Property: has_MitigationPrinciple
 

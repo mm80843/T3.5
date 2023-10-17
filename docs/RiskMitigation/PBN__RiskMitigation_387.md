@@ -2,11 +2,24 @@
 
 # __Risk maps through CDRs__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Malaria transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_308.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced targeting of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_384.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Malaria transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_308.md)
+* [CDR data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_388.md)
+* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_391.md)
+* [Improve the accuracy and precision of case-based risk maps through better data collection and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2832.md)
+* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_379.md)
+* [Develop and use accurate and timely risk maps for targeted deployment of control measures and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2829.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_836.md)
+* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1662.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1658.md)
+* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_300.md)
 

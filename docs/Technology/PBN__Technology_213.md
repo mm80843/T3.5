@@ -10,3 +10,16 @@
 
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1132.md)
 
+## Closest similar item
+
+* [Nanotechnology-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2685.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4405.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+* [disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
+* [use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1728.md)
+

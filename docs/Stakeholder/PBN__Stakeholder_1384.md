@@ -2,13 +2,26 @@
 
 # __clinical laboratories__
 
-## Risk affecting this stakeholder
-
-* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Closest similar item
+
+* [medical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1580.md)
+* [clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1847.md)
+* [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
+* [testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1159.md)
+* [laboratory researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1562.md)
+* [laboratory management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_702.md)
+* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
+* [laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
+* [laboratory supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1055.md)
+* [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

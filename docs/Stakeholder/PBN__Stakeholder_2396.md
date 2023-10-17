@@ -2,14 +2,27 @@
 
 # __especially in area with high infection rate__
 
-## This Stakeholder is identified by the following QID
-
-* [Q28454687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454687.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
+## Closest similar item
+
+* [especially in areas with high infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_602.md)
+* [especially in area with higher infection rate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2176.md)
+* [especially in areas with higher infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_930.md)
+* [especially those in close contact with infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2151.md)
+* [especially in close proximity to potential infectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_926.md)
+* [especially in close proximity to potential infector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2284.md)
+* [especially those in close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1429.md)
+* [especially those in affected areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_600.md)
+* [especially those in affected area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2213.md)
+* [especially in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1147.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q28454687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454687.md)
 

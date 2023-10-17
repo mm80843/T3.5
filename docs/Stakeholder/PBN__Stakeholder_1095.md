@@ -6,3 +6,16 @@
 
 * [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
 
+## Closest similar item
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [construction company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_621.md)
+* [construction firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_282.md)
+* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+* [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+* [utility companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_765.md)
+* [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
+* [utility company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1983.md)
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+

@@ -2,13 +2,26 @@
 
 # __Real-time updates and communication__
 
-## Property: has_MitigationSource
-
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Misinformation, accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2999.md)
+
+## Closest similar item
+
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [Enhanced data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1891.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1795.md)
+* [Enhanced Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Data synchronization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_700.md)
+
+## Property: has_MitigationSource
+
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 
 ## Property: has_MitigationPrinciple
 

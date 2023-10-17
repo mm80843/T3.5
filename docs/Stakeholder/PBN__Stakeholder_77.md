@@ -2,6 +2,19 @@
 
 # __public health experts__
 
+## Closest similar item
+
+* [public health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1361.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [public health specialists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_233.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [public health agencies/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_136.md)
+* [public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_122.md)
+* [public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_515.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1880.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)

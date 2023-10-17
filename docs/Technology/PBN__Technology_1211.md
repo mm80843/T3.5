@@ -2,9 +2,23 @@
 
 # __internet access__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
+* [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
+* [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
+* [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1938.md)
+* [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4446.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [broadband connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4356.md)
+* [Internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2840.md)
+* [internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
+* [improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+
+## Risks linked to this technology
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
 
 ## This Technology enables the following mitigations
 
@@ -17,18 +31,17 @@
 * [Online shopping for home delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
-* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_958.md)
-* [Validation of news sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
-* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
-* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
+* [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
 * [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_968.md)
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
 * [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
 * [Posting caps with real data related to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_972.md)
-* [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
+* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
+* [Validation of news sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
+* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_958.md)
 * [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
+* [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
 

@@ -2,37 +2,39 @@
 
 # __Ethical concerns__
 
-## Name of the risk
-
-Ethical dilemmas, potential biases in decision-making, unequal access to technology
-
-## Description of the risk
-
-Use of emerging technologies raises ethical questions regarding data, privacy, and AI.
-
-## Mitigations of this risk
-
-* [Establish ethical guidelines and ensure transparency, fairness, and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2783.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_65.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2472.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
-* [technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_719.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [society as a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_437.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Ethical dilemmas, potential biases in decision-making, unequal access to technology
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
+* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2626.md)
+* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2605.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Discrimination and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3127.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
+* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
+
+## Description of the risk
+
+Use of emerging technologies raises ethical questions regarding data, privacy, and AI.
 
 ## Technologies linked to the risk
 
@@ -40,20 +42,31 @@ Use of emerging technologies raises ethical questions regarding data, privacy, a
 * [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
 * [ai ethics boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1641.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [society as a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_437.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Establish ethical guidelines and ensure transparency, fairness, and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2783.md)
+* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_65.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2472.md)
+
+## Articles mentionning the risk
+
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
+* [technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_719.md)
 

@@ -2,53 +2,66 @@
 
 # __Biased risk perception__
 
-## Name of the risk
-
-Decreased adoption of protective measures, increased risk of infection and spread
-
-## Description of the risk
-
-Biased risk perception can lead to irrational behavior and hinder the adoption of protective measures
-
-## Mitigations of this risk
-
-* [Promoting accurate and evidence-based risk communication, addressing misinformation and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2404.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Decreased adoption of protective measures, increased risk of infection and spread
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
+* [Concealed information, ambiguity in risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3464.md)
+* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
+* [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
+* [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
+* [Biased estimates and inferences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2795.md)
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
+* [Biases in representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2675.md)
+* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
+* [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2163.md)
+
+## Description of the risk
+
+Biased risk perception can lead to irrational behavior and hinder the adoption of protective measures
 
 ## Technologies linked to the risk
 
 * [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Promoting accurate and evidence-based risk communication, addressing misinformation and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2404.md)
+
+## Articles mentionning the risk
+
+* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 

@@ -6,3 +6,16 @@
 
 * [Field Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_362.md)
 
+## Closest similar item
+
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
+* [healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1554.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+* [healthcare capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1606.md)
+* [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
+* [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2246.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+

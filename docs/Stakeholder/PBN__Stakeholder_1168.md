@@ -2,18 +2,31 @@
 
 # __healthcare researchers__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q15401884](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15401884.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Closest similar item
+
+* [medical researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_687.md)
+* [healthcare researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1879.md)
+* [researchers/public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_138.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_595.md)
+* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+* [public health researchers and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_123.md)
+* [healthcare professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1873.md)
+* [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
 
 ## Risk affecting this stakeholder
 
 * [Data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q15401884](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15401884.md)
 

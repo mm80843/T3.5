@@ -6,3 +6,16 @@
 
 * [Continuous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1670.md)
 
+## Closest similar item
+
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
+* [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_739.md)
+* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)
+* [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
+* [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
+* [Data gaps and lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2911.md)
+* [Limited data, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2997.md)
+* [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3049.md)
+* [Insufficient evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
+

@@ -6,3 +6,16 @@
 
 * [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1213.md)
 
+## Closest similar item
+
+* [urban population living in crowded area and high-density neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2506.md)
+* [urban population in highly urbanized area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2461.md)
+* [urban populations in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1001.md)
+* [general population in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_571.md)
+* [urban populations living in crowded areas and high-density neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1583.md)
+* [densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_901.md)
+* [residents of densely populated cities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1160.md)
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+* [individuals in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1323.md)
+* [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
+

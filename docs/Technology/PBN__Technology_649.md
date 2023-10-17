@@ -2,22 +2,35 @@
 
 # __occupancy sensors__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
-* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_89.md)
+* [occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
+* [Occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2861.md)
+* [occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_433.md)
+* [Occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2537.md)
+* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2453.md)
+* [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
+* [real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
+* [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
+* [real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3676.md)
 
 ## Risks linked to this technology
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Unbalanced utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
 * [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
 * [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
-* [Unbalanced utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
 * [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
+## This Technology enables the following mitigations
+
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
+* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_89.md)
 
 ## This Technology belongs to this TechGroup
 

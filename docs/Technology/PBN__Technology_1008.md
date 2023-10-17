@@ -2,24 +2,37 @@
 
 # __touchless technologies__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
+* [touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
+* [touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1291.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+* [touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+* [touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
+* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
+* [touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
+* [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
+* [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
 
 ## Risks linked to this technology
 
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
 * [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_610.md)
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
 * [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
-
-## This Technology is identified by the following QID
-
-* [Q619500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q619500.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
+
+## This Technology enables the following mitigations
+
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
+
+## This Technology is identified by the following QID
+
+* [Q619500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q619500.md)
 
 ## This Technology belongs to this TechGroup
 

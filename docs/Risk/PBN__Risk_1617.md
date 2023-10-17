@@ -2,50 +2,63 @@
 
 # __Homogeneity in urban park use__
 
-## Name of the risk
-
-Limited diversity in park users and potential exclusion of certain populations.
-
-## Description of the risk
-
-The same individuals and communities who visited parks before COVID-19 were more likely to continue park use during the pandemic.
-
-## Mitigations of this risk
-
-* [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2156.md)
-
-## Property: has_RiskHealth
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Stakeholders who can mitigate this risk
-
-* [local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 
 ## People affected by this risk
 
 * [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
 * [bipoc residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1047.md)
 
+## Name of the risk
+
+Limited diversity in park users and potential exclusion of certain populations.
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Property: has_RiskISO_Impact
+## Closest similar item
 
+* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1620.md)
+* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1619.md)
+* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1618.md)
+* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2898.md)
+* [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
+* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1616.md)
+* [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2897.md)
+* [Inadequate provision of public parks without government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_143.md)
+* [Urban activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_18.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
+
+## Description of the risk
+
+The same individuals and communities who visited parks before COVID-19 were more likely to continue park use during the pandemic.
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+
+## Mitigations of this risk
+
+* [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2156.md)
 
 ## Articles mentionning the risk
 
 * [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+
+## Property: has_RiskISO_Impact
+
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
 

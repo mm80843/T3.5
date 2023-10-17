@@ -2,6 +2,19 @@
 
 # __water treatment facilities__
 
+## Closest similar item
+
+* [water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
+* [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2791.md)
+* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
+* [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
+* [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
+* [water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
+* [greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4365.md)
+
 ## Risks linked to this technology
 
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)

@@ -6,3 +6,16 @@
 
 * [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
 
+## Closest similar item
+
+* [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
+* [Loss of productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
+* [Productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1579.md)
+* [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2598.md)
+* [Less productivity compared to other sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_298.md)
+* [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
+* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
+* [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
+* [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1996.md)
+

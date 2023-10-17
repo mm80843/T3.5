@@ -6,3 +6,16 @@
 
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2127.md)
 
+## Closest similar item
+
+* [Reduction of socialization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1093.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2895.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
+* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Social Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2485.md)
+* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2663.md)
+* [Anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_994.md)
+* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
+

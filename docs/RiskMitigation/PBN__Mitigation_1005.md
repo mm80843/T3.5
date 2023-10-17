@@ -2,13 +2,26 @@
 
 # __Common debt issuance__
 
-## Property: has_MitigationSource
-
-* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Resistance to European solidarity and grants under Next Generation EU](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2857.md)
+
+## Closest similar item
+
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
+* [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
+* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_201.md)
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_989.md)
+* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
+* [Enhancing Financial Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1035.md)
+* [Establishing credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2079.md)
+* [Access to Financial Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1030.md)
+* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
+* [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
+
+## Property: has_MitigationSource
+
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
 
 ## Property: has_MitigationPrinciple
 

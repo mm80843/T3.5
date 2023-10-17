@@ -2,11 +2,24 @@
 
 # __Identifying dependencies and interdependencies__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_648.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
+* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
+* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_648.md)
+* [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
+* [Relational capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_785.md)
+* [Calibrated stockpiles of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_304.md)
+* [Collaborative and proactive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1344.md)
+* [Organizational adaptability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_787.md)
+* [Collaborative approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_524.md)
+* [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3069.md)
+* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
 

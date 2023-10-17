@@ -2,11 +2,24 @@
 
 # __Digitally data storage using blockchain technology__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Need for reliable and up-to-date data on COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_765.md)
+
 ## Property: has_MitigationBenefit
 
 * [Verifiable and secure data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1053.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Need for reliable and up-to-date data on COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_765.md)
+* [Implement blockchain technology for secure and decentralized data storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2702.md)
+* [Implement blockchain technology to ensure accurate and secure data collection and storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2700.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1104.md)
+* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
+* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1058.md)
+* [Storing information on blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1172.md)
+* [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
+* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1170.md)
+* [Use blockchain for instant reporting of infectious disease data without intermediary processing, improving the efficiency of data transfer and response time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1698.md)
+* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
 

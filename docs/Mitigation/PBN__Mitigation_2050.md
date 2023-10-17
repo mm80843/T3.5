@@ -2,13 +2,26 @@
 
 # __Patrol separately__
 
-## Property: has_MitigationSource
-
-* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
+
+## Closest similar item
+
+* [Sentinel Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
+* [Separate Entrance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2012.md)
+* [Surveillance Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_356.md)
+* [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1976.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
+* [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
+* [Curfew part one](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1592.md)
+* [Staff Compartmentalization within Zones/Cohorts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_866.md)
+
+## Property: has_MitigationSource
+
+* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
 
 ## Property: has_MitigationPrinciple
 

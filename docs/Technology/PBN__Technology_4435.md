@@ -6,3 +6,16 @@
 
 * [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2368.md)
 
+## Closest similar item
+
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4544.md)
+* [smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4146.md)
+* [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+* [smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3183.md)
+* [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
+* [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
+* [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
+* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+

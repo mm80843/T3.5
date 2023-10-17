@@ -2,13 +2,26 @@
 
 # __Remote work/telecommuting__
 
-## Property: has_MitigationSource
-
-* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Loss of productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
+
+## Closest similar item
+
+* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
+* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
+* [Digital Transformation and Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1287.md)
+
+## Property: has_MitigationSource
+
+* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
 
 ## Property: has_MitigationPrinciple
 

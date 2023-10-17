@@ -6,3 +6,16 @@
 
 * [for measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1245.md)
 
+## Closest similar item
+
+* [Emerging variants of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
+* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
+* [Virus origin](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_426.md)
+* [Unclear virus origin](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3439.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
+* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
+* [Unknown viral shedding routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2606.md)
+* [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+

@@ -2,6 +2,97 @@
 
 # __residents__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
+## Closest similar item
+
+* [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+* [local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_483.md)
+* [other residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+* [nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1275.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [all residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_512.md)
+* [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
+* [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
+* [resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2450.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
+* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
+* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
+
+## Risk affecting this stakeholder
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
+* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_610.md)
+* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
+* [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
+* [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
+* [MH1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2196.md)
+* [MH2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2197.md)
+* [MH3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2198.md)
+* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
+* [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
+* [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
+* [WQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2205.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
+* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
+* [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)
+* [EU3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2211.md)
+* [WC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2215.md)
+* [WC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
+* [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
+* [PC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
+* [PC3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2219.md)
+* [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
+* [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
+* [EU2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
+* [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
+* [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
+* [A push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_249.md)
+* [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+* [AQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
+* [AQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2200.md)
+* [AQ4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2203.md)
+* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
+* [Lack of willingness to pay for HEMS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)
+* [PVP2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2191.md)
+* [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
+* [PVP5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
+* [PVP6](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2195.md)
+* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
+* [WM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2213.md)
+* [WWM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2207.md)
+* [WM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2214.md)
+* [WWM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2208.md)
+* [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
@@ -46,85 +137,7 @@
 * [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1303.md)
 * [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1304.md)
 
-## Risks that can be mitigated by this stakeholder
-
-* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
-* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
-* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
-* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
-
 ## This Stakeholder is identified by the following QID
 
 * [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
-
-## Risk affecting this stakeholder
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
-* [A push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_249.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Preventing virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_610.md)
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
-* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
-* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
-* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
-* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
-* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
-* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
-* [Lack of willingness to pay for HEMS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
-* [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
-* [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
-* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
-* [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
-* [PVP2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2191.md)
-* [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
-* [PVP5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
-* [PVP6](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2195.md)
-* [MH1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2196.md)
-* [MH2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2197.md)
-* [MH3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2198.md)
-* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
-* [AQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2200.md)
-* [AQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
-* [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
-* [AQ4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2203.md)
-* [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
-* [WQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2205.md)
-* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
-* [WWM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2207.md)
-* [WWM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2208.md)
-* [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)
-* [EU2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
-* [EU3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2211.md)
-* [WM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2213.md)
-* [WM3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2214.md)
-* [WC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2215.md)
-* [WC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
-* [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
-* [PC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
-* [PC3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2219.md)
-* [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
-* [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
-* [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
-* [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
-* [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
-* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
-* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
 

@@ -6,3 +6,16 @@
 
 * [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_803.md)
 
+## Closest similar item
+
+* [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+* [Property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2556.md)
+* [real estate owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1943.md)
+* [property owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1997.md)
+* [Property owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2553.md)
+* [real estate owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1990.md)
+* [commercial space owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_419.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_728.md)
+* [property managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_938.md)
+

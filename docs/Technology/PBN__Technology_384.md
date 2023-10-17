@@ -2,6 +2,19 @@
 
 # __planners__
 
+## Closest similar item
+
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2988.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
+* [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
+
 ## Risks linked to this technology
 
 * [A push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_249.md)

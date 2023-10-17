@@ -10,3 +10,16 @@
 
 * [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1513.md)
 
+## Closest similar item
+
+* [Rapid and reliable COVID-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2542.md)
+* [international covid-19 data alliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
+* [viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
+* [rapid testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
+* [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1364.md)
+* [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
+* [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2778.md)
+* [rapid testing technology (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
+

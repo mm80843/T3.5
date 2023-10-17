@@ -6,3 +6,16 @@
 
 * [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1004.md)
 
+## Closest similar item
+
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2888.md)
+* [Lack of alignment with global climate goals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3323.md)
+* [Impact of economic recovery responses on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
+* [Neglecting climate change measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2875.md)
+* [Limited focus on global climate initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2858.md)
+* [Lack of comprehensive and coordinated climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3325.md)
+* [Impact of economic recovery on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_109.md)
+* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_552.md)
+* [Economic climate is unfavorable for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_559.md)
+

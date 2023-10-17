@@ -6,3 +6,16 @@
 
 * [Compulsory body temperature check](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
 
+## Closest similar item
+
+* [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2518.md)
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
+* [meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
+* [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
+* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+* [smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
+* [temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
+

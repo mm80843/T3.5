@@ -2,15 +2,15 @@
 
 # __Vancouver Convention Health Centre (COVID-19 Response): Planning, implementation, and four lessons learned__
 
-## DOI of the article
+## Year of publication
 
-10.5055/ajdm.2020.0365
+2020
 
 ## Title of the article
 
 Vancouver Convention Health Centre (COVID-19 Response): Planning, implementation, and four lessons learned
 
-## Year of publication
+## DOI of the article
 
-2020
+10.5055/ajdm.2020.0365
 

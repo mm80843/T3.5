@@ -6,3 +6,16 @@
 
 * [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
 
+## Closest similar item
+
+* [underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_411.md)
+* [local populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1156.md)
+* [at-risk populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_44.md)
+* [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
+* [especially those in underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1232.md)
+* [residents of underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1233.md)
+* [rural and underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_899.md)
+* [minority populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_853.md)
+* [Minority populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
+* [rural and underserved community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2267.md)
+

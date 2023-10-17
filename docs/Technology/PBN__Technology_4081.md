@@ -6,3 +6,16 @@
 
 * [Enhanced health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1801.md)
 
+## Closest similar item
+
+* [resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
+* [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2285.md)
+* [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2625.md)
+* [information brochures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_252.md)
+* [training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
+* [reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2153.md)
+* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
+

@@ -2,46 +2,41 @@
 
 # __Droplet transmission__
 
-## Name of the risk
-
-Increased risk of infection for individuals in close proximity to infected individuals
-
-## Description of the risk
-
-Transmission of virus through respiratory droplets produced when an infected person coughs, sneezes, or talks
-
-## Mitigations of this risk
-
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
-* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_313.md)
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_314.md)
-* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_847.md)
-* [Encourage the use of face masks, maintain physical distancing, and implement good respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2258.md)
-* [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2293.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased risk of infection for individuals in close proximity to infected individuals
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Closest similar item
+
+* [Transmission via droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1280.md)
+* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Airborne Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2976.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
+* [Indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1554.md)
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
+
+## Description of the risk
+
+Transmission of virus through respiratory droplets produced when an infected person coughs, sneezes, or talks
 
 ## Technologies linked to the risk
 
@@ -50,22 +45,40 @@ Transmission of virus through respiratory droplets produced when an infected per
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_847.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_314.md)
+* [Encourage the use of face masks, maintain physical distancing, and implement good respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2258.md)
+* [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2293.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
+* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_313.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
 
 ## Articles mentionning the risk
 
 * [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
 * [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
 

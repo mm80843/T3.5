@@ -7,3 +7,16 @@
 * [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_534.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
 
+## Closest similar item
+
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2895.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
+* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3346.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
+

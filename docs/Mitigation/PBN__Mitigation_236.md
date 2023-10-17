@@ -2,12 +2,25 @@
 
 # __Integration of multiple measurement methods__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Combined Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
+* [Multimodal and Multiplexed Measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
+* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_699.md)
+* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
+* [Long-Term Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
+* [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_693.md)
+* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
+* [Barrier Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
+
 ## Property: has_MitigationSource
 
 * [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1572.md)
 
+## Closest similar item
+
+* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
+* [Open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
+* [public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3339.md)
+* [effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3609.md)
+* [diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
+* [open communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
+* [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
+* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+

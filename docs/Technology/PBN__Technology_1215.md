@@ -10,3 +10,16 @@
 
 * [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
 
+## Closest similar item
+
+* [emergency systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
+* [emergency response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_32.md)
+* [emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2492.md)
+* [crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4.md)
+* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2509.md)
+* [emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_494.md)
+* [create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1381.md)
+

@@ -2,18 +2,31 @@
 
 # __touchless technology__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q619500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q619500.md)
+* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
+* [touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+* [touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1291.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
+* [touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
+* [touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
+* [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
+* [touchless technologies for hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1528.md)
+
+## Risks linked to this technology
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
+* [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
 
 ## This Technology enables the following mitigations
 
 * [Artificial Intelligence and Touchless Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
-* [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
-* [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
+* [Q619500](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q619500.md)
 

@@ -6,3 +6,16 @@
 
 * [Enhancing Financial Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1035.md)
 
+## Closest similar item
+
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
+* [Limited capital and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
+* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3306.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
+* [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2496.md)
+

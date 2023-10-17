@@ -2,12 +2,25 @@
 
 # __Virtual learning in combination with in-person classes__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2116.md)
+* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
+* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_451.md)
+* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1719.md)
+* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
+* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2025.md)
+* [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
+* [Online physical activity classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_442.md)
+
 ## Property: has_MitigationSource
 
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

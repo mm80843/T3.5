@@ -6,3 +6,16 @@
 
 * [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 
+## Closest similar item
+
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
+* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Contagious transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_323.md)
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
+* [Contagious Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
+* [Contagious Disease Propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+

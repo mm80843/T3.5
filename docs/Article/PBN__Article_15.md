@@ -10,10 +10,6 @@
 * [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
 * [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
 
-## Short summary of the article
-
-This research abstract examines the combined adoption of the concepts of smart cities and safe cities in urban areas. It highlights the challenges faced in implementing these concepts, such as privacy concerns, control issues, and propaganda. The abstract discusses the use of technologies such as the Internet of Things (IoT), Big Data, and Blockchain in the management of smart cities and safe cities. It also emphasizes the need for public-private partnerships (PPPs) in financing these projects, but acknowledges the reservations of citizens regarding the involvement of private entities in data collection and management. The abstract concludes by emphasizing the importance of addressing privacy, security, and control concerns in order to achieve urban comfort and acceptance of these concepts.
-
 ## Summary of the article
 
 The world is becoming more urbanized, which means there are more people living in cities. But this also brings with it new challenges, like conflicts and inequality. To help make cities safer and more secure, there are two concepts that are gaining popularity: the safe city and the smart city.
@@ -26,21 +22,25 @@ But there are some concerns about these concepts. One big concern is privacy. Th
 
 Despite these concerns, many cities around the world are adopting these concepts because they believe it will make their cities safer and better places to live. But it's important to address the concerns about privacy and control to ensure that these concepts are used in a way that benefits everyone.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
-* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+This research abstract examines the combined adoption of the concepts of smart cities and safe cities in urban areas. It highlights the challenges faced in implementing these concepts, such as privacy concerns, control issues, and propaganda. The abstract discusses the use of technologies such as the Internet of Things (IoT), Big Data, and Blockchain in the management of smart cities and safe cities. It also emphasizes the need for public-private partnerships (PPPs) in financing these projects, but acknowledges the reservations of citizens regarding the involvement of private entities in data collection and management. The abstract concludes by emphasizing the importance of addressing privacy, security, and control concerns in order to achieve urban comfort and acceptance of these concepts.
 
 ## This article points to following mitigation
 
 * [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
 * [Converged Command Centres](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_105.md)
 * [PPP restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
 * [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
+
+## List of risks in an article
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 
 ## Title of the article
 

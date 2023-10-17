@@ -6,3 +6,16 @@
 
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 
+## Closest similar item
+
+* [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
+* [Re-use ontological terms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1240.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
+* [Conduct qualitative analysis and evaluation of proposed ontologies based on existing criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1482.md)
+* [Build an OBO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1242.md)
+* [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
+* [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1480.md)
+* [Adopt ontology formalism and upper-level ontologies to resolve inconsistencies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2546.md)
+* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
+* [Adopt common data models and ontology interoperability guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2544.md)
+

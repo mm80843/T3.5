@@ -2,13 +2,26 @@
 
 # __Building design software and modeling tools__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q917912](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q917912.md)
+* [building design software and modeling tools can be used to optimize opening design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1194.md)
+* [computer-aided design (cad) tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3782.md)
+* [architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1110.md)
+* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
+* [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4552.md)
+* [modeling and simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_759.md)
+* [building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
+* [architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
+## This Technology is identified by the following QID
+
+* [Q917912](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q917912.md)
 
 ## This Technology belongs to this TechGroup
 

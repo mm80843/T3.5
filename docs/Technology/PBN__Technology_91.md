@@ -10,3 +10,16 @@
 
 * [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
 
+## Closest similar item
+
+* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2727.md)
+* [water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1510.md)
+* [Water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2786.md)
+* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
+* [water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
+* [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2791.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2227.md)
+

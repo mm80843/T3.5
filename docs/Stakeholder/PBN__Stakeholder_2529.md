@@ -2,15 +2,28 @@
 
 # __all individual__
 
-## This Stakeholder is identified by the following QID
-
-* [Q795052](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q795052.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
+## Closest similar item
+
+* [all individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1319.md)
+* [individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2524.md)
+* [Individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2540.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
+* [all workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_131.md)
+* [all occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_328.md)
+* [all residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_512.md)
+* [all age group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2525.md)
+* [all age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_327.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q795052](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q795052.md)
 

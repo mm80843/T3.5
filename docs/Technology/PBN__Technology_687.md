@@ -10,3 +10,16 @@
 
 * [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
 
+## Closest similar item
+
+* [helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
+* [Helpline services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2650.md)
+* [helpline services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_43.md)
+* [helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1190.md)
+* [helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_423.md)
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+* [digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_39.md)
+* [Digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2647.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+

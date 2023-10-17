@@ -10,3 +10,16 @@
 
 * [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2331.md)
 
+## Closest similar item
+
+* [reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
+* [reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2153.md)
+* [reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1862.md)
+* [public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
+* [Public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2629.md)
+* [reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
+* [credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
+* [public education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1872.md)
+* [trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_938.md)
+

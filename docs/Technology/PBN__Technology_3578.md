@@ -6,3 +6,16 @@
 
 * [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1008.md)
 
+## Closest similar item
+
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2245.md)
+* [research on tissue tropism and pathogenesis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1955.md)
+* [Research on tissue tropism and pathogenesis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2795.md)
+* [living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4523.md)
+* [biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
+* [medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
+* [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
+* [human host cells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3155.md)
+* [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
+

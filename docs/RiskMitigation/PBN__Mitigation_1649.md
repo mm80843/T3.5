@@ -2,13 +2,26 @@
 
 # __Lockdown and Social Distancing__
 
-## Property: has_MitigationSource
-
-* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3193.md)
+
+## Closest similar item
+
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1553.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_20.md)
+* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
+* [Social Distancing Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
+* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
+* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 
 ## Property: has_MitigationPrinciple
 

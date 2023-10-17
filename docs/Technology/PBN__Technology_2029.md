@@ -10,3 +10,16 @@
 
 * [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
 
+## Closest similar item
+
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2804.md)
+* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
+* [rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2779.md)
+* [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2778.md)
+

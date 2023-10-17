@@ -6,7 +6,20 @@
 
 * [remote working](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
 * [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2242.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
 * [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2535.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2242.md)
+
+## Closest similar item
+
+* [Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_111.md)
+* [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
+* [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
+* [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
+* [Communication and Coordination Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_26.md)
+* [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+* [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+* [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
 

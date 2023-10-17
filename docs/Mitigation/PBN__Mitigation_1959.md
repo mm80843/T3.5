@@ -2,13 +2,26 @@
 
 # __Sensory networks__
 
-## Property: has_MitigationSource
-
-* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3306.md)
+
+## Closest similar item
+
+* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1958.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
+* [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
+* [Wireless Sensor Networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1579.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2219.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
+
+## Property: has_MitigationSource
+
+* [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 
 ## Property: has_MitigationPrinciple
 

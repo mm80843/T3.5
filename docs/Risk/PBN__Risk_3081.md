@@ -6,3 +6,16 @@
 
 * [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
 
+## Closest similar item
+
+* [Food supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3356.md)
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
+* [Insufficient and inappropriate food provision](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3188.md)
+* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
+* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
+* [Unavailability and increased costs of healthy foods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3122.md)
+* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
+* [Food and nutrition security threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_236.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
+

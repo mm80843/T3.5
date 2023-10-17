@@ -2,14 +2,27 @@
 
 # __Ventilation and air filtration__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Closest similar item
+
+* [Ventilation and Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1713.md)
+* [Air Filtration and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
+* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1709.md)
+* [Filtration and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_712.md)
+* [Mechanical ventilation and filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_547.md)
+* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1418.md)
+* [Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
+* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1277.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+
 ## Property: has_MitigationSource
 
 * [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
 * [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 
 ## Property: has_MitigationPrinciple
 

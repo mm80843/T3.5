@@ -2,35 +2,39 @@
 
 # __Inadequate Lighting__
 
-## Name of the risk
-
-Eye strain, headaches, reduced visual comfort, and decreased productivity
-
-## Description of the risk
-
-Insufficient natural or artificial lighting, glare, and flickering lights
-
-## Mitigations of this risk
-
-* [Use of natural light, proper artificial lighting design, glare control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1567.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
-* [lighting designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_647.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [especially those in poorly lit areas or those performing visually demanding tasks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_646.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Eye strain, headaches, reduced visual comfort, and decreased productivity
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1884.md)
+* [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
+* [Poor lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_127.md)
+* [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
+* [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1088.md)
+* [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1303.md)
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_953.md)
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Poor Lighting and Glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
+* [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3220.md)
+
+## Description of the risk
+
+Insufficient natural or artificial lighting, glare, and flickering lights
 
 ## Technologies linked to the risk
 
@@ -38,20 +42,29 @@ Insufficient natural or artificial lighting, glare, and flickering lights
 * [led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
 * [glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_189.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [especially those in poorly lit areas or those performing visually demanding tasks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_646.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Use of natural light, proper artificial lighting design, glare control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1567.md)
+
+## Articles mentionning the risk
+
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [lighting designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_647.md)
 

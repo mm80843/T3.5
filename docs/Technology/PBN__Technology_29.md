@@ -2,25 +2,38 @@
 
 # __contact tracing technology__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
+* [contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1462.md)
+* [use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_291.md)
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1623.md)
+* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2435.md)
+* [digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2867.md)
+* [testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1260.md)
+* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2776.md)
+* [manual contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
 
 ## Risks linked to this technology
 
-* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
-* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
-* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
 * [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
-
-## This Technology is identified by the following QID
-
-* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
+* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 * [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+
+## This Technology enables the following mitigations
+
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
+
+## This Technology is identified by the following QID
+
+* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 
 ## This Technology belongs to this TechGroup
 

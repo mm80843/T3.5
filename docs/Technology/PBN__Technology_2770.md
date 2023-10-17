@@ -2,13 +2,26 @@
 
 # __Vaccine tracking technologies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q2379469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2379469.md)
+* [vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
+* [vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
+* [vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
+* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
+* [data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1308.md)
+* [Data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2609.md)
+* [vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
+* [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Logistics and Supply Chain Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_127.md)
+
+## This Technology is identified by the following QID
+
+* [Q2379469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2379469.md)
 
 ## This Technology belongs to this TechGroup
 

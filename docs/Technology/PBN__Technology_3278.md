@@ -6,3 +6,16 @@
 
 * [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_510.md)
 
+## Closest similar item
+
+* [nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3071.md)
+* [real-time polymerase chain reaction (rt-pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [reverse transcription-quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4428.md)
+* [reverse transcriptase quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2943.md)
+* [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+* [pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3069.md)
+* [nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4480.md)
+* [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
+* [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
+* [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
+

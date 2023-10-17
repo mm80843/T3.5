@@ -7,3 +7,16 @@
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 * [Restricting city entry and exit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2349.md)
 
+## Closest similar item
+
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+* [advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1533.md)
+* [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
+* [surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3178.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+

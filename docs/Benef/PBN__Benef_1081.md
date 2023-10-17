@@ -2,19 +2,19 @@
 
 # __Incentives for adaptation__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Increased affordability, higher return on investment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1208.md)
-
-## Articles mentionning this Benefit
-
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
 ## Name of the Benefit
 
 Reduces financial burden of implementing necessary adaptations
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Increased affordability, higher return on investment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1208.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Articles mentionning this Benefit
+
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

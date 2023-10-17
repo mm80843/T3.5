@@ -8,10 +8,23 @@
 
 ## Risks linked to this technology
 
-* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
-* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
-* [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
-* [Non-compliance with face mask rules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
 * [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1945.md)
+* [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2016.md)
+* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
+* [Non-compliance with face mask rules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
+
+## Closest similar item
+
+* [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
+* [announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_778.md)
+* [public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4414.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
+* [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
+* [public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
+* [public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4160.md)
+* [press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
 

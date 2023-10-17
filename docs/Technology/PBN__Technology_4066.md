@@ -6,3 +6,16 @@
 
 * [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
 
+## Closest similar item
+
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2379.md)
+* [green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
+* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
+* [green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2745.md)
+* [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2340.md)
+* [urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
+* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2317.md)
+

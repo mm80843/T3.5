@@ -2,13 +2,26 @@
 
 # __Testing and early detection__
 
-## Property: has_MitigationSource
-
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+
+## Closest similar item
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
+* [Testing and Diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
+* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
+* [Early Warning Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 
 ## Property: has_MitigationPrinciple
 

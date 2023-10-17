@@ -2,17 +2,30 @@
 
 # __press releases__
 
+## Closest similar item
+
+* [announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_778.md)
+* [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2170.md)
+* [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
+* [daily press briefings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4413.md)
+* [public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4414.md)
+* [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
+* [news and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4011.md)
+* [newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3806.md)
+* [reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
+* [mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1540.md)
+
 ## Risks linked to this technology
 
 * [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1820.md)
 
-## This Technology is identified by the following QID
-
-* [Q96727886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96727886.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
+## This Technology is identified by the following QID
+
+* [Q96727886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96727886.md)
 
 ## This Technology belongs to this TechGroup
 

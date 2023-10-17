@@ -6,3 +6,16 @@
 
 * [Early detection of re-emergence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1104.md)
 
+## Closest similar item
+
+* [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2061.md)
+* [facility owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
+* [building facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1989.md)
+* [facilities management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_658.md)
+* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
+* [building facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_75.md)
+* [quarantine facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1428.md)
+* [quarantine facility operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2416.md)
+

@@ -10,3 +10,16 @@
 
 * [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)
 
+## Closest similar item
+
+* [debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
+* [credit risk assessment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1412.md)
+* [risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
+* [virtual payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_129.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [credit scoring algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1413.md)
+* [implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_301.md)
+* [contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
+

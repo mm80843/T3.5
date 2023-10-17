@@ -10,3 +10,16 @@
 
 * [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
 
+## Closest similar item
+
+* [Improved connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2837.md)
+* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+* [connectivity technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3373.md)
+* [efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
+* [improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2369.md)
+* [improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+* [neighbourhood improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
+

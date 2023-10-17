@@ -2,13 +2,26 @@
 
 # __Job creation initiatives__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q2266417](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2266417.md)
+* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2250.md)
+* [job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
+* [Job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [job retention and creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1441.md)
+* [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
+* [placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1802.md)
+* [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2743.md)
+* [investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1797.md)
+* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
+* [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+
+## This Technology is identified by the following QID
+
+* [Q2266417](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2266417.md)
 
 ## This Technology belongs to this TechGroup
 

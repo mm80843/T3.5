@@ -4,6 +4,19 @@
 
 ## This Technology enables the following mitigations
 
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
 * [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
+* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
+
+## Closest similar item
+
+* [green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2745.md)
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3610.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
+* [green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
 

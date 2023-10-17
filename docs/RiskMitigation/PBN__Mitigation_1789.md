@@ -2,13 +2,26 @@
 
 # __Use of Non-Toxic Cleaning__
 
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [VOC Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
+
+## Closest similar item
+
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_558.md)
+* [Enhanced Cleaning and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
+* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
+* [Enhanced Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1009.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
+* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_MitigationPrinciple
 

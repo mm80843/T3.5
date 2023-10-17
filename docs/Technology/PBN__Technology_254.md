@@ -10,3 +10,16 @@
 
 * [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
 
+## Closest similar item
+
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2177.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2246.md)
+* [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_300.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+* [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+* [build new hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_492.md)
+

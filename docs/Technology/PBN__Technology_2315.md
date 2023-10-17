@@ -2,12 +2,25 @@
 
 # __Scalable infrastructure__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
+* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2315.md)
+* [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
+* [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
+* [scalable iot infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3714.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
+* [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
+* [improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2369.md)
+* [adaptive infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
 
 ## This Technology belongs to this TechGroup
 

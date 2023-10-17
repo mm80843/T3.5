@@ -2,13 +2,26 @@
 
 # __Enhance cross-sectoral engagement__
 
-## Property: has_MitigationSource
-
-* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3341.md)
+
+## Closest similar item
+
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1485.md)
+* [Engagement of Society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2187.md)
+* [Public engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_244.md)
+* [Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1741.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2053.md)
+* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1483.md)
+* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_291.md)
+* [Conduct interdisciplinary research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
+
+## Property: has_MitigationSource
+
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Risk of resistance development to anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1181.md)
 * [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1748.md)
+* [Risk of resistance development to anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1181.md)
+
+## Closest similar item
+
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
+* [research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
+* [innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
+* [research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
+* [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
 

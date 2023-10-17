@@ -6,3 +6,16 @@
 
 * [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
 
+## Closest similar item
+
+* [Particularly those who do not practice good hygiene or live in unsanitary conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2221.md)
+* [Particularly those who do not practice good hygiene or live in unsanitary condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2143.md)
+* [especially those who do not practice proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1596.md)
+* [especially urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1038.md)
+* [especially those living in densely populated area with limited acces to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2273.md)
+* [especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2354.md)
+* [communities with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_176.md)
+* [individuals with poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_581.md)
+* [communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_696.md)
+* [especially vulnerable individuals such as children and people with respiratory conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_642.md)
+

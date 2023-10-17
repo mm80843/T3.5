@@ -6,3 +6,16 @@
 
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 
+## Closest similar item
+
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
+* [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
+* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3196.md)
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
+* [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2939.md)
+* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
+* [Inadequate Sanitation and Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
+* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
+* [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
+

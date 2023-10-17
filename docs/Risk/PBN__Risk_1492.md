@@ -2,56 +2,69 @@
 
 # __Unknown effects of policies on infection rates__
 
-## Name of the risk
-
-Uncertainty in policy effectiveness, potential for ineffective policies
-
-## Description of the risk
-
-Effects of anti-contagion policies on infection rates are unknown due to lack of data and information
-
-## Mitigations of this risk
-
-* [Conduct empirical studies to measure the effects of policies on infection rates, combine numerical simulations with direct measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2012.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Uncertainty in policy effectiveness, potential for ineffective policies
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
+* [Increased accuracy of infection risk estimation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_603.md)
+* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
+* [Infection Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1767.md)
+* [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2259.md)
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2494.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2410.md)
+* [Reduction in infectious disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1793.md)
+
+## Description of the risk
+
+Effects of anti-contagion policies on infection rates are unknown due to lack of data and information
 
 ## Technologies linked to the risk
 
 * [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
 * [modeling and simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_759.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Conduct empirical studies to measure the effects of policies on infection rates, combine numerical simulations with direct measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2012.md)
+
+## Articles mentionning the risk
+
+* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 

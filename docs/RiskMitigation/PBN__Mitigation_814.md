@@ -2,13 +2,26 @@
 
 # __Balancing Ventilation__
 
-## Property: has_MitigationSource
-
-* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Uneven air distribution and stagnant air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2755.md)
+
+## Closest similar item
+
+* [Balancing of Ventilation System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1769.md)
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2000.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2302.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
+* [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1848.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1214.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+
+## Property: has_MitigationSource
+
+* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
 
 ## Property: has_MitigationPrinciple
 

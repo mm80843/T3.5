@@ -10,3 +10,16 @@
 
 * [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
 
+## Closest similar item
+
+* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
+* [advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1561.md)
+* [antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2548.md)
+* [antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
+* [antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
+* [pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
+* [antimicrobial filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3773.md)
+* [antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
+

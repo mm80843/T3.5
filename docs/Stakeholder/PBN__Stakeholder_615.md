@@ -2,21 +2,34 @@
 
 # __elderly population__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1358789](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358789.md)
-
-## Risk affecting this stakeholder
-
-* [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
-* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
-* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
+## Closest similar item
+
+* [elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_336.md)
+* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
+* [the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_824.md)
+* [elderly individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2136.md)
+* [older people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_107.md)
+* [Older people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2165.md)
+* [at-risk populations (e.g. elderly)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_163.md)
+* [elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_194.md)
+* [older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_461.md)
+* [Older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2150.md)
+
+## Risk affecting this stakeholder
+
+* [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
+* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Age-Specific Concerns](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_112.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1358789](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358789.md)
 

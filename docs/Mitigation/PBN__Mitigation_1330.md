@@ -2,13 +2,26 @@
 
 # __Frequent handwashing__
 
-## Property: has_MitigationSource
-
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
+
+## Closest similar item
+
+* [Proper handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_544.md)
+* [Proper Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_136.md)
+* [Frequent Hand Washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1704.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_817.md)
+* [Hand Washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
+* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
+* [Washing Hands](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1379.md)
+* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2033.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
 ## Property: has_MitigationPrinciple
 

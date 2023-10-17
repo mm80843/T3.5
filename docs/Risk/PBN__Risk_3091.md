@@ -6,3 +6,16 @@
 
 * [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1476.md)
 
+## Closest similar item
+
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3090.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2934.md)
+* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
+* [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
+* [Emergence of mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_57.md)
+* [Openings allow mosquito access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3093.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
+* [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3092.md)
+* [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3115.md)
+* [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
+

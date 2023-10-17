@@ -2,9 +2,18 @@
 
 # __partitions__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
+* [movable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4357.md)
+* [partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)
+* [portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4169.md)
+* [partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1656.md)
+* [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2594.md)
+* [allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
+* [ssd)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4133.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
 
 ## Risks linked to this technology
 
@@ -13,6 +22,10 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## This Technology enables the following mitigations
+
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
 
 ## This Technology belongs to this TechGroup
 

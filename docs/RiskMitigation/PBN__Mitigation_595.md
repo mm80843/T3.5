@@ -2,13 +2,26 @@
 
 # __Restrict mass gatherings__
 
-## Property: has_MitigationSource
-
-* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
+
+## Closest similar item
+
+* [Restrict mass gatherings, assess risks and benefits of organizing events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3228.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2102.md)
+* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3229.md)
+* [Cancellation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1806.md)
+* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3867.md)
+* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3230.md)
+* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3034.md)
+* [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3233.md)
+* [Maintain physical distance, wear masks, practice proper hygiene, and avoid large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3868.md)
+* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3869.md)
+
+## Property: has_MitigationSource
+
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
 
+## Closest similar item
+
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
+* [financial grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1807.md)
+* [adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
+* [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
+* [financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1440.md)
+

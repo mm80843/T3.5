@@ -6,3 +6,16 @@
 
 * [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
 
+## Closest similar item
+
+* [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+* [communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3939.md)
+* [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
+* [updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_727.md)
+* [Updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2371.md)
+* [public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1499.md)
+* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2730.md)
+* [public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+* [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
+

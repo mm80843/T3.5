@@ -2,22 +2,35 @@
 
 # __regulatory authorities__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
-* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
-* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
-* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
-* [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
-* [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
-* [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
-* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
-* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## Closest similar item
+
+* [regulatory authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1609.md)
+* [regulatory agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_401.md)
+* [regulatory agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1629.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
+* [government regulators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_739.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [regulatory body](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1601.md)
+* [authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_277.md)
+* [national authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2413.md)
+* [National authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2430.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
+* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
+* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
+* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+* [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
+* [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
+* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
+* [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
 
 ## Risk affecting this stakeholder
 

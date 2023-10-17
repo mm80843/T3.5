@@ -2,12 +2,25 @@
 
 # __Negative Pressure AIIRs__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
+* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1841.md)
+* [Negative pressure during cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1424.md)
+* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_940.md)
+* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1368.md)
+* [Suitable pressure difference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2289.md)
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
+* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
+* [Airflow Direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2013.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

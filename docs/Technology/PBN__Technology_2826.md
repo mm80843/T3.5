@@ -2,13 +2,26 @@
 
 # __Control samples__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q2148398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2148398.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
+* [controlled experiments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
+* [individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
+* [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+* [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
+* [source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4063.md)
+* [digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
+* [quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
+* [vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4115.md)
+* [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This Technology is identified by the following QID
+
+* [Q2148398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2148398.md)
 
 ## This Technology belongs to this TechGroup
 

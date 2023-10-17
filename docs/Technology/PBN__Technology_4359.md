@@ -6,3 +6,16 @@
 
 * [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2237.md)
 
+## Closest similar item
+
+* [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
+* [acoustic materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_378.md)
+* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
+* [acoustic treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1352.md)
+* [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
+* [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
+* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2233.md)
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
+

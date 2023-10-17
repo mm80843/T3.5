@@ -6,3 +6,16 @@
 
 * [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
 
+## Closest similar item
+
+* [wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2865.md)
+* [wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
+* [data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3169.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
+* [encrypted data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4156.md)
+* [cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3386.md)
+

@@ -2,12 +2,25 @@
 
 # __Spatial repellents__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+* [Elimination of Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
+* [Self-Sanitizing Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_196.md)
+* [Removal of visible contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
+* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
+* [Physical Barriers (e.g., Plexiglass)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Use of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1468.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
+
 ## Property: has_MitigationSource
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -15,8 +28,8 @@ Spatial repellents are chemicals that prevent mosquitoes or other vectors from e
 
 ## This Mitigation is enabled by the following technologies
 
-* [spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4465.md)
-* [such as coils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4466.md)
 * [emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4467.md)
+* [spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4465.md)
 * [or impregnated fabric](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4468.md)
+* [such as coils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4466.md)
 

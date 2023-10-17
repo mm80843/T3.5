@@ -10,3 +10,16 @@
 
 * [Communication Challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
 
+## Closest similar item
+
+* [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+* [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
+* [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+* [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+* [smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1015.md)
+* [technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3558.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
+* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2085.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+

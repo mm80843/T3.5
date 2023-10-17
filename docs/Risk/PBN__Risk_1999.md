@@ -2,34 +2,39 @@
 
 # __Concerns about project time, cost, and scope__
 
-## Name of the risk
-
-Increased project delays, cost overruns, and scope changes.
-
-## Description of the risk
-
-Construction professionals expressed concerns about changes in project time, cost, and scope due to the pandemic.
-
-## Mitigations of this risk
-
-* [Continuously monitor and adjust project plans and schedules to minimize delays, cost overruns, and scope changes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2617.md)
-
-## Property: has_RiskHealth
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_979.md)
-* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+* [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased project delays, cost overruns, and scope changes.
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
+* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2959.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_306.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
+* [Higher costs and complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2697.md)
+
+## Description of the risk
+
+Construction professionals expressed concerns about changes in project time, cost, and scope due to the pandemic.
 
 ## Technologies linked to the risk
 
@@ -37,20 +42,28 @@ Construction professionals expressed concerns about changes in project time, cos
 * [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 * [real-time project tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1460.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-* [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Continuously monitor and adjust project plans and schedules to minimize delays, cost overruns, and scope changes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2617.md)
+
+## Articles mentionning the risk
+
+* [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_979.md)
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
 

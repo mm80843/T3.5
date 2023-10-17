@@ -6,3 +6,16 @@
 
 * [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_158.md)
 
+## Closest similar item
+
+* [urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1989.md)
+* [Urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2740.md)
+* [urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2389.md)
+* [urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
+* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2731.md)
+* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2732.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+

@@ -15,13 +15,63 @@
 * [Flexible design for versatile use of spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_350.md)
 * [Fast and reliable internet for remote work and study](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_351.md)
 
+## Summary of the article
+
+The COVID-19 pandemic has affected the whole world and changed the way we live. Many people have had to stay at home to prevent the spread of the virus. This has shown us that our homes need to be safe and comfortable for long periods of time. It has also shown us that our buildings and cities need to be more sustainable and resilient to handle future disease outbreaks. The pandemic has highlighted the need for better ways to prevent the spread of viruses in buildings, such as touchless technologies and self-cleaning spaces. It has also shown us the importance of having green spaces and access to nature in our homes. The pandemic has increased our energy and water consumption at home, so we need to find more sustainable ways to use these resources. It has also made us realize the importance of having good internet access and communication technologies for remote work and study. In the future, buildings and cities will need to be designed with pandemics in mind, to keep us safe and comfortable during such situations.
+
 ## Short summary of the article
 
 This research abstract discusses the impact of the COVID-19 pandemic on residential buildings and the need for design changes to make them more resilient and sustainable in the face of future disease outbreaks. The research highlights the deficiencies of current buildings in terms of protecting occupants' health and safety, particularly in terms of virus transmission risks and the increased threat of domestic violence during lockdowns. It also addresses the increased consumption of resources in homes, such as energy and water, and the challenges of waste management during a pandemic. The abstract emphasizes the importance of creating a healthy and comfortable living environment, with a focus on incorporating touchless technologies, antimicrobial materials, and green spaces in building design. Furthermore, it discusses the need for proper ventilation, temperature, humidity control, and natural light to enhance indoor air quality and comfort in homes. The abstract also addresses the importance of smart technologies, improved layout designs, and the availability of private spaces in residential buildings to accommodate work-from-home practices and ensure personal comfort. Overall, the abstract calls for a paradigm shift in building design and the development of sustainable and resilient residential buildings that can effectively respond to future disease outbreaks.
 
-## Summary of the article
+## This article points to following mitigation
 
-The COVID-19 pandemic has affected the whole world and changed the way we live. Many people have had to stay at home to prevent the spread of the virus. This has shown us that our homes need to be safe and comfortable for long periods of time. It has also shown us that our buildings and cities need to be more sustainable and resilient to handle future disease outbreaks. The pandemic has highlighted the need for better ways to prevent the spread of viruses in buildings, such as touchless technologies and self-cleaning spaces. It has also shown us the importance of having green spaces and access to nature in our homes. The pandemic has increased our energy and water consumption at home, so we need to find more sustainable ways to use these resources. It has also made us realize the importance of having good internet access and communication technologies for remote work and study. In the future, buildings and cities will need to be designed with pandemics in mind, to keep us safe and comfortable during such situations.
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1855.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
+* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
+* [Smart power strip](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2152.md)
+* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
+* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
+* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2163.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
+* [Adaptive reuse](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
+* [Intimate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2172.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
+* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
+* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2158.md)
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
+* [Plsmax technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2154.md)
+* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
+* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
+* [Automotive systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2168.md)
+* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+* [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
+* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2170.md)
+* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
+
+## List of risks in an article
+
+* [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
+* [General health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2224.md)
+* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
+
+## Title of the article
+
+How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review
 
 ## Referenced by other articles
 
@@ -39,56 +89,6 @@ The COVID-19 pandemic has affected the whole world and changed the way we live. 
 * [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 * [Gardening is beneficial for health: A meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_338.md)
 * [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
-
-## List of risks in an article
-
-* [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
-* [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
-* [General health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2224.md)
-* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
-
-## This article points to following mitigation
-
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
-* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
-* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1855.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
-* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
-* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
-* [Smart power strip](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2152.md)
-* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
-* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
-* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2163.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
-* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
-* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
-* [Automotive systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2168.md)
-* [Plsmax technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
-* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
-* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2154.md)
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
-* [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
-* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2170.md)
-* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2158.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
-* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
-* [Intimate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2172.md)
-* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
-* [Adaptive reuse](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
-* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
-
-## Title of the article
-
-How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review
 
 ## Year of publication
 

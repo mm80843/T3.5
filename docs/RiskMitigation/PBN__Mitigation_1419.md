@@ -2,13 +2,26 @@
 
 # __Portable room air purifiers__
 
-## Property: has_MitigationSource
-
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [High concentrations of air contaminants in specific locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3056.md)
+
+## Closest similar item
+
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_729.md)
+* [Portable Air Conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
+* [Portable Air Filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2089.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_171.md)
+* [Filtering Indoor Air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
+
+## Property: has_MitigationSource
+
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
 
+## Closest similar item
+
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
+* [Lack of access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_119.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
+* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
+* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3196.md)
+* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
+* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
+* [Lack of running water and inadequate water storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_470.md)
+

@@ -6,3 +6,16 @@
 
 * [Protective Facilities for Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1866.md)
 
+## Closest similar item
+
+* [Spread of infection in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3409.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Worker infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3212.md)
+* [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1334.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
+* [Spread of hospital acquired infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_866.md)
+* [Spread of other pathogens in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_546.md)
+* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
+* [COVID-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
+* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
+

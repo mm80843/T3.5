@@ -10,3 +10,16 @@
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 
+## Closest similar item
+
+* [Advanced analytics and simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2081.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [modeling and simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_759.md)
+* [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
+* [advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
+* [advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
+* [simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
+* [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2527.md)
+* [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
+

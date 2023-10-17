@@ -2,6 +2,10 @@
 
 # __Adaptive design of built environment__
 
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_758.md)
@@ -9,7 +13,16 @@
 * [Isolation spaces in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_760.md)
 * [Open relaxation spaces in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_761.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
+* [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_548.md)
+* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1371.md)
+* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
+* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
+* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1573.md)
+* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_246.md)
+* [Designate areas for relaxation within built environment, create outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1541.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
+* [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_603.md)
 

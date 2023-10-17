@@ -2,13 +2,26 @@
 
 # __Wearable devices__
 
-## Property: has_MitigationSource
-
-* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
+
+## Closest similar item
+
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2019.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
+* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_405.md)
+* [Reliability and Robustness of Next-Generation Wearable Devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_166.md)
+* [Safety Wearables and Carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
+* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2018.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2148.md)
+* [Smartwatch Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+
+## Property: has_MitigationSource
+
+* [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
 
+## Closest similar item
+
+* [Migration of infectious particles from patient room to corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_314.md)
+* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
+* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_336.md)
+* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
+* [Infected individuals entering a location](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2784.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
+* [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2929.md)
+* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
+* [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
+

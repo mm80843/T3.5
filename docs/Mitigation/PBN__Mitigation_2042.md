@@ -2,13 +2,26 @@
 
 # __Modified Wells-Riley model__
 
-## Property: has_MitigationSource
-
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+
+## Closest similar item
+
+* [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1326.md)
+* [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
+* [Phase III relaxation - part 1](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1589.md)
+* [Phase III relaxation - part 2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1590.md)
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
+* [Phase II relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1588.md)
+* [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
+* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1514.md)
+* [AI/ML/DL](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2022.md)
+* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1636.md)
+
+## Property: has_MitigationSource
+
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
 
 ## Property: has_MitigationPrinciple
 

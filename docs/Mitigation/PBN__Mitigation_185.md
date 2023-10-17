@@ -2,13 +2,26 @@
 
 # __Water Quality Management__
 
-## Property: has_MitigationSource
-
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Water Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2483.md)
+
+## Closest similar item
+
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
+* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
+* [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
+* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
+* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1231.md)
+* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
+* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2133.md)
+
+## Property: has_MitigationSource
+
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
 ## Property: has_MitigationPrinciple
 

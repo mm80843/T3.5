@@ -2,12 +2,25 @@
 
 # __Enhanced Ventilation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Enhanced Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
+* [Enhanced Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+* [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
+* [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Improved Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_807.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -15,6 +28,6 @@ Improving indoor airflow and ventilation, including opening windows, using windo
 
 ## This Mitigation is enabled by the following technologies
 
-* [improved airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
 * [window fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [improved airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
 

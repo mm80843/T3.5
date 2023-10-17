@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Improved Cooking Stoves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1771.md)
 * [Access to Clean Cooking Fuels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1775.md)
+* [Improved Cooking Stoves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1771.md)
+
+## Closest similar item
+
+* [Poor IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2478.md)
+* [IAP, Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3247.md)
+* [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
+* [Poor occupant health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3150.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
+* [Human health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3021.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2407.md)
+* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
+* [Mold Growth, Poor IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3254.md)
 

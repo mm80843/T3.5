@@ -2,14 +2,27 @@
 
 # __Personal Protective Measures__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Individual exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
+
+## Closest similar item
+
+* [Personal Protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_926.md)
+* [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
+* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
+* [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
+* [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1976.md)
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
+* [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
+
 ## Property: has_MitigationSource
 
 * [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 * [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Individual exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
 
 ## Property: has_MitigationPrinciple
 

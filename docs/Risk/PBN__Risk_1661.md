@@ -2,51 +2,64 @@
 
 # __Limited data and sample size__
 
-## Name of the risk
-
-Limited understanding, uncertainty in findings
-
-## Description of the risk
-
-Intrinsic limitations of studies including small sample sizes and lack of data, leading to challenges in drawing solid conclusions.
-
-## Mitigations of this risk
-
-* [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2216.md)
-
-## Property: has_RiskHealth
-
-
 ## Property: has_RiskType
 
-
-## Stakeholders who can mitigate this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_996.md)
-
-## Property: has_RiskGBN
-
-
-## Technologies linked to the risk
-
-* [research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
-* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
 
 ## People affected by this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [study participants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1093.md)
 
+## Name of the risk
+
+Limited understanding, uncertainty in findings
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
+* [Limited sample size in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_814.md)
+* [Insufficient data for analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
+* [Limited data, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2997.md)
+* [Limited historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2465.md)
+* [Limited data, efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2998.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2721.md)
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
+* [Data collection and analysis limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_260.md)
+
+## Description of the risk
+
+Intrinsic limitations of studies including small sample sizes and lack of data, leading to challenges in drawing solid conclusions.
+
+## Technologies linked to the risk
+
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
+
+## Property: has_RiskHealth
+
+
+## Mitigations of this risk
+
+* [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2216.md)
+
+## Articles mentionning the risk
+
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+
+## Stakeholders who can mitigate this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_996.md)
 

@@ -2,53 +2,66 @@
 
 # __Drinking water treatment and distribution__
 
-## Name of the risk
-
-Increased generation of disinfection-by-products and chemical costs.
-
-## Description of the risk
-
-Fear of virus transmission leads to increased use of chlorination and disinfection, resulting in increased disinfection-by-products and chemical costs.
-
-## Mitigations of this risk
-
-* [Continuous monitoring and adjustment of chlorine dosage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2518.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 
 ## People affected by this risk
 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
 
+## Name of the risk
+
+Increased generation of disinfection-by-products and chemical costs.
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Poor quality drinking water, lack of proper wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2594.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
+* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2969.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
+* [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
+* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
+* [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2979.md)
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
+
+## Description of the risk
+
+Fear of virus transmission leads to increased use of chlorination and disinfection, resulting in increased disinfection-by-products and chemical costs.
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Continuous monitoring and adjustment of chlorine dosage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2518.md)
+
+## Articles mentionning the risk
+
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
 

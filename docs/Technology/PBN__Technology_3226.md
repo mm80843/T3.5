@@ -6,3 +6,16 @@
 
 * [Viewing Surgical Videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
 
+## Closest similar item
+
+* [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
+* [surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
+* [instructional videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
+* [online exercise videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1079.md)
+* [video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
+* [video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3681.md)
+* [surgical techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3336.md)
+* [prerecorded video lecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
+* [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
+* [video networking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+

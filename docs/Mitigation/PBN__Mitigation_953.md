@@ -2,13 +2,26 @@
 
 # __Reduction in commercial building occupancy__
 
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1127.md)
+* [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
+* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_831.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
+* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1498.md)
+* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
+* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1122.md)
+
+## Property: has_MitigationSource
+
+* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
 
 ## Property: has_MitigationPrinciple
 

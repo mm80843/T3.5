@@ -2,19 +2,32 @@
 
 # __social organizations__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4430243](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430243.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [social organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2504.md)
+* [social service organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_662.md)
+* [social service organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2495.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [social group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2477.md)
+* [community organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2485.md)
+* [social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_640.md)
+* [social justice organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_949.md)
+* [social welfare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_833.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Social Groups/Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_131.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4430243](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430243.md)
 

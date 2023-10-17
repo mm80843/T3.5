@@ -10,3 +10,16 @@
 
 * [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
 
+## Closest similar item
+
+* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2351.md)
+* [green roof technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_620.md)
+* [green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1033.md)
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+* [green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
+* [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2321.md)
+* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
+* [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
+* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+

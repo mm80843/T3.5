@@ -10,3 +10,16 @@
 
 * [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1574.md)
 
+## Closest similar item
+
+* [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
+* [uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
+* [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
+* [uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1649.md)
+* [uv light devices (such as px-uv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4487.md)
+* [uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)
+* [UV irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2709.md)
+* [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
+* [cost-effective uv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1162.md)
+

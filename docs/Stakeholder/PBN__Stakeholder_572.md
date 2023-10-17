@@ -6,3 +6,16 @@
 
 * [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
 
+## Closest similar item
+
+* [people living near poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_570.md)
+* [People living near poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2401.md)
+* [urban green space management organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2677.md)
+* [individuals with limited access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_803.md)
+* [users of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1235.md)
+* [urban green space management organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1231.md)
+* [visitors to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1509.md)
+* [individuals with private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1419.md)
+* [especially those living in densely populated area with limited acce to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2354.md)
+* [especially those living in densely populated area with limited acces to natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2273.md)
+

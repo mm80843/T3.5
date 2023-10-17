@@ -6,3 +6,16 @@
 
 * [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 
+## Closest similar item
+
+* [animals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_18.md)
+* [agricultural workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1211.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1708.md)
+* [laborers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1797.md)
+* [field workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_130.md)
+* [remote workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1702.md)
+* [pet owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1101.md)
+* [veterinary organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_993.md)
+* [worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
+

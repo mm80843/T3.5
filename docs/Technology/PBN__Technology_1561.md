@@ -10,3 +10,16 @@
 
 * [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
 
+## Closest similar item
+
+* [pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
+* [advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_496.md)
+* [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
+* [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2440.md)
+* [pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2802.md)
+* [molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+* [rapid diagnostics for targeted antimicrobial therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1563.md)
+* [technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
+* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+

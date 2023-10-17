@@ -6,3 +6,16 @@
 
 * [Adaptive reuse](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
 
+## Closest similar item
+
+* [building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3449.md)
+* [enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2017.md)
+* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
+* [restructuring models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
+* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+* [open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
+* [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
+* [modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_376.md)
+* [structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
+* [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
+

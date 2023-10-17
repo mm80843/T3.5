@@ -2,19 +2,32 @@
 
 # __contact tracing personnel__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
-
-## Risk affecting this stakeholder
-
-* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
+## Closest similar item
+
+* [contact tracing team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1852.md)
+* [contact tracing agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1845.md)
+* [contact tracing agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1154.md)
+* [contact tracers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_966.md)
+* [contact tracing teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_759.md)
+* [contact tracer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2516.md)
+* [individual in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2138.md)
+* [contact person of infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2514.md)
+* [compliance officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1439.md)
+* [contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1051.md)
+
+## Risk affecting this stakeholder
+
+* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 

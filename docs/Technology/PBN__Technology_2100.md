@@ -2,12 +2,25 @@
 
 # __Integration of multiple wearable sensors__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
+* [Integration of multiple wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2100.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+* [sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
+* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2539.md)
+* [sensor redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_332.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
 
 ## This Technology belongs to this TechGroup
 

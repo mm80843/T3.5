@@ -10,3 +10,16 @@
 
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 
+## Closest similar item
+
+* [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2778.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
+* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+* [diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
+

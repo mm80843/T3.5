@@ -8,9 +8,22 @@
 
 ## Risks linked to this technology
 
-* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 * [Insolvency risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
 * [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
+
+## Closest similar item
+
+* [fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
+* [financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1331.md)
+* [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
+* [financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
+* [contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_460.md)
+* [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
+* [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
+* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
+* [financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
 

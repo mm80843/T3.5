@@ -2,12 +2,25 @@
 
 # __Paper-based sensor__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
+* [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_139.md)
+* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_234.md)
+* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
+* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_699.md)
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
+* [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_693.md)
+
 ## Property: has_MitigationSource
 
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

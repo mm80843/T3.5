@@ -6,3 +6,16 @@
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
 
+## Closest similar item
+
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
+* [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_487.md)
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
+* [Gender disparities in knowledge, attitudes, and practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_627.md)
+* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2690.md)
+* [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
+* [Gender inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_449.md)
+* [Effects on gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
+* [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
+

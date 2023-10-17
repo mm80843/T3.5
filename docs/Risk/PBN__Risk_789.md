@@ -6,3 +6,16 @@
 
 * [Standardization of car parking design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1083.md)
 
+## Closest similar item
+
+* [Opportunity for smart rotary car parking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_798.md)
+* [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
+* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1620.md)
+* [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2897.md)
+* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2898.md)
+* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1616.md)
+* [Reliance on private cars](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_529.md)
+* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1618.md)
+* [Changes in use and regulation of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_917.md)
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3381.md)
+

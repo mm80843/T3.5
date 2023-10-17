@@ -2,9 +2,18 @@
 
 # __smart contracts__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1888.md)
+* [contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_460.md)
+* [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
+* [partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_447.md)
+* [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2167.md)
+* [blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
+* [blockchain)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_280.md)
+* [temporary use agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1803.md)
+* [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
 
 ## Risks linked to this technology
 
@@ -14,6 +23,10 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Blockchain and Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_169.md)
+
+## This Technology enables the following mitigations
+
+* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1888.md)
 
 ## This Technology belongs to this TechGroup
 

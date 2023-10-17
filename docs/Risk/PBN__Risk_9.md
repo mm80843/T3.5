@@ -6,3 +6,16 @@
 
 * [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 
+## Closest similar item
+
+* [Minimizing disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2560.md)
+* [Population-based data and modeling unable to accurately predict infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1005.md)
+* [Lack of understanding disease transmission pattern](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2436.md)
+* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
+* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
+* [Lack of knowledge on disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_6.md)
+* [Contagious Disease Propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
+

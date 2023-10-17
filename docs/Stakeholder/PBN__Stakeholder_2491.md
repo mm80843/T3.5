@@ -2,15 +2,28 @@
 
 # __community member__
 
-## This Stakeholder is identified by the following QID
-
-* [Q9200127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9200127.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+* [community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_313.md)
+* [community group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2499.md)
+* [members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_271.md)
+* [community leader](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2446.md)
+* [community groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1316.md)
+* [community administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2505.md)
+* [team members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_989.md)
+* [community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
+* [community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q9200127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9200127.md)
 

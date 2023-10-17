@@ -6,3 +6,16 @@
 
 * [Utilization of molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_586.md)
 
+## Closest similar item
+
+* [High patient demand for vaccinations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_155.md)
+* [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_430.md)
+* [Vaccine availability, Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
+* [Difficulty in vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_519.md)
+* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1349.md)
+* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1748.md)
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
+* [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
+* [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
+

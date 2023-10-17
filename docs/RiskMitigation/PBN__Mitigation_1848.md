@@ -2,12 +2,25 @@
 
 # __Maintaining optimum ventilation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1349.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_213.md)
+* [Adequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
+* [Proper Building Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1777.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
+
 ## Property: has_MitigationSource
 
 * [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

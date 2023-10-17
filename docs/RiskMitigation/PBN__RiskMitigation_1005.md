@@ -2,11 +2,24 @@
 
 # __Improved data collection__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Challenges with data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_722.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1007.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Challenges with data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_722.md)
+* [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1390.md)
+* [Standardizing data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1007.md)
+* [Automated sample collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_89.md)
+* [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1427.md)
+* [Improve data quality through standardized data collection processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2322.md)
+* [Improving data quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_773.md)
+* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1120.md)
+* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
+* [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_527.md)
+* [Establish robust data collection and analysis systems, enhance data sharing and collaboration among countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2009.md)
 

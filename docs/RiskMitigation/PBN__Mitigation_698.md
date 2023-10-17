@@ -2,12 +2,25 @@
 
 # __Continuous monitoring system__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Continuous Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
+* [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Quarantine Monitoring System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
+* [Monitoring Service for the Elderly](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_386.md)
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+
 ## Property: has_MitigationSource
 
 * [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

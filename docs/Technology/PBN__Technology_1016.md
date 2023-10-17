@@ -10,3 +10,16 @@
 
 * [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
 
+## Closest similar item
+
+* [Use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2459.md)
+* [crowd-management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1868.md)
+* [crowd management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
+* [crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
+* [use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1027.md)
+* [Use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2461.md)
+* [crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
+* [Crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2736.md)
+* [crowd management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
+* [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
+

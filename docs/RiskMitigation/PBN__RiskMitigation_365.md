@@ -2,11 +2,24 @@
 
 # __Attention to liver transplant recipients with metabolic comorbidities__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_361.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
+* [Monitor and manage gastrointestinal symptoms, enhance diagnostic capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2215.md)
+* [Highlighting health impacts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1235.md)
+* [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
+* [Improve access to healthcare for immigrants, address language barriers, provide targeted interventions for high-risk immigrant groups.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2429.md)
+* [Application of evidence-based non-pharmaceutical interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1008.md)
+* [Establish new guidelines for funerals, communicate risks and mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1848.md)
+* [Focus on non-pharmaceutical interventions, prioritize distribution to countries in need](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1610.md)
+* [Implement and enforce non-pharmaceutical interventions at early stages of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2138.md)
+* [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2851.md)
+* [Explore the use of additional physiological measurements to improve accuracy of diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1561.md)
 

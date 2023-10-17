@@ -2,13 +2,26 @@
 
 # __UV irradiation systems__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
+* [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+* [UV irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2703.md)
+* [uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
+* [ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
+* [uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2219.md)
+* [uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3753.md)
+* [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+* [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2689.md)
+* [uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_882.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+
+## This Technology is identified by the following QID
+
+* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 
 ## This Technology belongs to this TechGroup
 

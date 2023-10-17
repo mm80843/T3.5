@@ -2,13 +2,26 @@
 
 # __Sanitation protocols__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
+* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2564.md)
+* [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
+* [sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1218.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2556.md)
+* [enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
+* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2176.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+* [sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_30.md)
+* [proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3508.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
+## This Technology is identified by the following QID
+
+* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,13 +2,26 @@
 
 # __Air ventilation__
 
-## Property: has_MitigationSource
-
-* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3391.md)
+
+## Closest similar item
+
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_934.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1214.md)
+* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
+* [Ventilation System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1732.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_222.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2000.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2302.md)
+* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2034.md)
+
+## Property: has_MitigationSource
+
+* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 
 ## Property: has_MitigationPrinciple
 

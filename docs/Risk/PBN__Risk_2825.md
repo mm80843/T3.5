@@ -6,3 +6,16 @@
 
 * [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
 
+## Closest similar item
+
+* [Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2522.md)
+* [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [Lack of understanding of disease spread and patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+* [Lack of trustable data on COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_763.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
+* [Virus outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_959.md)
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
+* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+

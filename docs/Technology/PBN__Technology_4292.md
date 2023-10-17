@@ -6,3 +6,16 @@
 
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 
+## Closest similar item
+
+* [large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_365.md)
+* [led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3996.md)
+* [screens or mesh materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4457.md)
+* [lcd panel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3476.md)
+* [screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
+* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
+* [insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
+

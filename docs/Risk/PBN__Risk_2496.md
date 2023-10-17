@@ -8,3 +8,16 @@
 * [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_201.md)
 * [Deferring or suspending taxes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_203.md)
 
+## Closest similar item
+
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
+* [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
+* [Limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2871.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
+* [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)
+* [Rent burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2515.md)
+* [Financial strain on government budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3077.md)
+

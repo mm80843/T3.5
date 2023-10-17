@@ -2,13 +2,26 @@
 
 # __Increase outdoor air flow__
 
-## Property: has_MitigationSource
-
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Closest similar item
+
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_726.md)
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
+* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
+* [Good Indoor Airflow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1463.md)
+* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
+* [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
+* [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_727.md)
+
+## Property: has_MitigationSource
+
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
 
 ## Property: has_MitigationPrinciple
 

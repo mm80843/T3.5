@@ -2,13 +2,26 @@
 
 # __Smart storage solutions__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q66221](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66221.md)
+* [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
+* [cloud storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2968.md)
+* [energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1765.md)
+* [data backup and storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
+* [secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1304.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2600.md)
+* [secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
+* [energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1761.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+
+## This Technology is identified by the following QID
+
+* [Q66221](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66221.md)
 
 ## This Technology belongs to this TechGroup
 

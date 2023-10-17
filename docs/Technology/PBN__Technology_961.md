@@ -10,3 +10,16 @@
 
 * [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
 
+## Closest similar item
+
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
+* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2503.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+* [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
+

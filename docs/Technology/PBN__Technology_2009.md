@@ -10,3 +10,16 @@
 
 * [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 
+## Closest similar item
+
+* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_440.md)
+* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2824.md)
+* [cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_883.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2569.md)
+* [proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3867.md)
+* [proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3870.md)
+* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+

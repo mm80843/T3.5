@@ -6,3 +6,16 @@
 
 * [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_815.md)
 
+## Closest similar item
+
+* [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2072.md)
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
+* [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2334.md)
+* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2605.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2093.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
+

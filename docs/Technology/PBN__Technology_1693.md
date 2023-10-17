@@ -10,3 +10,16 @@
 
 * [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
 
+## Closest similar item
+
+* [local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
+* [local supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2982.md)
+* [alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
+* [local sourcing and sustainable material choices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3454.md)
+* [local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
+* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2313.md)
+* [local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
+* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
+* [network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3591.md)
+* [localization of production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1798.md)
+

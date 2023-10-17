@@ -2,18 +2,31 @@
 
 # __workers affected by restructuring__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q1376796](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1376796.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## Closest similar item
+
+* [worker affected by restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1693.md)
+* [workers in affected industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1476.md)
+* [workers in affected sectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1474.md)
+* [displaced workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1519.md)
+* [worker in affected industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1673.md)
+* [worker in affected sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1812.md)
+* [workers and firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_211.md)
+* [displaced worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2519.md)
+* [individuals and households facing job loss or economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1341.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 
 ## Risk affecting this stakeholder
 
 * [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1376796](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1376796.md)
 

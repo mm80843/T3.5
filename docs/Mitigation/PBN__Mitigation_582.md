@@ -2,13 +2,26 @@
 
 # __Carbon pricing__
 
-## Property: has_MitigationSource
-
-* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
+
+## Closest similar item
+
+* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_999.md)
+* [Carbon Border Tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1002.md)
+* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1991.md)
+* [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1993.md)
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1003.md)
+* [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_336.md)
+* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1987.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
+* [Life Cycle Cost Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_746.md)
+
+## Property: has_MitigationSource
+
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 
 ## Property: has_MitigationPrinciple
 

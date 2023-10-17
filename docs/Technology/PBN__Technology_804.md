@@ -10,3 +10,16 @@
 
 * [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1521.md)
 
+## Closest similar item
+
+* [Public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2629.md)
+* [public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1547.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
+* [public education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1872.md)
+* [public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2504.md)
+* [education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
+* [public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2135.md)
+* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
+

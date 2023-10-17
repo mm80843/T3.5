@@ -6,3 +6,16 @@
 
 * [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1195.md)
 
+## Closest similar item
+
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_483.md)
+* [other residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+* [nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1275.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [all residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_512.md)
+* [resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2450.md)
+* [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
+* [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
+

@@ -10,3 +10,16 @@
 
 * [Mother-to-child transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_803.md)
 
+## Closest similar item
+
+* [kindergartens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1181.md)
+* [Kindergartens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1641.md)
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+* [young people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_264.md)
+* [Kindergarten](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1635.md)
+* [women and young children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_521.md)
+* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
+* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
+* [child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2299.md)
+* [children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1251.md)
+

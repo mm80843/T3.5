@@ -2,6 +2,34 @@
 
 # __Hand hygiene__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+* [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
+* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
+* [Potential medium of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
+
+## Closest similar item
+
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2547.md)
+* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2548.md)
+* [hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2549.md)
+* [education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2550.md)
+* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2551.md)
+* [hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2552.md)
+* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2553.md)
+* [personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2554.md)
+* [hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2555.md)
+
 ## Property: has_MitigationSource
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
@@ -21,21 +49,6 @@
 * [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
-* [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
-* [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
-* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
-* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-* [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-* [Potential medium of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
-
 ## Property: has_MitigationPrinciple
 
 Regular handwashing with soap and water or the use of hand sanitizers reduces the risk of transmission through contaminated hands.
@@ -43,8 +56,8 @@ Regular handwashing with soap and water or the use of hand sanitizers reduces th
 ## This Mitigation is enabled by the following technologies
 
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 * [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
 * [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 

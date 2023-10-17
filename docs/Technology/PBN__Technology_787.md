@@ -10,3 +10,16 @@
 
 * [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
 
+## Closest similar item
+
+* [surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_788.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+* [chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4405.md)
+* [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [cleaning disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4516.md)
+* [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+

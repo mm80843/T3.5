@@ -8,7 +8,20 @@
 
 ## Risks linked to this technology
 
-* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 * [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
+* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
+
+## Closest similar item
+
+* [participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1591.md)
+* [Participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2623.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
+* [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
+* [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
 

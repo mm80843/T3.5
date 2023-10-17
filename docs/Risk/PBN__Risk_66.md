@@ -6,3 +6,16 @@
 
 * [Implement rodent management program](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_78.md)
 
+## Closest similar item
+
+* [Increase in pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2943.md)
+* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_60.md)
+* [Tick-borne diseases in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_65.md)
+* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1666.md)
+* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_273.md)
+* [Vector-borne diseases outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
+* [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2357.md)
+* [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1685.md)
+* [Vector-borne diseases (VBDs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_937.md)
+

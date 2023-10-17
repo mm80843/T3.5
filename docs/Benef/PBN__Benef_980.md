@@ -2,19 +2,19 @@
 
 # __Social and economic__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Economic recovery of local](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1079.md)
-
-## Articles mentionning this Benefit
-
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
-
 ## Name of the Benefit
 
 Reduction of crowded areas
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Economic recovery of local](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1079.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [local businesses,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_385.md)
+
+## Articles mentionning this Benefit
+
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

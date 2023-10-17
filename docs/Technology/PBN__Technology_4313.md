@@ -6,3 +6,16 @@
 
 * [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
 
+## Closest similar item
+
+* [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
+* [use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
+* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2679.md)
+* [sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
+* [resilient production systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3627.md)
+* [sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2750.md)
+* [resilient and decentralized economic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_531.md)
+* [work practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3603.md)
+* [preparedness strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_33.md)
+

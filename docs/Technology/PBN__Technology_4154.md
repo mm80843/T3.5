@@ -6,3 +6,16 @@
 
 * [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1948.md)
 
+## Closest similar item
+
+* [bluetooth low energy (ble) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4123.md)
+* [wbe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3070.md)
+* [bluetooth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2999.md)
+* [bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4513.md)
+* [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
+* [gotomeeting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3220.md)
+* [Bluetooth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2444.md)
+* [bluetooth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1384.md)
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [kgx](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_57.md)
+

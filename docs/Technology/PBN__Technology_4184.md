@@ -6,3 +6,16 @@
 
 * [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2001.md)
 
+## Closest similar item
+
+* [separate control of air temperature room by room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1734.md)
+* [airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1118.md)
+* [air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
+* [improved airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
+* [indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
+* [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1662.md)
+* [air distribution evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4206.md)
+* [air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
+

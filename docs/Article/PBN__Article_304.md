@@ -4,6 +4,6 @@
 
 ## List of risks in an article
 
-* [and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
 * [and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2293.md)
+* [and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
 

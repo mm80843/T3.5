@@ -10,3 +10,16 @@
 
 * [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
 
+## Closest similar item
+
+* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
+* [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [open-source platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
+* [supply chain management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
+* [project evaluation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4127.md)
+

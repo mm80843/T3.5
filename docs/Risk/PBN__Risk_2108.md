@@ -2,35 +2,38 @@
 
 # __Transmission through person-to-person contact__
 
-## Name of the risk
-
-Rapid spread of the virus and increased risk of infection
-
-## Description of the risk
-
-Easy transmission of Covid-19 through close contact with an infected person
-
-## Mitigations of this risk
-
-* [Maintain physical distance, wear masks, practice proper hygiene, and avoid large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2758.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
-* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Rapid spread of the virus and increased risk of infection
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
+* [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
+* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
+* [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
+* [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+* [Transmission via close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_73.md)
+
+## Description of the risk
+
+Easy transmission of Covid-19 through close contact with an infected person
 
 ## Technologies linked to the risk
 
@@ -38,19 +41,29 @@ Easy transmission of Covid-19 through close contact with an infected person
 * [rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
 * [thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Maintain physical distance, wear masks, practice proper hygiene, and avoid large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2758.md)
+
+## Articles mentionning the risk
+
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 

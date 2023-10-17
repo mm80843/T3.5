@@ -2,13 +2,26 @@
 
 # __Improvement of ventilation__
 
-## Property: has_MitigationSource
-
-* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Closest similar item
+
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+* [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
+* [Improved Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_807.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+
+## Property: has_MitigationSource
+
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 
 ## Property: has_MitigationPrinciple
 

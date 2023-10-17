@@ -6,3 +6,16 @@
 
 * [IEQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1580.md)
 
+## Closest similar item
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3929.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+

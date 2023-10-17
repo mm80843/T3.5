@@ -10,31 +10,31 @@
 * [Improved Access to Patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_392.md)
 * [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
 
-## Short summary of the article
-
-A study from South Korea describes the process of rapidly expanding airborne-infection isolation rooms (AIIRs) to accommodate COVID-19 patients with severe symptoms. The study emphasizes the importance of selecting appropriate ward and patient rooms, considering the medical procedures needed for critical patients. Anterooms, which serve as buffer zones between patient rooms and corridors, are crucial for infection control in AIIRs. The study provides guidance on partitioning rooms or corridors to create anterooms, considering factors such as restroom location, patient bed alignment, and communication between medical personnel. Generating negative pressure in AIIRs is essential, and the study highlights the use of negative air machines to achieve reliable and stable negative pressure. The pressure differentials and air changes per hour in the AIIRs met the recommendations from the Centers for Disease Control and Prevention and the Korea Centers for Disease Control and Prevention. The study also discusses the implementation of patient monitoring systems and door-lock devices to enhance access control and patient safety. Lastly, the study emphasizes the importance of adequate healthcare personnel in the new AIIRs, with a focus on the experience and expertise of respiratory and intensive care unit workers. The authors believe that these measures contributed to the low mortality and infection rates among COVID-19 patients and healthcare personnel in South Korea.
-
 ## Summary of the article
 
 There is a virus called SARS-CoV-2 that is causing a pandemic around the world. It started in China and has spread to many countries. The virus can make people very sick, and some people have died from it. Hospitals are running out of resources and need more rooms to help treat sick patients. They are building temporary rooms called airborne-infection isolation rooms (AIIRs) to keep the virus from spreading. These rooms have special equipment and are designed to keep the air clean. Health care workers are working hard to take care of the patients in these rooms and keep themselves safe.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
-* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
-* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1640.md)
-* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
-* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
-* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
-* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
+A study from South Korea describes the process of rapidly expanding airborne-infection isolation rooms (AIIRs) to accommodate COVID-19 patients with severe symptoms. The study emphasizes the importance of selecting appropriate ward and patient rooms, considering the medical procedures needed for critical patients. Anterooms, which serve as buffer zones between patient rooms and corridors, are crucial for infection control in AIIRs. The study provides guidance on partitioning rooms or corridors to create anterooms, considering factors such as restroom location, patient bed alignment, and communication between medical personnel. Generating negative pressure in AIIRs is essential, and the study highlights the use of negative air machines to achieve reliable and stable negative pressure. The pressure differentials and air changes per hour in the AIIRs met the recommendations from the Centers for Disease Control and Prevention and the Korea Centers for Disease Control and Prevention. The study also discusses the implementation of patient monitoring systems and door-lock devices to enhance access control and patient safety. Lastly, the study emphasizes the importance of adequate healthcare personnel in the new AIIRs, with a focus on the experience and expertise of respiratory and intensive care unit workers. The authors believe that these measures contributed to the low mortality and infection rates among COVID-19 patients and healthcare personnel in South Korea.
 
 ## This article points to following mitigation
 
 * [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
-* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
 * [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1112.md)
+* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
+* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
+
+## List of risks in an article
+
+* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
+* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
+* [Shortage of AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
+* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
+* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1640.md)
+* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
+* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
 
 ## Title of the article
 

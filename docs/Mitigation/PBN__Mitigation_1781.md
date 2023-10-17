@@ -2,13 +2,26 @@
 
 # __Efficient Cooking Practices__
 
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [IAP, Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3247.md)
+
+## Closest similar item
+
+* [Improved Cooking Stoves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1771.md)
+* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
+* [Access to Clean Cooking Fuels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1775.md)
+* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
+* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
+* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2142.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
+* [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2234.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_MitigationPrinciple
 

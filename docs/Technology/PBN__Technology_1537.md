@@ -2,22 +2,35 @@
 
 # __social networks__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3383.md)
+* [social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
+* [collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1083.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2242.md)
+* [facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4230.md)
+* [social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1452.md)
+* [social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
 
 ## Risks linked to this technology
 
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
-* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
 * [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
-* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
 * [Disabling loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
+* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
 * [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
+* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology enables the following mitigations
+
+* [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,11 +2,24 @@
 
 # __Prevention efforts__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Emotional distress and psychiatric illness associated with Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_590.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Emotional distress and psychiatric illness associated with Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_590.md)
+* [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2541.md)
+* [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2437.md)
+* [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
+* [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3094.md)
+* [Prevention efforts, screening for mental health problems, psychoeducation, psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2494.md)
+* [Emphasize the importance of multiple preventive measures and the need for continued vigilance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2416.md)
+* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
+* [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2071.md)
+* [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
+* [Promote and enforce adherence to preventive measures through education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1555.md)
 

@@ -6,3 +6,16 @@
 
 * [Nested PCR assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
 
+## Closest similar item
+
+* [molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2802.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
+* [clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
+* [drug development and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3437.md)
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2028.md)
+

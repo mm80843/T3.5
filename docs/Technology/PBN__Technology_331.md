@@ -10,3 +10,16 @@
 
 * [Sensor failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1236.md)
 
+## Closest similar item
+
+* [Regular calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2426.md)
+* [sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [Sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2519.md)
+* [calibration protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1638.md)
+* [HVAC maintenance and calibration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
+* [physical distancing markers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
+* [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
+* [regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1753.md)
+* [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)
+

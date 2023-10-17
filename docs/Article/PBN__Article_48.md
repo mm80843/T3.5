@@ -10,6 +10,10 @@
 * [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
 * [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
 
+## Summary of the article
+
+There are many diseases that can make a lot of people sick. Some of these diseases are new and have never been seen before. They can spread quickly and cause outbreaks all over the world. There are different ways that people try to keep track of these diseases and stop them from spreading. One new way is called Wastewater-Based Epidemiology (WBE). WBE is a technique that looks at the water we use and can tell us if there are any harmful germs or chemicals in it. By studying the water, scientists can learn about the health of a whole community and if there are any diseases going around. This can help them respond faster and keep people safe. But there are still some challenges that scientists need to figure out, like how to extract the germs or chemicals from the water and how to measure the population size accurately. With more research, WBE could be a really helpful tool in fighting infectious diseases.
+
 ## Short summary of the article
 
 This research abstract summarizes a study on wastewater-based epidemiology (WBE) as a surveillance technique for monitoring infectious diseases. The study highlights the importance of infectious disease surveillance due to the continued risks posed by communicable diseases, including emerging infectious diseases and antimicrobial resistance. The drivers of disease emergence include climate change, population increases, and global trade and travel. Current surveillance techniques suffer from limitations such as bias and cost.
@@ -20,18 +24,6 @@ The study suggests that WBE can be expanded to monitor infectious diseases by an
 
 The study concludes that WBE has the potential to complement current surveillance systems and provide population-wide surveillance data in real-time. Advancements in extraction techniques, analytical tools, and biomarker discovery are needed to overcome the challenges associated with WBE. The research abstract emphasizes the significance of effective surveillance systems for the early intervention and control of infectious disease outbreaks.
 
-## Summary of the article
-
-There are many diseases that can make a lot of people sick. Some of these diseases are new and have never been seen before. They can spread quickly and cause outbreaks all over the world. There are different ways that people try to keep track of these diseases and stop them from spreading. One new way is called Wastewater-Based Epidemiology (WBE). WBE is a technique that looks at the water we use and can tell us if there are any harmful germs or chemicals in it. By studying the water, scientists can learn about the health of a whole community and if there are any diseases going around. This can help them respond faster and keep people safe. But there are still some challenges that scientists need to figure out, like how to extract the germs or chemicals from the water and how to measure the population size accurately. With more research, WBE could be a really helpful tool in fighting infectious diseases.
-
-## List of risks in an article
-
-* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
-* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
-* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
-* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
-* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
-
 ## This article points to following mitigation
 
 * [Sentinel Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
@@ -41,6 +33,14 @@ There are many diseases that can make a lot of people sick. Some of these diseas
 * [Monitoring of Pharmaceuticals and Metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1924.md)
 * [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
 * [Ethical Considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
+
+## List of risks in an article
+
+* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
+* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
+* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
+* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
 
 ## Title of the article
 

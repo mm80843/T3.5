@@ -6,3 +6,16 @@
 
 * [Cross-population train/test-based AI models for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1404.md)
 
+## Closest similar item
+
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [AI](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
+* [ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2070.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4534.md)
+* [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
+* [AI technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
+* [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+

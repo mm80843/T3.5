@@ -2,12 +2,25 @@
 
 # __Optimal calibration of stockpiles__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Signal calibration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_514.md)
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
+* [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2355.md)
+* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1845.md)
+* [Diversified and localized production systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
+* [Creation of rescEU stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
+* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
+* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
+* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1494.md)
+* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
+
 ## Property: has_MitigationSource
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

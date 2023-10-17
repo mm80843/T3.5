@@ -10,3 +10,16 @@
 
 * [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
 
+## Closest similar item
+
+* [online delivery platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3882.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
+* [online food platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+* [online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
+* [online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_993.md)
+* [digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1521.md)
+* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
+* [online platforms for sharing information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_253.md)
+* [electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
+

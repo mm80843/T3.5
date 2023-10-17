@@ -2,9 +2,22 @@
 
 # __internet connectivity__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
+* [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4446.md)
+* [broadband connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4356.md)
+* [Internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2840.md)
+* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+* [internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
+* [connectivity technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3373.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+
+## Risks linked to this technology
+
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
 
 ## This Technology enables the following mitigations
 
@@ -13,7 +26,7 @@
 * [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
 * [Online questionnaire survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2205.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
+* [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
 

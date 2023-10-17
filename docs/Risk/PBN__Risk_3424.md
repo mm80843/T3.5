@@ -6,3 +6,16 @@
 
 * [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
 
+## Closest similar item
+
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
+* [Workforce Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
+* [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
+* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
+* [Insufficient design guidelines for transformation, adaptation, and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_788.md)
+* [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1974.md)
+* [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2883.md)
+* [Cultural change in remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_504.md)
+* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
+

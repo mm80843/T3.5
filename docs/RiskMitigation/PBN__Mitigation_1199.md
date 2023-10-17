@@ -2,12 +2,25 @@
 
 # __Face-to-face surveys__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Surveys and Feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
+* [Data collection through online survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
+* [Online questionnaire survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2205.md)
+* [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1624.md)
+* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
+* [Self-reported questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2449.md)
+* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2445.md)
+* [Crowdsourced Smartphone Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
+* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
+* [Face-to-face Contact within Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1748.md)
+
 ## Property: has_MitigationSource
 
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,14 +2,27 @@
 
 # __Job-seeker__
 
-## This Stakeholder is identified by the following QID
-
-* [Q5281746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5281746.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
+## Closest similar item
+
+* [Job seeker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1774.md)
+* [job-seekers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1368.md)
+* [Job-seekers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1684.md)
+* [job seekers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1492.md)
+* [Job seekers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1755.md)
+* [hiring managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_984.md)
+* [retail worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1657.md)
+* [freelancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1737.md)
+* [unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_811.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q5281746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5281746.md)
 

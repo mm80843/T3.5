@@ -2,12 +2,25 @@
 
 # __Regular sterilization__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1219.md)
+* [Smart sterilizer sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1857.md)
+* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
+* [Air filtration and UV sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
+* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1560.md)
+* [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2049.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
+* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
+
 ## Property: has_MitigationSource
 
 * [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

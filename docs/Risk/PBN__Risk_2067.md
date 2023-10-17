@@ -2,13 +2,46 @@
 
 # __Financial crisis__
 
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+
+## People affected by this risk
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
 ## Name of the risk
 
 Job loss, company closures
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
+* [Crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3277.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
+* [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
+* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
+* [Liquidity crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3377.md)
+* [Financial crisis in the construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_303.md)
+* [Financial Loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1578.md)
+* [Financial loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2498.md)
+
 ## Description of the risk
 
 Construction industry severely impacted by economic downturn
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Mitigations of this risk
 
@@ -18,40 +51,20 @@ Construction industry severely impacted by economic downturn
 * [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1905.md)
 * [Improving office productivity and lowering overhead costs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
 
-## Property: has_RiskHealth
+## Articles mentionning the risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
-## Property: has_RiskType
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 

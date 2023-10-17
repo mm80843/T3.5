@@ -6,3 +6,16 @@
 
 * [Safe management of domestic waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2458.md)
 
+## Closest similar item
+
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3350.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
+* [Pollution and environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2906.md)
+* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Contaminated Environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
+* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+* [Increased waste, reduced waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3148.md)
+* [Increased waste production, risk of COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2595.md)
+

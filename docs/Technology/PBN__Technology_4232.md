@@ -6,3 +6,16 @@
 
 * [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2113.md)
 
+## Closest similar item
+
+* [infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1502.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2466.md)
+* [thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
+* [infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
+* [thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
+* [thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
+* [high-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4441.md)
+* [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
+* [thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
+* [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+

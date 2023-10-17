@@ -10,3 +10,16 @@
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 
+## Closest similar item
+
+* [enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3113.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2348.md)
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2701.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
+* [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+* [implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
+* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2674.md)
+

@@ -2,13 +2,26 @@
 
 # __Virus Quantification__
 
-## Property: has_MitigationSource
-
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of understanding and data on virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2825.md)
+
+## Closest similar item
+
+* [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
+* [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2111.md)
+* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
+* [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
+* [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
+* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
+* [Global virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
+* [Virus-inactivating Solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_823.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
+
+## Property: has_MitigationSource
+
+* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 
 ## Property: has_MitigationPrinciple
 

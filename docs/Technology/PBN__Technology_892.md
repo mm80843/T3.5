@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
 * [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
+* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
+
+## Closest similar item
+
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2049.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2089.md)
+* [fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
+* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2159.md)
+* [fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_808.md)
+* [fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
+* [fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1437.md)
 

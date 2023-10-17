@@ -2,13 +2,26 @@
 
 # __One-way systems__
 
-## Property: has_MitigationSource
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Increased congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2798.md)
+
+## Closest similar item
+
+* [Two-way Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_381.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
+* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1798.md)
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
+* [Automotive systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2168.md)
+* [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
+* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1163.md)
+* [Flexible Design Solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1968.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_439.md)
+
+## Property: has_MitigationSource
+
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [House screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2390.md)
 
+## Closest similar item
+
+* [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
+* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
+* [better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2016.md)
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
+* [led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3996.md)
+* [building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
+* [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
+* [large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_365.md)
+

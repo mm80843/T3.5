@@ -5,8 +5,21 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
 * [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
 * [behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
-* [training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
 * [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2401.md)
+
+## Closest similar item
+
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+* [Education and Training Programs](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_178.md)
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+* [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
+* [Research and Scientific Studies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_163.md)
+* [Public Health Measures and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
+* [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+* [Artificial Intelligence and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_1.md)
+* [Software and Applications](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_122.md)
 

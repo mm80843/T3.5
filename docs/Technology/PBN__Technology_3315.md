@@ -6,3 +6,16 @@
 
 * [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 
+## Closest similar item
+
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
+* [standardised data formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
+* [data collection and sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_941.md)
+* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
+* [linked data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2937.md)
+* [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2529.md)
+* [standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_520.md)
+* [efficient data collection and processing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_177.md)
+* [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+

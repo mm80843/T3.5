@@ -7,3 +7,16 @@
 * [Isolation Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_467.md)
 * [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2128.md)
 
+## Closest similar item
+
+* [proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3033.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2245.md)
+* [maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
+* [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
+* [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+

@@ -6,3 +6,16 @@
 
 * [Proper disinfection and disposal of hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_929.md)
 
+## Closest similar item
+
+* [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2313.md)
+* [Improper disposal of infectious hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_669.md)
+* [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
+* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
+* [Pathogen contamination in hospital environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_220.md)
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3350.md)
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
+* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Increased waste, risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
+* [Increase in hospital waste generation during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_667.md)
+

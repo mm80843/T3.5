@@ -2,13 +2,26 @@
 
 # __Innovation and Creativity__
 
-## Property: has_MitigationSource
-
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Reduction in innovation and experimentation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2872.md)
+
+## Closest similar item
+
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1820.md)
+* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1096.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
+* [designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1663.md)
+* [Change and Opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
+* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
+* [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
+* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2191.md)
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
+* [Active Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
+
+## Property: has_MitigationSource
+
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
 ## Property: has_MitigationPrinciple
 

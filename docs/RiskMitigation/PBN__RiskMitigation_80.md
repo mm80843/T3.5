@@ -2,11 +2,24 @@
 
 # __Plant insect-pollinated plants instead of wind-pollinated ones__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Green spaces and pollen allergies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_68.md)
+
 ## Property: has_MitigationBenefit
 
 * [Decreased pollen allergen exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_93.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Green spaces and pollen allergies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_68.md)
+* [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1351.md)
+* [Indoor plants as air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_366.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_485.md)
+* [Development and use of alternative insecticides, rotation of insecticides, combination treatments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3055.md)
+* [Proper selection of low-allergenic plant species, public education on pollen allergies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2226.md)
+* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_729.md)
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_220.md)
+* [Research and develop alternative materials that prevent mosquito attraction while remaining environmentally sustainable.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2420.md)
+* [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1303.md)
+* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3080.md)
 

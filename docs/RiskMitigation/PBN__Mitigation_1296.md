@@ -2,12 +2,25 @@
 
 # __Shelter and Safety__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
+* [Resilience Building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
+* [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
+* [Protective Facilities for Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1866.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
+* [Providing shelters and nutrition for refugees and the homeless](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_206.md)
+* [Strengthen Social Safety Nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1836.md)
+* [Home Confinement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1724.md)
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
+* [Universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2051.md)
+
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

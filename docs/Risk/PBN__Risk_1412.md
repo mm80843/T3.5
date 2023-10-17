@@ -2,35 +2,38 @@
 
 # __Lack of occupant awareness and behavior__
 
-## Name of the risk
-
-Increased energy consumption, higher costs, and negative environmental impact.
-
-## Description of the risk
-
-Lack of awareness and behavior among occupants contributes to higher energy consumption, leading to increased costs and environmental impact.
-
-## Mitigations of this risk
-
-* [Conduct energy-saving education and awareness campaigns, provide energy feedback to occupants, and implement behavior change programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1919.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased energy consumption, higher costs, and negative environmental impact.
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Lack of awareness/ability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2653.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
+* [Occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1481.md)
+* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
+* [Lack of awareness or understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
+* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2893.md)
+* [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
+* [Lack of Knowledge and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
+
+## Description of the risk
+
+Lack of awareness and behavior among occupants contributes to higher energy consumption, leading to increased costs and environmental impact.
 
 ## Technologies linked to the risk
 
@@ -38,19 +41,29 @@ Lack of awareness and behavior among occupants contributes to higher energy cons
 * [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
 * [behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Conduct energy-saving education and awareness campaigns, provide energy feedback to occupants, and implement behavior change programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1919.md)
+
+## Articles mentionning the risk
+
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 

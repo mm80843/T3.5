@@ -6,3 +6,16 @@
 
 * [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_644.md)
 
+## Closest similar item
+
+* [Future "black swan" events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
+* [Extreme events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_132.md)
+* [Extreme Events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2488.md)
+* [Threat events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
+* [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
+* [Restriction of large events, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2776.md)
+* [Seeding events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3326.md)
+* [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_804.md)
+* [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3215.md)
+* [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_334.md)
+

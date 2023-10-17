@@ -2,14 +2,27 @@
 
 # __busine and industry with localized supply chain__
 
-## This Stakeholder is identified by the following QID
-
-* [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
+## Closest similar item
+
+* [busines and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2025.md)
+* [business and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2072.md)
+* [businesses and industries with localized supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1247.md)
+* [busine organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1953.md)
+* [busines organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2011.md)
+* [busines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1908.md)
+* [busine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2068.md)
+* [local industries and businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_412.md)
+* [government and busine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2406.md)
+* [busine association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1969.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
 

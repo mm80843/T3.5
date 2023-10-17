@@ -2,19 +2,19 @@
 
 # __Interrupted airborne transmission__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Reduced risk of widespread outbreaks, improved public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_659.md)
-
-## Articles mentionning this Benefit
-
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-
 ## Name of the Benefit
 
 Prevention of person-to-person transmission
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Reduced risk of widespread outbreaks, improved public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_659.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Articles mentionning this Benefit
+
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
 

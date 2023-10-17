@@ -2,3 +2,16 @@
 
 # __BigData__
 
+## Closest similar item
+
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4167.md)
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
+* [big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1572.md)
+* [databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3349.md)
+* [linked data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2937.md)
+* [linked open data)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3123.md)
+* [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+

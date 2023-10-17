@@ -2,12 +2,25 @@
 
 # __Concentration method__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_230.md)
+* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
+* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_274.md)
+* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1416.md)
+* [Controlling population density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1265.md)
+* [Phase II relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1588.md)
+* [Phase III relaxation - part 2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1590.md)
+* [Phase III relaxation - part 1](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1589.md)
+* [Density reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_675.md)
+* [Occupant Density Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
+
 ## Property: has_MitigationSource
 
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

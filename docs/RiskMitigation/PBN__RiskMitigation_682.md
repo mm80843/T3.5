@@ -2,11 +2,24 @@
 
 # __Differential testing rates__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved equity in testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_689.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Social inequalities and COVID-19 incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_485.md)
+* [Increase testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1188.md)
+* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2129.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
+* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2047.md)
+* [Develop rapid testing methods to reduce turnaround time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3117.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2723.md)
+* [Testing policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_772.md)
+* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1890.md)
+* [Increase production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2284.md)
+* [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2514.md)
 

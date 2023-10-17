@@ -10,3 +10,16 @@
 
 * [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
 
+## Closest similar item
+
+* [Quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2693.md)
+* [mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_570.md)
+* [use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_685.md)
+* [window fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4051.md)
+* [ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
+* [noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
+* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2446.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
+* [noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
+

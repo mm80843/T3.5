@@ -8,8 +8,21 @@
 
 ## Risks linked to this technology
 
-* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
 * [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
 * [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
+* [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
+
+## Closest similar item
+
+* [financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1440.md)
+* [financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3976.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+* [financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_636.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2400.md)
+* [government financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_459.md)
+* [business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
+* [assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
 

@@ -6,3 +6,16 @@
 
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
 
+## Closest similar item
+
+* [individuals in confined spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1456.md)
+* [individual in confined space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2347.md)
+* [individuals in enclosed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1520.md)
+* [occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_846.md)
+* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2562.md)
+* [individual in enclosed space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2260.md)
+* [Occupants of indoor spaces (homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2577.md)
+* [occupants of indoor spaces (homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1035.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
+

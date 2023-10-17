@@ -10,3 +10,16 @@
 
 * [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
 
+## Closest similar item
+
+* [emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_281.md)
+* [technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3171.md)
+* [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
+* [continued technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
+* [collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3368.md)
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+

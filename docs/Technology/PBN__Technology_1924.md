@@ -10,3 +10,16 @@
 
 * [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2331.md)
 
+## Closest similar item
+
+* [media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
+* [mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1540.md)
+* [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_337.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
+* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
+* [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
+* [reporting standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
+* [reports](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3355.md)
+

@@ -2,13 +2,26 @@
 
 # __Workplace safety technology__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q2064531](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2064531.md)
+* [workplace safety technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_461.md)
+* [safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
+* [safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3053.md)
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2178.md)
+* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
+* [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
+* [safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
+## This Technology is identified by the following QID
+
+* [Q2064531](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2064531.md)
 
 ## This Technology belongs to this TechGroup
 

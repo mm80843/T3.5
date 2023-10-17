@@ -2,13 +2,26 @@
 
 # __Isolation Space Design__
 
-## Property: has_MitigationSource
-
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2461.md)
+
+## Closest similar item
+
+* [Isolation Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_467.md)
+* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1710.md)
+* [Isolation Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2090.md)
+* [Vertical Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1917.md)
+* [Partial Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
+* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
+* [Isolation parameter](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
+* [Home Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
+
+## Property: has_MitigationSource
+
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 
 ## Property: has_MitigationPrinciple
 

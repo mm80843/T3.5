@@ -10,3 +10,16 @@
 
 * [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
 
+## Closest similar item
+
+* [Telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2443.md)
+* [reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1153.md)
+* [digital reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
+* [telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
+* [telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4372.md)
+* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
+* [centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_41.md)
+* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2507.md)
+

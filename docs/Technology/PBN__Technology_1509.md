@@ -10,3 +10,16 @@
 
 * [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
 
+## Closest similar item
+
+* [Distance learning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
+* [technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
+* [education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2898.md)
+* [online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
+* [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2632.md)
+* [digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1809.md)
+* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2643.md)
+* [Remote learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
+* [remote education technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
+

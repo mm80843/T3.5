@@ -2,11 +2,24 @@
 
 # __Application of antiviral surface coatings__
 
+## Risks possibly mitigated by this Mitigation
+
+* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
+* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_920.md)
+* [Disinfection of surfaces and development of antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1579.md)
+* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1633.md)
+* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
+* [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_918.md)
+* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2035.md)
+* [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2037.md)
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
+* [Regular cleaning and disinfection of high-touch surfaces, use of anti-SARS-CoV-2 coatings on solids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1629.md)
 

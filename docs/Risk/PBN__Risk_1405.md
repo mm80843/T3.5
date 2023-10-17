@@ -2,35 +2,40 @@
 
 # __Lack of spatiotemporal scale and resolution in data collection__
 
-## Name of the risk
-
-Partial and inaccurate understanding of IEQ characteristics.
-
-## Description of the risk
-
-Traditional IEQ measurement tools have limitations in terms of spatial and temporal coverage and data resolution.
-
-## Mitigations of this risk
-
-* [Develop IoT-based monitoring systems that allow for long-term continuous measurement of IEQ on a broader scale.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1911.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
-* [iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Partial and inaccurate understanding of IEQ characteristics.
+
+## Property: has_RiskISO_Purpose
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+
+## Closest similar item
+
+* [Data collection and analysis limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_260.md)
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2723.md)
+* [Data gaps and lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2911.md)
+* [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
+* [Data gaps and heterogeneity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_725.md)
+* [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
+* [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2624.md)
+
+## Description of the risk
+
+Traditional IEQ measurement tools have limitations in terms of spatial and temporal coverage and data resolution.
 
 ## Technologies linked to the risk
 
@@ -39,21 +44,29 @@ Traditional IEQ measurement tools have limitations in terms of spatial and tempo
 * [wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
 * [cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+* [Develop IoT-based monitoring systems that allow for long-term continuous measurement of IEQ on a broader scale.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1911.md)
+
+## Articles mentionning the risk
+
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+* [iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
 

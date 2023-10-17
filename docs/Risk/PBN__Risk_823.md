@@ -6,3 +6,16 @@
 
 * [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
 
+## Closest similar item
+
+* [Difficulty in confinement of COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_704.md)
+* [COVID-19 symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3136.md)
+* [COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2528.md)
+* [Lack of drug therapies for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_935.md)
+* [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
+* [Psychological impact of COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_34.md)
+* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
+* [Severe cases of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
+* [Gastrointestinal symptoms in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
+

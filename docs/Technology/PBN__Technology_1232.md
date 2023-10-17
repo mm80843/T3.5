@@ -2,6 +2,30 @@
 
 # __cloud computing__
 
+## Closest similar item
+
+* [cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
+* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
+* [cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
+* [cloud-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1455.md)
+* [cloud-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1137.md)
+* [cloud storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2968.md)
+* [data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
+* [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
+* [data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
+* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
+
+## Risks linked to this technology
+
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
+* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
 ## This Technology enables the following mitigations
 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
@@ -14,21 +38,10 @@
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2027.md)
 * [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
 
-## Risks linked to this technology
-
-* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
-* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
-* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
-
 ## This Technology is identified by the following QID
 
 * [Q483639](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483639.md)
 * [Q105696560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105696560.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
-* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
 
 ## This Technology belongs to this TechGroup
 

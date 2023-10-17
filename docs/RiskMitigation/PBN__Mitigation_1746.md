@@ -2,12 +2,25 @@
 
 # __Physical Contact__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2380.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
+* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_839.md)
+* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
+* [Controlling probability of contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1344.md)
+* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
+* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
+* [Avoid touching face](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1665.md)
+* [Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
+
 ## Property: has_MitigationSource
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -15,6 +28,6 @@ Occupant exposure is accounted for when people are in direct physical contact wi
 
 ## This Mitigation is enabled by the following technologies
 
-* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
 * [agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
+* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
 

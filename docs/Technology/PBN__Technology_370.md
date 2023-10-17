@@ -6,3 +6,16 @@
 
 * [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
 
+## Closest similar item
+
+* [designated zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_370.md)
+* [designated community-level zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3205.md)
+* [designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4351.md)
+* [zoning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4037.md)
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2493.md)
+* [zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
+* [designated space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2989.md)
+* [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
+* [green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
+* [community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
+

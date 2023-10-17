@@ -2,13 +2,26 @@
 
 # __Remote work for office workers__
 
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Exposure to virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3144.md)
+
+## Closest similar item
+
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
+* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
+* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
+* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
+
+## Property: has_MitigationSource
+
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 
 ## Property: has_MitigationPrinciple
 

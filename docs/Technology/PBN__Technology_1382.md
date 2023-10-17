@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
 * [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2072.md)
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
+
+## Closest similar item
+
+* [anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1382.md)
+* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
+* [anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
+* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
+* [privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2422.md)
+* [anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1936.md)
+* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1589.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
 

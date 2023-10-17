@@ -2,39 +2,9 @@
 
 # __Security breaches__
 
-## Name of the risk
-
-Risk of unauthorized access, data breaches, and physical damage
-
-## Description of the risk
-
-Heterogeneity of IoT protocols and lack of centralized networks expose urban systems to security threats
-
-## Mitigations of this risk
-
-* [Enhance protocols and network security measures, establish centralized data networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1514.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [private entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_56.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
-* [network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
 
 ## People affected by this risk
 
@@ -42,15 +12,58 @@ Heterogeneity of IoT protocols and lack of centralized networks expose urban sys
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [urban systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_599.md)
 
+## Name of the risk
+
+Risk of unauthorized access, data breaches, and physical damage
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
+* [Data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
+* [Potential data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2534.md)
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
+* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3071.md)
+* [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3379.md)
+* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2676.md)
+* [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
+* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2990.md)
+* [Intrusion and hacking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_48.md)
+
+## Description of the risk
+
+Heterogeneity of IoT protocols and lack of centralized networks expose urban systems to security threats
+
+## Technologies linked to the risk
+
+* [iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
+* [network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Mitigations of this risk
+
+* [Enhance protocols and network security measures, establish centralized data networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1514.md)
+
+## Articles mentionning the risk
+
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [private entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_56.md)
 

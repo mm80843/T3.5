@@ -9,3 +9,16 @@
 * [Increased sense of identity and aesthetic experience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_986.md)
 * [Enhanced social interaction and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_987.md)
 
+## Closest similar item
+
+* [general population of kraków](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_393.md)
+* [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_483.md)
+* [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+* [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+* [nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1275.md)
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
+* [resident of densely populated city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2467.md)
+

@@ -6,3 +6,16 @@
 
 * [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
 
+## Closest similar item
+
+* [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2527.md)
+* [simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
+* [modeling and simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_759.md)
+* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+

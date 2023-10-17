@@ -2,12 +2,25 @@
 
 # __Connecting green spaces__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Green Open Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1706.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
+* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_50.md)
+* [Proximity of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_51.md)
+* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
+* [Access to open green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2281.md)
+* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
+* [Green space area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_637.md)
+* [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+
 ## Property: has_MitigationSource
 
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

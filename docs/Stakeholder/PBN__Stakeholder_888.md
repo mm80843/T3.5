@@ -6,3 +6,16 @@
 
 * [Risk of asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1377.md)
 
+## Closest similar item
+
+* [access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3047.md)
+* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3048.md)
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3049.md)
+* [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3050.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3051.md)
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3052.md)
+* [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3053.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3054.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3055.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3056.md)
+

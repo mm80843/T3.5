@@ -2,9 +2,18 @@
 
 # __diagnostic tests__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
+* [rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
+* [diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
+* [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2778.md)
+* [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)
+* [enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2029.md)
 
 ## Risks linked to this technology
 
@@ -13,6 +22,10 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This Technology enables the following mitigations
+
+* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,12 +2,25 @@
 
 # __Increase outdoor air__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
+* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
+* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
+* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
+* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
+
 ## Property: has_MitigationSource
 
 * [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,11 +2,24 @@
 
 # __Availability of outdoor spaces__
 
+## Risks possibly mitigated by this Mitigation
+
+* [MH2: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_181.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved mental state](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_233.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [MH2: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_181.md)
+* [Provide outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2868.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3135.md)
+* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1323.md)
+* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_849.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2941.md)
+* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2914.md)
+* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1790.md)
+* [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_733.md)
 

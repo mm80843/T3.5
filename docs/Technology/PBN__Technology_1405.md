@@ -10,3 +10,16 @@
 
 * [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1974.md)
 
+## Closest similar item
+
+* [time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
+* [time tracking software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1408.md)
+* [flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1406.md)
+* [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+* [implementation of flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_499.md)
+* [mobile apps to book time slots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_415.md)
+* [cleaning schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_774.md)
+* [data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
+* [use digital management systems to track maintenance tasks and ensure timely completion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1042.md)
+* [promotion of flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
+

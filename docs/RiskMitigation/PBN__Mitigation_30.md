@@ -2,13 +2,26 @@
 
 # __Temporary emergency measures__
 
-## Property: has_MitigationSource
-
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
+
+## Closest similar item
+
+* [Emergency Plan Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
+* [Emergency declarations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_822.md)
+* [Emergency Preparedness Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
+* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
+* [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
+* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2250.md)
+* [Level 1 national emergency response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2098.md)
+* [Shelter and Safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
+* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
 ## Property: has_MitigationPrinciple
 

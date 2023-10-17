@@ -10,3 +10,16 @@
 
 * [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 
+## Closest similar item
+
+* [pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
+* [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
+* [pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
+* [advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1561.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [or other disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3836.md)
+* [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
+* [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+

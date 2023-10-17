@@ -6,3 +6,16 @@
 
 * [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_274.md)
 
+## Closest similar item
+
+* [flexible mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
+* [actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4130.md)
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+* [industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4497.md)
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3994.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
+* [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
+* [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
+* [hardware](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3931.md)
+

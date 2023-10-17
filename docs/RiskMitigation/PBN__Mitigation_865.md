@@ -2,12 +2,25 @@
 
 # __Physical Barriers__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Physical Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+* [Physical Barriers (e.g., Plexiglass)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
+* [Reducing Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
+* [Barrier Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
+* [Barrier-Free Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
+* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2380.md)
+* [Prevention of Disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2183.md)
+* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
+* [Physical Contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

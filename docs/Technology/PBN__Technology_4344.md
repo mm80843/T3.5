@@ -6,3 +6,16 @@
 
 * [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
 
+## Closest similar item
+
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
+* [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2625.md)
+* [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2635.md)
+* [training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
+* [educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1145.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2158.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+

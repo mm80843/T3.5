@@ -2,9 +2,23 @@
 
 # __masks__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
+* [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
+* [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
+* [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
+* [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
+* [masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
+* [widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
+
+## Risks linked to this technology
+
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
 
 ## This Technology enables the following mitigations
 
@@ -19,8 +33,7 @@
 * [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
 * [Wearing Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
+* [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
 

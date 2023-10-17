@@ -10,3 +10,16 @@
 
 * [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
 
+## Closest similar item
+
+* [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+* [mobile apps for monitoring and managing health behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_689.md)
+* [Mobile apps for monitoring and managing health behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
+* [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
+* [mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3310.md)
+* [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
+* [mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1568.md)
+* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
+

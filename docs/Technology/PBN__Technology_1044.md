@@ -10,3 +10,16 @@
 
 * [Inefficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1695.md)
 
+## Closest similar item
+
+* [ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3822.md)
+* [upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_648.md)
+* [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2683.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
+* [enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3113.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
+* [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
+* [ventilation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3896.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+

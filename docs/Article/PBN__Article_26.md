@@ -10,30 +10,30 @@
 * [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
 * [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_123.md)
 
-## Short summary of the article
-
-This research presents OccSim, a multi-agent occupancy simulation system designed to evaluate the potential risk of virus transmission within a built environment. The system allows for the customization of space configurations and occupant behaviors, and provides visualizations of virus-human-building interactions. The system models both context-related and contagion-related behaviors, and simulates air-based and surface-based virus transmission. The simulation results can be analyzed using situated visualization on a 3D building model, as well as timeline-based visualization techniques. The system was evaluated with potential users from various backgrounds, who found the system to be useful and flexible for evaluating design decisions and policy-making related to COVID-19. The participants also identified potential uses of the system beyond virus transmission analysis, such as space utilization decisions and facility management. The research highlights the importance of context-responsive automatic occupant behaviors, configurable simulation parameters, and analyzing large-scale and longitudinal aspects of virus transmission. The study demonstrates the potential of occupancy simulation as an interactive tool to support decision-making in the design process.
-
 ## Summary of the article
 
 OccSim is a computer program that helps designers and building managers evaluate the risk of virus transmission in a building. It simulates how people behave in the building and how the virus can spread through the air and on surfaces. The program allows users to customize the occupant behaviors and the layout of the building to see the impact on the spread of the virus. It also provides visualizations to help users understand the potential risks and make better decisions in designing and managing the building. The program can be used for different purposes, such as designing new buildings, re-configuring existing spaces, setting occupancy rules, and evaluating the effectiveness of safety measures like wearing masks.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
-* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1636.md)
-* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
-* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
-* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+This research presents OccSim, a multi-agent occupancy simulation system designed to evaluate the potential risk of virus transmission within a built environment. The system allows for the customization of space configurations and occupant behaviors, and provides visualizations of virus-human-building interactions. The system models both context-related and contagion-related behaviors, and simulates air-based and surface-based virus transmission. The simulation results can be analyzed using situated visualization on a 3D building model, as well as timeline-based visualization techniques. The system was evaluated with potential users from various backgrounds, who found the system to be useful and flexible for evaluating design decisions and policy-making related to COVID-19. The participants also identified potential uses of the system beyond virus transmission analysis, such as space utilization decisions and facility management. The research highlights the importance of context-responsive automatic occupant behaviors, configurable simulation parameters, and analyzing large-scale and longitudinal aspects of virus transmission. The study demonstrates the potential of occupancy simulation as an interactive tool to support decision-making in the design process.
 
 ## This article points to following mitigation
 
-* [Context-Responsive Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
-* [Configurable Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
-* [Large-Scale & Longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1104.md)
-* [Analysis Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
 * [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
 * [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
+* [Analysis Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
+* [Configurable Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
+* [Large-Scale & Longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1104.md)
+* [Context-Responsive Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
+
+## List of risks in an article
+
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1636.md)
+* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
 
 ## Title of the article
 

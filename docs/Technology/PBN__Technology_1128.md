@@ -10,3 +10,16 @@
 
 * [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
 
+## Closest similar item
+
+* [Online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
+* [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
+* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
+* [digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_42.md)
+* [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2649.md)
+* [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
+

@@ -6,3 +6,16 @@
 
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
 
+## Closest similar item
+
+* [smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
+* [smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3017.md)
+* [apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3015.md)
+* [wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3163.md)
+* [wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2839.md)
+* [wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
+

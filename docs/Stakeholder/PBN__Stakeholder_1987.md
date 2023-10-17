@@ -6,6 +6,19 @@
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
+## Closest similar item
+
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1987.md)
+* [pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1486.md)
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2029.md)
+* [medications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2836.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2733.md)
+* [products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2770.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 

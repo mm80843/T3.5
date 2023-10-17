@@ -10,3 +10,16 @@
 
 * [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
 
+## Closest similar item
+
+* [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+* [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2689.md)
+* [germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2893.md)
+* [ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
+* [uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2219.md)
+* [uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3753.md)
+* [germicidal ultraviolet (guv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3820.md)
+* [germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3833.md)
+

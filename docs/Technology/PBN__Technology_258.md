@@ -2,15 +2,28 @@
 
 # __ceiling mounted fans__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1181944](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1181944.md)
+* [mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_570.md)
+* [window fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2020.md)
+* [Quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2693.md)
+* [use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_685.md)
+* [fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3028.md)
+* [cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4051.md)
+* [wind turbines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
+* [vents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2985.md)
+* [posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3125.md)
+
+## Risks linked to this technology
+
+* [Limited effectiveness of upper-room UVGI if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
 
 ## This Technology enables the following mitigations
 
 * [Supplementing with ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_263.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Limited effectiveness of upper-room UVGI if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
+* [Q1181944](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1181944.md)
 

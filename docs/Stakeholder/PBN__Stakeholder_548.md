@@ -6,3 +6,16 @@
 
 * [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
 
+## Closest similar item
+
+* [equipment suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_749.md)
+* [equipment supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1909.md)
+* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1972.md)
+* [medical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_420.md)
+* [wearable manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_761.md)
+* [device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1435.md)
+* [wearable manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2622.md)
+* [wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
+* [wearable device manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1976.md)
+

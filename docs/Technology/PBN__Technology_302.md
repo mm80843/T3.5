@@ -11,3 +11,16 @@
 * [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
 * [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
 
+## Closest similar item
+
+* [real-time passenger information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1328.md)
+* [Real-time passenger information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
+* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
+* [travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4042.md)
+* [real-time data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
+* [real-time monitoring of sewage flow rate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1980.md)
+* [real-time travel updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
+* [real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
+* [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
+

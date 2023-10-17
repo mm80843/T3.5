@@ -2,14 +2,27 @@
 
 # __Improved ventilation systems__
 
+## Risks possibly mitigated by this Mitigation
+
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
+* [enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2808.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2809.md)
+* [ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2810.md)
+* [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2811.md)
+* [enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2812.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2813.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1214.md)
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2814.md)
+* [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2815.md)
+
 ## Property: has_MitigationSource
 
 * [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
 * [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
 ## Property: has_MitigationPrinciple
 

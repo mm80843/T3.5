@@ -6,3 +6,16 @@
 
 * [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2139.md)
 
+## Closest similar item
+
+* [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
+* [water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4483.md)
+* [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
+* [smart water consumption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4290.md)
+* [improved water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
+* [water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
+* [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+* [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2791.md)
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+

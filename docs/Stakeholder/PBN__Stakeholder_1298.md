@@ -4,6 +4,19 @@
 
 ## Risk affecting this stakeholder
 
-* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
 * [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
+* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
+
+## Closest similar item
+
+* [urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+* [residents of residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_973.md)
+* [commercial areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1299.md)
+* [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
+* [resident of residential environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2447.md)
+* [Housing and Property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2554.md)
+* [housing and property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2558.md)
+* [urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_776.md)
 

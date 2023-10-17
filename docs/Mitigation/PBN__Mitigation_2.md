@@ -2,6 +2,44 @@
 
 # __Social distancing__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
+* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+* [COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_538.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2774.md)
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
+* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+* [Close person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2785.md)
+* [Reduced human contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3380.md)
+* [User acceptance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2544.md)
+
+## Closest similar item
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
+* [social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2494.md)
+* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
+* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2496.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2497.md)
+* [distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2498.md)
+* [physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2499.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2500.md)
+
 ## Property: has_MitigationSource
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
@@ -45,39 +83,14 @@
 * [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
 * [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_538.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
-* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
-* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
-* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
-* [User acceptance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2544.md)
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-* [Transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
-* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2774.md)
-* [Close person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2785.md)
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-* [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
-* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
-* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
-* [Reduced human contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3380.md)
-
 ## Property: has_MitigationPrinciple
 
 Minimize close contact and maintain physical distance to reduce the spread of the disease
 
 ## This Mitigation is enabled by the following technologies
 
+* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
-* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
-* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
 

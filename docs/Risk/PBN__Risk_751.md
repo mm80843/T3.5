@@ -2,13 +2,47 @@
 
 # __Digital divide and information gap__
 
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Name of the risk
 
 Difficulty in curbing disease spread, acceptance of falsehoods
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Data gaps and lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2911.md)
+* [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
+* [Knowledge gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3145.md)
+* [Data gaps and heterogeneity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_725.md)
+* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
+* [Data gaps, limited research effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2623.md)
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
+* [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
+* [Lack of transparent information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2791.md)
+
 ## Description of the risk
 
 Limited internet access, spread of misinformation, lack of critical thinking
+
+## Technologies linked to the risk
+
+* [improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+* [education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Mitigations of this risk
 
@@ -16,42 +50,21 @@ Limited internet access, spread of misinformation, lack of critical thinking
 * [Promote media literacy and critical thinking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1039.md)
 * [Improve internet access, education on critical thinking, combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2162.md)
 
-## Property: has_RiskHealth
+## Articles mentionning the risk
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 
-## Property: has_RiskType
+## Property: has_RiskISO_Impact
 
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
 * [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
-* [education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

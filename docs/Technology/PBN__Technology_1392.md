@@ -2,12 +2,18 @@
 
 # __green roofs__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
-* [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
-* [Urban Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
+* [green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
+* [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2321.md)
+* [green roof technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_620.md)
+* [green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1840.md)
+* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2351.md)
+* [green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1033.md)
+* [cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
+* [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
+* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
+* [roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
 
 ## Risks linked to this technology
 
@@ -16,6 +22,13 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
+
+## This Technology enables the following mitigations
+
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
+* [Urban Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
 
 ## This Technology belongs to this TechGroup
 

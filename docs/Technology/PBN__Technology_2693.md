@@ -2,13 +2,26 @@
 
 # __Quieter fan technology__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q6498398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6498398.md)
+* [Quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2693.md)
+* [mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_570.md)
+* [use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_685.md)
+* [window fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4051.md)
+* [ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
+* [noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
+* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2446.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
+* [noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+
+## This Technology is identified by the following QID
+
+* [Q6498398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6498398.md)
 
 ## This Technology belongs to this TechGroup
 

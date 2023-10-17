@@ -6,3 +6,16 @@
 
 * [Seeking appropriate assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1610.md)
 
+## Closest similar item
+
+* [Stress and Mental Fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2481.md)
+* [Emotional stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3334.md)
+* [Increased stress and potential overwhelm among health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_594.md)
+* [Stress, fatigue, poor mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2474.md)
+* [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2814.md)
+* [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
+* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2810.md)
+* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_213.md)
+* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
+

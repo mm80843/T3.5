@@ -6,3 +6,16 @@
 
 * [BIM (Building Information Modelling)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_749.md)
 
+## Closest similar item
+
+* [bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4513.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4552.md)
+* [building information model (bim)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1043.md)
+* [Building Information Model (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2073.md)
+* [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
+* [financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+* [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+

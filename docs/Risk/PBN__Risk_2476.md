@@ -6,3 +6,16 @@
 
 * [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
 
+## Closest similar item
+
+* [Lack of collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1435.md)
+* [Less collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_299.md)
+* [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3102.md)
+* [Clear communication with stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_506.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
+* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
+* [Lack of effective partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3260.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
+* [Lack of community ownership and involvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3385.md)
+* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
+

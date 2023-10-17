@@ -2,12 +2,25 @@
 
 # __Stand-by load__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Lean Construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_744.md)
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
+* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2350.md)
+* [Context-Responsive Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
+* [Availability of Resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1039.md)
+* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
+* [Active short breaks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_452.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_886.md)
+
 ## Property: has_MitigationSource
 
 * [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

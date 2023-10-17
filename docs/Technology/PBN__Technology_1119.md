@@ -2,15 +2,28 @@
 
 # __education__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q5341232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5341232.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
+* [education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
+* [public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
+* [Public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2629.md)
+* [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2633.md)
+* [community education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1340.md)
+* [education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2898.md)
+* [user education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
+
+## Risks linked to this technology
+
+* [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
 
 ## This Technology enables the following mitigations
 
 * [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
+* [Q5341232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5341232.md)
 

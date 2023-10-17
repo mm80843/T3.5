@@ -6,3 +6,16 @@
 
 * [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
 
+## Closest similar item
+
+* [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1132.md)
+* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
+* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2032.md)
+* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
+* [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
+* [Lack of supplemental air disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_277.md)
+

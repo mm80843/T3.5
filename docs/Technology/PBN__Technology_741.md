@@ -2,15 +2,28 @@
 
 # __virtual networking platforms__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q16452](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16452.md)
+* [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+* [virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
+* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
+* [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
+* [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
+* [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+
+## Risks linked to this technology
+
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1478.md)
 
 ## This Technology enables the following mitigations
 
 * [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1478.md)
+* [Q16452](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16452.md)
 

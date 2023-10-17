@@ -12,3 +12,16 @@
 * [Adaptation of exercise intensity and volume](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
 * [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 
+## Closest similar item
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+* [wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3929.md)
+* [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+

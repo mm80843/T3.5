@@ -2,19 +2,32 @@
 
 # __environmental workers__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q19377727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19377727.md)
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## Closest similar item
+
+* [environmental worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2709.md)
+* [outdoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1098.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1744.md)
+* [workers in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1016.md)
+* [wastewater workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1086.md)
+* [environmental engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_678.md)
+* [environmental researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2673.md)
+* [environmental managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_381.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1708.md)
 
 ## Risk affecting this stakeholder
 
 * [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q19377727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19377727.md)
 

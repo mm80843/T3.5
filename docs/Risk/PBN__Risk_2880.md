@@ -6,3 +6,16 @@
 
 * [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
 
+## Closest similar item
+
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
+* [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_799.md)
+* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1281.md)
+* [Virus Transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
+* [Transmission of COVID-19 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_225.md)
+* [Decoupling of larger aerosol particles from air stream in upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
+

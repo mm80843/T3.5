@@ -2,12 +2,25 @@
 
 # __Addressing disease stigma__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Disease awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1944.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
+* [Emphasize Public Health Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_685.md)
+* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1942.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_268.md)
+* [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1314.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
+* [Public Health Education and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
+
 ## Property: has_MitigationSource
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

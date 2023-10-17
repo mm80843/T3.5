@@ -6,3 +6,16 @@
 
 * [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1478.md)
 
+## Closest similar item
+
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3090.md)
+* [Traditional materials attract mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3091.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2934.md)
+* [Limitations of broad-scale mosquito control programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_760.md)
+* [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
+* [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_474.md)
+* [Emergence of mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_57.md)
+* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
+* [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3092.md)
+

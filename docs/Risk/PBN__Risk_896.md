@@ -6,3 +6,16 @@
 
 * [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 
+## Closest similar item
+
+* [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
+* [Psychological distress in general population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_895.md)
+* [Increased stress and potential overwhelm among health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_594.md)
+* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
+* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
+* [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
+* [Distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3154.md)
+* [Emotional distress, psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3156.md)
+* [Psychological stress and mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_532.md)
+* [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3157.md)
+

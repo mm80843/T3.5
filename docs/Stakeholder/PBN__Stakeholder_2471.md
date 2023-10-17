@@ -2,14 +2,27 @@
 
 # __resident without adequate internet acces or digital skill__
 
-## This Stakeholder is identified by the following QID
-
-* [Q15194024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15194024.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [resident without adequate internet acce or digital skill](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2452.md)
+* [residents without adequate internet access or digital skills](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1552.md)
+* [resident with limited knowledge or skill in using digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2465.md)
+* [residents with limited knowledge or skills in using digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1556.md)
+* [individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2337.md)
+* [individual without internet acce or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2355.md)
+* [resident who engage in online activity and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2475.md)
+* [individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1238.md)
+* [residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1557.md)
+* [low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_490.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q15194024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15194024.md)
 

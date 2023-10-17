@@ -10,3 +10,16 @@
 
 * [Negative economic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2104.md)
 
+## Closest similar item
+
+* [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+* [support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
+* [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
+* [employee support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
+* [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
+* [livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_450.md)
+

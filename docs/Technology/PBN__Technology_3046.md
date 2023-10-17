@@ -6,3 +6,16 @@
 
 * [Biophilic Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
 
+## Closest similar item
+
+* [indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
+* [vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)
+* [vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1842.md)
+* [Vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2352.md)
+* [indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4482.md)
+* [gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1785.md)
+* [plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4396.md)
+* [landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
+* [outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+

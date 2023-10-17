@@ -10,3 +10,16 @@
 
 * [UVGI systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1759.md)
 
+## Closest similar item
+
+* [attending surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_782.md)
+* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
+* [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
+* [medical doctors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_501.md)
+* [physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
+* [surgical residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_779.md)
+* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+* [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+* [surgical teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_780.md)
+* [medical professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2005.md)
+

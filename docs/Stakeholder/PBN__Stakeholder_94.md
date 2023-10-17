@@ -6,3 +6,16 @@
 
 * [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_159.md)
 
+## Closest similar item
+
+* [patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1169.md)
+* [healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
+* [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [surgical residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_779.md)
+* [patients in need of medical care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_894.md)
+* [elderly residents of care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_871.md)
+* [vulnerable patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_208.md)
+* [resident of underserved area and area with high disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2148.md)
+* [person with preexisting medical condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2186.md)
+

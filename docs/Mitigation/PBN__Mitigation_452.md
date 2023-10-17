@@ -2,12 +2,25 @@
 
 # __Active short breaks__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Active play](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_444.md)
+* [Shortening class durations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1347.md)
+* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+* [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
+* [Immediate Relief](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Prevention of Disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2183.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_108.md)
+* [Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1911.md)
+
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

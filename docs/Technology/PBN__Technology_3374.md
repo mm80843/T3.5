@@ -6,3 +6,16 @@
 
 * [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_658.md)
 
+## Closest similar item
+
+* [standardization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1639.md)
+* [standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
+* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2418.md)
+* [standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4161.md)
+* [standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
+* [standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_466.md)
+* [rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
+* [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [standardization and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1590.md)
+* [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+

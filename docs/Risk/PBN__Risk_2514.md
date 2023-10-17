@@ -6,3 +6,16 @@
 
 * [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
 
+## Closest similar item
+
+* [Eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2516.md)
+* [Eviction and Housing Displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
+* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
+* [Rent burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2515.md)
+* [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
+* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
+* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
+* [Increased domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2499.md)
+* [Social inequalities exacerbated by lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_13.md)
+* [Decline of public and social housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_385.md)
+

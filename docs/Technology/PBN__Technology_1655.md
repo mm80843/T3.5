@@ -10,3 +10,16 @@
 
 * [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 
+## Closest similar item
+
+* [mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_599.md)
+* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
+* [clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
+* [remote assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1423.md)
+* [online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4198.md)
+* [validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
+* [appraising methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3342.md)
+* [user education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
+* [digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_875.md)
+* [self-care resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1122.md)
+

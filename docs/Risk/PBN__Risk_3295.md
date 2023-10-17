@@ -6,3 +6,16 @@
 
 * [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1945.md)
 
+## Closest similar item
+
+* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3238.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Lack of Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1881.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2901.md)
+* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
+* [Weak health-care systems and limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_354.md)
+

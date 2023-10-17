@@ -2,13 +2,26 @@
 
 # __Effective community health extension system__
 
-## Property: has_MitigationSource
-
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
+
+## Closest similar item
+
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1094.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
+* [Improved health information system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1270.md)
+* [Community-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1797.md)
+* [Development of Public Health Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
+* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
+* [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_719.md)
 
+## Closest similar item
+
+* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
+* [Contaminated Hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3285.md)
+* [Contaminated tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3137.md)
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+* [Contaminated Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3284.md)
+* [Contamination of floor surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
+* [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
+* [Surface Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2972.md)
+* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
+* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2715.md)
+

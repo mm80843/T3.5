@@ -10,3 +10,16 @@
 
 * [Claims of a once-in-a-century pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1523.md)
 
+## Closest similar item
+
+* [fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2159.md)
+* [fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
+* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2089.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
+* [fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2049.md)
+* [fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1437.md)
+

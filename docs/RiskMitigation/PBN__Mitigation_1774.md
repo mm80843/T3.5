@@ -2,13 +2,26 @@
 
 # __Energy-Efficient Heating/Cooling__
 
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+
+## Closest similar item
+
+* [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
+* [Cooling Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1767.md)
+* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2142.md)
+* [Thermal Comfort Optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_181.md)
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
+* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
+* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1082.md)
+* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_484.md)
+* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_MitigationPrinciple
 

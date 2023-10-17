@@ -6,3 +6,16 @@
 
 * [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_450.md)
 
+## Closest similar item
+
+* [online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_408.md)
+* [online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1701.md)
+* [online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1075.md)
+* [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
+* [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
+* [home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
+* [online training courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1695.md)
+* [exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1224.md)
+* [online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
+* [mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
+

@@ -6,3 +6,16 @@
 
 * [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
 
+## Closest similar item
+
+* [industry organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1437.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [business organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_598.md)
+* [organisations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_298.md)
+* [industry organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1896.md)
+* [economic organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_977.md)
+* [organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1929.md)
+* [businesses and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_262.md)
+* [industry associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_631.md)
+* [Medium organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1833.md)
+

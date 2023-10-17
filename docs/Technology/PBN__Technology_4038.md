@@ -6,3 +6,16 @@
 
 * [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
 
+## Closest similar item
+
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4351.md)
+* [community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
+* [greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4524.md)
+* [community initiatives for using nearby green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
+* [public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+

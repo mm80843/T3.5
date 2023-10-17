@@ -2,13 +2,26 @@
 
 # __Telehealth services__
 
-## Property: has_MitigationSource
-
-* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
+
+## Closest similar item
+
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2565.md)
+* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2566.md)
+* [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2567.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_41.md)
+* [telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2568.md)
+* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2569.md)
+* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2570.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2571.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2572.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 
 ## Property: has_MitigationPrinciple
 

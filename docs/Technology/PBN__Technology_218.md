@@ -10,3 +10,16 @@
 
 * [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
 
+## Closest similar item
+
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+* [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+* [remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
+* [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
+* [remote work options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
+* [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
+* [remote education technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
+

@@ -6,3 +6,16 @@
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 
+## Closest similar item
+
+* [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
+* [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
+* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2478.md)
+* [travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
+* [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
+* [real-time travel updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
+* [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
+

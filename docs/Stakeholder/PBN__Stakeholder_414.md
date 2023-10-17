@@ -6,3 +6,16 @@
 
 * [Improved spatial configuration for services and work activities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1040.md)
 
+## Closest similar item
+
+* [urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+* [urban systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_599.md)
+* [urban and periurban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_279.md)
+* [high-density urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1271.md)
+* [urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_776.md)
+* [urban](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1527.md)
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [high-density urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1890.md)
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+

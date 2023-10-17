@@ -2,28 +2,64 @@
 
 # __Transmission__
 
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Name of the risk
 
 Increased infection rate and potential for widespread outbreak
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Closest similar item
+
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
+* [Transmission in the community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3029.md)
+* [Transmission, Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2678.md)
+* [Transmission, Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2760.md)
+* [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
+* [Transmission, Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2677.md)
+* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
 
 ## Description of the risk
 
 Spread of contagious diseases through airborne and droplets
 
+## Technologies linked to the risk
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_603.md)
+* [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
 ## Mitigations of this risk
 
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
+* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1365.md)
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
 * [Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
-* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1365.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
 * [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1367.md)
-* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
 * [Implement measures such as wearing masks, social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1968.md)
 * [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_0.md)
 * [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
@@ -63,46 +99,23 @@ Spread of contagious diseases through airborne and droplets
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
 * [Preprocessing disinfection of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2330.md)
 
-## Property: has_RiskHealth
+## Articles mentionning the risk
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
-## Property: has_RiskType
+## Property: has_RiskISO_Impact
 
-* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
-* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Technologies linked to the risk
+## Stakeholders who can mitigate this risk
 
-* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_603.md)
-* [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 

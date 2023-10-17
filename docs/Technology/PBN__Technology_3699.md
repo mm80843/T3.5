@@ -6,3 +6,16 @@
 
 * [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 
+## Closest similar item
+
+* [water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4244.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4533.md)
+* [water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4483.md)
+* [water features)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3035.md)
+* [water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
+* [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
+* [rainwater capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1774.md)
+* [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
+* [water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4260.md)
+

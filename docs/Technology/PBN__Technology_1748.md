@@ -2,16 +2,29 @@
 
 # __openable windows__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1190017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1190017.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2714.md)
+* [open windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3745.md)
+* [opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
+* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+* [provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1264.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4100.md)
+* [access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
+* [window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
+
+## Risks linked to this technology
+
+* [AQ4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2203.md)
 
 ## This Technology enables the following mitigations
 
 * [Natural Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
 * [Level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2132.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [AQ4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2203.md)
+* [Q1190017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1190017.md)
 

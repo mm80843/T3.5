@@ -2,12 +2,25 @@
 
 # __Improve park quality__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Park Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
+* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2204.md)
+* [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Equitable Park Investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1067.md)
+* [Equitable Park Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
+* [Outdoor Recreation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
+* [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
+
 ## Property: has_MitigationSource
 
 * [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

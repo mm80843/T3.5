@@ -7,3 +7,16 @@
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
 
+## Closest similar item
+
+* [eye protection gear](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3787.md)
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
+* [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
+* [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
+* [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
+* [contact lenses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
+* [surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+

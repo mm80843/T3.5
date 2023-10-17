@@ -2,6 +2,10 @@
 
 # __Increase park access__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in urban park visitation during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_950.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_174.md)
@@ -10,7 +14,16 @@
 * [Improved community resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1300.md)
 * [Positive environmental externalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1301.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Decline in urban park visitation during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_950.md)
+* [Improve park access and quality in marginalized communities through equitable policies and investments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2158.md)
+* [Government intervention in providing public parks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_169.md)
+* [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2156.md)
+* [Increase access to parks and greenspaces in socially vulnerable communities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2157.md)
+* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2914.md)
+* [Improve park quality in low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_211.md)
+* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1525.md)
+* [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1770.md)
+* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
+* [Increase access to outdoor spaces through the integration of green infrastructure in urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2242.md)
 

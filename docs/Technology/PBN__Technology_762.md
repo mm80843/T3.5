@@ -10,3 +10,16 @@
 
 * [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1494.md)
 
+## Closest similar item
+
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2782.md)
+* [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+* [cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3471.md)
+* [copper particles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
+* [surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
+* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
+* [safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
+* [alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4273.md)
+* [copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4272.md)
+

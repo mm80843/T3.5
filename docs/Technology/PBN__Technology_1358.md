@@ -10,3 +10,16 @@
 
 * [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
 
+## Closest similar item
+
+* [various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
+* [wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
+* [uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
+* [UV disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2681.md)
+* [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
+* [UV-C disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2349.md)
+* [uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1026.md)
+* [UV-C disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2195.md)
+* [wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+

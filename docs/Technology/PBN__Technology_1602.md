@@ -10,3 +10,16 @@
 
 * [Forced early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2105.md)
 
+## Closest similar item
+
+* [expert consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4427.md)
+* [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1147.md)
+* [Expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2121.md)
+* [clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
+* [expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4508.md)
+* [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2008.md)
+* [design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2384.md)
+* [expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
+

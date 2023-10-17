@@ -6,3 +6,16 @@
 
 * [Smart Rotary Car Parking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
 
+## Closest similar item
+
+* [temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1039.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
+* [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
+* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2477.md)
+* [Smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2383.md)
+* [smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1600.md)
+* [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [smart city technologies for urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_13.md)
+* [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+

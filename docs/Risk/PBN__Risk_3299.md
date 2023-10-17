@@ -6,3 +6,16 @@
 
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
 
+## Closest similar item
+
+* [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
+* [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
+* [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3170.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2312.md)
+* [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
+* [Fraudulent data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
+

@@ -6,3 +6,16 @@
 
 * [Emissions reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1027.md)
 
+## Closest similar item
+
+* [the environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_25.md)
+* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [environmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2681.md)
+* [environmental ecosystem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2711.md)
+* [society as a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_437.md)
+* [environmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1193.md)
+* [environmental ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_707.md)
+* [environmental entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2672.md)
+* [Environmental entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2706.md)
+

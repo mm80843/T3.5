@@ -2,18 +2,23 @@
 
 # __grid operators__
 
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Demand response automation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_601.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q3894343](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3894343.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## Closest similar item
+
+* [grid operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1754.md)
+* [operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_330.md)
+* [electric utilities and grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1008.md)
+* [network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1405.md)
+* [Network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1817.md)
+* [Network operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1784.md)
+* [building operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_152.md)
+* [transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1303.md)
+* [facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_439.md)
+* [building owner and operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1934.md)
 
 ## Risk affecting this stakeholder
 
@@ -23,4 +28,12 @@
 
 * [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Demand response automation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_601.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3894343](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3894343.md)
 

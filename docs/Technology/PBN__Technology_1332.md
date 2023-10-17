@@ -10,3 +10,16 @@
 
 * [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
 
+## Closest similar item
+
+* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
+* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
+* [mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4443.md)
+* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
+* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1544.md)
+* [Mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
+* [mobile apps for green space access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1616.md)
+

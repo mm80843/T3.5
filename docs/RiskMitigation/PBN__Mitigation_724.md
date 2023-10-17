@@ -2,13 +2,26 @@
 
 # __Limiting familial cluster infections__
 
-## Property: has_MitigationSource
-
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of personal protective equipment and professional training in family members](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2705.md)
+
+## Closest similar item
+
+* [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2440.md)
+* [Infection Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1461.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
+* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1433.md)
+* [Improved recovery of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1883.md)
+* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
+* [Tracing and Tracking of Infected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1871.md)
+* [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
+
+## Property: has_MitigationSource
+
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
 
 ## Property: has_MitigationPrinciple
 

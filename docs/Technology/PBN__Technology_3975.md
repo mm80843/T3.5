@@ -6,3 +6,16 @@
 
 * [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
 
+## Closest similar item
+
+* [multilingual resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
+* [language-specific materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1208.md)
+* [multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
+* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1205.md)
+* [Language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2304.md)
+* [development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2019.md)
+* [Development of accurate language databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
+* [translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1259.md)
+* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
+

@@ -6,3 +6,16 @@
 
 * [Testing of feces or anal swab samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1095.md)
 
+## Closest similar item
+
+* [Faecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1333.md)
+* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1556.md)
+* [Transmission through saliva and urine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_802.md)
+* [Potential fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1948.md)
+* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
+* [Transmission of germs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2456.md)
+* [Transmission via water droplets from feces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
+* [Transmission via hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2758.md)
+

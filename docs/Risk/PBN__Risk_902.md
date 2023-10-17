@@ -6,3 +6,16 @@
 
 * [Use SIO design pattern](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1244.md)
 
+## Closest similar item
+
+* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2639.md)
+* [Communication Challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
+* [Adversity and Challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2862.md)
+* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2809.md)
+* [Limited innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2667.md)
+* [Difficult access to existing knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2612.md)
+* [Resistance to using new systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3303.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
+

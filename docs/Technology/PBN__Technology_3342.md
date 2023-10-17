@@ -6,3 +6,16 @@
 
 * [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
 
+## Closest similar item
+
+* [self-assessment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+* [standardized approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
+* [research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
+* [analytical tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4143.md)
+* [research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
+* [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+* [project evaluation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4127.md)
+* [modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
+

@@ -6,3 +6,16 @@
 
 * [Adoption and Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
 
+## Closest similar item
+
+* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2505.md)
+* [monetary incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+* [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
+* [incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
+* [financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+

@@ -2,6 +2,19 @@
 
 # __Research institutions__
 
+## Closest similar item
+
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2774.md)
+* [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
+* [research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
+* [research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3340.md)
+
 ## This Technology belongs to this TechSubgroup
 
 * [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)

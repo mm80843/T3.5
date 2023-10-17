@@ -6,3 +6,16 @@
 
 * [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_291.md)
 
+## Closest similar item
+
+* [e-participation tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
+* [participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1591.md)
+* [Participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2623.md)
+* [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2399.md)
+* [online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [E-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2652.md)
+* [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
+* [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
+

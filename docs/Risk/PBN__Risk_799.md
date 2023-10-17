@@ -6,3 +6,16 @@
 
 * [Using appropriate protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1093.md)
 
+## Closest similar item
+
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1805.md)
+* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1281.md)
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
+* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2880.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Airborne Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2976.md)
+* [Virus Transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
+* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3040.md)
+

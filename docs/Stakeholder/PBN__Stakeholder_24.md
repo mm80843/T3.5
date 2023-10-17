@@ -6,3 +6,16 @@
 
 * [Increased resilience to disruptions and instability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_26.md)
 
+## Closest similar item
+
+* [global markets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_855.md)
+* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
+* [global market](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2073.md)
+* [finance sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_90.md)
+* [financial institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2057.md)
+* [and global economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_362.md)
+* [national economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)
+* [economic organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1902.md)
+* [countries and industries reliant on gvcs for foreign inputs and exports](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1244.md)
+* [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
+

@@ -2,13 +2,26 @@
 
 # __AI-based prediction models for pandemic forecasting__
 
-## Property: has_MitigationSource
-
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inaccurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3051.md)
+
+## Closest similar item
+
+* [Predictive Forecasting of Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1937.md)
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
+* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2362.md)
+* [Forecasting and Prediction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1869.md)
+* [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
+* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [Data mining methods for understanding the COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
+* [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1235.md)
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
+* [AI-driven tools for prevention, diagnosis, and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
+
+## Property: has_MitigationSource
+
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 
 ## Property: has_MitigationPrinciple
 

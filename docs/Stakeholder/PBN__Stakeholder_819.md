@@ -2,18 +2,31 @@
 
 # __fundraising teams__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1161355](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1161355.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
+## Closest similar item
+
+* [fundraising team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2031.md)
+* [charitable organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_755.md)
+* [teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_363.md)
+* [project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_979.md)
+* [procurement teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_908.md)
+* [Procurement teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1763.md)
+* [funding organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2016.md)
+* [funding organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1196.md)
+* [Procurement team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1795.md)
+* [construction project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1309.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q1161355](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1161355.md)
 

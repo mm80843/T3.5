@@ -2,6 +2,19 @@
 
 # __urban green spaces__
 
+## Closest similar item
+
+* [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3610.md)
+* [urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1620.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2748.md)
+* [urban planning and design strategies for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
+* [urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
+* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2317.md)
+
 ## Risks linked to this technology
 
 * [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)

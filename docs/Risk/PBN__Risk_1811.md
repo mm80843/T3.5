@@ -2,55 +2,68 @@
 
 # __Disruption in education system__
 
-## Name of the risk
-
-Social isolation, school dropout rates, increase in childcare costs, widening disparity in quality of education
-
-## Description of the risk
-
-Closure of educational facilities affecting all levels of education, socio-economic implications, impact on social mobility
-
-## Mitigations of this risk
-
-* [Provide support for vulnerable populations, ensure access to technology for remote learning, provide financial relief for families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2395.md)
-
-## Property: has_RiskHealth
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1041.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Social isolation, school dropout rates, increase in childcare costs, widening disparity in quality of education
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2662.md)
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Disruption of Work and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
+* [Disruption of education, child development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2775.md)
+* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3110.md)
+* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3232.md)
+* [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1630.md)
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1517.md)
+
+## Description of the risk
+
+Closure of educational facilities affecting all levels of education, socio-economic implications, impact on social mobility
 
 ## Technologies linked to the risk
 
 * [financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_636.md)
 * [technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Provide support for vulnerable populations, ensure access to technology for remote learning, provide financial relief for families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2395.md)
+
+## Articles mentionning the risk
+
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1041.md)
 

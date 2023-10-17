@@ -10,3 +10,16 @@
 
 * [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
 
+## Closest similar item
+
+* [IoT devices for monitoring occupancy and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2520.md)
+* [iot devices for monitoring and controlling occupancy and airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1520.md)
+* [iot devices for monitoring building health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1524.md)
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
+* [air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2522.md)
+* [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2536.md)
+* [air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
+

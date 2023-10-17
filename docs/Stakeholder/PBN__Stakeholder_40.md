@@ -6,3 +6,16 @@
 
 * [Increased social activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_46.md)
 
+## Closest similar item
+
+* [pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_481.md)
+* [individuals in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_757.md)
+* [individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
+* [particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_740.md)
+* [Particularly individuals in crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2398.md)
+* [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
+* [public transportation users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1584.md)
+* [individual in urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2510.md)
+* [Particularly individual in crowded public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2241.md)
+* [individuals in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_751.md)
+

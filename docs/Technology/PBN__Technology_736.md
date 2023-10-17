@@ -10,3 +10,16 @@
 
 * [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
 
+## Closest similar item
+
+* [governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_321.md)
+* [Governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2420.md)
+* [collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
+* [international partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4327.md)
+* [international cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3601.md)
+* [partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_447.md)
+* [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2167.md)
+* [international cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4381.md)
+* [equitable governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1593.md)
+* [international coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+

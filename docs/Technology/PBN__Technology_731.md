@@ -10,3 +10,16 @@
 
 * [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
 
+## Closest similar item
+
+* [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
+* [improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
+* [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2057.md)
+* [improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_886.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
+* [information communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4506.md)
+* [information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
+* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+* [effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3609.md)
+* [information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
+

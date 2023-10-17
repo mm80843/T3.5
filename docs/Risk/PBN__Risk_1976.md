@@ -2,36 +2,41 @@
 
 # __Volatility in financial markets__
 
-## Name of the risk
-
-Economic distress, decreased asset values, increased business risk
-
-## Description of the risk
-
-Financial markets experience decline and instability
-
-## Mitigations of this risk
-
-* [Central bank interventions, liquidity injections, fiscal stimulus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2590.md)
-
-## Property: has_RiskHealth
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
 * [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
-* [central banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1327.md)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+* [borrowers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1326.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Economic distress, decreased asset values, increased business risk
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
+* [Systemic risk in economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1342.md)
+* [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Liquidity crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3377.md)
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
+* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2807.md)
+* [Impact on financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_502.md)
+* [Changes in sales and markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2866.md)
+* [Financial vulnerability of SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
+* [Economic instability and overreliance on certain revenue streams](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3340.md)
+
+## Description of the risk
+
+Financial markets experience decline and instability
 
 ## Technologies linked to the risk
 
@@ -39,21 +44,29 @@ Financial markets experience decline and instability
 * [electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
 * [algorithmic trading](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1411.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
-* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
-* [borrowers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1326.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Central bank interventions, liquidity injections, fiscal stimulus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2590.md)
+
+## Articles mentionning the risk
+
+* [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
+* [central banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1327.md)
 

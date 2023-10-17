@@ -10,3 +10,16 @@
 
 * [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 
+## Closest similar item
+
+* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2233.md)
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
+* [sound masking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3648.md)
+* [sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
+* [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
+* [sound isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4297.md)
+* [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
+* [noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
+* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2446.md)
+

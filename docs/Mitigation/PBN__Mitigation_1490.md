@@ -2,12 +2,25 @@
 
 # __Simplified procedures for essential activities__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3094.md)
+* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3095.md)
+* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3096.md)
+* [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2948.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3097.md)
+* [Incorporate health criteria into planning and design practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3098.md)
+* [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3027.md)
+* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3099.md)
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
+* [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2697.md)
+
 ## Property: has_MitigationSource
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

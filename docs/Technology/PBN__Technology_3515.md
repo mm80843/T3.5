@@ -6,6 +6,19 @@
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 * [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
 * [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
+
+## Closest similar item
+
+* [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
+* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2091.md)
+* [digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2648.md)
+* [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2529.md)
+* [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
 

@@ -2,13 +2,26 @@
 
 # __Common data infrastructures__
 
-## Property: has_MitigationSource
-
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Data linkage challenges, discordant definitions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2629.md)
+
+## Closest similar item
+
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_569.md)
+* [Centralised data repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2073.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_111.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
+* [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
+* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
+
+## Property: has_MitigationSource
+
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
 ## Property: has_MitigationPrinciple
 

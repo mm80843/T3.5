@@ -10,3 +10,16 @@
 
 * [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
 
+## Closest similar item
+
+* [real-time travel updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
+* [smart city technologies for urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_13.md)
+* [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
+* [real-time passenger information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1328.md)
+* [Real-time passenger information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
+* [travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4042.md)
+* [mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
+* [mobile ticketing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1332.md)
+* [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+

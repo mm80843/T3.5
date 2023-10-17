@@ -6,3 +6,16 @@
 
 * [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
 
+## Closest similar item
+
+* [camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3478.md)
+* [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
+* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+* [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
+* [uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3775.md)
+* [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
+* [antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
+* [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_763.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2783.md)
+* [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+

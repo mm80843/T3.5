@@ -6,3 +6,16 @@
 
 * [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_421.md)
 
+## Closest similar item
+
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [urban resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2472.md)
+* [urban authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_434.md)
+* [individual living in urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2216.md)
+* [urban community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2487.md)
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [urban](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1527.md)
+* [city residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
+* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+

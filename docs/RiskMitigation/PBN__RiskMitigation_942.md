@@ -2,11 +2,24 @@
 
 # __Innovation and creativity__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Reduced customer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_677.md)
+
 ## Property: has_MitigationBenefit
 
 * [New business opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_948.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Reduced customer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_677.md)
+* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1288.md)
+* [Invest in research and development, address technical challenges, encourage innovation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2786.md)
+* [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2861.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
+* [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
+* [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1388.md)
+* [Provide financial support to cultural and creative industries, promote digital cultural events and experiences.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2911.md)
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
+* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
+* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 

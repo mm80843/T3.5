@@ -6,3 +6,16 @@
 
 * [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
 
+## Closest similar item
+
+* [Computational expense](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
+* [Higher costs and complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2697.md)
+* [Costly and slow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2719.md)
+* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_296.md)
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
+* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1112.md)
+* [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3038.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
+* [High cost of adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_795.md)
+

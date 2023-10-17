@@ -2,13 +2,26 @@
 
 # __Adoption of remote working__
 
-## Property: has_MitigationSource
-
-* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
+
+## Closest similar item
+
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
+* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
+* [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
+* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
+* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
+
+## Property: has_MitigationSource
+
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 
 ## Property: has_MitigationPrinciple
 

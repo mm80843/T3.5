@@ -10,3 +10,16 @@
 
 * [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
 
+## Closest similar item
+
+* [development of rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1971.md)
+* [improved screening and testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
+* [development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_464.md)
+* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2066.md)
+* [advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
+* [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+* [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
+

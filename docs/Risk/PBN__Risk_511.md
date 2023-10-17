@@ -7,3 +7,16 @@
 * [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_721.md)
 * [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
 
+## Closest similar item
+
+* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
+* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
+* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1636.md)
+* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
+* [Survival of the virus outside the host](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1249.md)
+* [Spread of coronavirus on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_825.md)
+* [Pathogen transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_968.md)
+* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
+* [Persistence of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2818.md)
+* [Spread of COVID-19 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_653.md)
+

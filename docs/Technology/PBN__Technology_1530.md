@@ -10,3 +10,16 @@
 
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 
+## Closest similar item
+
+* [automated monitoring systems for compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1019.md)
+* [compliance monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
+* [compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1646.md)
+* [compliance checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
+* [data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4176.md)
+* [monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_289.md)
+* [regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_287.md)
+* [compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
+* [enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+

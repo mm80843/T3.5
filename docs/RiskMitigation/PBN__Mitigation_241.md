@@ -2,12 +2,25 @@
 
 # __Telecommunication tools__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
+* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+* [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [Digital Transformation and Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1287.md)
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
+* [Telephone exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_619.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
+
 ## Property: has_MitigationSource
 
 * [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

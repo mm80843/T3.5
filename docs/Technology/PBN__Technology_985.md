@@ -10,3 +10,16 @@
 
 * [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
 
+## Closest similar item
+
+* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
+* [enhanced screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1566.md)
+* [improved screening and testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
+* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
+* [digital health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
+* [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+* [technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
+* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+* [digital health solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_473.md)
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+

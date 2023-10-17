@@ -6,3 +6,16 @@
 
 * [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
 
+## Closest similar item
+
+* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
+* [enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1838.md)
+* [enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_730.md)
+* [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
+* [clear cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_295.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2394.md)
+* [cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
+* [implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
+* [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
+

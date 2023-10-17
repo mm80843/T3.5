@@ -2,12 +2,25 @@
 
 # __Real-time Data Capture__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Enhanced data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1891.md)
+* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2110.md)
+* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
+* [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

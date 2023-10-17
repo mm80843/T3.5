@@ -2,12 +2,25 @@
 
 # __Economic Stability__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_993.md)
+* [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1201.md)
+* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
+* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1089.md)
+* [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
+* [Strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1831.md)
+* [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_336.md)
+* [Sustainable Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
+* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
+* [Decentralized Finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_434.md)
+
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

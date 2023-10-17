@@ -2,56 +2,69 @@
 
 # __Unhealthy household environment__
 
-## Name of the risk
-
-Increased risk of infectious diseases and poor health outcomes
-
-## Description of the risk
-
-Limited resources and priorities hinder the creation of safe and healthy household and community environments
-
-## Mitigations of this risk
-
-* [Promote WASH interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1074.md)
-* [Prioritize investments in clean water, appropriate sanitation, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1497.md)
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased risk of infectious diseases and poor health outcomes
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Unhealthy outdoor conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_390.md)
+* [Housing Conditions and Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
+* [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
+* [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
+* [Inadequate housing hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_573.md)
+* [Human health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3021.md)
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
+* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_46.md)
+* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
+
+## Description of the risk
+
+Limited resources and priorities hinder the creation of safe and healthy household and community environments
 
 ## Technologies linked to the risk
 
 * [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
 * [community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Prioritize investments in clean water, appropriate sanitation, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1497.md)
+* [Promote WASH interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1074.md)
+* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
+
+## Articles mentionning the risk
+
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
 

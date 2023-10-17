@@ -2,6 +2,19 @@
 
 # __Manufacturing facilities__
 
+## Closest similar item
+
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2380.md)
+* [local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
+* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2313.md)
+* [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
+* [manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
+* [research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
+* [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
+* [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+
 ## This Technology belongs to this TechSubgroup
 
 * [Economic and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)

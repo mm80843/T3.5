@@ -6,3 +6,16 @@
 
 * [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
 
+## Closest similar item
+
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3171.md)
+* [improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_528.md)
+* [technological means](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4166.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [continued technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
+* [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
+

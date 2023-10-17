@@ -6,3 +6,16 @@
 
 * [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
 
+## Closest similar item
+
+* [api calls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4476.md)
+* [user-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1588.md)
+* [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
+* [web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
+* [integration programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
+* [simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1385.md)
+* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2836.md)
+* [java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
+* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [development of interoperability frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
+

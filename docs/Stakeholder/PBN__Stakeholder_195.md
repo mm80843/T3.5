@@ -2,6 +2,19 @@
 
 # __tourism providers and destinations__
 
+## Closest similar item
+
+* [tourism providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
+* [tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1079.md)
+* [tourism operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2009.md)
+* [tourism and travel industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_519.md)
+* [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+* [tourism industry,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_386.md)
+* [tourism organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1481.md)
+* [tourism operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2047.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [tourism sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2059.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Preparation for changed vacation behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_408.md)

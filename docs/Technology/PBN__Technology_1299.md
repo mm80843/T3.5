@@ -2,15 +2,28 @@
 
 # __ultra-cold freezers__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q757313](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q757313.md)
+* [ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1299.md)
+* [cold storage facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3953.md)
+* [freezing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3406.md)
+* [cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4051.md)
+* [temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
+* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
+* [cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3471.md)
+* [Cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2768.md)
+* [cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
+* [innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
+
+## Risks linked to this technology
+
+* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 
 ## This Technology enables the following mitigations
 
 * [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
+* [Q757313](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q757313.md)
 

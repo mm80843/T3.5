@@ -6,3 +6,16 @@
 
 * [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 
+## Closest similar item
+
+* [solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1762.md)
+* [solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4092.md)
+* [solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
+* [off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_932.md)
+* [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
+* [renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
+* [develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_308.md)
+* [implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_307.md)
+

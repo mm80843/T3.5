@@ -9,21 +9,13 @@
 * [Improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1101.md)
 * [Reduced transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1103.md)
 
-## Short summary of the article
-
-Respiratory tract infections, including the recent outbreak of COVID-19 caused by SARS-CoV-2, have significant impacts on global health and economies. This systematic review analyzed the association between weather factors, such as temperature and humidity, and the spread of COVID-19. Seventeen articles were included in the review, all of which were retrospective observational studies. The majority of the studies found that cool and dry conditions were associated with increased transmission of the virus, while warmer and wetter climates were associated with reduced transmission. However, the level of evidence was classified as low due to the observational design of the studies and the potential for bias. Factors such as population density, public health policies, and social behavior also play important roles in the spread of COVID-19. It is important to consider these factors alongside weather conditions when developing public health interventions to control the incidence and spread of the virus. Future research should further investigate the complex interactions between weather factors, social factors, and disease transmission.
-
 ## Summary of the article
 
 The coronavirus, called SARS-CoV-2 or COVID-19, is a new virus that causes a respiratory infection. It has spread to many countries around the world. Scientists have been studying how the weather, like temperature and humidity, might affect how the virus spreads. They have found that warmer and wetter climates seem to have less transmission of the virus. However, other factors like population density and public health policies also play a big role in how the virus spreads. It's important for governments to have plans in place to control the spread of the virus, especially in cold and dry weather.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)
-* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
-* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
-* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
-* [Climate conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1732.md)
+Respiratory tract infections, including the recent outbreak of COVID-19 caused by SARS-CoV-2, have significant impacts on global health and economies. This systematic review analyzed the association between weather factors, such as temperature and humidity, and the spread of COVID-19. Seventeen articles were included in the review, all of which were retrospective observational studies. The majority of the studies found that cool and dry conditions were associated with increased transmission of the virus, while warmer and wetter climates were associated with reduced transmission. However, the level of evidence was classified as low due to the observational design of the studies and the potential for bias. Factors such as population density, public health policies, and social behavior also play important roles in the spread of COVID-19. It is important to consider these factors alongside weather conditions when developing public health interventions to control the incidence and spread of the virus. Future research should further investigate the complex interactions between weather factors, social factors, and disease transmission.
 
 ## This article points to following mitigation
 
@@ -38,19 +30,27 @@ The coronavirus, called SARS-CoV-2 or COVID-19, is a new virus that causes a res
 * [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
 * [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 * [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
-* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
 * [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1272.md)
+* [Improved travel limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
 * [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
-* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
 * [Improved health information system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1270.md)
 * [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
+* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
+* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1271.md)
 * [Combining medical history with diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1264.md)
-* [Improved travel limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
 * [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1267.md)
 * [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1273.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
 * [Migration control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
-* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1271.md)
+
+## List of risks in an article
+
+* [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)
+* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Climate conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1732.md)
+* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
+* [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
 
 ## Title of the article
 

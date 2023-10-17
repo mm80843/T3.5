@@ -2,12 +2,25 @@
 
 # __AI algorithms for triage__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [AI-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
+* [AI algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
+* [AI algorithms for initial screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2114.md)
+* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
+* [AI-assisted CT service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2376.md)
+* [AI-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
+* [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
+* [Optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2222.md)
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

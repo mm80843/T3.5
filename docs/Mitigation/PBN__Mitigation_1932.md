@@ -2,13 +2,26 @@
 
 # __Real-time Information Sharing__
 
-## Property: has_MitigationSource
-
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Timeliness of Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3290.md)
+
+## Closest similar item
+
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
+* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1394.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
+* [Enhanced data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1891.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
+
+## Property: has_MitigationSource
+
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
 ## Property: has_MitigationPrinciple
 

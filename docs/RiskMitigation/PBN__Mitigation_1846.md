@@ -2,12 +2,25 @@
 
 # __Maintaining optimum humidity levels__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
+* [Control of Moisture and Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1787.md)
+* [Humidity Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
+* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1845.md)
+* [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1848.md)
+* [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
+* [Maintaining optimum lighting levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1847.md)
+* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1349.md)
+
 ## Property: has_MitigationSource
 
 * [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

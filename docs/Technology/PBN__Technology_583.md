@@ -2,19 +2,32 @@
 
 # __media literacy programs__
 
+## Closest similar item
+
+* [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2154.md)
+* [education on media literacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [Education on media literacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2144.md)
+* [digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
+* [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_337.md)
+* [improve broadband availability and invest in digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1914.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
+* [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
+
 ## Risks linked to this technology
 
 * [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
-* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 * [Misinformation on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2382.md)
-
-## This Technology is identified by the following QID
-
-* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
+* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
+## This Technology is identified by the following QID
+
+* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
 
 ## This Technology belongs to this TechGroup
 

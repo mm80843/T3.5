@@ -10,3 +10,16 @@
 
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 
+## Closest similar item
+
+* [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2593.md)
+* [improved sanitation and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1870.md)
+* [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
+* [improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2376.md)
+* [proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3508.md)
+* [enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
+* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
+* [proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_860.md)
+* [Proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
+

@@ -6,3 +6,16 @@
 
 * [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1043.md)
 
+## Closest similar item
+
+* [urban population in highly urbanized area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2461.md)
+* [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+* [urban populations in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1001.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [urban population living in crowded area and high-density neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2506.md)
+* [the general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [urban populations living in crowded areas and high-density neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1583.md)
+* [individuals living in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1420.md)
+

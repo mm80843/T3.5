@@ -2,12 +2,25 @@
 
 # __Real-time data access__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1394.md)
+* [Real-time Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [Enhanced data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1891.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
+
 ## Property: has_MitigationSource
 
 * [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,19 +2,19 @@
 
 # __Estimating state of infection__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Accurate estimation helps in resource allocation, planning targeted interventions, and making informed decisions to control the spread of the virus, reducing the impact on public health and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1.md)
-
-## Articles mentionning this Benefit
-
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
-
 ## Name of the Benefit
 
 WBE provides insights into the degree of infection spread in a population, helping regional health authorities estimate the state of infection in a specific region more accurately.
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Accurate estimation helps in resource allocation, planning targeted interventions, and making informed decisions to control the spread of the virus, reducing the impact on public health and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [regional health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1.md)
+
+## Articles mentionning this Benefit
+
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 

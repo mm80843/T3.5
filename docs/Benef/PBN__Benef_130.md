@@ -2,20 +2,20 @@
 
 # __Integration and sharing of knowledge__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Private investors would benefit from improved access to comprehensive and diverse knowledge, leading to more informed decision-making and potentially improved outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_129.md)
-
-## Articles mentionning this Benefit
-
-* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
-
 ## Name of the Benefit
 
 The schema design and knowledge extraction processes enable the integration and sharing of knowledge about COVID-19 from multiple sources, improving collaboration and facilitating research and decision-making.
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors would benefit from improved access to comprehensive and diverse knowledge, leading to more informed decision-making and potentially improved outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_129.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Articles mentionning this Benefit
+
+* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
 

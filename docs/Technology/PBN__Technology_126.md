@@ -10,3 +10,16 @@
 
 * [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 
+## Closest similar item
+
+* [workplace policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4098.md)
+* [flexibility policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4105.md)
+* [implementation of flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_499.md)
+* [flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
+* [flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1406.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+* [enhanced legal protections for workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4380.md)
+* [inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1806.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+

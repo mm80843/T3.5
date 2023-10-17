@@ -6,3 +6,16 @@
 
 * [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
 
+## Closest similar item
+
+* [cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
+* [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
+* [data backup and storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
+* [secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
+* [cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
+* [secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1304.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2600.md)
+

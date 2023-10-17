@@ -2,13 +2,26 @@
 
 # __Technology adoption__
 
-## Property: has_MitigationSource
-
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of agility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3036.md)
+
+## Closest similar item
+
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2472.md)
+* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1820.md)
+* [Adoption of remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
+* [Technology Anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_403.md)
+* [ICT infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
+* [Adoption of smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1630.md)
+* [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
+
+## Property: has_MitigationSource
+
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 
 ## Property: has_MitigationPrinciple
 

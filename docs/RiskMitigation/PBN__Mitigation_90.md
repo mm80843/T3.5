@@ -2,13 +2,26 @@
 
 # __Energy-efficient appliances__
 
-## Property: has_MitigationSource
-
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
+
+## Closest similar item
+
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
+* [energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3627.md)
+* [appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3628.md)
+* [cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3629.md)
+* [energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3630.md)
+* [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3631.md)
+* [energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3632.md)
+* [energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3633.md)
+* [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3634.md)
+* [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3635.md)
+
+## Property: has_MitigationSource
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
 
+## Closest similar item
+
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2376.md)
+* [sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_704.md)
+* [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
+* [improved sanitation and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1870.md)
+* [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
+* [improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
+* [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2593.md)
+* [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
+

@@ -6,3 +6,16 @@
 
 * [EU2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
 
+## Closest similar item
+
+* [wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4093.md)
+* [renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
+* [wind catchers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2958.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
+* [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [renewable energy development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1608.md)
+* [energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3398.md)
+* [negative air machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
+

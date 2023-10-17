@@ -10,3 +10,16 @@
 
 * [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
 
+## Closest similar item
+
+* [viral enrichment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4481.md)
+* [attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4471.md)
+* [research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1953.md)
+* [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
+* [viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
+* [antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
+* [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
+* [antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_838.md)
+* [antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
+* [separation of infected individuals from others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3090.md)
+

@@ -10,3 +10,16 @@
 
 * [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 
+## Closest similar item
+
+* [conservation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4096.md)
+* [biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_600.md)
+* [Biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
+* [habitat creation and management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_601.md)
+* [Habitat creation and management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
+* [habitat manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4453.md)
+* [ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
+* [incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
+* [environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [habitat modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4452.md)
+

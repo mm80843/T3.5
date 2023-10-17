@@ -2,12 +2,25 @@
 
 # __UV Irradiation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2310.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [Implement UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1420.md)
+* [Ultraviolet germicidal irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
+* [Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
+* [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
+* [UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
+* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
+
 ## Property: has_MitigationSource
 
 * [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

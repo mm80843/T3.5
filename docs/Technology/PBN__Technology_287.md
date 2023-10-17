@@ -10,3 +10,16 @@
 
 * [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
 
+## Closest similar item
+
+* [monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_289.md)
+* [enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
+* [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
+* [automated monitoring systems for compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1019.md)
+* [monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4376.md)
+* [compliance monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
+

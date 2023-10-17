@@ -2,15 +2,28 @@
 
 # __education institutions__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
-* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## Closest similar item
+
+* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
+* [education institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1632.md)
+* [educational institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1644.md)
+* [academic institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_995.md)
+* [education authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1637.md)
+* [education authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1498.md)
+* [institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_891.md)
+* [education departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1252.md)
+* [education department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1634.md)
+* [academic institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1645.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
+* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

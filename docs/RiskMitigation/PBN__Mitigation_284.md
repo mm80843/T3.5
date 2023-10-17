@@ -2,13 +2,26 @@
 
 # __Spatial mapping of COVID-19 hotspots__
 
-## Property: has_MitigationSource
-
-* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+
+## Closest similar item
+
+* [Geospatial analysis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
+* [Data mining methods for understanding the COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
+* [Rapid COVID-19 Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
+* [Isolation of suspected COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_723.md)
+* [System Robustness Against COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
+* [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
+* [Posting caps with real data related to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_972.md)
+* [Regular updates on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2441.md)
+* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
+* [Tracing and Tracking of Infected Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1871.md)
+
+## Property: has_MitigationSource
+
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
 ## Property: has_MitigationPrinciple
 

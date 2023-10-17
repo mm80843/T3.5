@@ -2,12 +2,25 @@
 
 # __Electrostatic sprayer__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Nano-Spray Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
+* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
+* [Indoor residual spraying (IRS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2389.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2394.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_880.md)
+
 ## Property: has_MitigationSource
 
 * [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

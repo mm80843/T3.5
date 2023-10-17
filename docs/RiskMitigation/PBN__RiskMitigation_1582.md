@@ -6,3 +6,16 @@
 
 * [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
 
+## Closest similar item
+
+* [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1632.md)
+* [Research and develop alternative materials that prevent mosquito attraction while remaining environmentally sustainable.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2420.md)
+* [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
+* [Select anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2864.md)
+* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1295.md)
+* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3099.md)
+* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1322.md)
+* [Environmental-Friendly Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1281.md)
+* [Research on sustainable solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_619.md)
+* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1369.md)
+

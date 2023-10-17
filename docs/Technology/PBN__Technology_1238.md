@@ -10,3 +10,16 @@
 
 * [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 
+## Closest similar item
+
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2248.md)
+* [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
+* [reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3615.md)
+* [low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4180.md)
+* [carbon allowances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
+* [carbon accounting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3330.md)
+* [climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
+* [activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3469.md)
+* [emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
+* [emission control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3616.md)
+

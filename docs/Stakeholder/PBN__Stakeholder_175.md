@@ -6,3 +6,16 @@
 
 * [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_361.md)
 
+## Closest similar item
+
+* [individuals with comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1260.md)
+* [especially those with respiratory and cardiovascular problems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_684.md)
+* [patients with chronic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1264.md)
+* [blood recipients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1379.md)
+* [especially those with respiratory and cardiovascular problem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2107.md)
+* [people with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1322.md)
+* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2304.md)
+* [donor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2515.md)
+* [individuals with pre-existing health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1569.md)
+* [especially elderly and individuals with chronic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_792.md)
+

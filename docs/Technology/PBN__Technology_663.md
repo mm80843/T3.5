@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1415.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1546.md)
+* [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1415.md)
+
+## Closest similar item
+
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2320.md)
+* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2340.md)
+* [urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1620.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2748.md)
+* [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+* [green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
 

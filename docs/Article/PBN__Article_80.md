@@ -10,10 +10,6 @@
 * [Reduced morbidity and mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_405.md)
 * [Suppression of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_406.md)
 
-## Short summary of the article
-
-In this research abstract, the authors discuss the global impact of the COVID-19 pandemic and the need for non-pharmaceutical interventions (NPIs) to reduce transmission of the virus. They analyze the effectiveness of different NPIs, both in isolation and in combination, for mitigation and suppression strategies. The results suggest that a combination of multiple interventions is necessary to have a substantial impact on transmission. Mitigation strategies, such as home isolation of suspect cases and social distancing of high-risk individuals, can reduce peak healthcare demand and deaths, but still result in a large number of deaths and overwhelmed healthcare systems. Suppression strategies, which aim to reduce transmission to low levels, require population-wide social distancing, case isolation, household quarantine, and potentially school and university closures. These measures would need to be maintained until a vaccine becomes available, which could be 18 months or more. The authors also discuss the challenges and uncertainties associated with implementing and sustaining these interventions, as well as the potential economic and social costs. Overall, the findings support the need for a layered approach of multiple interventions to effectively control the COVID-19 pandemic.
-
 ## Summary of the article
 
 The COVID-19 pandemic is a serious global health threat, and it is spreading rapidly around the world. In order to reduce the spread of the virus and protect people from getting sick, governments are implementing different measures called non-pharmaceutical interventions (NPIs). These include things like social distancing, staying at home when you're sick, and closing schools and businesses. 
@@ -24,13 +20,9 @@ The most effective strategy to reduce the spread of the virus is a combination o
 
 It's also important to know that these measures can have a big impact on our lives and our economy. They may cause disruptions and challenges, but they are necessary to protect our health and the health of others. We need to work together as a community and follow these measures to stop the spread of the virus and keep each other safe.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
-* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
-* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
-* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+In this research abstract, the authors discuss the global impact of the COVID-19 pandemic and the need for non-pharmaceutical interventions (NPIs) to reduce transmission of the virus. They analyze the effectiveness of different NPIs, both in isolation and in combination, for mitigation and suppression strategies. The results suggest that a combination of multiple interventions is necessary to have a substantial impact on transmission. Mitigation strategies, such as home isolation of suspect cases and social distancing of high-risk individuals, can reduce peak healthcare demand and deaths, but still result in a large number of deaths and overwhelmed healthcare systems. Suppression strategies, which aim to reduce transmission to low levels, require population-wide social distancing, case isolation, household quarantine, and potentially school and university closures. These measures would need to be maintained until a vaccine becomes available, which could be 18 months or more. The authors also discuss the challenges and uncertainties associated with implementing and sustaining these interventions, as well as the potential economic and social costs. Overall, the findings support the need for a layered approach of multiple interventions to effectively control the COVID-19 pandemic.
 
 ## This article points to following mitigation
 
@@ -43,6 +35,14 @@ It's also important to know that these measures can have a big impact on our liv
 * [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
 * [Adaptive hospital surveillance-based triggers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_670.md)
 * [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+
+## List of risks in an article
+
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
+* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
 
 ## Title of the article
 

@@ -2,53 +2,66 @@
 
 # __Underreporting of infections__
 
-## Name of the risk
-
-Inaccurate understanding of the true infection rate and potential for re-infections.
-
-## Description of the risk
-
-Seroprevalence surveys suggesting a higher number of infections compared to reported cases.
-
-## Mitigations of this risk
-
-* [Back-calculation of infections from observed deaths](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_823.md)
-* [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2514.md)
-
-## Property: has_RiskHealth
-
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Inaccurate understanding of the true infection rate and potential for re-infections.
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
+* [Unreported infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3174.md)
+* [Undetected infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2788.md)
+* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
+* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+* [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
+* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Asymptomatic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_670.md)
+
+## Description of the risk
+
+Seroprevalence surveys suggesting a higher number of infections compared to reported cases.
 
 ## Technologies linked to the risk
 
 * [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
 * [serological testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1310.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2514.md)
+* [Back-calculation of infections from observed deaths](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_823.md)
+
+## Articles mentionning the risk
+
+* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 

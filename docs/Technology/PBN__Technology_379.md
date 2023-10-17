@@ -2,11 +2,24 @@
 
 # __urban planners__
 
+## Closest similar item
+
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_384.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
+* [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1841.md)
+* [urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1106.md)
+
 ## Risks linked to this technology
 
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
 * [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_247.md)
-* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
 
 ## This Technology belongs to this TechSubgroup
 

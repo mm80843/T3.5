@@ -10,3 +10,16 @@
 
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 
+## Closest similar item
+
+* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2340.md)
+* [greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4012.md)
+* [green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4484.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2379.md)
+* [green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
+* [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+* [green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
+

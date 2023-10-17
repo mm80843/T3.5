@@ -2,6 +2,19 @@
 
 # __psychiatric__
 
+## Closest similar item
+
+* [people with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1177.md)
+* [individuals with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_448.md)
+* [individuals with mental illness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1564.md)
+* [mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1032.md)
+* [individual with mental health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2166.md)
+* [individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1417.md)
+* [mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_694.md)
+* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+* [mental health providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1501.md)
+* [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)

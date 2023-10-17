@@ -2,12 +2,25 @@
 
 # __Rapid screening__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
+* [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
+* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
+* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1254.md)
+* [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
+* [House screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2390.md)
+* [Rapid COVID-19 Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_374.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
+
 ## Property: has_MitigationSource
 
 * [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

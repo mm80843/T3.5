@@ -2,13 +2,26 @@
 
 # __PPE equipment and supplies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q67370101](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67370101.md)
+* [ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4107.md)
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+* [personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
+* [developing new ppe technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1630.md)
+* [increase ppe production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
+* [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
+* [PPE training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2254.md)
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2557.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+
+## This Technology is identified by the following QID
+
+* [Q67370101](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67370101.md)
 
 ## This Technology belongs to this TechGroup
 

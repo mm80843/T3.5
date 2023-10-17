@@ -2,9 +2,18 @@
 
 # __Contact tracing apps__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
+* [contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
+* [contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4134.md)
+* [use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
+* [digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3831.md)
+* [mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
+* [Mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2462.md)
+* [mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_603.md)
+* [contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -12,6 +21,10 @@
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 * [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
 * [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
+## This Technology is identified by the following QID
+
+* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 
 ## This Technology belongs to this TechGroup
 

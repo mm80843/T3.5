@@ -2,14 +2,27 @@
 
 # __rural household in developing country__
 
-## This Stakeholder is identified by the following QID
-
-* [Q7380575](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7380575.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
+## Closest similar item
+
+* [rural households in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1357.md)
+* [Low-income household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2139.md)
+* [impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
+* [rural and underserved community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2267.md)
+* [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
+* [Low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2290.md)
+* [woman and child in developing country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2196.md)
+* [lower-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1255.md)
+* [households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_764.md)
+* [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q7380575](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7380575.md)
 

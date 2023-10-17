@@ -2,12 +2,25 @@
 
 # __Nursing Home Visiting__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
+* [Community-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1797.md)
+* [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
+* [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
+* [Healthcare Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1742.md)
+* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
+* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
+
 ## Property: has_MitigationSource
 
 * [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

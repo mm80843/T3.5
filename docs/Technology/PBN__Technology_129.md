@@ -10,3 +10,16 @@
 
 * [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
 
+## Closest similar item
+
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1947.md)
+* [implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_301.md)
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
+* [contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
+* [mobile payment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4436.md)
+* [mobile payment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3916.md)
+* [virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
+* [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
+

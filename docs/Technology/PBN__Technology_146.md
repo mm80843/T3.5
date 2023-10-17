@@ -2,11 +2,18 @@
 
 # __green spaces__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
-* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
-* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1157.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3610.md)
+* [provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
+* [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
+* [green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
 
 ## Risks linked to this technology
 
@@ -17,6 +24,12 @@
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
 * [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
 * [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+
+## This Technology enables the following mitigations
+
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
+* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
+* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1157.md)
 
 ## This Technology belongs to this TechGroup
 

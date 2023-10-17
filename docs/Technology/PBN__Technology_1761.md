@@ -2,15 +2,28 @@
 
 # __energy storage__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q837718](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q837718.md)
+* [energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1765.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4554.md)
+* [backup energy source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4261.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
+* [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
+* [energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2960.md)
+* [water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
+* [cold storage facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3953.md)
+
+## Risks linked to this technology
+
+* [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)
 
 ## This Technology enables the following mitigations
 
 * [Backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2232.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)
+* [Q837718](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q837718.md)
 

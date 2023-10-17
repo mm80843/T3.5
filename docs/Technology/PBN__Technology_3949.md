@@ -6,3 +6,16 @@
 
 * [Business Continuity Guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
 
+## Closest similar item
+
+* [flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_126.md)
+* [implementation of flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_499.md)
+* [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+* [modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
+* [advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
+* [flexible production technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3817.md)
+* [restructuring models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
+* [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
+* [computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
+* [flexibility in operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4212.md)
+

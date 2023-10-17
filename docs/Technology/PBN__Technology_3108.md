@@ -6,3 +6,16 @@
 
 * [Photocatalytic Oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_276.md)
 
+## Closest similar item
+
+* [photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3777.md)
+* [photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
+* [photocatalytic paints](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
+* [photocatalytic oxidation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2576.md)
+* [photocatalytic oxidation filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3862.md)
+* [cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
+* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4540.md)
+* [electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3078.md)
+* [natural light solutions (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1613.md)
+

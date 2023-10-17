@@ -2,13 +2,26 @@
 
 # __Backup energy sources__
 
-## Property: has_MitigationSource
-
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Increased energy demands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3396.md)
+
+## Closest similar item
+
+* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2140.md)
+* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2163.md)
+* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
+* [Deployment of energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
+* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_484.md)
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
+* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
+* [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
+* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
+
+## Property: has_MitigationSource
+
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 
 ## Property: has_MitigationPrinciple
 

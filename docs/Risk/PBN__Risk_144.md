@@ -6,3 +6,16 @@
 
 * [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
 
+## Closest similar item
+
+* [Lack of greenspace in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_170.md)
+* [Quality of greenspace in high-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_171.md)
+* [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
+* [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1825.md)
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
+* [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1415.md)
+* [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3387.md)
+* [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1824.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
+

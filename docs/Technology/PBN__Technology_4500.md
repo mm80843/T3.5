@@ -6,3 +6,16 @@
 
 * [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
 
+## Closest similar item
+
+* [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
+* [temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1039.md)
+* [parks and recreation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
+* [public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
+* [investment in park infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3612.md)
+* [equitable distribution of parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3608.md)
+* [park with workout stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4248.md)
+* [landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3594.md)
+* [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+

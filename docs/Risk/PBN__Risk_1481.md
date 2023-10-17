@@ -2,52 +2,65 @@
 
 # __Occupant behavior__
 
-## Name of the risk
-
-Increase in air change rates, affecting indoor air concentrations
-
-## Description of the risk
-
-Opening windows
-
-## Mitigations of this risk
-
-* [Educate occupants about the impact of window-opening behavior on air change rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2000.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Stakeholders who can mitigate this risk
-
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
-* [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
 
 ## People affected by this risk
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
+## Name of the risk
+
+Increase in air change rates, affecting indoor air concentrations
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
+* [Poor occupant health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3150.md)
+* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2428.md)
+* [Impulsiveness and aggressiveness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2815.md)
+* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
+* [Inability to conduct in-person induction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2803.md)
+* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
+* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3158.md)
+* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
+
+## Description of the risk
+
+Opening windows
+
+## Technologies linked to the risk
+
+* [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Educate occupants about the impact of window-opening behavior on air change rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2000.md)
+
+## Articles mentionning the risk
+
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
 

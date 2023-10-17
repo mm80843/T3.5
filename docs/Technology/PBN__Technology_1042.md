@@ -10,3 +10,16 @@
 
 * [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
 
+## Closest similar item
+
+* [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2048.md)
+* [maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
+* [maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1892.md)
+* [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
+* [regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_653.md)
+* [regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1325.md)
+* [maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
+* [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
+* [maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
+

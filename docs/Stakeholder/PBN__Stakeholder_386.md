@@ -6,3 +6,16 @@
 
 * [recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_981.md)
 
+## Closest similar item
+
+* [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+* [tourism sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2059.md)
+* [tourism and travel industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_519.md)
+* [tourism providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
+* [tourism operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2009.md)
+* [tourism providers and destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_195.md)
+* [tourism organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1481.md)
+* [tourism operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2047.md)
+* [tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1079.md)
+* [industries reliant on tourism and travel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_597.md)
+

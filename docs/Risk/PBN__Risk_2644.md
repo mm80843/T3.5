@@ -6,3 +6,16 @@
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 
+## Closest similar item
+
+* [Psychological impact of fear and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_35.md)
+* [Disruption of activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
+* [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2881.md)
+* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
+* [Psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_855.md)
+* [Increased stress and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2810.md)
+* [Increased anxiety and negative psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2836.md)
+* [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3205.md)
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
+

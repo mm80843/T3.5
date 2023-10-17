@@ -2,11 +2,24 @@
 
 # __Ontology-based systems__
 
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_844.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
+* [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
+* [Build an OBO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1242.md)
+* [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1480.md)
+* [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
+* [Ontology-based representation of missing information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_57.md)
+* [Develop ontologies for data standardization and integration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1963.md)
+* [Adopt ontology formalism and upper-level ontologies to resolve inconsistencies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2546.md)
+* [Conduct qualitative analysis and evaluation of proposed ontologies based on existing criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1482.md)
+* [and bio-ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1247.md)
 

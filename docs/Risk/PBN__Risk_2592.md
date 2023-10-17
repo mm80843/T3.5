@@ -6,3 +6,16 @@
 
 * [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
 
+## Closest similar item
+
+* [Overcrowding, lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2591.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3381.md)
+* [Overcrowding and lack of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
+* [Overcrowded cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
+* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
+* [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
+* [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_355.md)
+* [Overcrowding and agglomerations in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_514.md)
+

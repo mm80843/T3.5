@@ -2,18 +2,31 @@
 
 # __workers in close-proximity work environments__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q17993820](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17993820.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## Closest similar item
+
+* [worker in close-proximity work environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1719.md)
+* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1794.md)
+* [workers in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1106.md)
+* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1744.md)
+* [workers in enclosed indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_838.md)
+* [indoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_808.md)
+* [individuals in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1206.md)
+* [workers in enclosed indoorspaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1746.md)
+* [workers in crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1109.md)
+* [remote workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1702.md)
 
 ## Risk affecting this stakeholder
 
 * [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q17993820](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17993820.md)
 

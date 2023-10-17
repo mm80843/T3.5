@@ -2,21 +2,34 @@
 
 # __encryption algorithms__
 
+## Closest similar item
+
+* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2427.md)
+* [encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2411.md)
+* [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
+* [Data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2615.md)
+* [encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1542.md)
+* [Encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2040.md)
+* [data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_346.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
+
 ## Risks linked to this technology
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
 * [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
 * [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
-
-## This Technology is identified by the following QID
-
-* [Q135035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q135035.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Encryption and Authentication Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
 * [Encryption and Security Algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
+
+## This Technology is identified by the following QID
+
+* [Q135035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q135035.md)
 
 ## This Technology belongs to this TechGroup
 

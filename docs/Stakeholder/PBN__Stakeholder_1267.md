@@ -6,3 +6,16 @@
 
 * [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 
+## Closest similar item
+
+* [agricultural organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1212.md)
+* [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [agricultural workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1211.md)
+* [government agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2414.md)
+* [employment agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
+* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
+* [funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_996.md)
+* [funding agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2021.md)
+* [environmental agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2675.md)
+

@@ -10,3 +10,16 @@
 
 * [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 
+## Closest similar item
+
+* [emergency systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
+* [emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2492.md)
+* [emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [emergency management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
+* [develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_494.md)
+* [emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4177.md)
+* [emergency psychiatric services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1289.md)
+* [disaster management center](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4410.md)
+

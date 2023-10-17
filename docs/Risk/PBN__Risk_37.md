@@ -6,3 +6,16 @@
 
 * [Development of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_54.md)
 
+## Closest similar item
+
+* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
+* [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2723.md)
+* [Lack of free and accessible data formats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2638.md)
+* [Data Acquisition and Integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
+* [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
+* [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
+* [Integration challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2464.md)
+* [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
+* [Disintegrated and non-interoperable data and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_36.md)
+* [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
+

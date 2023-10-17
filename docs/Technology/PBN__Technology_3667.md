@@ -6,3 +6,16 @@
 
 * [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
 
+## Closest similar item
+
+* [insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+* [pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4048.md)
+* [development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
+* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2771.md)
+* [auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
+* [insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4455.md)
+* [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
+* [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
+* [plastic tubes with insecticide-laden electrostatic netting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4469.md)
+* [integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
+

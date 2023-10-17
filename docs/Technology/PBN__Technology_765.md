@@ -10,3 +10,16 @@
 
 * [Insufficient knowledge of COVID-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1496.md)
 
+## Closest similar item
+
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [diagnostic testing equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2904.md)
+* [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+* [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [better laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
+* [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
+

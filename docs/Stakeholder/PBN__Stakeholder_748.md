@@ -10,3 +10,16 @@
 
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 
+## Closest similar item
+
+* [IT department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2624.md)
+* [IT departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2620.md)
+* [information technology departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2652.md)
+* [information technology department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2650.md)
+* [IT company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2647.md)
+* [IT companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
+* [government department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2436.md)
+* [government departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_577.md)
+* [it professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_628.md)
+* [IT professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2633.md)
+

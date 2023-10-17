@@ -10,3 +10,16 @@
 
 * [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
 
+## Closest similar item
+
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+* [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
+* [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+

@@ -2,12 +2,25 @@
 
 # __Immunofluorescence__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_234.md)
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
+* [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_260.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+* [Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_235.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Nano-Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
+* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1556.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
+
 ## Property: has_MitigationSource
 
 * [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,43 +2,10 @@
 
 # __Inadequate Ventilation__
 
-## Name of the risk
-
-Accumulation of airborne pathogens and increased transmission risk
-
-## Description of the risk
-
-Poor air circulation and ventilation
-
-## Mitigations of this risk
-
-* [Regular maintenance and inspection of ventilation systems, use of natural ventilation when possible](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1565.md)
-* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1970.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
-* [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
-* [hvac technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 
 ## People affected by this risk
 
@@ -47,16 +14,62 @@ Poor air circulation and ventilation
 * [especially those in enclosed spaces with limited air flow](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_644.md)
 * [indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_943.md)
 
+## Name of the risk
+
+Accumulation of airborne pathogens and increased transmission risk
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
-## Property: has_RiskISO_Impact
+## Closest similar item
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+* [Inadequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)
+* [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1575.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
+* [Poor Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2668.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
+* [Insufficient Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1771.md)
+* [Inadequate ventilation and cooling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_782.md)
+* [Inadequate natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_275.md)
+* [Inadequate Ventilation in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
+* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
+
+## Description of the risk
+
+Poor air circulation and ventilation
+
+## Technologies linked to the risk
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Regular maintenance and inspection of ventilation systems, use of natural ventilation when possible](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1565.md)
+* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1970.md)
 
 ## Articles mentionning the risk
 
 * [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 * [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [hvac technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
+* [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
 

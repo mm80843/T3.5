@@ -6,3 +6,16 @@
 
 * [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
 
+## Closest similar item
+
+* [low-income individuals and families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_409.md)
+* [impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
+* [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
+* [Low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2290.md)
+* [Low-income household](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2139.md)
+* [vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_582.md)
+* [families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_580.md)
+* [lower-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1255.md)
+* [individuals living in substandard housing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_609.md)
+* [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
+

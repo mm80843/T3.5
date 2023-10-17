@@ -2,13 +2,26 @@
 
 # __Cleaning supplies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1974312](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1974312.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
+* [cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
+* [cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2009.md)
+* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
+* [cleaning and disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_440.md)
+* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2824.md)
+* [cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_883.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+
+## This Technology is identified by the following QID
+
+* [Q1974312](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1974312.md)
 
 ## This Technology belongs to this TechGroup
 

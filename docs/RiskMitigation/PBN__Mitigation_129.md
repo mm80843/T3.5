@@ -2,12 +2,25 @@
 
 # __Flexible working arrangements__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1568.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
+* [Zoning and Staggered Work Schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
+* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
+* [Staggered Schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_809.md)
+* [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2010.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
+* [Flexible Delivery Hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

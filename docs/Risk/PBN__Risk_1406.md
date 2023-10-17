@@ -2,35 +2,38 @@
 
 # __Information asymmetry between occupants and indoor environmental data__
 
-## Name of the risk
-
-Difficulty in conducting further studies on the correlation between IEQ parameters and occupant satisfaction.
-
-## Description of the risk
-
-Lack of synchronization between objective IEQ data and occupant opinions within a broad spatiotemporal scale.
-
-## Mitigations of this risk
-
-* [Develop intelligent IEQ monitoring devices that allow for simultaneous data collection of objective IEQ data and occupant opinions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1912.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
-* [iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
+* [building occupants and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_912.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Difficulty in conducting further studies on the correlation between IEQ parameters and occupant satisfaction.
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Information asymmetry between occupants and indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_261.md)
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3253.md)
+* [Negative consequences on indoor climate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3243.md)
+* [Minimization of the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_440.md)
+* [Lack of quantitative understanding of the impact of social distancing measures on building occupant exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_8.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
+* [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
+* [Minimizing the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1781.md)
+* [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
+
+## Description of the risk
+
+Lack of synchronization between objective IEQ data and occupant opinions within a broad spatiotemporal scale.
 
 ## Technologies linked to the risk
 
@@ -39,19 +42,29 @@ Lack of synchronization between objective IEQ data and occupant opinions within 
 * [wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
 * [cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [building occupants and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_912.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Develop intelligent IEQ monitoring devices that allow for simultaneous data collection of objective IEQ data and occupant opinions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1912.md)
+
+## Articles mentionning the risk
+
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+* [iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
 

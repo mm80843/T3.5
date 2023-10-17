@@ -6,3 +6,16 @@
 
 * [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2135.md)
 
+## Closest similar item
+
+* [safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3053.md)
+* [safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
+* [safety and health officers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3127.md)
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2178.md)
+* [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
+* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
+

@@ -10,3 +10,16 @@
 
 * [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
 
+## Closest similar item
+
+* [financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1440.md)
+* [grant applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_449.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3976.md)
+* [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+

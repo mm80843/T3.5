@@ -6,3 +6,16 @@
 
 * [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
 
+## Closest similar item
+
+* [deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
+* [deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
+* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
+* [fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4334.md)
+* [ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2070.md)
+* [cnn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3992.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [AI](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4534.md)
+

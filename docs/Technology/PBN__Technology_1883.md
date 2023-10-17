@@ -10,3 +10,16 @@
 
 * [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
 
+## Closest similar item
+
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2884.md)
+* [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+* [controlled experiments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
+* [measurement devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3396.md)
+* [better laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
+* [testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+

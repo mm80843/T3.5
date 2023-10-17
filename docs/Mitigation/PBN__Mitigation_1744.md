@@ -2,14 +2,27 @@
 
 # __Hygiene practices__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
+
+## Closest similar item
+
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3131.md)
+* [hygiene compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3132.md)
+* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3133.md)
+* [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3134.md)
+* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3135.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
+* [Implement strict hygiene protocols, provide Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3137.md)
+* [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3138.md)
+* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3139.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3140.md)
+
 ## Property: has_MitigationSource
 
 * [The City Under COVID‐19: Podcasting As Digital Methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
 * [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
 
 ## Property: has_MitigationPrinciple
 

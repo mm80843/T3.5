@@ -2,15 +2,15 @@
 
 # __“Saving Lives, Protecting Livelihoods, and Safeguarding Nature”: Risk-Based Wildlife Trade Policy for Sustainable Development Outcomes Post-COVID-19__
 
-## DOI of the article
+## Year of publication
 
-10.3389/fevo.2021.639216
+2021
 
 ## Title of the article
 
 “Saving Lives, Protecting Livelihoods, and Safeguarding Nature”: Risk-Based Wildlife Trade Policy for Sustainable Development Outcomes Post-COVID-19
 
-## Year of publication
+## DOI of the article
 
-2021
+10.3389/fevo.2021.639216
 

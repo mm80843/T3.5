@@ -6,3 +6,16 @@
 
 * [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
 
+## Closest similar item
+
+* [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [international policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
+* [government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4329.md)
+* [policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+

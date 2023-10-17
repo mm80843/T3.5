@@ -2,13 +2,26 @@
 
 # __Drones and Robot technology__
 
-## Property: has_MitigationSource
-
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Manual enforcement difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3204.md)
+
+## Closest similar item
+
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
+* [Surveillance Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_356.md)
+* [Delivery Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
+* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_289.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2424.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2021.md)
+* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2427.md)
+* [Autonomous Vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
+
+## Property: has_MitigationSource
+
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
 ## Property: has_MitigationPrinciple
 

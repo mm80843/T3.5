@@ -6,3 +6,16 @@
 
 * [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
 
+## Closest similar item
+
+* [carbon allowances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
+* [carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4095.md)
+* [reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1238.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2248.md)
+* [low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4180.md)
+* [financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1331.md)
+* [financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
+* [implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_309.md)
+* [debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
+* [activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3469.md)
+

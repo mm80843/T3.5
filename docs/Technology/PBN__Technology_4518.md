@@ -6,3 +6,16 @@
 
 * [Smart PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
 
+## Closest similar item
+
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2839.md)
+* [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [smart infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3709.md)
+* [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+* [smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1015.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [digital and smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3269.md)
+

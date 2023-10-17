@@ -2,19 +2,19 @@
 
 # __More accurate energy billing__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Private investors would benefit from reduced energy expenses and improved financial management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1520.md)
-
-## Articles mentionning this Benefit
-
-* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
-
 ## Name of the Benefit
 
 Adjusting energy contracts based on actual energy demand can lead to cost savings and more accurate billing, avoiding the payment of unnecessary demand charges.
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors would benefit from reduced energy expenses and improved financial management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1520.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
+
+## Articles mentionning this Benefit
+
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 

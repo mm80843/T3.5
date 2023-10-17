@@ -2,12 +2,25 @@
 
 # __Portable Air Conditioners__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
+* [Portable Air Filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2089.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_729.md)
+* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1154.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+* [Zoned Air Conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
+* [Enhanced HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1756.md)
+
 ## Property: has_MitigationSource
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

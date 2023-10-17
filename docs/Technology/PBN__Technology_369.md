@@ -10,3 +10,16 @@
 
 * [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 
+## Closest similar item
+
+* [Barricades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2497.md)
+* [barricades)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3587.md)
+* [shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3505.md)
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
+* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
+* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
+

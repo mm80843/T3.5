@@ -6,3 +6,16 @@
 
 * [Energy Demand Monitoring and Adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_536.md)
 
+## Closest similar item
+
+* [energy providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_746.md)
+* [energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1006.md)
+* [energy provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2022.md)
+* [energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
+* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+* [energy industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1214.md)
+* [energy managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1531.md)
+* [energy company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2010.md)
+* [sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
+* [electricity providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_249.md)
+

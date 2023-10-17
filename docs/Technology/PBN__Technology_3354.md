@@ -6,3 +6,16 @@
 
 * [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
 
+## Closest similar item
+
+* [literature mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_716.md)
+* [biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
+* [greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4365.md)
+* [separate pipes for greywater](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1758.md)
+* [greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4524.md)
+* [greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1772.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [greywater disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1759.md)
+* [graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1775.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
+

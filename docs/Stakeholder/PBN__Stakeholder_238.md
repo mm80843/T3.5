@@ -6,3 +6,16 @@
 
 * [Reduction in transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_561.md)
 
+## Closest similar item
+
+* [retail workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1765.md)
+* [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1691.md)
+* [retail worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1657.md)
+* [such as employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_668.md)
+* [workers in affected sectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1474.md)
+* [employers and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_957.md)
+* [grocery store workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1803.md)
+* [Worker in the manufacturing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1814.md)
+

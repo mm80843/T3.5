@@ -2,13 +2,26 @@
 
 # __Financial incentives__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1414816](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1414816.md)
+* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_163.md)
+* [monetary incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
+* [financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2263.md)
+* [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_160.md)
+
+## This Technology is identified by the following QID
+
+* [Q1414816](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1414816.md)
 
 ## This Technology belongs to this TechGroup
 

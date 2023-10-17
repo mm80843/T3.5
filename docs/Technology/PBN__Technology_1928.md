@@ -10,3 +10,16 @@
 
 * [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
 
+## Closest similar item
+
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
+* [reputable scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1229.md)
+* [trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_938.md)
+* [compliance checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
+* [audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_518.md)
+* [reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3524.md)
+* [ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+* [development of storage protocols for maintaining sample integrity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+

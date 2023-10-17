@@ -6,3 +6,16 @@
 
 * [Restorative spaces to support positive social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1597.md)
 
+## Closest similar item
+
+* [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
+* [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
+* [communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1274.md)
+* [design of safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1739.md)
+* [separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
+* [rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
+* [communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1270.md)
+* [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
+* [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+* [outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_250.md)
+

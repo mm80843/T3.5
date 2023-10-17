@@ -2,13 +2,26 @@
 
 # __Specialized waste treatment__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q132580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132580.md)
+* [Specialized waste treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2781.md)
+* [hazardous waste treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
+* [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
+* [waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
+* [Waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2391.md)
+* [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
+* [solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
+* [safe management of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1767.md)
+* [waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+* [waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4257.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+
+## This Technology is identified by the following QID
+
+* [Q132580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132580.md)
 
 ## This Technology belongs to this TechGroup
 

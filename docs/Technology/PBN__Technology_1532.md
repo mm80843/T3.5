@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
 * [Shift in transmission range of diseases, hosts, and vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
+* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
+
+## Closest similar item
+
+* [vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_976.md)
+* [vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4115.md)
+* [vector-based](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4472.md)
+* [vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
+* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2442.md)
+* [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
+* [investment in resources and training for vector control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
+* [digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
+* [control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
 

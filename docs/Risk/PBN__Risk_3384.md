@@ -6,3 +6,16 @@
 
 * [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2208.md)
 
+## Closest similar item
+
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
+* [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_851.md)
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
+* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
+* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
+* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3369.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
+

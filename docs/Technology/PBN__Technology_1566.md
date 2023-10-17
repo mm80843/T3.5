@@ -10,3 +10,16 @@
 
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
 
+## Closest similar item
+
+* [improved screening and testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
+* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
+* [health screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_985.md)
+* [enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2029.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2804.md)
+* [development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1972.md)
+* [improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
+* [Improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2105.md)
+* [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)
+* [thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
+

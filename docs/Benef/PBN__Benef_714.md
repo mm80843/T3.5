@@ -2,19 +2,19 @@
 
 # __Client satisfaction__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Enhances client trust and project success](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_766.md)
-
-## Articles mentionning this Benefit
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
 ## Name of the Benefit
 
 Ensures the safety of workforce and minimizes project risks
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Enhances client trust and project success](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_766.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
+
+## Articles mentionning this Benefit
+
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

@@ -6,3 +6,16 @@
 
 * [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2234.md)
 
+## Closest similar item
+
+* [efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_655.md)
+* [low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
+* [water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4483.md)
+* [uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+* [lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3030.md)
+* [energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2251.md)
+* [energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1256.md)
+* [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2791.md)
+

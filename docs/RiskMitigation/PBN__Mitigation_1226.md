@@ -2,12 +2,25 @@
 
 # __Humidity Control__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Control of Moisture and Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1787.md)
+* [Maintaining optimum humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1846.md)
+* [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
+* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
+* [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
+* [Outdoor Air Quality Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
+
 ## Property: has_MitigationSource
 
 * [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

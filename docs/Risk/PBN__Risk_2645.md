@@ -6,3 +6,16 @@
 
 * [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
 
+## Closest similar item
+
+* [Containment of infection cluster](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3186.md)
+* [Unknown infected populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2603.md)
+* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
+* [High complexity of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2922.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
+* [Undetected infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2788.md)
+* [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2259.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+* [Unreported infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3174.md)
+* [Close contact with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
+

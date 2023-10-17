@@ -10,3 +10,16 @@
 
 * [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
 
+## Closest similar item
+
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
+* [biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3940.md)
+* [biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2678.md)
+* [incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
+* [indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4482.md)
+* [reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
+* [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
+* [indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
+

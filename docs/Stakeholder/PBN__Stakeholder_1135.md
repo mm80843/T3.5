@@ -6,3 +6,16 @@
 
 * [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
 
+## Closest similar item
+
+* [people in environments with high humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1133.md)
+* [People in environments with high humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2202.md)
+* [person in environment with high humidity level](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2218.md)
+* [public health authorities are responsible for regulating indoor environments to reduce influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1128.md)
+* [public health authorities and meteorological agencies are responsible for monitoring and regulating indoor and outdoor conditions to reduce influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1138.md)
+* [individuals responsible for indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_679.md)
+* [Particularly those in building with inadequate air disinfection measure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2340.md)
+* [particularly those in buildings with inadequate air disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1166.md)
+* [Particularly those in buildings with inadequate air disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2382.md)
+* [occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
+

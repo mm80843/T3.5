@@ -6,3 +6,16 @@
 
 * [Reduced income inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_695.md)
 
+## Closest similar item
+
+* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+* [the general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [populations of lower socioeconomic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_445.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [general populace](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_517.md)
+* [the global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
+* [society as a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_437.md)
+* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+* [society a a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2492.md)
+

@@ -2,13 +2,26 @@
 
 # __Teleoperation for telemedicine and telecommuting__
 
-## Property: has_MitigationSource
-
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
+
+## Closest similar item
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1945.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_41.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1252.md)
+* [Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_48.md)
+* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1721.md)
+
+## Property: has_MitigationSource
+
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 
 ## Property: has_MitigationPrinciple
 

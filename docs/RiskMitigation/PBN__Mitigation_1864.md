@@ -2,13 +2,26 @@
 
 # __Healthcare Access and Early Treatment__
 
-## Property: has_MitigationSource
-
-* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3273.md)
+
+## Closest similar item
+
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
+* [Equitable Healthcare Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
+* [Healthcare access and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1484.md)
+* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
+* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
+* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
+* [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
+* [Enhance Access to Mental Health Care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1834.md)
+
+## Property: has_MitigationSource
+
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -2,9 +2,18 @@
 
 # __government policies__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4329.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_614.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
 
 ## Risks linked to this technology
 
@@ -13,6 +22,10 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+
+## This Technology enables the following mitigations
+
+* [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
 
 ## This Technology belongs to this TechGroup
 

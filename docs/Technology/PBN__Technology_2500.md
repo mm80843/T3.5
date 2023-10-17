@@ -2,12 +2,25 @@
 
 # __Enforcement personnel__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)
+* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2500.md)
+* [enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+* [monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_289.md)
+* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+* [safety and health officers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3127.md)
+* [regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_287.md)
+* [increased law enforcement presence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
+* [personnel tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4426.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,11 +2,24 @@
 
 # __Labor shortage__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Process problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_417.md)
+
 ## Property: has_MitigationBenefit
 
 * [Ensuring sufficient site labor](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_573.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Process problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_417.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_833.md)
+* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2111.md)
+* [Softening Labor Market Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_496.md)
+* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1987.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_901.md)
+* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_419.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1379.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_936.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3125.md)
 

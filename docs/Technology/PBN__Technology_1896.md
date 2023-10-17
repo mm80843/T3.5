@@ -10,3 +10,16 @@
 
 * [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
 
+## Closest similar item
+
+* [data integration and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
+* [data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2071.md)
+* [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2613.md)
+* [data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_824.md)
+* [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
+* [data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_316.md)
+* [Data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2058.md)
+* [validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1900.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+

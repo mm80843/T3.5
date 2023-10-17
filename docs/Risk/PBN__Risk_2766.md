@@ -6,3 +6,16 @@
 
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 
+## Closest similar item
+
+* [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
+* [Airborne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3391.md)
+* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1126.md)
+* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
+* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
+* [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
+* [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
+

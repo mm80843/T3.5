@@ -2,13 +2,26 @@
 
 # __Broad-spectrum antiviral drugs__
 
-## Property: has_MitigationSource
-
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Emerging infectious pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
+
+## Closest similar item
+
+* [Antiviral Coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
+* [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2111.md)
+* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
+* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_546.md)
+* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1855.md)
+* [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
+* [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
+* [Therapeutic Drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
+
+## Property: has_MitigationSource
+
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
 ## Property: has_MitigationPrinciple
 

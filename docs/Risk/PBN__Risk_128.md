@@ -6,3 +6,16 @@
 
 * [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_152.md)
 
+## Closest similar item
+
+* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
+* [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
+* [Poor lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_127.md)
+* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
+* [Noise Disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2482.md)
+* [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
+* [Poor Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2668.md)
+* [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
+

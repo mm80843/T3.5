@@ -2,6 +2,10 @@
 
 # __Use of far-UVC light__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Person-to-person transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_646.md)
+
 ## Property: has_MitigationBenefit
 
 * [Inactivation of human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_897.md)
@@ -9,7 +13,16 @@
 * [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
 * [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_899.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Person-to-person transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_646.md)
+* [Set and enforce regulatory limits on far-UVC light exposure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1680.md)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
+* [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_522.md)
+* [Incorporate far-UVC light as a disinfection measure in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1679.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
+* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
+* [Use of UV-C germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
+* [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
+* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
+* [Ensure that upper-room UVGI systems are properly designed with louvers or shields to prevent UV-C light exposure to room occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1625.md)
 

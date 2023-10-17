@@ -2,13 +2,26 @@
 
 # __Centralised primary data sharing__
 
-## Property: has_MitigationSource
-
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2632.md)
+
+## Closest similar item
+
+* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
+* [Centralised data repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2073.md)
+* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
+* [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
+* [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
+
+## Property: has_MitigationSource
+
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
 ## Property: has_MitigationPrinciple
 

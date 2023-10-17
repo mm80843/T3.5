@@ -2,13 +2,26 @@
 
 # __Evidence-based communication__
 
-## Property: has_MitigationSource
-
-* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+
+## Closest similar item
+
+* [Evidence-based](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_876.md)
+* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_562.md)
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+
+## Property: has_MitigationSource
+
+* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 
 ## Property: has_MitigationPrinciple
 

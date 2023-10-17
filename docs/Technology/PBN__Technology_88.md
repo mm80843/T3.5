@@ -2,17 +2,30 @@
 
 # __tariff reforms__
 
+## Closest similar item
+
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
+* [fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1796.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [progressive tax policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1472.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
+
 ## Risks linked to this technology
 
 * [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
 
-## This Technology is identified by the following QID
-
-* [Q52389](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q52389.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Contract and Financial Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_176.md)
+
+## This Technology is identified by the following QID
+
+* [Q52389](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q52389.md)
 
 ## This Technology belongs to this TechGroup
 

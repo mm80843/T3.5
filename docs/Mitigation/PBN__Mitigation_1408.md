@@ -2,12 +2,25 @@
 
 # __UVGI technology__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3048.md)
+* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
+* [Direct UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3049.md)
+* [Use of 254 nm UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3050.md)
+* [Upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3051.md)
+* [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3052.md)
+* [UVGI in AHUs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3053.md)
+* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
+* [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3054.md)
+* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
+
 ## Property: has_MitigationSource
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

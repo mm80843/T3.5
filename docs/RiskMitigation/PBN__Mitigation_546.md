@@ -2,12 +2,25 @@
 
 # __Chemical deactivation of viral particles on surfaces__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
+* [Antiviral Coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
+* [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
+* [Virus-inactivating Solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_823.md)
+* [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
+* [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2329.md)
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

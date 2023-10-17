@@ -4,6 +4,19 @@
 
 ## Risks linked to this technology
 
-* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
 * [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
+* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
+
+## Closest similar item
+
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2865.md)
+* [wireless data transmission (3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
+* [wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
+* [data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3169.md)
+* [wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3929.md)
+* [encrypted data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4156.md)
+* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+* [technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3558.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
 

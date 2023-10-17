@@ -2,13 +2,26 @@
 
 # __Smart meters and sensors__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1630602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630602.md)
+* [Smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
+* [smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
+* [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+* [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
+## This Technology is identified by the following QID
+
+* [Q1630602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630602.md)
 
 ## This Technology belongs to this TechGroup
 

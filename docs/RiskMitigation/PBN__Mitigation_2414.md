@@ -2,13 +2,26 @@
 
 # __Longitudinal analysis of wastewater samples__
 
-## Property: has_MitigationSource
-
-* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Uncertainty in disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3449.md)
+
+## Closest similar item
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
+* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1081.md)
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
+
+## Property: has_MitigationSource
+
+* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
 
 ## Property: has_MitigationPrinciple
 

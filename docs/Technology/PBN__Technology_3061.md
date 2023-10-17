@@ -6,3 +6,16 @@
 
 * [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_213.md)
 
+## Closest similar item
+
+* [open windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3745.md)
+* [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2714.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
+* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+* [provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1264.md)
+* [drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4100.md)
+* [windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
+

@@ -2,12 +2,25 @@
 
 # __User privacy protection__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
+* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1661.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2379.md)
+* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2716.md)
+* [Personal Protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_926.md)
+* [Data protection compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2069.md)
+* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
+* [Privacy during phone calls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_123.md)
+* [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
+* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
+
 ## Property: has_MitigationSource
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

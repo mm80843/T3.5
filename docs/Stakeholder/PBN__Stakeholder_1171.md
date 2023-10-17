@@ -8,6 +8,19 @@
 
 ## Risk affecting this stakeholder
 
-* [UVGI systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
 * [UVGI systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1761.md)
+* [UVGI systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
+
+## Closest similar item
+
+* [service workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1697.md)
+* [service worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1751.md)
+* [hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
+* [maintenance personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_151.md)
+* [service industry workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1695.md)
+* [worker in the service industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1785.md)
+* [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+* [security personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_635.md)
+* [workers in the service industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1709.md)
+* [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
 

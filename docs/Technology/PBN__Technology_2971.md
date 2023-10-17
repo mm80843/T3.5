@@ -6,3 +6,16 @@
 
 * [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
 
+## Closest similar item
+
+* [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
+* [individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
+* [administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3947.md)
+* [voice control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4270.md)
+* [source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4063.md)
+* [crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
+* [control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
+* [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
+

@@ -6,3 +6,16 @@
 
 * [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
 
+## Closest similar item
+
+* [health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_724.md)
+* [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2744.md)
+* [public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3952.md)
+* [design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2384.md)
+* [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
+* [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+* [workplace design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4106.md)
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+* [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+

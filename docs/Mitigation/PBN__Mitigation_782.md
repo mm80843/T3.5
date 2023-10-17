@@ -2,13 +2,26 @@
 
 # __Implementation of home treatments__
 
-## Property: has_MitigationSource
-
-* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
+
+## Closest similar item
+
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
+* [Home Confinement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1724.md)
+* [Home Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
+* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_237.md)
+* [Household quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_666.md)
+* [Nursing Home Visiting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1383.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
+* [Home exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_77.md)
+
+## Property: has_MitigationSource
+
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
 ## Property: has_MitigationPrinciple
 

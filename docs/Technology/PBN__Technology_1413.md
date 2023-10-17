@@ -10,3 +10,16 @@
 
 * [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
 
+## Closest similar item
+
+* [risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
+* [credit risk assessment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1412.md)
+* [debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3914.md)
+* [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
+* [data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
+* [rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)
+

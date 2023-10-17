@@ -2,6 +2,90 @@
 
 # __employers__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Closest similar item
+
+* [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2827.md)
+* [workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2828.md)
+* [employee training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2829.md)
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2029.md)
+* [workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2830.md)
+* [job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2831.md)
+* [Job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2832.md)
+* [workplace policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2833.md)
+* [job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2834.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
+* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+* [Financial strain as a risk factor for intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1038.md)
+* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2268.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
+* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1972.md)
+* [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1873.md)
+* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
+* [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1874.md)
+* [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
+* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
+* [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
+* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
+* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
+* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1871.md)
+* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
+* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1517.md)
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
+* [Insufficient ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1414.md)
+* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
+* [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1328.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)
+* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1513.md)
+* [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1975.md)
+* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
+* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
+* [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
+* [Occupational health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
+* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1576.md)
+* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
+* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
+* [Lack of proper PPE usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
+* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
+* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
+* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
+* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1373.md)
+* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
+* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
+* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
+* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1830.md)
+* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
+* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
+* [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1974.md)
+
+## Risk affecting this stakeholder
+
+* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
@@ -25,75 +109,4 @@
 * [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1221.md)
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
 * [Increased skill levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1351.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
-* [Financial strain as a risk factor for intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1038.md)
-* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
-* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
-* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
-* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
-* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
-* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
-* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
-* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
-* [Insufficient use of outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
-* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
-* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
-* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
-* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
-* [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1328.md)
-* [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
-* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1373.md)
-* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
-* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
-* [Insufficient ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1414.md)
-* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
-* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1513.md)
-* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
-* [Lack of proper PPE usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
-* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
-* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1517.md)
-* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1576.md)
-* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
-* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)
-* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1830.md)
-* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
-* [Occupational health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
-* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1871.md)
-* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
-* [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1873.md)
-* [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1874.md)
-* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
-* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
-* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
-* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1972.md)
-* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
-* [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1974.md)
-* [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1975.md)
-* [Loss of income and economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
-* [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
-* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
-* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
-* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
-* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2268.md)
-* [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Risk affecting this stakeholder
-
-* [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
 

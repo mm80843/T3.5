@@ -10,3 +10,16 @@
 
 * [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
 
+## Closest similar item
+
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2588.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [personal protective equipment (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3683.md)
+* [use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_558.md)
+* [use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
+* [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+* [personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [personal protective equipment (masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
+* [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
+

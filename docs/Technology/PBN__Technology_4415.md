@@ -6,3 +6,16 @@
 
 * [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2327.md)
 
+## Closest similar item
+
+* [various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
+* [surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
+

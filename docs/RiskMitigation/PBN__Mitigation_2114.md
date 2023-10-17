@@ -2,12 +2,25 @@
 
 # __AI algorithms for initial screening__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [AI technology for accurate and cost-effective tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1403.md)
+* [AI algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
+* [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
+* [AI-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
+* [AI-driven tools for prevention, diagnosis, and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
+* [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

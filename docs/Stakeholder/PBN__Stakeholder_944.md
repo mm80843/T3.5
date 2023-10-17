@@ -4,6 +4,19 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
 * [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
+* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
+
+## Closest similar item
+
+* [Landscape architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1801.md)
+* [Landscape architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1678.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_364.md)
+* [Landscape maintenance company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1820.md)
+* [landscape maintenance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1000.md)
+* [Landscape maintenance companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1724.md)
+* [surveyors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_982.md)
+* [urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1229.md)
+* [building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
 

@@ -7,3 +7,16 @@
 * [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
 * [Video cameras and beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
 
+## Closest similar item
+
+* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+* [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
+* [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2432.md)
+* [camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3478.md)
+* [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
+* [surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3178.md)
+* [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4336.md)
+* [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
+* [cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4203.md)
+

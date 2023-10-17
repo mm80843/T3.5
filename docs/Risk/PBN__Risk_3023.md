@@ -6,3 +6,16 @@
 
 * [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
 
+## Closest similar item
+
+* [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1428.md)
+* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
+* [Inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
+* [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
+* [AQ2: Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_185.md)
+* [AQ1: Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_184.md)
+* [Inadequate filtration of other pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2169.md)
+* [Insufficient filtration of airborne particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3055.md)
+* [Low efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2601.md)
+* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
+

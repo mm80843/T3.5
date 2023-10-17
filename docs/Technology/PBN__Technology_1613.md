@@ -10,3 +10,16 @@
 
 * [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
 
+## Closest similar item
+
+* [natural light solutions (e.g. skylights, sun tubes)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2216.md)
+* [natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
+* [use of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1732.md)
+* [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+* [access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
+* [natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
+* [uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_882.md)
+* [nature-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
+* [light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
+

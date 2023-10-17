@@ -6,3 +6,15 @@
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 
+## Closest similar item
+
+* [individuals attending events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2545.md)
+* [individual attending event](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2509.md)
+* [event attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_844.md)
+* [general nan public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1395.md)
+* [government nan agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1398.md)
+* [attendees of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_861.md)
+* [event organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_862.md)
+* [nan iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1402.md)
+* [funeral attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_235.md)
+

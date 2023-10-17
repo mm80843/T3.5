@@ -6,3 +6,16 @@
 
 * [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
 
+## Closest similar item
+
+* [design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2384.md)
+* [innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4175.md)
+* [resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4304.md)
+* [sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
+* [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+* [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+* [universal design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4023.md)
+* [building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3449.md)
+* [nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4527.md)
+

@@ -6,3 +6,15 @@
 
 * [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
 
+## Closest similar item
+
+* [anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3444.md)
+* [antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
+* [anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4237.md)
+* [data nan nan warehousing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1573.md)
+* [selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1729.md)
+* [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2598.md)
+* [antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4111.md)
+* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
+* [antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
+

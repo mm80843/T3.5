@@ -6,3 +6,16 @@
 
 * [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2214.md)
 
+## Closest similar item
+
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+* [national and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3602.md)
+* [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
+* [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+

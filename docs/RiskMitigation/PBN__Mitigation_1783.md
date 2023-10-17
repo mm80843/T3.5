@@ -2,13 +2,26 @@
 
 # __Elimination of Indoor Pollutants__
 
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3252.md)
+
+## Closest similar item
+
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
+* [Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1297.md)
+* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_171.md)
+* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2327.md)
+* [Filtering Indoor Air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1388.md)
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_729.md)
+
+## Property: has_MitigationSource
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Green New Deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
 
+## Closest similar item
+
+* [clean energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3596.md)
+* [investments in water and sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3286.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [renewable energy development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1608.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
+* [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
+* [investment in emerging sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1800.md)
+* [energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
+* [investment in park infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3612.md)
+* [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+

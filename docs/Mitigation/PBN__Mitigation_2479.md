@@ -2,13 +2,26 @@
 
 # __Nature incorporation__
 
-## Property: has_MitigationSource
-
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
+* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2481.md)
+* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_475.md)
+* [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
+* [Views of nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_122.md)
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
+* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2480.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
+* [Raising public support and interest in nature conservation and PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_495.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
+
+## Property: has_MitigationSource
+
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 
 ## Property: has_MitigationPrinciple
 

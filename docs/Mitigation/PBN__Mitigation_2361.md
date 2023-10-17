@@ -2,13 +2,26 @@
 
 # __Monitoring for health indicators__
 
-## Property: has_MitigationSource
-
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
+
+## Closest similar item
+
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
+* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
+* [Monitoring Environmental Indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_912.md)
+* [Physical exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
+* [Public Health Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1740.md)
+* [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
+* [Healthcare instrument tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1882.md)
+* [AI-based Diagnosis and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [Monitoring Service for the Elderly](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_386.md)
+
+## Property: has_MitigationSource
+
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
 ## Property: has_MitigationPrinciple
 

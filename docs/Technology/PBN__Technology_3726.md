@@ -6,3 +6,16 @@
 
 * [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1199.md)
 
+## Closest similar item
+
+* [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [user-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1588.md)
+* [regular interactions with students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1666.md)
+* [user behavior](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3563.md)
+* [virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
+* [social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
+* [simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1385.md)
+* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2836.md)
+

@@ -2,12 +2,25 @@
 
 # __Real-time building occupancy__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_953.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
+* [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_831.md)
+* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
+* [Multi-functional Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2127.md)
+
 ## Property: has_MitigationSource
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

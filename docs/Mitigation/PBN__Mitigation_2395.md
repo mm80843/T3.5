@@ -2,12 +2,25 @@
 
 # __Eave tubes__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Duct Tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1260.md)
+* [Ventilation System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1732.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1214.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Advanced Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1772.md)
+* [Duct irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2292.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
+* [Medical gas supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1216.md)
+
 ## Property: has_MitigationSource
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
 
+## Closest similar item
+
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3350.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+* [Water Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2483.md)
+* [Pollution and environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2906.md)
+* [Contaminated Environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
+* [Increased waste, risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3148.md)
+

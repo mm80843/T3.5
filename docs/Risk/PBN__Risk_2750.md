@@ -8,3 +8,16 @@
 * [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 * [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
 
+## Closest similar item
+
+* [Loss of productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
+* [Poor work productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2600.md)
+* [Productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1579.md)
+* [Less productivity compared to other sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_298.md)
+* [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
+* [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2598.md)
+* [Decreased morale](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_212.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
+* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2844.md)
+

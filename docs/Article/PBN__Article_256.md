@@ -11,22 +11,13 @@
 * [Enhanced mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1225.md)
 * [Increased resilience to disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1226.md)
 
-## Short summary of the article
-
-This study explores how COVID-19 containment measures affected the recreational use of green spaces in Oslo, Norway. The researchers used mobile tracking data and Google mobility data to analyze the changes in recreational activity during the lockdown. They found that outdoor recreational activity in Oslo increased by 291% during the lockdown compared to the baseline average. The increase in activity was greater for cycling than for walking, and it was more pronounced on weekends than on weekdays. The researchers also observed that the increase in activity was higher in green spaces with greater tree cover and vegetation greenness values, indicating a preference for green views. Additionally, activity levels were higher on trails that were more remote, which suggests that people were adhering to social distancing advisories. The study highlights the importance of accessible green spaces in mitigating the negative health effects of physical mobility restrictions and reducing the risk of disease transmission. The findings have implications for urban planning and the design of sustainable and resilient cities.
-
 ## Summary of the article
 
 During the COVID-19 lockdown in Oslo, Norway, people started spending more time in green spaces like parks and forests. This is because they couldn't go to indoor places like gyms or sports facilities. They also wanted to avoid crowded areas and practice social distancing. Researchers used data from a mobile app called STRAVA and Google to study how the lockdown affected people's recreational activities. They found that outdoor recreational activity increased by a lot during the lockdown compared to previous years. The increase in activity was especially high in areas with more trees and vegetation. This shows that spending time in nature is good for our health and well-being, especially during difficult times.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
-* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
-* [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
-* [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2289.md)
-* [Impact of reduced](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2291.md)
-* [mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2292.md)
+This study explores how COVID-19 containment measures affected the recreational use of green spaces in Oslo, Norway. The researchers used mobile tracking data and Google mobility data to analyze the changes in recreational activity during the lockdown. They found that outdoor recreational activity in Oslo increased by 291% during the lockdown compared to the baseline average. The increase in activity was greater for cycling than for walking, and it was more pronounced on weekends than on weekdays. The researchers also observed that the increase in activity was higher in green spaces with greater tree cover and vegetation greenness values, indicating a preference for green views. Additionally, activity levels were higher on trails that were more remote, which suggests that people were adhering to social distancing advisories. The study highlights the importance of accessible green spaces in mitigating the negative health effects of physical mobility restrictions and reducing the risk of disease transmission. The findings have implications for urban planning and the design of sustainable and resilient cities.
 
 ## This article points to following mitigation
 
@@ -35,6 +26,15 @@ During the COVID-19 lockdown in Oslo, Norway, people started spending more time 
 * [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
 * [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
 * [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2284.md)
+
+## List of risks in an article
+
+* [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
+* [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2289.md)
+* [mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2292.md)
+* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
+* [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
+* [Impact of reduced](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2291.md)
 
 ## Title of the article
 

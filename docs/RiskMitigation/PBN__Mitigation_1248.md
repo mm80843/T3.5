@@ -2,13 +2,26 @@
 
 # __IoMT applications__
 
-## Property: has_MitigationSource
-
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited awareness, interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2991.md)
+
+## Closest similar item
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1578.md)
+* [Scalability of IoT devices in IoMT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1186.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2018.md)
+* [IoT buttons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2020.md)
+* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
+* [AI and IoT technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1909.md)
+* [Integration of IoT and AI Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
+* [IoT buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1181.md)
+* [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_438.md)
+* [IoT-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_285.md)
+
+## Property: has_MitigationSource
+
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 
 ## Property: has_MitigationPrinciple
 

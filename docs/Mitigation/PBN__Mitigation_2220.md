@@ -2,12 +2,25 @@
 
 # __Sequence annotation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2399.md)
+* [Sanger sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2364.md)
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
+* [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
+* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2464.md)
+* [AI algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+
 ## Property: has_MitigationSource
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

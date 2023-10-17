@@ -2,13 +2,26 @@
 
 # __Global Containment Strategy__
 
-## Property: has_MitigationSource
-
-* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
+
+## Closest similar item
+
+* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
+* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
+* [Containment Space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2011.md)
+* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
+* [International Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
+* [Enhanced commitment towards multilateralism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2257.md)
+* [Global Response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
+* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2265.md)
+
+## Property: has_MitigationSource
+
+* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
 
 ## Property: has_MitigationPrinciple
 

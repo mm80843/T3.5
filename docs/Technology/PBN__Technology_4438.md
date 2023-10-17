@@ -6,3 +6,16 @@
 
 * [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2371.md)
 
+## Closest similar item
+
+* [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
+* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [strong building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3413.md)
+* [rfid](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3955.md)
+* [qr code scanner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3475.md)
+* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+* [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+* [cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
+* [digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3757.md)
+* [international classification of diseases (icd) codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_516.md)
+

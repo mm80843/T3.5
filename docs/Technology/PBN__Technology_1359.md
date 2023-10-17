@@ -10,3 +10,16 @@
 
 * [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
 
+## Closest similar item
+
+* [advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
+* [development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_464.md)
+* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2066.md)
+* [improvement of testing accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1973.md)
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1753.md)
+* [verification processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1387.md)
+* [Verification processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2494.md)
+* [improved screening and testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
+* [development of rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1971.md)
+

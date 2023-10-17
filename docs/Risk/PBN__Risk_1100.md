@@ -2,53 +2,66 @@
 
 # __Expertise__
 
-## Name of the risk
-
-Inadequate development, implementation, and maintenance of the proposed framework.
-
-## Description of the risk
-
-Lack of professionals with IT skills and domain expertise in digital transformation technologies.
-
-## Mitigations of this risk
-
-* [Invest in training and education programs, promote interdisciplinary collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1547.md)
-
-## Property: has_RiskHealth
-
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Inadequate development, implementation, and maintenance of the proposed framework.
+
+## Property: has_RiskISO_Purpose
+
+* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
+
+## Closest similar item
+
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1794.md)
+* [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2468.md)
+* [Limited access to expert knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_837.md)
+* [High cost, technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2994.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
+* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
+* [Technical skills and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2543.md)
+* [Knowledge gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3145.md)
+* [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2652.md)
+
+## Description of the risk
+
+Lack of professionals with IT skills and domain expertise in digital transformation technologies.
 
 ## Technologies linked to the risk
 
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [interdisciplinary teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_156.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
+* [Invest in training and education programs, promote interdisciplinary collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1547.md)
+
+## Articles mentionning the risk
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_11.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
 

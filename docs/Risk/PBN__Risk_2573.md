@@ -6,3 +6,16 @@
 
 * [Telehealth Clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_429.md)
 
+## Closest similar item
+
+* [Difficulty of access for medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
+* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
+* [Confidentiality and risk management in telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_897.md)
+* [Lack of access to education and information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
+* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1398.md)
+* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3225.md)
+* [Increased screen time, potential for addiction, social isolation, cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3086.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
+* [Lack of monitoring system for high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_999.md)
+

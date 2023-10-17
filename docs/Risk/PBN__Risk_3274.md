@@ -6,3 +6,16 @@
 
 * [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
 
+## Closest similar item
+
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+* [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
+* [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
+* [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
+* [Misinformed decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2779.md)
+* [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
+* [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
+

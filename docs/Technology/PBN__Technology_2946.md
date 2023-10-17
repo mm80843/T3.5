@@ -6,3 +6,16 @@
 
 * [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
 
+## Closest similar item
+
+* [centrifugation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4431.md)
+* [filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2680.md)
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
+* [water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4259.md)
+* [hvac filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3744.md)
+* [high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_272.md)
+* [filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2691.md)
+

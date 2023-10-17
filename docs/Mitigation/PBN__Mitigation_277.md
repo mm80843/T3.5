@@ -2,12 +2,25 @@
 
 # __Desiccant Rotor__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Drones and Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1668.md)
+* [Cordon Sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1018.md)
+* [Larviciding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2387.md)
+* [Autoclaving](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_846.md)
+* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2427.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+* [Surveillance Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_356.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
+* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
+* [Delivery Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
+
 ## Property: has_MitigationSource
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

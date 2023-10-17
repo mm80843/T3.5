@@ -6,3 +6,16 @@
 
 * [Sliding panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_778.md)
 
+## Closest similar item
+
+* [solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1762.md)
+* [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
+* [lcd panel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3476.md)
+* [tempfloor panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4170.md)
+* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
+* [energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_656.md)
+* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
+* [smart grid systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_354.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+

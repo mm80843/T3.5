@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
 * [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+
+## Closest similar item
+
+* [Open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [open communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
+* [transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
+* [public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3339.md)
+* [effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3609.md)
+* [diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
+* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
+* [diverse communication channels (e.g. television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3804.md)
+* [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
 

@@ -2,12 +2,25 @@
 
 # __Capturing extra relevant data__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
+* [Data completion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
+* [Data curation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2061.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
+* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2445.md)
+* [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
+* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2408.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+
 ## Property: has_MitigationSource
 
 * [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

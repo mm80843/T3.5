@@ -6,3 +6,16 @@
 
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
 
+## Closest similar item
+
+* [hydroponics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4013.md)
+* [water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4483.md)
+* [improved water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1050.md)
+* [Hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2366.md)
+* [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
+* [smart water consumption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4290.md)
+

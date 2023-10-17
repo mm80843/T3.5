@@ -10,3 +10,16 @@
 
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 
+## Closest similar item
+
+* [economic diversification strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
+* [diversification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4373.md)
+* [diversification of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4310.md)
+* [diversification of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_533.md)
+* [supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
+* [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
+* [distribution strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1420.md)
+* [diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
+* [financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
+* [risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
+

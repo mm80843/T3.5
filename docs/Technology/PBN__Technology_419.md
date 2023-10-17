@@ -10,3 +10,16 @@
 
 * [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
 
+## Closest similar item
+
+* [Virtual classes and workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2204.md)
+* [workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3039.md)
+* [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
+* [workshops)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3121.md)
+* [offer workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1916.md)
+* [promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
+* [community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
+* [virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
+* [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
+* [virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
+

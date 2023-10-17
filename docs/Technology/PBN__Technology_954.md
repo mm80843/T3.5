@@ -8,6 +8,19 @@
 
 ## Risks linked to this technology
 
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
 * [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
+
+## Closest similar item
+
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
+* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2298.md)
+* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1652.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2289.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2277.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
 

@@ -6,3 +6,16 @@
 
 * [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
 
+## Closest similar item
+
+* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1972.md)
+* [Psychological impact of social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3034.md)
+* [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2644.md)
+* [Prolonged isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_75.md)
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
+* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
+* [Patients with limited internet access and technologic capabilities, lack of physical exam, ambiguity about information security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2573.md)
+* [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
+* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
+

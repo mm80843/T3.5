@@ -6,3 +6,16 @@
 
 * [Financial support for adaptation projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1089.md)
 
+## Closest similar item
+
+* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
+* [Insufficient technical installations for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_794.md)
+* [Costly and slow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2719.md)
+* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2583.md)
+* [Insufficient design guidelines for transformation, adaptation, and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_788.md)
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+* [Minimum cost and disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2961.md)
+* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
+* [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2983.md)
+

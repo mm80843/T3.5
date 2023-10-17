@@ -10,3 +10,16 @@
 
 * [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
 
+## Closest similar item
+
+* [Enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
+* [cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_264.md)
+* [proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_226.md)
+* [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2546.md)
+* [enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_742.md)
+* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2563.md)
+* [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+* [disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_436.md)
+* [Disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2596.md)
+

@@ -2,13 +2,26 @@
 
 # __Proper communication__
 
-## Property: has_MitigationSource
-
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
+
+## Closest similar item
+
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
+* [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
+* [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
+* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
+* [Information Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
+
+## Property: has_MitigationSource
+
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 
 ## Property: has_MitigationPrinciple
 

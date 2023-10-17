@@ -6,3 +6,16 @@
 
 * [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1661.md)
 
+## Closest similar item
+
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
+* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2421.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
+* [Lack of spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_952.md)
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
+* [Lack of space and poor spatial organization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_343.md)
+* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1958.md)
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
+* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
+

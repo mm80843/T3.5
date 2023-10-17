@@ -2,19 +2,19 @@
 
 # __Timely treatment and intervention__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Reduces healthcare costs and improves quality of life in rural areas](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_187.md)
-
-## Articles mentionning this Benefit
-
-* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
-
 ## Name of the Benefit
 
 Increases chances of successful treatment and improves long-term health outcomes
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Reduces healthcare costs and improves quality of life in rural areas](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_187.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [rural women diagnosed with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_100.md)
+
+## Articles mentionning this Benefit
+
+* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 

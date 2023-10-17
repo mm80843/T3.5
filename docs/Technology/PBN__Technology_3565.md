@@ -6,3 +6,16 @@
 
 * [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
 
+## Closest similar item
+
+* [environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
+* [environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1674.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
+* [Environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2697.md)
+* [environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
+* [environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
+* [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
+

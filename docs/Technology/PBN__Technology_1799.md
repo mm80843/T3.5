@@ -6,3 +6,16 @@
 
 * [Increase in unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2230.md)
 
+## Closest similar item
+
+* [unemployment benefits systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1081.md)
+* [employee support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
+* [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_798.md)
+* [job retention programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3893.md)
+* [job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+* [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+* [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
+* [welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3620.md)
+

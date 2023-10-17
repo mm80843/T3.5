@@ -10,3 +10,16 @@
 
 * [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1348.md)
 
+## Closest similar item
+
+* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+* [Mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2282.md)
+* [telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_754.md)
+* [Telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2280.md)
+* [mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
+* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2874.md)
+* [mobile vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1207.md)
+* [mobile medical units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1653.md)
+* [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+

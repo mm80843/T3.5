@@ -6,3 +6,16 @@
 
 * [Nested PCR assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
 
+## Closest similar item
+
+* [Presence of SARS-CoV-2 RNA in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2338.md)
+* [Detection of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1446.md)
+* [Detection of SARS-CoV-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_291.md)
+* [Low sensitivity of current assays for SARS-CoV-2 detection in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
+* [SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
+* [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)
+* [Spread of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1.md)
+* [Spread of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
+* [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
+* [Decay of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
+

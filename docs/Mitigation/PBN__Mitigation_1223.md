@@ -2,13 +2,26 @@
 
 # __Increased Ventilation Rates__
 
-## Property: has_MitigationSource
-
-* [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+
+## Closest similar item
+
+* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Higher ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1839.md)
+* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2048.md)
+* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
+* [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1327.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1134.md)
+* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
+* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1349.md)
+* [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
+
+## Property: has_MitigationSource
+
+* [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
 
 ## Property: has_MitigationPrinciple
 

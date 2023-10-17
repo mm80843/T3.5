@@ -6,3 +6,16 @@
 
 * [Presence of symptomatic and asymptomatic carriers in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1625.md)
 
+## Closest similar item
+
+* [Regular testing, contact tracing, promoting mask-wearing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2791.md)
+* [Implement widespread testing and contact tracing measures, promote mask-wearing and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1873.md)
+* [Public health measures such as quarantine, social distancing, and wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2609.md)
+* [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2656.md)
+* [Adherence to safety measures such as wearing masks and practicing social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1693.md)
+* [Social distancing, wearing masks, frequent handwashing, testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2332.md)
+* [Promote social distancing, wear masks, wash hands regularly, implement contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2014.md)
+* [Encourage individuals to wear masks, practice respiratory hygiene, and maintain physical distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2313.md)
+* [Implementing strict social distancing measures, promoting proper hygiene practices, and widespread testing and contact tracing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2838.md)
+* [Promoting regular testing, contact tracing, and adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
+

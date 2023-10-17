@@ -2,12 +2,25 @@
 
 # __Offering Lessons to Optimize City Operations__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
+* [Redesigning Urban Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1647.md)
+* [Balanced allocation of urban services and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2436.md)
+* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
+* [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
+* [Urban Planning and Design Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_757.md)
+* [Urban Renewal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
+* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
+* [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1486.md)
+
 ## Property: has_MitigationSource
 
 * [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

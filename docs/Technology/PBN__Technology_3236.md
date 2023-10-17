@@ -6,3 +6,16 @@
 
 * [Yoga](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_446.md)
 
+## Closest similar item
+
+* [rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
+* [online yoga classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
+* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
+* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
+* [material support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
+* [textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
+* [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
+* [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
+

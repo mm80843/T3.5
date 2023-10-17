@@ -2,15 +2,28 @@
 
 # __building manager__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1090219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1090219.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
+## Closest similar item
+
+* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+* [building management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1105.md)
+* [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
+* [construction project manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2020.md)
+* [organizations and building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_956.md)
+* [building managers and owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_911.md)
+* [construction project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
+* [building owners and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_524.md)
+* [building manager and owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1947.md)
+* [building facility manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1989.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1090219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1090219.md)
 

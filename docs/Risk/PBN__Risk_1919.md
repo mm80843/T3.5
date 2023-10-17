@@ -2,54 +2,67 @@
 
 # __Financial sustainability of water sector__
 
-## Name of the risk
-
-Threat to the financial sustainability of water services.
-
-## Description of the risk
-
-Economic standstill leads to decreased revenue and financial sustainability of water utilities.
-
-## Mitigations of this risk
-
-* [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2522.md)
-
-## Property: has_RiskHealth
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
 ## Property: has_RiskType
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-
-## Stakeholders who can mitigate this risk
-
-* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
-* [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
-* [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
 
 ## People affected by this risk
 
 * [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
 
+## Name of the risk
+
+Threat to the financial sustainability of water services.
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)
+* [Financial sustainability of energy providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3314.md)
+* [Financial viability of clean energy sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3318.md)
+* [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_475.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
+* [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
+* [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
+
+## Description of the risk
+
+Economic standstill leads to decreased revenue and financial sustainability of water utilities.
+
+## Technologies linked to the risk
+
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Mitigations of this risk
+
+* [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2522.md)
+
+## Articles mentionning the risk
+
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
 

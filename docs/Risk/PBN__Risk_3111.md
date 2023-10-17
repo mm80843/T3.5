@@ -6,3 +6,16 @@
 
 * [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1508.md)
 
+## Closest similar item
+
+* [Insufficient health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2023.md)
+* [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1316.md)
+* [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
+* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
+* [Neglecting public health requirements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_115.md)
+* [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
+* [Limited mandate on public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2850.md)
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
+* [Limited access to health information and beliefs hindering adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3100.md)
+

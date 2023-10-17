@@ -2,55 +2,68 @@
 
 # __False-negative results in COVID-19 testing__
 
-## Name of the risk
-
-Failure to identify infected individuals, potential spread of the virus
-
-## Description of the risk
-
-Inaccurate detection of SARS-CoV-2 virus
-
-## Mitigations of this risk
-
-* [Improve test sensitivity and accuracy to minimize false-negative results](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
-* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2029.md)
-* [improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2030.md)
 
 ## People affected by this risk
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
+## Name of the risk
+
+Failure to identify infected individuals, potential spread of the virus
+
 ## Property: has_RiskISO_Purpose
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_8.md)
+
+## Closest similar item
+
+* [Inefficient testing for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_462.md)
+* [Misinformation on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2382.md)
+* [False-positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2423.md)
+* [Potential false positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
+* [Asymptomatic and pre-symptomatic cases of COVID-19 not being detected early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1002.md)
+* [False-negative results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Underreporting of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
+* [Inaccurate or unreliable COVID-19 information disseminated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1783.md)
+* [Inability to differentiate COVID-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1003.md)
+* [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
+
+## Description of the risk
+
+Inaccurate detection of SARS-CoV-2 virus
+
+## Technologies linked to the risk
+
+* [enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2029.md)
+* [improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2030.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Improve test sensitivity and accuracy to minimize false-negative results](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
+
+## Articles mentionning the risk
+
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
 

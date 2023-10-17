@@ -2,16 +2,29 @@
 
 # __Handwashing__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission via hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2758.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+
+## Closest similar item
+
+* [Proper handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_544.md)
+* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2853.md)
+* [Education on proper handwashing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2852.md)
+* [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2854.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Promote regular handwashing, hygiene education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2855.md)
+* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2856.md)
+* [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3019.md)
+* [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2858.md)
+* [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2857.md)
+
 ## Property: has_MitigationSource
 
 * [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 * [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
 * [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission via hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2758.md)
-* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
 
 ## Property: has_MitigationPrinciple
 

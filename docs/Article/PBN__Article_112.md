@@ -11,32 +11,32 @@
 * [Reduced stress on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_552.md)
 * [Delayed outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_553.md)
 
-## Short summary of the article
-
-This research abstract explores the importance of community mitigation measures in the absence of specific drugs or vaccines for disease outbreaks. The article emphasizes the need for targeted, non-coercive interventions with transparency and public engagement to delay the exponential spread of the outbreak. It highlights the role of clear communication from national and international health authorities to combat fake news and rumors. The restriction of mass gatherings and events is recommended due to the high transmission rates associated with such gatherings. The impact of travel restrictions is discussed, highlighting the potential negative effects on essential staff and the movement of supplies. Institutional quarantining is deemed unrealistic and voluntary home quarantine is suggested as an alternative, with the expansion of telehealth concepts to triage quarantined individuals. The importance of new funeral guidelines to prevent viral transmission is emphasized. The timing of implementation is crucial to the effectiveness of community mitigation measures, as early action can delay outbreaks. Slowing down the spread of the outbreak is crucial for healthcare providers to manage patient care and prevent burnout, and can have a global impact.
-
 ## Summary of the article
 
 During a pandemic when there are no specific drugs or vaccines available, we need to use community interventions to slow down the spread of the virus. This means we have to do things like limiting big gatherings, like music festivals and religious events, because respiratory infections can be easily spread at those places. It's also important for health authorities to communicate clearly and provide accurate information, so people don't believe rumors or panic. Travel is a big factor in spreading diseases, so some restrictions may be put in place. Instead of quarantining people in special places, it might be better for them to stay home voluntarily. And during funerals, new rules might have to be put in place to avoid spreading the virus. Taking action early can make a big difference in stopping the outbreak and making sure everyone gets the care they need.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
-* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1349.md)
-* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
-* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
-* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
-* [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
+This research abstract explores the importance of community mitigation measures in the absence of specific drugs or vaccines for disease outbreaks. The article emphasizes the need for targeted, non-coercive interventions with transparency and public engagement to delay the exponential spread of the outbreak. It highlights the role of clear communication from national and international health authorities to combat fake news and rumors. The restriction of mass gatherings and events is recommended due to the high transmission rates associated with such gatherings. The impact of travel restrictions is discussed, highlighting the potential negative effects on essential staff and the movement of supplies. Institutional quarantining is deemed unrealistic and voluntary home quarantine is suggested as an alternative, with the expansion of telehealth concepts to triage quarantined individuals. The importance of new funeral guidelines to prevent viral transmission is emphasized. The timing of implementation is crucial to the effectiveness of community mitigation measures, as early action can delay outbreaks. Slowing down the spread of the outbreak is crucial for healthcare providers to manage patient care and prevent burnout, and can have a global impact.
 
 ## This article points to following mitigation
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
 * [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_595.md)
-* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
 * [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
 * [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_598.md)
+
+## List of risks in an article
+
+* [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
+* [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1349.md)
+* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
 
 ## Title of the article
 

@@ -2,20 +2,33 @@
 
 # __privacy-by-design__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
+* [privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2422.md)
+* [privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
+* [software-defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1580.md)
+* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1589.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
+* [software defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4155.md)
+* [privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
+* [anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1382.md)
 
 ## Risks linked to this technology
 
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2093.md)
 
+## This Technology belongs to this TechSubgroup
+
+
+## This Technology enables the following mitigations
+
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
+
 ## This Technology is identified by the following QID
 
 * [Q7246028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7246028.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

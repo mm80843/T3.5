@@ -2,11 +2,24 @@
 
 # __Development of drug therapies__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of drug therapies for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_935.md)
+
 ## Property: has_MitigationBenefit
 
 * [Treatment options for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1278.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Lack of drug therapies for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_935.md)
+* [Drug development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_599.md)
+* [Conduct clinical trials to determine the efficacy of drug therapies, develop new therapeutics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1597.md)
+* [Utilize AI algorithms for drug discovery and development of novel treatments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2860.md)
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
+* [Support ongoing research for vaccine development and antiviral medications, repurpose existing drugs for treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
+* [Develop and distribute effective medications and vaccines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2016.md)
+* [Identify missing information and develop logical relations linking drugs, coronaviruses, and conditions for drug efficacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1966.md)
+* [Blockchain medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1331.md)
+* [Investment in research and development for vaccines and agent-specific drugs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2069.md)
+* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
 

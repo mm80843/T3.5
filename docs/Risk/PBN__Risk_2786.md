@@ -6,3 +6,16 @@
 
 * [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_880.md)
 
+## Closest similar item
+
+* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
+* [Contaminated Hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3285.md)
+* [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
+* [Disease transmission through personal contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2783.md)
+* [Transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
+* [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
+

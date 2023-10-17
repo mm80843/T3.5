@@ -2,16 +2,29 @@
 
 # __customer feedback systems__
 
+## Closest similar item
+
+* [customer feedback platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)
+* [intelligent information feedback](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2013.md)
+* [Intelligent information feedback](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2116.md)
+* [notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1326.md)
+* [support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_807.md)
+* [peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1228.md)
+* [Peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
+* [reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1153.md)
+* [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
+* [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
+
 ## Risks linked to this technology
 
 * [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 
+## This Technology belongs to this TechSubgroup
+
+
 ## This Technology is identified by the following QID
 
 * [Q183635](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q183635.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology belongs to this TechGroup
 

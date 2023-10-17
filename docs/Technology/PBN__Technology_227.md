@@ -2,25 +2,38 @@
 
 # __cleaning and disinfection products__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1009.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2547.md)
+* [disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
+* [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+* [cleaning disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4516.md)
+* [regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2570.md)
+* [increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_586.md)
+* [cleaning and disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
+* [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
+* [cleaning and disinfecting agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4343.md)
 
 ## Risks linked to this technology
 
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
 * [Persistence of SARS-CoV-2 on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1141.md)
 * [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1746.md)
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
-
-## This Technology is identified by the following QID
-
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 * [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+
+## This Technology enables the following mitigations
+
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1009.md)
+
+## This Technology is identified by the following QID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 
 ## This Technology belongs to this TechGroup
 

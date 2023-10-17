@@ -10,3 +10,16 @@
 
 * [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
 
+## Closest similar item
+
+* [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
+* [economic policies and planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4083.md)
+* [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1841.md)
+* [regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4210.md)
+* [urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
+* [budgeting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_691.md)
+* [demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1133.md)
+* [Demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
+* [policy analysis and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1203.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+

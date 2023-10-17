@@ -10,3 +10,16 @@
 
 * [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
 
+## Closest similar item
+
+* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
+* [allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
+* [increased resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4448.md)
+* [capacity-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1569.md)
+* [equitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)
+* [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
+* [capacity management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
+* [scaling up production capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1628.md)
+* [utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1049.md)
+

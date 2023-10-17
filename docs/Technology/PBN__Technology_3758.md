@@ -6,3 +6,16 @@
 
 * [Building Information Modelling (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
 
+## Closest similar item
+
+* [knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
+* [knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
+* [knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2927.md)
+* [knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
+* [knowledge graphs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2936.md)
+* [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+* [expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
+* [knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
+* [data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
+

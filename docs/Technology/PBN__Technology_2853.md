@@ -2,13 +2,26 @@
 
 # __LED lighting__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1108259](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1108259.md)
+* [LED lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2853.md)
+* [led](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4086.md)
+* [lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4296.md)
+* [lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3030.md)
+* [lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4104.md)
+* [led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3996.md)
+* [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+* [advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
+* [lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
+* [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
+
+## This Technology is identified by the following QID
+
+* [Q1108259](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1108259.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -2,15 +2,28 @@
 
 # __off-site construction methods__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q811936](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811936.md)
+* [off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
+* [building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
+* [construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_374.md)
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
+* [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
+* [lean construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_693.md)
+* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+* [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
+* [construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2973.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
+
+## Risks linked to this technology
+
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
 
 ## This Technology enables the following mitigations
 
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_418.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
+* [Q811936](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811936.md)
 

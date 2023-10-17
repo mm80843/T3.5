@@ -6,3 +6,16 @@
 
 * [Park Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
 
+## Closest similar item
+
+* [park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4500.md)
+* [temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1039.md)
+* [equitable distribution of parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3608.md)
+* [public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+* [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2340.md)
+* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2379.md)
+* [green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
+

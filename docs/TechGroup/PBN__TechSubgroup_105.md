@@ -4,7 +4,20 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
 * [sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
+* [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
 * [Livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
+
+## Closest similar item
+
+* [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
+* [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+* [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
+* [Economic and Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
+* [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+* [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
+* [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+* [Education and Training Programs](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_178.md)
+* [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
+* [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
 

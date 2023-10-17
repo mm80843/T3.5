@@ -6,3 +6,16 @@
 
 * [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_417.md)
 
+## Closest similar item
+
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
+* [digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
+* [digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3528.md)
+* [digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4233.md)
+* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
+* [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
+* [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
+

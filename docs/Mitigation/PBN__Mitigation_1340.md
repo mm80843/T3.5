@@ -2,13 +2,26 @@
 
 # __Training for healthcare professionals in psychosocial skills__
 
-## Property: has_MitigationSource
-
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
+
+## Closest similar item
+
+* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1940.md)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
+* [Patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1941.md)
+* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1675.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2202.md)
+* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1843.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
+* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
 ## Property: has_MitigationPrinciple
 

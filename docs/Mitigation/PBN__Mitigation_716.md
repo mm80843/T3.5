@@ -2,13 +2,26 @@
 
 # __Continuous Monitoring__
 
-## Property: has_MitigationSource
-
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+
+## Closest similar item
+
+* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
+* [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Continuous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1670.md)
+
+## Property: has_MitigationSource
+
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
 
 ## Property: has_MitigationPrinciple
 

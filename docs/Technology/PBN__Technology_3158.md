@@ -6,3 +6,16 @@
 
 * [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
 
+## Closest similar item
+
+* [fluorescent lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4085.md)
+* [x-ray fluorescence spectroscopy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3486.md)
+* [molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
+* [laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1320.md)
+* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
+* [uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
+* [pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
+* [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
+* [premoistened swabs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3906.md)
+

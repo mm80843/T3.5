@@ -6,3 +6,16 @@
 
 * [Automotive systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2168.md)
 
+## Closest similar item
+
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
+* [face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4269.md)
+* [voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3781.md)
+* [facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3864.md)
+* [facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2433.md)
+* [voice recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4346.md)
+* [facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1713.md)
+* [automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2467.md)
+

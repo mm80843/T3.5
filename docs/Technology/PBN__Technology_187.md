@@ -2,15 +2,28 @@
 
 # __daylighting systems__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q54316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q54316.md)
+* [Daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2852.md)
+* [daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3935.md)
+* [daylight sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3045.md)
+* [lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4104.md)
+* [natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
+* [lighting control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_654.md)
+* [Lighting control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2308.md)
+* [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+* [advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
+
+## Risks linked to this technology
+
+* [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
 
 ## This Technology enables the following mitigations
 
 * [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
+* [Q54316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q54316.md)
 

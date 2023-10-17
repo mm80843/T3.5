@@ -11,3 +11,16 @@
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 * [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
 
+## Closest similar item
+
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2535.md)
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+

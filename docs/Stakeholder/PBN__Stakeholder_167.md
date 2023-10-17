@@ -6,3 +6,16 @@
 
 * [Increased adoption of germicidal UV](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
 
+## Closest similar item
+
+* [laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
+* [hvac technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
+* [technical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_747.md)
+* [hvac technician](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1752.md)
+* [tech company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2611.md)
+* [technical expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
+* [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
+* [technology developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1957.md)
+* [engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1906.md)
+* [tech companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_967.md)
+

@@ -6,3 +6,16 @@
 
 * [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
 
+## Closest similar item
+
+* [community engagementorganization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2480.md)
+* [community engagementorganizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2457.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [community organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2485.md)
+* [community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_639.md)
+* [residents who primarily rely on non-contact interactions for community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1554.md)
+* [community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
+* [community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)
+* [resident who primarily rely on non-contact interaction for community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2478.md)
+* [social organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1493.md)
+

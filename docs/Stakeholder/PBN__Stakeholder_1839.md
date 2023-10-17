@@ -6,6 +6,19 @@
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 
+## Closest similar item
+
+* [journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1831.md)
+* [reporter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1834.md)
+* [journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1824.md)
+* [news outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1840.md)
+* [news outlet](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1836.md)
+* [media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)
+* [Media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1842.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1837.md)
+* [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 

@@ -6,3 +6,16 @@
 
 * [Health Information Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_437.md)
 
+## Closest similar item
+
+* [virtual nfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1583.md)
+* [virtual NFs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2856.md)
+* [ipcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3571.md)
+* [network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2316.md)
+* [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [secure file sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2603.md)
+* [virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
+

@@ -10,3 +10,16 @@
 
 * [Suicidal ideation from economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)
 
+## Closest similar item
+
+* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2210.md)
+* [mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
+* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2184.md)
+* [emergency systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
+* [social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3942.md)
+* [emergency response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_32.md)
+* [emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [Online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2183.md)
+

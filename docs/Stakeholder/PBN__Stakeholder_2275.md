@@ -2,14 +2,27 @@
 
 # __individual staying at home during lockdown__
 
-## This Stakeholder is identified by the following QID
-
-* [Q320994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q320994.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
+## Closest similar item
+
+* [individuals staying at home during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1058.md)
+* [individual living in flat during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2206.md)
+* [individuals living in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1060.md)
+* [individual living in close proximity to neighbmy during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2104.md)
+* [individual living in close proximity to neighbour during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2153.md)
+* [individuals living in close proximity to neighbours during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1059.md)
+* [individual in quarantine or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2520.md)
+* [individuals in quarantine or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1321.md)
+* [individuals working from home](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_475.md)
+* [individuals facing eviction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_714.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q320994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q320994.md)
 

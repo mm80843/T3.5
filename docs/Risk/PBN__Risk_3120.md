@@ -7,3 +7,16 @@
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
 * [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 
+## Closest similar item
+
+* [Transmission, Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2537.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
+* [Transmission via droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1280.md)
+* [Indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1554.md)
+* [Transmission Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
+* [Transmission in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3193.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+

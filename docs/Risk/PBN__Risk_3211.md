@@ -6,3 +6,16 @@
 
 * [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1674.md)
 
+## Closest similar item
+
+* [Limited Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2486.md)
+* [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
+* [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_398.md)
+* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
+* [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
+* [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_739.md)
+* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
+* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
+* [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+* [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
+

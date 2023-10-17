@@ -2,59 +2,72 @@
 
 # __Vulnerable populations__
 
-## Name of the risk
-
-Higher risk of exposure, limited access to healthcare, inadequate living conditions
-
-## Description of the risk
-
-Indigenous people, homeless, migrants, prisoners, and people with disabilities
-
-## Mitigations of this risk
-
-* [Ensuring access to healthcare and accurate information, providing support and resources, addressing social inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2335.md)
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+* [people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_567.md)
+* [indigenous populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_443.md)
+* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
+* [homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
+* [prisoners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1176.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Higher risk of exposure, limited access to healthcare, inadequate living conditions
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Precarious situation of vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_830.md)
+* [Epidemiological Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
+* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2413.md)
+* [Vulnerable populations facing poverty and hunger](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_517.md)
+* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
+* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
+* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
+* [Vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_458.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
+* [Vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3336.md)
+
+## Description of the risk
+
+Indigenous people, homeless, migrants, prisoners, and people with disabilities
 
 ## Technologies linked to the risk
 
 * [mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
 * [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [indigenous populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_443.md)
-* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
-* [homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
-* [people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_567.md)
-* [prisoners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1176.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Ensuring access to healthcare and accurate information, providing support and resources, addressing social inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2335.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
+
+## Articles mentionning the risk
+
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 

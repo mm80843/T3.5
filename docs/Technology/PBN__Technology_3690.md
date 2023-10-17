@@ -6,3 +6,16 @@
 
 * [Tick Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
 
+## Closest similar item
+
+* [vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
+* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2770.md)
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
+* [vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
+* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
+* [vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
+* [development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1960.md)
+* [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
+

@@ -2,12 +2,25 @@
 
 # __Germicidal ultraviolet__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q3380157](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3380157.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2893.md)
+* [uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
+* [germicidal ultraviolet (guv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3820.md)
+* [ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
+* [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+* [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2689.md)
+* [germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3833.md)
+* [uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
+* [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
+* [uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1007.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q3380157](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3380157.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -10,3 +10,16 @@
 
 * [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
 
+## Closest similar item
+
+* [ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3439.md)
+* [ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1344.md)
+* [development of interoperability frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
+* [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
+* [ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
+* [existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
+* [ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
+* [interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_513.md)
+* [interoperability guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
+

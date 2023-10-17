@@ -2,13 +2,26 @@
 
 # __Drainage system management__
 
-## Property: has_MitigationSource
-
-* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Stagnant pools in urban areas as breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
+
+## Closest similar item
+
+* [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2470.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
+* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
+* [Water Quality Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_185.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
+* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+
+## Property: has_MitigationSource
+
+* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -7,3 +7,16 @@
 * [Indoor residual spraying (IRS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2389.md)
 * [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
 
+## Closest similar item
+
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2220.md)
+* [disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
+* [cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3471.md)
+* [spraying-down disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4271.md)
+* [electrostatic sprayer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3487.md)
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
+* [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
+

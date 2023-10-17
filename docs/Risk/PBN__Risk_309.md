@@ -6,3 +6,16 @@
 
 * [CDR data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_388.md)
 
+## Closest similar item
+
+* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
+* [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3142.md)
+* [Human disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2673.md)
+* [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
+* [Lack of control over movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3208.md)
+* [Population movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_311.md)
+* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_120.md)
+* [mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2292.md)
+* [Motion artefacts, poor contact with skin](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2554.md)
+

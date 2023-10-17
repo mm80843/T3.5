@@ -6,3 +6,16 @@
 
 * [Improve cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_197.md)
 
+## Closest similar item
+
+* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
+* [Vaccine availability, Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
+* [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
+* [Difficulty in vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_519.md)
+* [Individualized dosing for vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_682.md)
+* [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_423.md)
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
+* [Inefficient use of resources in vaccination process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_156.md)
+* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
+* [Representation and analysis of vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_41.md)
+

@@ -2,12 +2,25 @@
 
 # __UV-Light radiation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3156.md)
+* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
+* [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3058.md)
+* [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3052.md)
+* [Use of far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3157.md)
+* [Use of UV-C germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3057.md)
+* [More research on UV susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3158.md)
+* [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3159.md)
+* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
+
 ## Property: has_MitigationSource
 
 * [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -15,7 +28,7 @@ UV rays can damage the genetic material of viruses, bacteria, and fungi, renderi
 
 ## This Mitigation is enabled by the following technologies
 
-* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
-* [fluorescent lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4085.md)
 * [led](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4086.md)
+* [fluorescent lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4085.md)
+* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
 

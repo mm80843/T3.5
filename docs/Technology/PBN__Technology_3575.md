@@ -6,3 +6,16 @@
 
 * [Creation of rescEU stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
 
+## Closest similar item
+
+* [distribution strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1420.md)
+* [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
+* [condom distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2810.md)
+* [analysis of droplet distribution and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4205.md)
+* [efficient gas distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1047.md)
+* [simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [population density data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3674.md)
+* [vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
+* [air distribution evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4206.md)
+* [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+

@@ -6,3 +6,16 @@
 
 * [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
 
+## Closest similar item
+
+* [new staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_295.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
+* [essential staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_863.md)
+* [janitorial staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_848.md)
+* [Janitorial staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1757.md)
+* [restaurant staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1816.md)
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+

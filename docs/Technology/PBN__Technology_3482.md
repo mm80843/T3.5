@@ -6,3 +6,16 @@
 
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 
+## Closest similar item
+
+* [advanced liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_790.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4405.md)
+* [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1728.md)
+* [water disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
+* [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+* [surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [cleaning disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4516.md)
+

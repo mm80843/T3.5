@@ -6,3 +6,16 @@
 
 * [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
 
+## Closest similar item
+
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
+* [training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2046.md)
+* [training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3460.md)
+* [training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
+* [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2625.md)
+* [resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
+* [education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
+

@@ -2,13 +2,26 @@
 
 # __Data-driven solutions__
 
-## Property: has_MitigationSource
-
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2465.md)
+
+## Closest similar item
+
+* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1358.md)
+* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
+* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Predictive Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1931.md)
+* [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2059.md)
+* [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
+
+## Property: has_MitigationSource
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 
 ## Property: has_MitigationPrinciple
 

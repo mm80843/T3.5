@@ -6,3 +6,16 @@
 
 * [Integrated and holistic strategic planning processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_876.md)
 
+## Closest similar item
+
+* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
+* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2226.md)
+* [Lack of sustainable development plans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3257.md)
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
+* [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_296.md)
+* [Lack of global leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3402.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
+* [Lack of evaluation planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2655.md)
+* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2609.md)
+* [Lack of effective partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3260.md)
+

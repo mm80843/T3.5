@@ -2,14 +2,27 @@
 
 # __Big Data__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+
+## Closest similar item
+
+* [Big Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_765.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_286.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+
 ## Property: has_MitigationSource
 
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 
 ## Property: has_MitigationPrinciple
 

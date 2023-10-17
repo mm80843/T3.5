@@ -2,15 +2,28 @@
 
 # __community support service__
 
-## This Stakeholder is identified by the following QID
-
-* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [community support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1425.md)
+* [community support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2473.md)
+* [community support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1268.md)
+* [support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
+* [community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_313.md)
+* [support organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2451.md)
+* [community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
+* [community group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2499.md)
+* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+* [community organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2485.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Community Support Networks/Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_133.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q112206160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112206160.md)
 

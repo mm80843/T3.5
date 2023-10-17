@@ -6,3 +6,16 @@
 
 * [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
 
+## Closest similar item
+
+* [statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1687.md)
+* [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
+* [statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
+* [computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
+* [transportation and epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
+* [modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
+* [microscopic crowd models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1465.md)
+* [Microscopic crowd models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2516.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4207.md)
+

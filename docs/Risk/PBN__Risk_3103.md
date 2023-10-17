@@ -6,3 +6,16 @@
 
 * [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
 
+## Closest similar item
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
+* [Confidentiality and risk management in telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_897.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
+* [Limited access to services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3436.md)
+* [Need for remote access and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_76.md)
+* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
+* [Limited access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_381.md)
+* [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2741.md)
+* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
+

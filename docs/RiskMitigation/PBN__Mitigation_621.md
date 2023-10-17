@@ -2,13 +2,26 @@
 
 # __Monitoring of agglomerations__
 
-## Property: has_MitigationSource
-
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
+
+## Closest similar item
+
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+* [Monitoring reactions and performance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1604.md)
+* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
+* [Spatiotemporal IEQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_702.md)
+* [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
+* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_44.md)
+* [Monitoring Environmental Indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_912.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
+* [Monitoring Traffic Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
+
+## Property: has_MitigationSource
+
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -13,31 +13,13 @@
 * [Scrutiny of data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1056.md)
 * [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
 
-## Short summary of the article
-
-Blockchain technology has the potential to play a critical role in monitoring and controlling the spread of the COVID-19 pandemic. The existing technology lacks trustable data that accurately reflects the spread of the virus. Blockchain technology can provide a digital database that contains accurate and transparent information about COVID-19 patients, test results, treatment status, and discharge summaries. By utilizing blockchain technology, data can be securely stored and shared among participating nodes such as hospitals, laboratories, and government sites. Blockchain technology can also be applied to various areas such as outbreak tracking, donation tracking, medical supply chain management, and public surveillance systems. The use of blockchain technology can improve disease control, traceability of infected patients, transparency in the treatment process, and the management of healthcare instruments. However, there are limitations to blockchain technology, such as energy consumption, scalability, complexity, and privacy concerns. Overall, the combination of blockchain technology with artificial intelligence, big data, and cloud computing can effectively combat the COVID-19 pandemic and future pandemics.
-
 ## Summary of the article
 
 Blockchain technology is a special kind of technology that can help in monitoring and controlling the COVID-19 pandemic. It can help in keeping track of the virus and identifying people who are at high risk. It can also help in keeping medical records safe and private. Blockchain technology can be used to track the movement of infected patients and make sure they get the right treatment. It can also help in managing the supply of medical equipment and medicines. Overall, blockchain technology can be a helpful tool in fighting against the COVID-19 crisis.
 
-## Referenced by other articles
+## Short summary of the article
 
-* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
-* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
-* [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
-* [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
-
-## List of risks in an article
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
-* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
-* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
-* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
+Blockchain technology has the potential to play a critical role in monitoring and controlling the spread of the COVID-19 pandemic. The existing technology lacks trustable data that accurately reflects the spread of the virus. Blockchain technology can provide a digital database that contains accurate and transparent information about COVID-19 patients, test results, treatment status, and discharge summaries. By utilizing blockchain technology, data can be securely stored and shared among participating nodes such as hospitals, laboratories, and government sites. Blockchain technology can also be applied to various areas such as outbreak tracking, donation tracking, medical supply chain management, and public surveillance systems. The use of blockchain technology can improve disease control, traceability of infected patients, transparency in the treatment process, and the management of healthcare instruments. However, there are limitations to blockchain technology, such as energy consumption, scalability, complexity, and privacy concerns. Overall, the combination of blockchain technology with artificial intelligence, big data, and cloud computing can effectively combat the COVID-19 pandemic and future pandemics.
 
 ## This article points to following mitigation
 
@@ -62,9 +44,27 @@ Blockchain technology is a special kind of technology that can help in monitorin
 * [Integration with emerging technologies for improved outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
 * [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
 
+## List of risks in an article
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
+* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
+
 ## Title of the article
 
 Blockchain technology and its applications to combat COVID-19 pandemic
+
+## Referenced by other articles
+
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
+* [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Year of publication
 

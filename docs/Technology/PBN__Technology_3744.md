@@ -6,3 +6,16 @@
 
 * [Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
 
+## Closest similar item
+
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
+* [use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1020.md)
+* [Use of advanced HVAC systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2891.md)
+* [improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1526.md)
+* [hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)
+* [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+* [HVAC systems with improved ventilation and air filtration capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2698.md)
+* [portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3252.md)
+* [filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
+

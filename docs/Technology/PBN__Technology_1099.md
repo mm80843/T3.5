@@ -11,3 +11,16 @@
 * [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)
 * [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
 
+## Closest similar item
+
+* [Remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
+* [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
+* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
+* [telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
+* [remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1504.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
+* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
+* [remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
+* [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+

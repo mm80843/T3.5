@@ -6,3 +6,16 @@
 
 * [Neighborhood Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1915.md)
 
+## Closest similar item
+
+* [neighbourhood improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
+* [restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3585.md)
+* [control measures for shared facilities and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1183.md)
+* [enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+* [pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
+* [pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
+

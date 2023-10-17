@@ -6,3 +6,16 @@
 
 * [Design and implement mass vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_198.md)
 
+## Closest similar item
+
+* [Overcrowding in vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1907.md)
+* [Lower vaccination rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3105.md)
+* [Demand for vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_423.md)
+* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
+* [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3192.md)
+* [Inefficient use of resources in vaccination process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_156.md)
+* [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
+* [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_430.md)
+* [Vaccine availability, Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
+

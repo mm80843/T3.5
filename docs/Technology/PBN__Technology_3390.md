@@ -6,3 +6,16 @@
 
 * [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_696.md)
 
+## Closest similar item
+
+* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
+* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
+* [web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3932.md)
+* [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+

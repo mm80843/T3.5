@@ -6,3 +6,16 @@
 
 * [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
 
+## Closest similar item
+
+* [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [analytical chemistry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3280.md)
+* [biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3080.md)
+* [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+* [analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
+* [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
+* [molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
+* [biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4136.md)
+

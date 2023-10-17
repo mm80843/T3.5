@@ -2,15 +2,28 @@
 
 # __user of iot device and mobile app__
 
-## This Stakeholder is identified by the following QID
-
-* [Q278368](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q278368.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
+## Closest similar item
+
+* [users of iot devices and mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1430.md)
+* [user of iot device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2635.md)
+* [users of iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1434.md)
+* [user of iot device and network administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2646.md)
+* [users of iot devices and network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1432.md)
+* [IoT device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
+* [app user](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1913.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1396.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
+* [app users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1141.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q278368](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q278368.md)
 

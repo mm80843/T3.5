@@ -6,3 +6,16 @@
 
 * [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
 
+## Closest similar item
+
+* [Limited access to support services for victims of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1037.md)
+* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
+* [Increased domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2499.md)
+* [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
+* [Increased levels of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_483.md)
+* [Domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2.md)
+* [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+* [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
+* [Impact on families and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_833.md)
+

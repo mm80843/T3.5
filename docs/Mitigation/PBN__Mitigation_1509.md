@@ -2,13 +2,26 @@
 
 # __Improved ventilation in buildings__
 
-## Property: has_MitigationSource
-
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
+
+## Closest similar item
+
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+* [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
+* [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
+* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1275.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
+* [Improved Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_807.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+
+## Property: has_MitigationSource
+
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
 ## Property: has_MitigationPrinciple
 

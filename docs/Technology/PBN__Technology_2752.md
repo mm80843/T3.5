@@ -2,6 +2,19 @@
 
 # __Community gardens__
 
+## Closest similar item
+
+* [community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
+* [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+* [urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
+* [pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_848.md)
+* [vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
+* [rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3900.md)
+* [rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1785.md)
+* [community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
+
 ## This Technology belongs to this TechSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)

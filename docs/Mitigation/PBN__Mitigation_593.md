@@ -2,12 +2,25 @@
 
 # __Cytoreduction__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1743.md)
+* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1790.md)
+* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
+* [BioSampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_328.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1328.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2049.md)
+* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2366.md)
+* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+
 ## Property: has_MitigationSource
 
 * [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

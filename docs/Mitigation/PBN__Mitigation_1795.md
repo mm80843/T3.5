@@ -2,12 +2,25 @@
 
 # __Enhanced communication__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Enhanced Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
+* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
+* [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+* [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_319.md)
+* [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
+
 ## Property: has_MitigationSource
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

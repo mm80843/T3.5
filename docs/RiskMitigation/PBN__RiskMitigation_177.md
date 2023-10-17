@@ -2,11 +2,24 @@
 
 # __Eviction moratoria__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduced COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_195.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Eviction increases the risk of COVID-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
+* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1636.md)
+* [Implement eviction moratoria, provide rental assistance, and support eviction prevention programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1634.md)
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_179.md)
+* [Civil right to counsel in eviction cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_180.md)
+* [Divestment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_60.md)
+* [Establish civil right to counsel in eviction cases, provide legal aid resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1639.md)
+* [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_485.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_590.md)
 

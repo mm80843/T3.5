@@ -10,3 +10,16 @@
 
 * [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
 
+## Closest similar item
+
+* [affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)
+* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2726.md)
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
+* [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
+* [sustainable development goals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
+

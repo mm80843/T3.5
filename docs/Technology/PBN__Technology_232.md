@@ -10,3 +10,16 @@
 
 * [COVID-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1144.md)
 
+## Closest similar item
+
+* [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+* [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2689.md)
+* [uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
+* [ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
+* [uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
+* [germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2893.md)
+* [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+* [UV irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2703.md)
+* [uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
+

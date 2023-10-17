@@ -2,54 +2,67 @@
 
 # __Neglected mental health impacts__
 
-## Name of the risk
-
-Increased stress levels, higher risk of mental illnesses
-
-## Description of the risk
-
-Neglecting the impact of the built environment on mental health
-
-## Mitigations of this risk
-
-* [Incorporate mental health considerations into urban planning, prioritize the creation of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1877.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased stress levels, higher risk of mental illnesses
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
+* [Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
+* [Economic impact, mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
+* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
+* [Mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
+* [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
+* [Increase in mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
+
+## Description of the risk
+
+Neglecting the impact of the built environment on mental health
 
 ## Technologies linked to the risk
 
 * [urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
 * [mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_599.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Incorporate mental health considerations into urban planning, prioritize the creation of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1877.md)
+
+## Articles mentionning the risk
+
+* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 

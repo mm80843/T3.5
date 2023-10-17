@@ -2,12 +2,25 @@
 
 # __IoT-based solutions for quarantine time__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Quarantine Monitoring System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_238.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
+* [Quarantine Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
+* [Household quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_666.md)
+* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
+* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+
 ## Property: has_MitigationSource
 
 * [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -16,6 +29,6 @@ Implements IoT devices to monitor and enforce quarantine measures, ensuring comp
 ## This Mitigation is enabled by the following technologies
 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 

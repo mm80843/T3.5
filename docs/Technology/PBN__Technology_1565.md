@@ -10,3 +10,16 @@
 
 * [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
 
+## Closest similar item
+
+* [vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
+* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2770.md)
+* [disease registries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3309.md)
+* [vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
+* [vaccine distribution to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_593.md)
+* [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
+* [vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
+* [data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1308.md)
+* [Data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2609.md)
+* [community-based vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1342.md)
+

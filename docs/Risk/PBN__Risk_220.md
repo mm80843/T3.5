@@ -6,3 +6,16 @@
 
 * [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
 
+## Closest similar item
+
+* [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2712.md)
+* [Spread of other pathogens in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_546.md)
+* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2715.md)
+* [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1574.md)
+* [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1334.md)
+* [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
+* [Spread of hospital acquired infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_866.md)
+* [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
+* [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3275.md)
+

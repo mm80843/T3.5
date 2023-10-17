@@ -2,52 +2,65 @@
 
 # __Safety risks for wastewater sampling personnel__
 
-## Name of the risk
-
-Risk of infection for sampling personnel
-
-## Description of the risk
-
-Potential exposure of sampling personnel to pathogens, including SARS-CoV-2, during wastewater sampling
-
-## Mitigations of this risk
-
-* [Adhere to established safety procedures including the use of personal protective equipment (PPE) and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
-* [wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
 
 ## People affected by this risk
 
 * [wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
 
+## Name of the risk
+
+Risk of infection for sampling personnel
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
+* [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Increased waste, risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
+* [Safety during sample manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2913.md)
+* [Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
+* [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1086.md)
+* [Ethical considerations for wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1054.md)
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3350.md)
+* [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1334.md)
+
+## Description of the risk
+
+Potential exposure of sampling personnel to pathogens, including SARS-CoV-2, during wastewater sampling
+
+## Technologies linked to the risk
+
+* [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Adhere to established safety procedures including the use of personal protective equipment (PPE) and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
+
+## Articles mentionning the risk
+
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+* [wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
 

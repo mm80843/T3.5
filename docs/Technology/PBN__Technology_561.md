@@ -10,3 +10,16 @@
 
 * [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
 
+## Closest similar item
+
+* [Digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
+* [communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_810.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2535.md)
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
+* [collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
+* [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
+* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
+

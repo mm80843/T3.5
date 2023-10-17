@@ -6,3 +6,16 @@
 
 * [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2058.md)
 
+## Closest similar item
+
+* [building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4072.md)
+* [social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
+* [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
+* [designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
+* [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+* [social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+* [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2743.md)
+* [placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1802.md)
+* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
+

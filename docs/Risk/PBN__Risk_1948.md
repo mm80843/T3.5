@@ -2,52 +2,65 @@
 
 # __Potential fecal-oral transmission__
 
-## Name of the risk
-
-Increased risk of disease transmission and complications.
-
-## Description of the risk
-
-The role of secretions in spreading the disease through fecal-oral transmission is not clarified yet.
-
-## Mitigations of this risk
-
-* [Further research and investigation needed to confirm the possibility of fecal-oral transmission route.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2559.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
-
-## Stakeholders who can mitigate this risk
-
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 
 ## People affected by this risk
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
+## Name of the risk
+
+Increased risk of disease transmission and complications.
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1556.md)
+* [Faecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1333.md)
+* [Transmission through saliva and urine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_802.md)
+* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
+* [Transmission of germs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2456.md)
+* [Transmission through anal secretions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_801.md)
+* [Transmission via water droplets from feces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3331.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
+
+## Description of the risk
+
+The role of secretions in spreading the disease through fecal-oral transmission is not clarified yet.
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Further research and investigation needed to confirm the possibility of fecal-oral transmission route.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2559.md)
+
+## Articles mentionning the risk
+
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 

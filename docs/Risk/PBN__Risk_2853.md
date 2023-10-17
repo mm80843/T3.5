@@ -6,3 +6,16 @@
 
 * [Just Transition Fund](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
 
+## Closest similar item
+
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2888.md)
+* [Declining funding flows](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
+* [Lack of recovery support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2877.md)
+* [Impact of economic recovery responses on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
+* [Development of a crisis plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2749.md)
+* [Impact of economic recovery on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_109.md)
+* [Limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2871.md)
+* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
+* [Time of recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
+

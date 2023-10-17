@@ -6,3 +6,16 @@
 
 * [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
 
+## Closest similar item
+
+* [event attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_844.md)
+* [social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_683.md)
+* [individuals attending events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2545.md)
+* [social gathering](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2483.md)
+* [event organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_862.md)
+* [community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)
+* [individual attending event](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2509.md)
+* [funeral attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_235.md)
+* [public venues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_942.md)
+* [individuals in crowded](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_663.md)
+

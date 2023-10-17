@@ -6,3 +6,16 @@
 
 * [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
 
+## Closest similar item
+
+* [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
+* [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2633.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
+* [Miscommunication of medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_319.md)
+* [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
+* [Lack of homogeneous data model for medical records](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_320.md)
+* [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1273.md)
+* [Lack of comprehensive data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
+* [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1459.md)
+

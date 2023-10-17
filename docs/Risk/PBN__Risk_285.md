@@ -6,3 +6,16 @@
 
 * [Designing cities with evenly distributed activity hubs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_360.md)
 
+## Closest similar item
+
+* [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
+* [Influenza incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_216.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
+* [Improving models predicting trends in influenza-like illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_680.md)
+* [Influenza transmission in animal models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_217.md)
+* [Disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_161.md)
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1685.md)
+* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+

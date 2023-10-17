@@ -6,3 +6,16 @@
 
 * [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
 
+## Closest similar item
+
+* [portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2704.md)
+* [use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_679.md)
+* [air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3407.md)
+* [air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
+* [air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4394.md)
+* [other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1112.md)
+* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2573.md)
+* [portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3252.md)
+* [air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4275.md)
+* [HVAC system cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2237.md)
+

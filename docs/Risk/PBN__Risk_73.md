@@ -6,3 +6,16 @@
 
 * [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_88.md)
 
+## Closest similar item
+
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
+* [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+* [Transmission in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3193.md)
+* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
+* [Transmission through person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
+* [Transmission via hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2758.md)
+* [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
+

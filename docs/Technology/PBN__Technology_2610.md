@@ -2,13 +2,26 @@
 
 # __Digital payment systems__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q986008](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q986008.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
+* [digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1947.md)
+* [virtual payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_129.md)
+* [contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
+* [implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_301.md)
+* [digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4168.md)
+* [mobile payment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3916.md)
+* [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
+* [mobile payment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4436.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Payment and Transaction Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_171.md)
+
+## This Technology is identified by the following QID
+
+* [Q986008](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q986008.md)
 
 ## This Technology belongs to this TechGroup
 

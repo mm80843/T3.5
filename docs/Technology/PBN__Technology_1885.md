@@ -10,3 +10,16 @@
 
 * [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
 
+## Closest similar item
+
+* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2806.md)
+* [vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2271.md)
+* [vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
+* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
+* [local vaccine manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3623.md)
+* [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+* [research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
+* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2247.md)
+

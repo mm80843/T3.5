@@ -6,3 +6,16 @@
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
 
+## Closest similar item
+
+* [Close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3140.md)
+* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+* [Close person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2785.md)
+* [Transmission in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3193.md)
+* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2751.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Airborne or close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3002.md)
+* [Increased risk from close contact, reduced social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2777.md)
+* [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
+

@@ -2,12 +2,25 @@
 
 # __Robots__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3200.md)
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3201.md)
+* [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3202.md)
+* [social robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3203.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3204.md)
+* [robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3205.md)
+* [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3206.md)
+* [industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3207.md)
+* [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3208.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3209.md)
+
 ## Property: has_MitigationSource
 
 * [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

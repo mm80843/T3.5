@@ -2,11 +2,24 @@
 
 # __Collaborative approach__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Global spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_379.md)
+
 ## Property: has_MitigationBenefit
 
 * [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_497.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Global spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_379.md)
+* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
+* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_11.md)
+* [Collaborative and proactive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1344.md)
+* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1106.md)
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1119.md)
+* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
+* [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2784.md)
+* [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
+* [Collaboration with universities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_713.md)
 

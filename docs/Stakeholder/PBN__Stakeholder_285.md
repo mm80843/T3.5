@@ -6,3 +6,16 @@
 
 * [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_685.md)
 
+## Closest similar item
+
+* [buyers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)
+* [buyer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1912.md)
+* [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
+* [sellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1218.md)
+* [homeowner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2092.md)
+* [real estate owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1943.md)
+* [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+* [Property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2556.md)
+* [real estate agents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_284.md)
+* [lenders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1328.md)
+

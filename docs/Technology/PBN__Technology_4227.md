@@ -6,3 +6,16 @@
 
 * [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
 
+## Closest similar item
+
+* [telecommunication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3803.md)
+* [telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
+* [telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4372.md)
+* [telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+* [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
+* [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
+* [telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
+* [telecommunication technology (laptops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3465.md)
+

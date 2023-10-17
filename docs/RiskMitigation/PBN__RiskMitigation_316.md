@@ -2,11 +2,24 @@
 
 # __Direct UVGI__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
+* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
+* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
+* [UVGI in AHUs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_311.md)
+* [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
+* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
+* [Upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_846.md)
+* [Use of 254 nm UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_447.md)
+* [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_191.md)
+* [Develop standardized tests and protocols for UVGI efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2327.md)
+* [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
 

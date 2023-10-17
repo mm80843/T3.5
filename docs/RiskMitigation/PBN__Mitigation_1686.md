@@ -2,13 +2,26 @@
 
 # __Regular communication and coordination among project teams__
 
-## Property: has_MitigationSource
-
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
+
+## Closest similar item
+
+* [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
+
+## Property: has_MitigationSource
+
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 
 ## Property: has_MitigationPrinciple
 

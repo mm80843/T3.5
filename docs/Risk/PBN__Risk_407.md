@@ -4,7 +4,20 @@
 
 ## Mitigations of this risk
 
-* [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_568.md)
 * [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)
+* [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_568.md)
 * [Limit number of passengers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_572.md)
+
+## Closest similar item
+
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+* [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
+* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
+* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
+* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+* [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
+* [Infection Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1767.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
 

@@ -2,52 +2,65 @@
 
 # __Risk of non-compliance with stay-at-home orders and social distancing measures__
 
-## Name of the risk
-
-Increased community transmission, overwhelmed healthcare system.
-
-## Description of the risk
-
-Some individuals may not comply with stay-at-home orders and social distancing measures, leading to increased community transmission of contagious diseases.
-
-## Mitigations of this risk
-
-* [Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2770.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
-* [law enforcement agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none specified](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
 
 ## People affected by this risk
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
+## Name of the risk
+
+Increased community transmission, overwhelmed healthcare system.
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Risk of non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2841.md)
+* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3200.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
+* [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
+* [Psychological sequelae associated with mass home confinement directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_592.md)
+* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
+* [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_694.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3408.md)
+* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
+* [Ineffective home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2704.md)
+
+## Description of the risk
+
+Some individuals may not comply with stay-at-home orders and social distancing measures, leading to increased community transmission of contagious diseases.
+
+## Technologies linked to the risk
+
+* [none specified](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2770.md)
+
+## Articles mentionning the risk
+
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [law enforcement agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
 

@@ -10,3 +10,16 @@
 
 * [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
 
+## Closest similar item
+
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2445.md)
+* [test kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3950.md)
+* [rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
+* [rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1364.md)
+* [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
+* [increased testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_592.md)
+* [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+

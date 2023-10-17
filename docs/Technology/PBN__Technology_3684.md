@@ -6,3 +6,16 @@
 
 * [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
 
+## Closest similar item
+
+* [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
+* [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
+* [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
+* [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2560.md)
+* [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
+* [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
+

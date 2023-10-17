@@ -2,18 +2,31 @@
 
 # __individuals from lower socio-economic backgrounds__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q116701699](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116701699.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [individual from lower socio-economic background](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2341.md)
+* [individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_375.md)
+* [populations of lower socioeconomic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_445.md)
+* [lower-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1515.md)
+* [individuals in socially disadvantaged areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1320.md)
+* [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
+* [socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1370.md)
+* [low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_21.md)
+* [Low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2117.md)
+* [socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2106.md)
 
 ## Risk affecting this stakeholder
 
 * [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q116701699](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116701699.md)
 

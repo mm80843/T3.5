@@ -7,3 +7,15 @@
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 * [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
 
+## Closest similar item
+
+* [government nan agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1398.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [the general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_955.md)
+* [individuals attending nan events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1525.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [private organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2091.md)
+* [national authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2407.md)
+* [National authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2424.md)
+* [nan iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1402.md)
+

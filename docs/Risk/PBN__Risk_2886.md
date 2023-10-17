@@ -6,3 +6,16 @@
 
 * [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1051.md)
 
+## Closest similar item
+
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
+* [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2881.md)
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
+* [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2883.md)
+* [Increased fear, disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2644.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
+* [Increased travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3004.md)
+* [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
+* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2885.md)
+* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2773.md)
+

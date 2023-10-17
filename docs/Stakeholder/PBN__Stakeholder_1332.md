@@ -2,19 +2,32 @@
 
 # __fund management companies__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1435728](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1435728.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
+## Closest similar item
+
+* [fund management company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2055.md)
+* [fund managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1330.md)
+* [fund manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2093.md)
+* [asset management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1331.md)
+* [asset management company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2083.md)
+* [money market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_509.md)
+* [equity funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_505.md)
+* [alternative investments funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_507.md)
+* [funding organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1196.md)
+* [capital market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_508.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1435728](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1435728.md)
 

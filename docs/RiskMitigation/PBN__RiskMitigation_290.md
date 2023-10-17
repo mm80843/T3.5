@@ -2,11 +2,24 @@
 
 # __Strengthening partnerships and collaboration__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on peace, justice, and institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_241.md)
+
 ## Property: has_MitigationBenefit
 
 * [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_294.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Impact on peace, justice, and institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_241.md)
+* [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1067.md)
+* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_11.md)
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1119.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_987.md)
+* [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
+* [Collaboration with universities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_713.md)
+* [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2784.md)
+* [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1025.md)
+* [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1946.md)
 

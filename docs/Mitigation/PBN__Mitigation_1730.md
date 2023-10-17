@@ -2,12 +2,25 @@
 
 # __Social Network__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1717.md)
+* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1958.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
+* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
+* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
+* [Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
+* [Social Cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
+* [Social Norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_391.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
+
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

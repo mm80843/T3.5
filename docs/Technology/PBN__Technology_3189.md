@@ -9,3 +9,16 @@
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
 * [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
 
+## Closest similar item
+
+* [wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3163.md)
+* [wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3012.md)
+* [wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
+* [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
+* [wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2839.md)
+* [subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_175.md)
+* [Subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2646.md)
+

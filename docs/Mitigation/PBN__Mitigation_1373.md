@@ -2,12 +2,25 @@
 
 # __Java language__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
+* [JSOUP library](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1374.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
+* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1720.md)
+* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_767.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1755.md)
+* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
+
 ## Property: has_MitigationSource
 
 * [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

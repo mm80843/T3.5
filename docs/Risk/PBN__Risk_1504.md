@@ -2,56 +2,69 @@
 
 # __Late adoption of NPHIs__
 
-## Name of the risk
-
-Higher transmission rates, increased number of cases, overwhelmed healthcare system
-
-## Description of the risk
-
-Late implementation of non-pharmaceutical public health interventions to control the spread of COVID-19
-
-## Mitigations of this risk
-
-* [Implement NPHIs in a timely manner, closely monitor the spread of the virus, prioritize early intervention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2029.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## Stakeholders who can mitigate this risk
-
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
-* [real-time data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
-
 ## People affected by this risk
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
+## Name of the risk
+
+Higher transmission rates, increased number of cases, overwhelmed healthcare system
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Adoption and Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
+* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
+* [Ineffective NPHIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1505.md)
+* [Psycho-social effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1790.md)
+* [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
+* [Positive health effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1792.md)
+* [Disruption of education, child development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2775.md)
+* [Delayed drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
+* [Lack of contact with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_735.md)
+* [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3338.md)
+
+## Description of the risk
+
+Late implementation of non-pharmaceutical public health interventions to control the spread of COVID-19
+
+## Technologies linked to the risk
+
+* [real-time data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
+* [early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Implement NPHIs in a timely manner, closely monitor the spread of the virus, prioritize early intervention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2029.md)
+
+## Articles mentionning the risk
+
+* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 

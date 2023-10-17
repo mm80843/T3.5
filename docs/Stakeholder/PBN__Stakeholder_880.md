@@ -5,9 +5,22 @@
 ## Risk affecting this stakeholder
 
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
-* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
 * [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
 * [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
-* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
 * [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2249.md)
+* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
+
+## Closest similar item
+
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+* [marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
+* [socially and economically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1377.md)
+* [socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_199.md)
+* [minority groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1590.md)
+* [Minority groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2223.md)
+* [community groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1316.md)
+* [social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_640.md)
+* [socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1370.md)
+* [socially disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2121.md)
 

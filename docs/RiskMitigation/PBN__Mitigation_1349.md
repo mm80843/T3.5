@@ -2,12 +2,25 @@
 
 # __Maximizing ventilation rate__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2048.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
+* [Higher ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1839.md)
+* [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1327.md)
+* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
+* [Increased Ventilation Rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1223.md)
+* [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1848.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+
 ## Property: has_MitigationSource
 
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

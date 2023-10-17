@@ -2,12 +2,25 @@
 
 # __Psychological Support__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_240.md)
+* [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1607.md)
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
+* [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
+* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
+* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1942.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
+* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
+
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

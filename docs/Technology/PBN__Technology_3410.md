@@ -10,3 +10,16 @@
 * [IoT-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1184.md)
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
 
+## Closest similar item
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4537.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
+* [wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3163.md)
+* [wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3012.md)
+* [wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
+* [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
+* [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
+

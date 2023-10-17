@@ -2,15 +2,15 @@
 
 # __Navigating Climate Change: Rethinking the Role of Buildings__
 
-## DOI of the article
+## Year of publication
 
-10.3390/su12229527
+2020
 
 ## Title of the article
 
 Navigating Climate Change: Rethinking the Role of Buildings
 
-## Year of publication
+## DOI of the article
 
-2020
+10.3390/su12229527
 

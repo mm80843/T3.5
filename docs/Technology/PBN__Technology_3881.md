@@ -6,3 +6,16 @@
 
 * [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
 
+## Closest similar item
+
+* [local food supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
+* [food supply technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
+* [food production and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_70.md)
+* [increased resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4448.md)
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
+* [online food platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [it resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4220.md)
+

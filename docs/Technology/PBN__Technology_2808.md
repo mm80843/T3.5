@@ -2,13 +2,26 @@
 
 # __HIV testing and counseling services__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q337517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q337517.md)
+* [hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
+* [counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
+* [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+* [clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
+* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2184.md)
+* [online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1128.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This Technology is identified by the following QID
+
+* [Q337517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q337517.md)
 
 ## This Technology belongs to this TechGroup
 

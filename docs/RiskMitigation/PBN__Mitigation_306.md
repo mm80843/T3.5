@@ -2,12 +2,25 @@
 
 # __Segregation of subsets__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Containment Space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2011.md)
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
+* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2135.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
+* [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2233.md)
+* [Neighborhood Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1915.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
+* [Separate Entrance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2012.md)
+* [Partial Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
+* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
+
 ## Property: has_MitigationSource
 
 * [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

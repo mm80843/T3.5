@@ -2,11 +2,24 @@
 
 # __Adoption of smart communities__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced community health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_900.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
+* [Foster a "smart community" mindset and enhance knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2645.md)
+* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_588.md)
+* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_751.md)
+* [Implement community-based strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_50.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
+* [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2861.md)
+* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1401.md)
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
+* [Adoption of emerging technologies (e.g., virtual reality)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_466.md)
 

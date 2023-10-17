@@ -2,58 +2,71 @@
 
 # __Inadequate collaboration and coordination__
 
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+* [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
 ## Name of the risk
 
 Response efforts are fragmented, leading to duplication of efforts and inefficient use of resources
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Closest similar item
+
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2908.md)
+* [Lack of coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3438.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
+* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2609.md)
+* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
+* [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2799.md)
+* [Lack of collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1435.md)
+* [Lack of coordination and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_815.md)
+* [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2022.md)
 
 ## Description of the risk
 
 Lack of coordination and collaboration among different stakeholders and sectors hinders an effective and efficient response to public health crises
 
-## Mitigations of this risk
+## Technologies linked to the risk
 
-* [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1857.md)
+* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
 
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskType
+## Mitigations of this risk
 
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+* [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1857.md)
+
+## Articles mentionning the risk
+
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
 * [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_878.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
-* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
-* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
-* [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Articles mentionning the risk
-
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

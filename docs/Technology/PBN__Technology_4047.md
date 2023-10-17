@@ -6,3 +6,16 @@
 
 * [Same Building Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1750.md)
 
+## Closest similar item
+
+* [number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
+* [building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4056.md)
+* [building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3395.md)
+* [building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
+* [ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1781.md)
+* [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
+* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
+* [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
+

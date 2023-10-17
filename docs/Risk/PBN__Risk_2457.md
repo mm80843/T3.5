@@ -6,3 +6,16 @@
 
 * [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_139.md)
 
+## Closest similar item
+
+* [Transmission via hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2758.md)
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
+* [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+* [Transmission via close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_73.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
+

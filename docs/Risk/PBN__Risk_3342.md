@@ -6,3 +6,16 @@
 
 * [Conduct interdisciplinary research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
 
+## Closest similar item
+
+* [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
+* [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
+* [Wildlife conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_151.md)
+* [Raising public support for nature conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_110.md)
+* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
+* [Declines in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_772.md)
+* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
+* [Loss of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3265.md)
+* [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
+

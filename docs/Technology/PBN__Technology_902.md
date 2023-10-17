@@ -10,3 +10,16 @@
 
 * [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
 
+## Closest similar item
+
+* [Multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
+* [multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
+* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
+* [multilingual resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
+* [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
+* [online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
+* [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
+

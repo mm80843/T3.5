@@ -2,52 +2,65 @@
 
 # __Fragmented WBE data collection and reporting system__
 
-## Name of the risk
-
-Inconsistent and unreliable data, inefficient use of resources
-
-## Description of the risk
-
-Lack of standardized testing methods and inter-laboratory collaboration
-
-## Mitigations of this risk
-
-* [Promote standardized testing protocols, encourage open-source model for data collection and reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1800.md)
-
-## Property: has_RiskHealth
-
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Inconsistent and unreliable data, inefficient use of resources
+
+## Property: has_RiskISO_Purpose
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_8.md)
+
+## Closest similar item
+
+* [Fragmented data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2440.md)
+* [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
+* [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
+* [Limited data collection in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3052.md)
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
+* [Limited data access and disjointed insights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2445.md)
+* [Data collection and analysis limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_260.md)
+* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
+* [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
+
+## Description of the risk
+
+Lack of standardized testing methods and inter-laboratory collaboration
 
 ## Technologies linked to the risk
 
 * [standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_466.md)
 * [open-source platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_8.md)
+* [Promote standardized testing protocols, encourage open-source model for data collection and reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1800.md)
+
+## Articles mentionning the risk
+
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Culture and collective identity](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_13.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 

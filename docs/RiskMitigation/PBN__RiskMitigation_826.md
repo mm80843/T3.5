@@ -2,11 +2,24 @@
 
 # __Reduction in transmission as measured by changes in reproduction number__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of interventions on transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_589.md)
+
 ## Property: has_MitigationBenefit
 
 * [Control of the epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_830.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Impact of interventions on transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_589.md)
+* [Monitor transmission rates, reimplement interventions if necessary](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2994.md)
+* [Transmission control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_955.md)
+* [Restrict population flow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_125.md)
+* [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_186.md)
+* [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)
+* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2294.md)
+* [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2303.md)
+* [Implement strategies to control transmission, such as social distancing and isolation measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2962.md)
+* [Specific measures for virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_230.md)
+* [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1821.md)
 

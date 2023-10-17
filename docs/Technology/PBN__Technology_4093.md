@@ -6,3 +6,16 @@
 
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
 
+## Closest similar item
+
+* [wind catchers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2958.md)
+* [wind turbines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
+* [airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1118.md)
+* [air exhaustion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4252.md)
+* [adequate airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
+* [window fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [vents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2985.md)
+* [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [improved airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
+

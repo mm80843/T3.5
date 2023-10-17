@@ -2,11 +2,24 @@
 
 # __Strengthening health systems__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Health system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_233.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Health system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_233.md)
+* [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_725.md)
+* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_966.md)
+* [Strengthen health care system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1032.md)
+* [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_16.md)
+* [Strengthen healthcare systems, promote public health measures, increase access to testing and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
+* [Strengthen primary healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1072.md)
+* [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2720.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
+* [Provide adequate healthcare services and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1137.md)
 

@@ -2,20 +2,20 @@
 
 # __Prevention of cross-contamination__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Enhanced infection control and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1419.md)
-
-## Articles mentionning this Benefit
-
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
-
 ## Name of the Benefit
 
 Reduced risk of spreading the virus from contaminated PPE to other surfaces or individuals
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Enhanced infection control and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1419.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Articles mentionning this Benefit
+
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
 

@@ -2,13 +2,26 @@
 
 # __Occupancy sensing setback thermostats__
 
-## Property: has_MitigationSource
-
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Excessive cooling/heating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2430.md)
+
+## Closest similar item
+
+* [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
+* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
+* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_833.md)
+* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
+* [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
+
+## Property: has_MitigationSource
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 
+## Closest similar item
+
+* [stockpiling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
+* [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
+* [electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
+* [inventory management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3816.md)
+* [market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
+* [supply chain visibility technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1131.md)
+* [targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
+* [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [inventory management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1134.md)
+

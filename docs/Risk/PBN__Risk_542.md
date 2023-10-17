@@ -6,3 +6,16 @@
 
 * [Mitigation Function](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_771.md)
 
+## Closest similar item
+
+* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1788.md)
+* [Lack of trust and transparency in mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1031.md)
+* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2782.md)
+* [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2320.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3408.md)
+* [Lack of evidence-based policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3261.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
+* [Lack of timely and effective government interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_584.md)
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
+* [Ineffective public management models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1195.md)
+

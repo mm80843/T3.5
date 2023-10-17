@@ -2,12 +2,25 @@
 
 # __AI-based triage systems__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [AI algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3235.md)
+* [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3236.md)
+* [Implement AI-based triage systems and online medical chat bots for early symptom recognition and patient education.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3237.md)
+* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
+* [AI for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3238.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
+* [Adapt and implement AI-driven tools in LMIC healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3239.md)
+* [Expanding healthcare facilities, increasing medical staff, and implementing triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3240.md)
+* [Artificial intelligence/machine learning (AI/ML)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3241.md)
+* [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3242.md)
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

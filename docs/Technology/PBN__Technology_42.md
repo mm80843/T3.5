@@ -10,3 +10,16 @@
 
 * [Limited access to support services for victims of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1037.md)
 
+## Closest similar item
+
+* [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2649.md)
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
+* [digital mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1634.md)
+* [online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1128.md)
+* [Online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
+* [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
+* [online mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
+

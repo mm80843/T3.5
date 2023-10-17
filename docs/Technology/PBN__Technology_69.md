@@ -11,3 +11,16 @@
 * [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
 * [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
 
+## Closest similar item
+
+* [precision agriculture technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1246.md)
+* [urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
+* [sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
+* [food supply technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
+* [sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1507.md)
+* [organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
+* [climate-smart agriculture methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3617.md)
+* [biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2895.md)
+

@@ -6,3 +6,16 @@
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 
+## Closest similar item
+
+* [Underreporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2180.md)
+* [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
+* [High number of undetected cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2977.md)
+* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
+* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
+* [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
+* [Early Detection of Cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3283.md)
+* [Challenges of new](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_902.md)
+* [Legal Issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1580.md)
+* [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2167.md)
+

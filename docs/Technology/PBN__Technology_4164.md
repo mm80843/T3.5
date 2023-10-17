@@ -6,3 +6,16 @@
 
 * [Integrated Command and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
 
+## Closest similar item
+
+* [metal cable](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
+* [optical fiber cable](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1776.md)
+* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
+* [hardware](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3931.md)
+* [electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
+* [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
+

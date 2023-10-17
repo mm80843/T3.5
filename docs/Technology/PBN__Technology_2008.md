@@ -10,3 +10,16 @@
 
 * [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
 
+## Closest similar item
+
+* [communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+* [communication methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_465.md)
+* [accurate and calm communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3516.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4508.md)
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
+

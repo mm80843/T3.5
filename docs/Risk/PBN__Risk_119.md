@@ -6,3 +6,16 @@
 
 * [Scaling up provision of water and safe sanitation in settlements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_144.md)
 
+## Closest similar item
+
+* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
+* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
+* [Inadequate water storage, poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
+* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
+* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3196.md)
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Lack of access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_238.md)
+

@@ -2,14 +2,27 @@
 
 # __Air Quality Improvement__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
+
+## Closest similar item
+
+* [Improvement in Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_919.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
+* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
+* [Monitoring Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_911.md)
+* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_171.md)
+* [Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1297.md)
+* [Outdoor Air Quality Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
+* [Improved Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1645.md)
+
 ## Property: has_MitigationSource
 
 * [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
 * [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
 
 ## Property: has_MitigationPrinciple
 

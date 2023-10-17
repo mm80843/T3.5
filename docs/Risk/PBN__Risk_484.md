@@ -6,3 +6,16 @@
 
 * [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_681.md)
 
+## Closest similar item
+
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
+* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
+* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
+* [Increase in workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_166.md)
+* [Increased screen time, potential for addiction, social isolation, cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3086.md)
+* [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
+* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
+* [Increased energy demands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3396.md)
+

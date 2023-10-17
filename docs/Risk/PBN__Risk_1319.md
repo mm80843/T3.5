@@ -2,53 +2,66 @@
 
 # __Air recirculation__
 
-## Name of the risk
-
-Increased risk of transmission due to contaminated air.
-
-## Description of the risk
-
-Recirculation of air can distribute the virus within a workspace.
-
-## Mitigations of this risk
-
-* [Disable recirculation systems or maximize outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1809.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-* [facilities management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_658.md)
+* [workers in workplaces with air recirculation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_837.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased risk of transmission due to contaminated air.
+
+## Property: has_RiskISO_Purpose
+
+* [Preservaion and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_16.md)
+
+## Closest similar item
+
+* [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
+* [Dilution of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1190.md)
+* [Increased air change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
+* [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
+* [Recycling of contaminated air within the HVAC system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3069.md)
+* [AQ2: Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_185.md)
+* [AQ1: Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_184.md)
+* [Improving air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2549.md)
+* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
+* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
+
+## Description of the risk
+
+Recirculation of air can distribute the virus within a workspace.
 
 ## Technologies linked to the risk
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [workers in workplaces with air recirculation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_837.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Preservaion and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_16.md)
+* [Disable recirculation systems or maximize outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1809.md)
+
+## Articles mentionning the risk
+
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [facilities management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_658.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 

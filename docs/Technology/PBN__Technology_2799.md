@@ -2,13 +2,26 @@
 
 # __WBE sampling and analysis__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q70472092](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70472092.md)
+* [WBE technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2064.md)
+* [wbe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3070.md)
+* [unbiased sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3521.md)
+* [statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
+* [control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
+* [improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2030.md)
+* [Improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2297.md)
+* [extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_240.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_11.md)
+
+## This Technology is identified by the following QID
+
+* [Q70472092](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70472092.md)
 
 ## This Technology belongs to this TechGroup
 

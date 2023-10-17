@@ -11,3 +11,16 @@
 * [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
 * [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
 
+## Closest similar item
+
+* [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+* [AI support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2068.md)
+* [ai-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_618.md)
+* [ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2070.md)
+* [ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1850.md)
+* [AI triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2051.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [AI](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
+* [ai-driven triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1245.md)
+

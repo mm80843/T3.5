@@ -2,12 +2,25 @@
 
 # __GoK Direct app__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Mobile Apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1731.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+* [Aarogya Setu app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
+* [TraceTogether app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1699.md)
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
+* [App-based trackers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
+* [COVIDsafe app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1702.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1236.md)
+
 ## Property: has_MitigationSource
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

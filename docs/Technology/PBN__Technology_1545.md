@@ -10,3 +10,16 @@
 
 * [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
 
+## Closest similar item
+
+* [IoT devices for distance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2841.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+* [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
+* [internet of things (iot) devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1135.md)
+* [Internet of Things (IoT) devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2845.md)
+* [purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
+* [purpose-built IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2859.md)
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+* [iot devices for monitoring and controlling occupancy and airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1520.md)
+

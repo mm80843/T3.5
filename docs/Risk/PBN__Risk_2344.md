@@ -2,34 +2,39 @@
 
 # __Socioeconomic inequality__
 
-## Name of the risk
-
-Limited access to digital health benefits, potential for exacerbating healthcare disparities.
-
-## Description of the risk
-
-Digital health initiatives can amplify disparities in healthcare access due to unequal access to internet and mobile phones, particularly in low-income and remote regions.
-
-## Mitigations of this risk
-
-* [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free Wi-Fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3046.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
+* [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
+* [remote regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1567.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Limited access to digital health benefits, potential for exacerbating healthcare disparities.
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Closest similar item
+
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+* [Economic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2495.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_487.md)
+* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+* [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2905.md)
+* [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1935.md)
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
+* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3317.md)
+* [Income inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3195.md)
+* [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
+
+## Description of the risk
+
+Digital health initiatives can amplify disparities in healthcare access due to unequal access to internet and mobile phones, particularly in low-income and remote regions.
 
 ## Technologies linked to the risk
 
@@ -38,20 +43,28 @@ Digital health initiatives can amplify disparities in healthcare access due to u
 * [loaner devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
 * [free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1940.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
-* [remote regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1567.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free Wi-Fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3046.md)
+
+## Articles mentionning the risk
+
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
 

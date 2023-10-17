@@ -10,3 +10,16 @@
 
 * [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
 
+## Closest similar item
+
+* [scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3814.md)
+* [Community events](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2747.md)
+* [community events](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_171.md)
+* [urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
+* [planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2988.md)
+* [parks and recreation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
+* [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [contingency planning frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
+* [participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4213.md)
+* [community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2994.md)
+

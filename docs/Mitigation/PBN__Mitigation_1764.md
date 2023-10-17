@@ -2,12 +2,25 @@
 
 # __Consideration of Noise Levels__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Consideration of Noise Levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1764.md)
+* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
+* [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2145.md)
+* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2237.md)
+* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
+* [Biological and geophysical sounds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_643.md)
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
+* [Threshold Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
+* [Natural sound maskers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1100.md)
+* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_120.md)
+
 ## Property: has_MitigationSource
 
 * [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

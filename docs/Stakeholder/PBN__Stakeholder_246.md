@@ -2,6 +2,19 @@
 
 # __healthcare sector__
 
+## Closest similar item
+
+* [health sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1071.md)
+* [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
+* [healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
+* [public health sector/government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_397.md)
+* [workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1711.md)
+* [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1713.md)
+* [healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_543.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_207.md)
+* [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved response to public health challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_581.md)

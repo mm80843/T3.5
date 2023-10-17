@@ -10,3 +10,16 @@
 
 * [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 
+## Closest similar item
+
+* [smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
+* [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
+* [smart lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_722.md)
+* [Smart lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2756.md)
+* [smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1254.md)
+* [Smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2847.md)
+* [smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1313.md)
+* [Smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
+* [smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
+* [smart infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3709.md)
+

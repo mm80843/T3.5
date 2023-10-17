@@ -10,3 +10,16 @@
 
 * [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 
+## Closest similar item
+
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2138.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
+* [social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
+* [social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
+* [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+

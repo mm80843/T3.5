@@ -2,53 +2,66 @@
 
 # __Comorbid workers working from home (WFH)__
 
-## Name of the risk
-
-Protecting workers with comorbidities from severe complications or death due to COVID-19
-
-## Description of the risk
-
-Workers with comorbidities are required to work from home to reduce their risk of COVID-19 exposure
-
-## Mitigations of this risk
-
-* [Determine which workers with comorbidities can work from home, provide necessary accommodations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2795.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1444.md)
-* [occupational health department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1445.md)
+* [workers with comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1446.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Protecting workers with comorbidities from severe complications or death due to COVID-19
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Workers’ vulnerability to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
+* [COVID-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
+* [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_477.md)
+* [Spread of COVID-19 in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_434.md)
+* [Worker infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3212.md)
+* [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1561.md)
+* [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
+* [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
+* [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [COVID-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
+
+## Description of the risk
+
+Workers with comorbidities are required to work from home to reduce their risk of COVID-19 exposure
 
 ## Technologies linked to the risk
 
 * [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
 * [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [workers with comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1446.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Determine which workers with comorbidities can work from home, provide necessary accommodations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2795.md)
+
+## Articles mentionning the risk
+
+* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1444.md)
+* [occupational health department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1445.md)
 

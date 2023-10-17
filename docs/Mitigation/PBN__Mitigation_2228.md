@@ -2,13 +2,26 @@
 
 # __Greeneries or gardens__
 
-## Property: has_MitigationSource
-
-* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
+
+## Closest similar item
+
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2125.md)
+* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_473.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1172.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
+* [More greenery along streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1170.md)
+* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
+* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
+* [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Increase street greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2195.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+
+## Property: has_MitigationSource
+
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 
 ## Property: has_MitigationPrinciple
 

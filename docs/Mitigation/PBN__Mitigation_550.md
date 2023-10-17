@@ -2,12 +2,25 @@
 
 # __Opening windows for increased ventilation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1152.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1134.md)
+* [Increased Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
+* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1275.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

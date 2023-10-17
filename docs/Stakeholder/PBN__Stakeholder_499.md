@@ -8,6 +8,19 @@
 
 ## Risk affecting this stakeholder
 
-* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
+* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
+
+## Closest similar item
+
+* [public transport passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1302.md)
+* [transportation workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1362.md)
+* [Transportation workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1653.md)
+* [transportation staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1448.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
+* [airlines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_562.md)
+* [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
+* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
+* [public transportation users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1584.md)
 

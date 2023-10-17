@@ -2,19 +2,32 @@
 
 # __wastewater treatment plant workers__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q15242449](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15242449.md)
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## Closest similar item
+
+* [wastewater treatment plant worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2686.md)
+* [wastewater treatment workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
+* [wastewater workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1086.md)
+* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_575.md)
+* [wastewater worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2680.md)
+* [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
+* [wastewater treatment plant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2667.md)
+* [wastewater treatment plant operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2705.md)
+* [workers handling human waste and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_174.md)
+* [wastewater treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_689.md)
 
 ## Risk affecting this stakeholder
 
 * [Spread of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q15242449](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15242449.md)
 

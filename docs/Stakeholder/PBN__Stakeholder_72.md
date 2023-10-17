@@ -2,6 +2,41 @@
 
 # __tourists__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## Closest similar item
+
+* [tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
+* [tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1079.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
+* [tourism providers and destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_195.md)
+* [tourism providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
+* [tourism operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2009.md)
+* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
+* [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+* [tourism industry,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_386.md)
+
+## Risk affecting this stakeholder
+
+* [COVID-19 risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1206.md)
+* [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
+* [General anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
+* [COVID-19 travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
+* [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
+* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
+* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
+* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
+* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
+* [Safety as an important factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_108.md)
@@ -15,26 +50,4 @@
 * [Reduction of perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_407.md)
 * [Reduction of travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_410.md)
 * [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1145.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Risk affecting this stakeholder
-
-* [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
-* [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
-* [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
-* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
-* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
-* [COVID-19 risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1206.md)
-* [COVID-19 travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
-* [General anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
-* [Safety as an important factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
-* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
-* [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
 

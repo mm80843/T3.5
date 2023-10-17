@@ -10,3 +10,16 @@
 
 * [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
 
+## Closest similar item
+
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [economic policies and planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4083.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [Inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2403.md)
+* [inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1477.md)
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+

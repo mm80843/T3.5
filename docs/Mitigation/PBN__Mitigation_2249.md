@@ -2,12 +2,25 @@
 
 # __Protection of healthcare__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
+* [Protective Facilities for Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1866.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
+* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
+* [Personal Protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_926.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
+* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
+* [Healthcare Access and Early Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
+* [Universal healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
+
 ## Property: has_MitigationSource
 
 * [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

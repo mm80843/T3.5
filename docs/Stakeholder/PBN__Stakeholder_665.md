@@ -2,13 +2,26 @@
 
 # __gyms__
 
-## Risk affecting this stakeholder
-
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Closest similar item
+
+* [free access to gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3008.md)
+* [fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3009.md)
+* [exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3010.md)
+* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3011.md)
+* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3012.md)
+* [online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3013.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3014.md)
+* [training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3015.md)
+* [online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3016.md)
+* [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3017.md)
+
+## Risk affecting this stakeholder
+
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

@@ -2,19 +2,19 @@
 
 # __Flexible design for versatile use of spaces__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Improved comfort and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_373.md)
-
-## Articles mentionning this Benefit
-
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-
 ## Name of the Benefit
 
 Adaptability to changing needs, privacy, and comfort for each family member
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved comfort and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_373.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Articles mentionning this Benefit
+
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

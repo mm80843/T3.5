@@ -2,11 +2,24 @@
 
 # __Increased chlorination__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1001.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+* [Continuous monitoring and adjustment of chlorine dosage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2518.md)
+* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
+* [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2865.md)
+* [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_232.md)
+* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_804.md)
+* [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
+* [Increase frequency of cleaning, provide hand sanitizers, promote personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
+* [Avoid air recirculation, increase outdoor air flow rate, use filters or UV disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2350.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1384.md)
+* [Increased tree canopy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_859.md)
 

@@ -2,13 +2,26 @@
 
 # __Strengthening ongoing prevention efforts__
 
-## Property: has_MitigationSource
-
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+
+## Closest similar item
+
+* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+* [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1473.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
+* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
+* [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
+* [Behavioral Interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
+* [Strengthen Social Safety Nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1836.md)
+
+## Property: has_MitigationSource
+
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 
 ## Property: has_MitigationPrinciple
 

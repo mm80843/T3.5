@@ -2,13 +2,26 @@
 
 # __Herd Immunity__
 
-## Property: has_MitigationSource
-
-* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Risk of collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2418.md)
+
+## Closest similar item
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+* [Vaccination Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1229.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_599.md)
+* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1502.md)
+* [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [Vaccine production and distribution improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1075.md)
+* [Preventive Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
+
+## Property: has_MitigationSource
+
+* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
 
 ## Property: has_MitigationPrinciple
 

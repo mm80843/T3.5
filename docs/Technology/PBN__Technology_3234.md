@@ -6,3 +6,16 @@
 
 * [Dancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_445.md)
 
+## Closest similar item
+
+* [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
+* [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
+* [podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3360.md)
+* [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
+* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
+* [media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
+

@@ -6,3 +6,16 @@
 
 * [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_588.md)
 
+## Closest similar item
+
+* [Epidemic control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_585.md)
+* [Early detection and mitigation of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_882.md)
+* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1395.md)
+* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2768.md)
+* [Global spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_379.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
+* [Delay in reporting infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_846.md)
+* [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
+

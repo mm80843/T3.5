@@ -2,12 +2,25 @@
 
 # __Real-time tracking map__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [GPS-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1697.md)
+* [GIS tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
+* [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
+* [Real-time Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Wi-Fi-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1696.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
+* [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_0.md)
+
 ## Property: has_MitigationSource
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,12 +2,25 @@
 
 # __Enhance accessibility__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2208.md)
+* [Barrier-Free Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
+* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1206.md)
+* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1998.md)
+* [Perceived clarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2270.md)
+* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
+* [Reducing Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
+
 ## Property: has_MitigationSource
 
 * [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

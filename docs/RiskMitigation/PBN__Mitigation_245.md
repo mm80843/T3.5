@@ -2,6 +2,35 @@
 
 # __Vaccination__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Vaccine availability, Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
+* [COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2528.md)
+* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
+* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
+* [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3192.md)
+* [Lack of immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2771.md)
+* [Susceptibility to infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2717.md)
+* [Decreased susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2789.md)
+* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [Risk of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3172.md)
+
+## Closest similar item
+
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+* [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
+* [Vaccination Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1229.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_599.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [Preventive Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
+* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
+* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1556.md)
+* [Universal vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2402.md)
+
 ## Property: has_MitigationSource
 
 * [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
@@ -20,22 +49,6 @@
 * [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
-* [COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2528.md)
-* [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-* [Susceptibility to infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2717.md)
-* [Lack of immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2771.md)
-* [Decreased susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2789.md)
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-* [Vaccine availability, Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
-* [Risk of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3172.md)
-* [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3192.md)
-* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -2,13 +2,26 @@
 
 # __Physical Barriers (e.g., Plexiglass)__
 
-## Property: has_MitigationSource
-
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+
+## Closest similar item
+
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
+* [Physical Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+* [Reducing Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
+* [Barrier Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
+* [Barrier-Free Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2394.md)
+* [3D-Printed Isolation Wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2476.md)
+* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2380.md)
+* [Prevention of Disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2183.md)
+
+## Property: has_MitigationSource
+
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 
 ## Property: has_MitigationPrinciple
 

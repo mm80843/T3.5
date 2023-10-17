@@ -6,3 +6,16 @@
 
 * [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
 
+## Closest similar item
+
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1987.md)
+* [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
+* [pharmaceutical company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1923.md)
+* [Pharmaceutical company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1986.md)
+* [medical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_420.md)
+* [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
+* [industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_766.md)
+* [pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1486.md)
+* [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
+* [drug developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1200.md)
+

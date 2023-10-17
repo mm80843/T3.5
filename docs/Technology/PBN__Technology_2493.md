@@ -2,14 +2,27 @@
 
 # __Zoning regulations__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q702232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q702232.md)
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2493.md)
+* [zoning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4037.md)
+* [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
+* [urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2343.md)
+* [land use regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4498.md)
+* [smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_752.md)
+* [Smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2357.md)
+* [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
+* [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
 * [Urban Planning and Zoning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_125.md)
+
+## This Technology is identified by the following QID
+
+* [Q702232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q702232.md)
 
 ## This Technology belongs to this TechGroup
 

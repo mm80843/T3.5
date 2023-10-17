@@ -6,3 +6,16 @@
 
 * [Hygiene and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
 
+## Closest similar item
+
+* [hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
+* [increased provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_292.md)
+* [regular provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2585.md)
+* [hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3569.md)
+* [handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_667.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2258.md)
+* [handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
+* [hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_247.md)
+* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
+* [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
+

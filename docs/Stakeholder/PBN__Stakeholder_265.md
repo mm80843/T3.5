@@ -6,3 +6,16 @@
 
 * [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
 
+## Closest similar item
+
+* [unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_811.md)
+* [unemployed workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_260.md)
+* [low-income individuals)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_470.md)
+* [homeless people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_444.md)
+* [homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
+* [job-seekers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1368.md)
+* [Job-seekers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1684.md)
+* [office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
+* [Office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1687.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+

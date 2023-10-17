@@ -2,14 +2,6 @@
 
 # __5G__
 
-## Property: has_BP_EnablerTitle
-
-enabler_001
-
-## Property: has_TechEquivalent
-
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
-
 ## Thees blueprints use this enabler
 
 * [Smart Locker System](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
@@ -24,4 +16,25 @@ enabler_001
 * [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
+## Closest similar item
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+* [5g)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_35.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
+* [fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+* [cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_39.md)
+* [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_40.md)
+* [massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
+* [wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+
+## Property: has_TechEquivalent
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
+
+## Property: has_BP_EnablerTitle
+
+enabler_001
 

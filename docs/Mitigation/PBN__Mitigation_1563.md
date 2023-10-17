@@ -2,13 +2,26 @@
 
 # __Practical PPE rules__
 
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3140.md)
+
+## Closest similar item
+
+* [PPE usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2036.md)
+* [PPE distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1093.md)
+* [PPE usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
+* [Smart PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
+* [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
+* [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
+* [Personal protective equipment (PPE) use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_955.md)
+* [Providing additional personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
+* [PPP restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
+
+## Property: has_MitigationSource
+
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 
 ## Property: has_MitigationPrinciple
 

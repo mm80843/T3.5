@@ -2,15 +2,28 @@
 
 # __urban population living in crowded area and high-density neighborhood__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2069949](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2069949.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [urban populations living in crowded areas and high-density neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1583.md)
+* [urban population in highly urbanized area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2461.md)
+* [residents of densely populated cities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1160.md)
+* [urban populations in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1001.md)
+* [residents of densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_960.md)
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+* [communities living in crowded areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_697.md)
+* [high-density urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1890.md)
+* [general population in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_571.md)
+* [high-density urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1271.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2069949](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2069949.md)
 

@@ -2,14 +2,27 @@
 
 # __business associations__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Closest similar item
+
+* [industry associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_631.md)
+* [business organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_598.md)
+* [industry association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2056.md)
+* [businesses and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_262.md)
+* [professional associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1004.md)
+* [Professional associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1804.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [Professional association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1818.md)
+* [community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_639.md)
+* [industry organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1437.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 * [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2231.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

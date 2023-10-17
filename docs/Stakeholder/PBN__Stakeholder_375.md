@@ -6,3 +6,16 @@
 
 * [Improved availability and access to wearables](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_957.md)
 
+## Closest similar item
+
+* [socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1370.md)
+* [individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_745.md)
+* [socially and economically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1377.md)
+* [individuals in socially disadvantaged areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1320.md)
+* [socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2106.md)
+* [socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_199.md)
+* [socially disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2121.md)
+* [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
+* [populations of lower socioeconomic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_445.md)
+* [disadvantaged communities and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_415.md)
+

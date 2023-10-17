@@ -6,3 +6,16 @@
 
 * [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
 
+## Closest similar item
+
+* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
+* [Migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2346.md)
+* [Migrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2383.md)
+* [temporary migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1516.md)
+* [global migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_950.md)
+* [temporary migrants)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_258.md)
+* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+* [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
+* [local populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1156.md)
+* [immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2332.md)
+

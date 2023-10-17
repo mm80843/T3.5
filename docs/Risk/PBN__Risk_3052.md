@@ -6,3 +6,16 @@
 
 * [Phone-based AI software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
 
+## Closest similar item
+
+* [Lack of data in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_463.md)
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
+* [Limited resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_464.md)
+* [Data collection and analysis limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_260.md)
+* [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
+* [Lack of resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3047.md)
+* [Lack of access to tests in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3050.md)
+* [Lack of evidence in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3046.md)
+* [Lack of AI implementation in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1799.md)
+

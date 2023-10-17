@@ -6,3 +6,16 @@
 
 * [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
 
+## Closest similar item
+
+* [developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)
+* [national economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)
+* [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
+* [countries participating in gvcs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1245.md)
+* [country participating in gvc](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2426.md)
+* [european union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1019.md)
+* [national authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2413.md)
+* [National authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2430.md)
+* [country heavily reliant on specific supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2415.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+

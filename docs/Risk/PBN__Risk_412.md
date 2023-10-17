@@ -6,3 +6,16 @@
 
 * [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_573.md)
 
+## Closest similar item
+
+* [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3315.md)
+* [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Negative economic effects on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_785.md)
+* [Financial vulnerability of SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
+* [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2807.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
+* [Impact on financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_502.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
+

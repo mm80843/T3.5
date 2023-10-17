@@ -6,3 +6,16 @@
 
 * [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1621.md)
 
+## Closest similar item
+
+* [rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1136.md)
+* [RFID technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2846.md)
+* [iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2941.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+* [identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
+* [Identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+

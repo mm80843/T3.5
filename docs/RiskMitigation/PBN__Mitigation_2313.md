@@ -2,12 +2,25 @@
 
 # __Sodium hypochlorite__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3279.md)
+* [sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3280.md)
+* [chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3281.md)
+* [sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3282.md)
+* [liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3283.md)
+* [chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
+* [chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3285.md)
+* [chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3286.md)
+* [sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3287.md)
+* [chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3288.md)
+
 ## Property: has_MitigationSource
 
 * [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

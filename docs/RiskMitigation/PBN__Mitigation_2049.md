@@ -2,13 +2,26 @@
 
 # __Decontamination__
 
-## Property: has_MitigationSource
-
-* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
+
+## Closest similar item
+
+* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1219.md)
+* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
+* [Removal of visible contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
+* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1560.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
+* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1328.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_558.md)
+
+## Property: has_MitigationSource
+
+* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
 
 ## Property: has_MitigationPrinciple
 

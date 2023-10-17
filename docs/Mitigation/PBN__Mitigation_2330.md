@@ -2,13 +2,26 @@
 
 # __Preprocessing disinfection of sewage__
 
-## Property: has_MitigationSource
-
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+
+## Closest similar item
+
+* [Strengthened disinfection routines in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2451.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2136.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
+* [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_558.md)
+* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1560.md)
+* [Disinfection and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1912.md)
+* [Enhanced Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1009.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
+
+## Property: has_MitigationSource
+
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
 
+## Closest similar item
+
+* [Research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2797.md)
+* [identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1956.md)
+* [suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1865.md)
+* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
+* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
+* [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
+* [tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1341.md)
+* [antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
+* [psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
+

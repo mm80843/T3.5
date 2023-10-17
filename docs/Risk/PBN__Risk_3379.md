@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2198.md)
 * [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2198.md)
+
+## Closest similar item
+
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
+* [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2676.md)
+* [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
+* [Data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
+* [Potential data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2534.md)
+* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
+* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3071.md)
+* [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
 

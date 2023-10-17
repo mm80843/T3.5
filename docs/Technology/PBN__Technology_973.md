@@ -2,6 +2,19 @@
 
 # __green corridors__
 
+## Closest similar item
+
+* [green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
+* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+
 ## Risks linked to this technology
 
 * [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)

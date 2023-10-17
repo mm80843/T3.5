@@ -6,3 +6,16 @@
 
 * [Strengthened social protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1073.md)
 
+## Closest similar item
+
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+* [social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+* [government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_319.md)
+* [support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3422.md)
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
+* [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
+* [support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
+* [funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+

@@ -6,3 +6,16 @@
 
 * [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
 
+## Closest similar item
+
+* [urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2389.md)
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+* [urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
+* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2731.md)
+* [urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2721.md)
+

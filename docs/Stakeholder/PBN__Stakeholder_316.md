@@ -2,6 +2,19 @@
 
 # __ec__
 
+## Closest similar item
+
+* [eu](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_318.md)
+* [european](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_361.md)
+* [european commission](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1465.md)
+* [european union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1019.md)
+* [iaq experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1360.md)
+* [IAQ experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1800.md)
+* [company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1444.md)
+* [members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_271.md)
+* [communication team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_970.md)
+* [academic institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1645.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_779.md)

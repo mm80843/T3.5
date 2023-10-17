@@ -2,12 +2,25 @@
 
 # __Population-wide social distancing__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2299.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
+* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1272.md)
+* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_20.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
+* [Social Distancing Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
+* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
+
 ## Property: has_MitigationSource
 
 * [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

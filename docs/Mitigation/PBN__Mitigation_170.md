@@ -2,6 +2,31 @@
 
 # __Ventilation__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
+* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
+* [Improving air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2549.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
+* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2766.md)
+* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3407.md)
+
+## Closest similar item
+
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_213.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+* [Window ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2612.md)
+* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2613.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+* [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2589.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2591.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1134.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2614.md)
+
 ## Property: has_MitigationSource
 
 * [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
@@ -18,18 +43,6 @@
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
 * [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
-* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
-* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
-* [Improving air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2549.md)
-* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
-* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2766.md)
-* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3407.md)
-
 ## Property: has_MitigationPrinciple
 
 Adequate air exchange to dilute and remove infectious particles from indoor environments.
@@ -41,11 +54,11 @@ Adequate air exchange to dilute and remove infectious particles from indoor envi
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
 * [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
-* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 * [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
 * [fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3028.md)
 * [adequate airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
-* [air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3303.md)
+* [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 * [adequate ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4204.md)
+* [air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3303.md)
 

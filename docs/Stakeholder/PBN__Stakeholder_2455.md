@@ -2,15 +2,28 @@
 
 # __resident in district with low ug density__
 
-## This Stakeholder is identified by the following QID
-
-* [Q610237](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q610237.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [residents in districts with low ugs densities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1113.md)
+* [residents of high-density districts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_38.md)
+* [resident of densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2493.md)
+* [resident of densely populated city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2467.md)
+* [residents of densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_960.md)
+* [citizens in areas with extreme population densities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_377.md)
+* [resident of underserved neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2119.md)
+* [resident of underserved area and area with high disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2148.md)
+* [resident of neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2474.md)
+* [low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_490.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q610237](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q610237.md)
 

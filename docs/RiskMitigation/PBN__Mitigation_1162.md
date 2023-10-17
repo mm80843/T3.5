@@ -2,13 +2,26 @@
 
 # __Pedestrian and cycling facilities__
 
-## Property: has_MitigationSource
-
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
+
+## Closest similar item
+
+* [Walking, Cycling, and Public Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
+* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_313.md)
+* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
+* [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
+* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
+* [Reduction in Pedestrian Flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_910.md)
+* [Implementing low-cost and temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_790.md)
+* [Broad sidewalks and pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1169.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
+
+## Property: has_MitigationSource
+
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 
 ## Property: has_MitigationPrinciple
 

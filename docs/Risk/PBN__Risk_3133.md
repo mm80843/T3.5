@@ -6,3 +6,16 @@
 
 * [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
 
+## Closest similar item
+
+* [Inaccurate Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
+* [Lack of reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2838.md)
+* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+* [Inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
+* [Inadequate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2059.md)
+* [Misleading Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
+* [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+* [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3049.md)
+* [Inconsistent information disclosure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_629.md)
+* [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
+

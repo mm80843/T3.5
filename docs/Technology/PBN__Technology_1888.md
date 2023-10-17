@@ -10,3 +10,16 @@
 
 * [Economic downturn](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_525.md)
 
+## Closest similar item
+
+* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2263.md)
+* [financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3976.md)
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
+* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2505.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+* [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+

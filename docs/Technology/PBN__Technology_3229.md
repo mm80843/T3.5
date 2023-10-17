@@ -7,3 +7,16 @@
 * [Online physical activity classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_442.md)
 * [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_451.md)
 
+## Closest similar item
+
+* [video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
+* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2456.md)
+* [videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_123.md)
+* [virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
+* [video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
+* [video networking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+

@@ -2,13 +2,26 @@
 
 # __Ozonation__
 
-## Property: has_MitigationSource
-
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Poor removal of SARS-CoV-2 in conventional WWTP](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+
+## Closest similar item
+
+* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2366.md)
+* [ozonation technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4336.md)
+* [ozone](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4337.md)
+* [advanced wastewater treatment technologies such as uv disinfection or ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4338.md)
+* [acetone](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4339.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4340.md)
+* [various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4341.md)
+* [aerators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4342.md)
+* [anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4343.md)
+* [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4344.md)
+
+## Property: has_MitigationSource
+
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 
 ## Property: has_MitigationPrinciple
 

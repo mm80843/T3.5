@@ -2,14 +2,27 @@
 
 # __immunocompromised individuals, including children__
 
-## This Stakeholder is identified by the following QID
-
-* [Q64732748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64732748.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
+## Closest similar item
+
+* [immunocompromised individuals, including child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2142.md)
+* [immunocompromised individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1157.md)
+* [vaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1293.md)
+* [people with compromised immune function](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_337.md)
+* [unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_463.md)
+* [vaccinated patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_462.md)
+* [individuals with immunosuppression and chronic low-grade inflammation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_459.md)
+* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
+* [previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_465.md)
+* [individuals with mild or asymptomatic infections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_896.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q64732748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64732748.md)
 

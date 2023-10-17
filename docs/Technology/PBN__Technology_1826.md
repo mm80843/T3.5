@@ -10,3 +10,16 @@
 
 * [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2248.md)
 
+## Closest similar item
+
+* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
+* [web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
+* [online survey technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3725.md)
+* [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
+* [e-participation tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
+* [e-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
+* [online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4198.md)
+* [research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4445.md)
+* [market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
+

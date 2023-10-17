@@ -2,36 +2,9 @@
 
 # __Proximity to China__
 
-## Name of the risk
-
-Higher likelihood of disease importation and higher risk for local transmission.
-
-## Description of the risk
-
-Taiwan's proximity to China increases the risk of disease transmission.
-
-## Mitigations of this risk
-
-* [Implement border control measures and travel restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3011.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [taiwanese government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1545.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 
 ## People affected by this risk
 
@@ -39,15 +12,55 @@ Taiwan's proximity to China increases the risk of disease transmission.
 * [taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1543.md)
 * [travelers to/from china](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1544.md)
 
+## Name of the risk
+
+Higher likelihood of disease importation and higher risk for local transmission.
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
+* [Close Proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2974.md)
+* [Close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3140.md)
+* [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
+* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
+* [Underrepresentation of Geographic Regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1261.md)
+* [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
+* [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
+* [Lack of spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_952.md)
+* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2690.md)
+
+## Description of the risk
+
+Taiwan's proximity to China increases the risk of disease transmission.
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Implement border control measures and travel restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3011.md)
+
+## Articles mentionning the risk
+
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [taiwanese government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1545.md)
 

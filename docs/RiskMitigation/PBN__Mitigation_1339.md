@@ -2,13 +2,26 @@
 
 # __Use of mobile apps for counselling/treatment__
 
-## Property: has_MitigationSource
-
-* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3031.md)
+
+## Closest similar item
+
+* [Mobile Apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1731.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_16.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
+* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
+* [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_697.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1236.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
 ## Property: has_MitigationPrinciple
 

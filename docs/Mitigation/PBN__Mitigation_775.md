@@ -2,15 +2,28 @@
 
 # __Improved indoor air quality__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+* [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2733.md)
+
+## Closest similar item
+
+* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2596.md)
+* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2594.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
+* [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3597.md)
+* [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3912.md)
+* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2602.md)
+* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2593.md)
+* [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3913.md)
+* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3914.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+
 ## Property: has_MitigationSource
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 * [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2733.md)
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_921.md)
 
+## Closest similar item
+
+* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1746.md)
+* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2715.md)
+* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+* [Contaminated Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3284.md)
+* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1374.md)
+* [Pathogen transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_968.md)
+* [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
+* [Surface Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2972.md)
+* [Surface contamination transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3197.md)
+

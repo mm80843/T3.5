@@ -2,13 +2,26 @@
 
 # __Enhanced cleaning protocols__
 
-## Property: has_MitigationSource
-
-* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
+
+## Closest similar item
+
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
+* [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
+* [Implement surface cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_978.md)
+* [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1854.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
+* [Enhanced Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
+* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
+* [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
+
+## Property: has_MitigationSource
+
+* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -2,15 +2,28 @@
 
 # __education__
 
-## This Stakeholder is identified by the following QID
-
-* [Q8434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8434.md)
-* [Q5341232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5341232.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 
+## Closest similar item
+
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3118.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3119.md)
+* [education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3120.md)
+* [public education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3121.md)
+* [Public education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3122.md)
+* [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3123.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3124.md)
+* [community education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2859.md)
+* [education technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3125.md)
+* [user education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3126.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q8434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8434.md)
+* [Q5341232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5341232.md)
 

@@ -2,19 +2,32 @@
 
 # __individuals in close social or work settings__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q205398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q205398.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [individual in close social or work setting](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2345.md)
+* [individuals in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_756.md)
+* [workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_840.md)
+* [worker in close-proximity work environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1719.md)
+* [social workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_695.md)
+* [individuals with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_616.md)
+* [individual in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2138.md)
+* [individuals in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1206.md)
+* [individuals living alone or with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1343.md)
+* [individual with limited social connection](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2301.md)
 
 ## Risk affecting this stakeholder
 
 * [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
 * [Risk of asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1377.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q205398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q205398.md)
 

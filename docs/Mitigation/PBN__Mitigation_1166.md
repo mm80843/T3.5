@@ -2,12 +2,25 @@
 
 # __Green pockets__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Pocket spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1171.md)
+* [Green PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2475.md)
+* [Green space area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_637.md)
+* [Green Open Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1706.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_50.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
+* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
+* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

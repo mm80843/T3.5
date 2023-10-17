@@ -6,3 +6,16 @@
 
 * [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
 
+## Closest similar item
+
+* [Changing behaviors and perceptions towards urban green space during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_349.md)
+* [Lack of access to urban green space during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_346.md)
+* [Limited access to urban green spaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_709.md)
+* [Negative perceptions of urban green space due to COVID-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_348.md)
+* [Changes in access and use of green areas during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_949.md)
+* [Impact of Covid-19 on green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_31.md)
+* [Decline in urban park visitation during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_950.md)
+* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
+* [Impact of Covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_29.md)
+

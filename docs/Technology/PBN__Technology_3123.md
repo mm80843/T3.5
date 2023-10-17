@@ -6,3 +6,16 @@
 
 * [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
 
+## Closest similar item
+
+* [linked data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2937.md)
+* [open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
+* [open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
+* [open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_823.md)
+* [open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_786.md)
+* [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3625.md)
+* [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4535.md)
+* [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
+

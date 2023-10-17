@@ -6,3 +6,16 @@
 
 * [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
 
+## Closest similar item
+
+* [widened aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4188.md)
+* [room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
+* [rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
+* [furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4295.md)
+* [separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
+* [specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
+* [bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3905.md)
+* [green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [rearrangement of furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_498.md)
+

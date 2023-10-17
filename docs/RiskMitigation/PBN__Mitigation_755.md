@@ -2,12 +2,25 @@
 
 # __Environmental Measures__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Monitoring Environmental Indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_912.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1388.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Reducing Community Environmental Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
+* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Surface environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1519.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
+
 ## Property: has_MitigationSource
 
 * [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

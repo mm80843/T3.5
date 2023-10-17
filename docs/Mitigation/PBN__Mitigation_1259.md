@@ -2,13 +2,26 @@
 
 # __Professional Signs__
 
-## Property: has_MitigationSource
-
-* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
+
+## Closest similar item
+
+* [Informal Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1258.md)
+* [Retail Store Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1844.md)
+* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1897.md)
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
+* [Medical Consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1460.md)
+* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
+* [Personal agency of developers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2008.md)
+* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
+* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
+
+## Property: has_MitigationSource
+
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 
 ## Property: has_MitigationPrinciple
 

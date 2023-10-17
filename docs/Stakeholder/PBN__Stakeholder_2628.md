@@ -2,15 +2,28 @@
 
 # __IoT devices__
 
-## This Stakeholder is identified by the following QID
-
-* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
+## Closest similar item
+
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
+* [iots](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2973.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2974.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2975.md)
+* [internet of things (iot) devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2976.md)
+* [Internet of Things (IoT) devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2977.md)
+* [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2978.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2979.md)
+* [purpose-built IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2980.md)
+* [purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2981.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 

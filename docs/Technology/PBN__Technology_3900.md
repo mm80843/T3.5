@@ -6,3 +6,16 @@
 
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
 
+## Closest similar item
+
+* [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+* [urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
+* [community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2752.md)
+* [vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
+* [pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_848.md)
+* [rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1785.md)
+* [rainwater collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4366.md)
+

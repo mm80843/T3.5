@@ -6,3 +6,16 @@
 
 * [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2426.md)
 
+## Closest similar item
+
+* [teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1988.md)
+* [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
+* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1652.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2289.md)
+* [teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
+* [teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
+* [teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4025.md)
+* [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4089.md)
+* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
+* [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
+

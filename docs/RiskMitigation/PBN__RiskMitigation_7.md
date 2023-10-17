@@ -2,11 +2,24 @@
 
 # __Access to mental health support services__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
+* [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
+* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2131.md)
+* [Provide mental health support services and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2463.md)
+* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2281.md)
+* [Access to mental health resources and support, counseling services, psychological well-being programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2601.md)
+* [Access to mental health services, social support networks, and online therapies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1757.md)
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2810.md)
+* [Providing emotional support, counseling services, and resources to address mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1988.md)
+* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2687.md)
+* [Access to mental health services, teletherapy, social support networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1759.md)
 

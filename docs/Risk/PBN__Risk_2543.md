@@ -6,3 +6,16 @@
 
 * [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
 
+## Closest similar item
+
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1794.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
+* [High cost, technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2994.md)
+* [Technical performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2455.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
+* [Transmission, Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2677.md)
+* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1100.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3389.md)
+* [Lack of proper training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2089.md)
+

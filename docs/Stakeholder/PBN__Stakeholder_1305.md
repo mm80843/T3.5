@@ -4,8 +4,8 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
+* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 
@@ -14,4 +14,17 @@
 * [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
+
+## Closest similar item
+
+* [ontology experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_941.md)
+* [site engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_981.md)
+* [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_878.md)
+* [developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1889.md)
+* [knowledge workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_618.md)
+* [software developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2626.md)
+* [technology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_763.md)
+* [application developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1403.md)
+* [software developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1574.md)
+* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
 

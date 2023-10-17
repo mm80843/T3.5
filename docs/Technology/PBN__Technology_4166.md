@@ -6,3 +6,16 @@
 
 * [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
 
+## Closest similar item
+
+* [technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3171.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [continued technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [technology transfer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3577.md)
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
+* [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
+

@@ -4,7 +4,20 @@
 
 ## Mitigations of this risk
 
-* [Misinformation Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_436.md)
 * [Enhanced Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
 * [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
+* [Misinformation Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_436.md)
+
+## Closest similar item
+
+* [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
+* [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
+* [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3274.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+* [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
+* [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
+* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
 

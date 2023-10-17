@@ -10,3 +10,16 @@
 
 * [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
 
+## Closest similar item
+
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
+* [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [project management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_740.md)
+* [real-time project tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1460.md)
+* [project evaluation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4127.md)
+* [regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1305.md)
+* [Regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2407.md)
+* [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
+* [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
+

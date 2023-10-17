@@ -2,52 +2,65 @@
 
 # __Failure to implement preventive measures__
 
-## Name of the risk
-
-Increased spread of the virus, higher infection rates
-
-## Description of the risk
-
-Governments fail to adopt preventive measures in a timely manner
-
-## Mitigations of this risk
-
-* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2946.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
 
 ## People affected by this risk
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
+## Name of the risk
+
+Increased spread of the virus, higher infection rates
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3408.md)
+* [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1821.md)
+* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
+* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1830.md)
+* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1788.md)
+* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2384.md)
+* [Limited acceptance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2693.md)
+* [Limited access to health information and beliefs hindering adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3100.md)
+* [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
+
+## Description of the risk
+
+Governments fail to adopt preventive measures in a timely manner
+
+## Technologies linked to the risk
+
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2946.md)
+
+## Articles mentionning the risk
+
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 

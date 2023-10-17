@@ -2,12 +2,25 @@
 
 # __Voluntary reporting__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Honest reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1792.md)
+* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_657.md)
+* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2461.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
+* [Voluntary HIV testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_584.md)
+* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
+* [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2068.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_103.md)
+
 ## Property: has_MitigationSource
 
 * [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

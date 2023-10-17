@@ -2,6 +2,19 @@
 
 # __Collaborative networks__
 
+## Closest similar item
+
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2242.md)
+* [collaborative platforms and networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4450.md)
+* [social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3038.md)
+* [network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3591.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+
 ## This Technology belongs to this TechSubgroup
 
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)

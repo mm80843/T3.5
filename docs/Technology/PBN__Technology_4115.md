@@ -6,3 +6,16 @@
 
 * [Vector Surveillance and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
 
+## Closest similar item
+
+* [vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_976.md)
+* [vector control techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1532.md)
+* [vector-based](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4472.md)
+* [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
+* [vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
+* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2442.md)
+* [investment in resources and training for vector control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
+* [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+* [control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
+

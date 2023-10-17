@@ -6,3 +6,16 @@
 
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 
+## Closest similar item
+
+* [communities with limited access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_590.md)
+* [communities with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_176.md)
+* [communities with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_696.md)
+* [areas with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1088.md)
+* [areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_902.md)
+* [individuals living in apartments without basic water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_826.md)
+* [water and sanitation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1367.md)
+* [individual living in apartment without basic water and sanitation facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2244.md)
+* [individuals without access to natural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1421.md)
+* [communities with poor waste management practices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_591.md)
+

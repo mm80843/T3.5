@@ -6,3 +6,16 @@
 
 * [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
 
+## Closest similar item
+
+* [isolation rooms or designated isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3801.md)
+* [separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
+* [dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3548.md)
+* [rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
+* [separate control of air temperature room by room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1734.md)
+* [control measures for shared facilities and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
+* [isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
+* [quarantine facilities or designated quarantine areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3802.md)
+* [isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
+* [isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3134.md)
+

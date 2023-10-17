@@ -8,3 +8,16 @@
 * [Educating social media users to consume content in a sustainable manner](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_121.md)
 * [Implementing measures to detect and prevent the spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_122.md)
 
+## Closest similar item
+
+* [Emerging pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_710.md)
+* [Unpreparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2796.md)
+* [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
+* [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_726.md)
+* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
+* [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
+* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
+

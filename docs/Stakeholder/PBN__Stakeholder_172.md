@@ -2,6 +2,19 @@
 
 # __research groups__
 
+## Closest similar item
+
+* [companies and research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_496.md)
+* [research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
+* [research organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2086.md)
+* [research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_701.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [community groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1316.md)
+* [social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_640.md)
+* [research staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1054.md)
+* [research projects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1468.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)

@@ -2,12 +2,25 @@
 
 # __Additional Lighting__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_119.md)
+* [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
+* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_173.md)
+* [Maintaining optimum lighting levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1847.md)
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
+* [Adequate Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2418.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
+* [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
+
 ## Property: has_MitigationSource
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

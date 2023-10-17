@@ -6,3 +6,16 @@
 
 * [UVGI systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1759.md)
 
+## Closest similar item
+
+* [Operating room staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1716.md)
+* [operating room managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1174.md)
+* [Operating room managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1783.md)
+* [Operating room manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1767.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+* [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
+

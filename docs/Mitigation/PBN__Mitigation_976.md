@@ -2,12 +2,25 @@
 
 # __Design spaces with lower occupant density__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+* [Design separate spaces for different functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_981.md)
+* [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1159.md)
+* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
+* [Optimal architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2216.md)
+* [Proper Space Arrangement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
+* [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2144.md)
+* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2236.md)
+* [Space and Density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
+
 ## Property: has_MitigationSource
 
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

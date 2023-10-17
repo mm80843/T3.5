@@ -6,3 +6,16 @@
 
 * [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
 
+## Closest similar item
+
+* [online business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1894.md)
+* [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+* [residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1557.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1274.md)
+* [resident who engage in online activity and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2475.md)
+* [online businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2082.md)
+* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
+* [individuals without internet access or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1238.md)
+* [users of digital tools and platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_881.md)
+* [individual without internet acces or limited digital literacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2337.md)
+

@@ -2,15 +2,28 @@
 
 # __especially in densely populated area__
 
-## This Stakeholder is identified by the following QID
-
-* [Q453909](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q453909.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
+## Closest similar item
+
+* [especially in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1147.md)
+* [especially those in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2266.md)
+* [especially those in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_820.md)
+* [Particularly those in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2163.md)
+* [particularly those in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1111.md)
+* [Particularly those in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2198.md)
+* [especially those living in densely populated area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2333.md)
+* [especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_897.md)
+* [especially those in densely populated and low-income neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2262.md)
+* [densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_901.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Population Density and Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_100.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q453909](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q453909.md)
 

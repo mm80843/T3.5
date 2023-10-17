@@ -6,3 +6,16 @@
 
 * [Human lung fibroblast MRC-5 cell line](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_858.md)
 
+## Closest similar item
+
+* [human host cells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3155.md)
+* [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
+* [MEC](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2857.md)
+* [small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4157.md)
+* [cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
+* [helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1190.md)
+* [pm2.5 filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3861.md)
+* [helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_423.md)
+* [telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
+* [helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
+

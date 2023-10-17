@@ -6,3 +6,16 @@
 
 * [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
 
+## Closest similar item
+
+* [walking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3149.md)
+* [music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
+* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
+* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
+* [podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3360.md)
+* [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
+* [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
+* [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
+* [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
+

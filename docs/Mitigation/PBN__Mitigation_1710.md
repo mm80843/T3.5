@@ -2,13 +2,26 @@
 
 # __Isolation rooms__
 
-## Property: has_MitigationSource
-
-* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+
+## Closest similar item
+
+* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1710.md)
+* [Isolation Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2090.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
+* [Isolation Space Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
+* [Home Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
+* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
+* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_940.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
+* [Partial Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
+
+## Property: has_MitigationSource
+
+* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -10,3 +10,16 @@
 
 * [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
 
+## Closest similar item
+
+* [Use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2460.md)
+* [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2302.md)
+* [health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_475.md)
+* [public awareness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
+* [educational outreach through digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_699.md)
+* [public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2135.md)
+* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
+

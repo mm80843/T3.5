@@ -2,12 +2,25 @@
 
 # __Statistical analysis__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_588.md)
+* [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1201.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
+* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Big Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_765.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
+* [Data Mining and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
+* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
+
 ## Property: has_MitigationSource
 
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

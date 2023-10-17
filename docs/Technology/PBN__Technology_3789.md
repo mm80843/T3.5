@@ -6,3 +6,16 @@
 
 * [Autonomous Vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
 
+## Closest similar item
+
+* [driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3999.md)
+* [ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4493.md)
+* [electric vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
+* [develop car-sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_306.md)
+* [automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3944.md)
+* [automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1451.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
+* [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
+* [automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
+

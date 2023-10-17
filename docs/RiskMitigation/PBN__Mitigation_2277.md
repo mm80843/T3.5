@@ -2,13 +2,26 @@
 
 # __Monitoring social media content__
 
-## Property: has_MitigationSource
-
-* [El Rol De Las Redes Sociales En La Pandemia Del Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+
+## Closest similar item
+
+* [Social Media Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_358.md)
+* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
+* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_960.md)
+* [Monitoring Changing Social Behavior](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1717.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
+* [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
+* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_322.md)
+* [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
+* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_959.md)
+
+## Property: has_MitigationSource
+
+* [El Rol De Las Redes Sociales En La Pandemia Del Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
 
 ## Property: has_MitigationPrinciple
 

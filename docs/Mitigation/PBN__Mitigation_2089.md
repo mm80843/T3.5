@@ -2,13 +2,26 @@
 
 # __Portable Air Filters__
 
-## Property: has_MitigationSource
-
-* [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Closest similar item
+
+* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1838.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_531.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
+* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
+* [Portable air filters with UV sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
+* [Filtering Indoor Air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
+* [High-Efficiency Particulate Air (HEPA) Filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1733.md)
+* [Portable Air Conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+
+## Property: has_MitigationSource
+
+* [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 
 ## Property: has_MitigationPrinciple
 

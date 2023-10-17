@@ -10,3 +10,16 @@
 
 * [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1962.md)
 
+## Closest similar item
+
+* [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2052.md)
+* [location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3708.md)
+* [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
+* [real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
+* [real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1707.md)
+* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2473.md)
+* [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
+* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2453.md)
+* [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
+

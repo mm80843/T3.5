@@ -6,3 +6,16 @@
 
 * [Digital Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
 
+## Closest similar item
+
+* [digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1875.md)
+* [digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
+* [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
+* [digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3895.md)
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+* [digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4168.md)
+

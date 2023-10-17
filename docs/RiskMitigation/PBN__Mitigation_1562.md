@@ -2,13 +2,13 @@
 
 # __Marking 6’ distances and one-way traffic__
 
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Crowd congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
+
+## Property: has_MitigationSource
+
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -2,12 +2,25 @@
 
 # __Increased outside air fraction__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_726.md)
+* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
+* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
+* [Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1362.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
+* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
+
 ## Property: has_MitigationSource
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

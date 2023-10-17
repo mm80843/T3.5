@@ -2,11 +2,24 @@
 
 # __Virtual reality psychological treatment__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological and mental health challenges during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_822.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1117.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Psychological and mental health challenges during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_822.md)
+* [Virtual reality-based therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2740.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
+* [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1126.md)
+* [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2739.md)
+* [Use virtual reality for pain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2741.md)
+* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2738.md)
+* [Expand telehealth services for virtual therapy and counseling; increase availability of online mental health resources; train and support mental health professionals in remote service delivery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2608.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
+* [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3027.md)
 

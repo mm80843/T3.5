@@ -6,3 +6,16 @@
 
 * [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
 
+## Closest similar item
+
+* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
+* [Spread of respiratory viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_71.md)
+* [Virus Transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
+* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3112.md)
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
+* [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
+* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1871.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
+* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
+

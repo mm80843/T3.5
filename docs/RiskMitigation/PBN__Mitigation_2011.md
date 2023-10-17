@@ -2,12 +2,25 @@
 
 # __Containment Space__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
+* [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
+* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
+* [Space and Density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
+* [Isolation Space Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
+* [Proper Space Arrangement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
+* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_557.md)
+* [Pocket spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1171.md)
+* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2001.md)
+* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2230.md)
+
 ## Property: has_MitigationSource
 
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

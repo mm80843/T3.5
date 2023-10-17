@@ -2,13 +2,26 @@
 
 # __AI-based Diagnosis and Monitoring__
 
-## Property: has_MitigationSource
-
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+
+## Closest similar item
+
+* [AI-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
+* [AI-driven tools for prevention, diagnosis, and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
+* [Intelligent Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+* [AI-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
+* [IoT-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1182.md)
+* [AI algorithms for initial screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2114.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
+* [AI-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
+
+## Property: has_MitigationSource
+
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
 
 ## Property: has_MitigationPrinciple
 

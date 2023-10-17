@@ -10,3 +10,16 @@
 
 * [Cost of Setup and Operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1104.md)
 
+## Closest similar item
+
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+* [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
+* [increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
+* [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+* [adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
+* [financial grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1807.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2505.md)
+

@@ -10,3 +10,16 @@
 
 * [Lack of UGS density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1690.md)
 
+## Closest similar item
+
+* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
+* [urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_663.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2320.md)
+* [urban planning and design strategies for green space integration in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_846.md)
+* [green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
+* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2317.md)
+* [urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1620.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2748.md)
+

@@ -8,7 +8,20 @@
 
 ## Risks linked to this technology
 
+* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 * [Transmission via fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_800.md)
 * [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
-* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
+
+## Closest similar item
+
+* [cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
+* [clear cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_295.md)
+* [enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1838.md)
+* [implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
+* [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
+* [cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
+* [enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_730.md)
+* [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
+* [enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_742.md)
+* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2563.md)
 

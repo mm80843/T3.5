@@ -2,6 +2,13 @@
 
 # __Digital tools__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Overcrowding and agglomerations in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_514.md)
+* [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
+* [Economic impact on local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_513.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
+
 ## Property: has_MitigationBenefit
 
 * [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_723.md)
@@ -9,10 +16,16 @@
 * [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_732.md)
 * [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_724.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
-* [Economic impact on local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_513.md)
-* [Overcrowding and agglomerations in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_514.md)
-* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
+* [Digital tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_633.md)
+* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1432.md)
+* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
+* [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
+* [Implementing digital and ICT tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1046.md)
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2052.md)
+* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1038.md)
+* [to digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
+* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
+* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
 

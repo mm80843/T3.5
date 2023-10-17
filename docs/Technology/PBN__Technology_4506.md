@@ -6,3 +6,16 @@
 
 * [Regular updates on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2441.md)
 
+## Closest similar item
+
+* [information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
+* [information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [information and communication technologies (icts)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_628.md)
+* [information dissemination technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3560.md)
+* [communication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
+

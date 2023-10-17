@@ -10,6 +10,19 @@
 
 * [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
 * [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
-* [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
 * [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2078.md)
+* [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
+
+## Closest similar item
+
+* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2345.md)
+* [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1792.md)
+* [supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
+* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
+* [advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_929.md)
+* [improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1629.md)
+* [supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
+* [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
 

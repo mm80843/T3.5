@@ -6,3 +6,16 @@
 
 * [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
 
+## Closest similar item
+
+* [Increased workload for nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_409.md)
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Increase in workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_166.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
+* [Workload in intensive care units, expertise in critical care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2931.md)
+* [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_317.md)
+* [Healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2419.md)
+* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
+* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
+* [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
+

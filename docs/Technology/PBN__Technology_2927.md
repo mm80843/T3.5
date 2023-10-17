@@ -6,3 +6,16 @@
 
 * [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
 
+## Closest similar item
+
+* [knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
+* [knowledge management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
+* [knowledge graphs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2936.md)
+* [knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
+* [knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
+* [knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
+* [evidence base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3173.md)
+* [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+* [biomedical knowledge graph](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2940.md)
+

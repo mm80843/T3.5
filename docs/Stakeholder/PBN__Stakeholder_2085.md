@@ -2,15 +2,28 @@
 
 # __building regulator__
 
-## This Stakeholder is identified by the following QID
-
-* [Q3771881](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3771881.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
+## Closest similar item
+
+* [building regulators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1411.md)
+* [government regulator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2404.md)
+* [government regulators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_739.md)
+* [Occupant of building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2582.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [builder](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1975.md)
+* [building management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1105.md)
+* [building manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1956.md)
+* [building owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1945.md)
+* [building occupant in all type of building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2015.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3771881](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3771881.md)
 

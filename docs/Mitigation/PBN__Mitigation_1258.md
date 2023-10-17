@@ -2,13 +2,26 @@
 
 # __Informal Signs__
 
-## Property: has_MitigationSource
-
-* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
+
+## Closest similar item
+
+* [Professional Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
+* [Retail Store Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_508.md)
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1844.md)
+* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1897.md)
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
+* [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2273.md)
+* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_795.md)
+* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
+* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2464.md)
+
+## Property: has_MitigationSource
+
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 
 ## Property: has_MitigationPrinciple
 

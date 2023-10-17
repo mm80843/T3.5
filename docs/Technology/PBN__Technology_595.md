@@ -10,3 +10,16 @@
 
 * [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
 
+## Closest similar item
+
+* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
+* [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
+* [community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
+* [community support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4075.md)
+* [support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
+* [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
+* [job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+

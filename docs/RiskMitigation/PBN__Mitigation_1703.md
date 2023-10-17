@@ -2,13 +2,26 @@
 
 # __Telemedicine apps__
 
-## Property: has_MitigationSource
-
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3225.md)
+
+## Closest similar item
+
+* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4138.md)
+* [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4139.md)
+* [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4140.md)
+* [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4141.md)
+* [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4142.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1945.md)
+* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4143.md)
+* [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2795.md)
+* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4144.md)
+* [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4145.md)
+
+## Property: has_MitigationSource
+
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_MitigationPrinciple
 

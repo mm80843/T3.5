@@ -6,3 +6,16 @@
 
 * [Facial Mask Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
 
+## Closest similar item
+
+* [Non-compliance with mask wearing in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3203.md)
+* [Non-compliance with face mask rules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
+* [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
+* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
+* [Contaminated masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2702.md)
+* [Inconvenience and cost of mask filters in smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
+* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
+* [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
+* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
+

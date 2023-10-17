@@ -2,12 +2,25 @@
 
 # __Improved public transportation systems__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1503.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2100.md)
+* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Walking, Cycling, and Public Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
+* [Intelligent Transportation System (ITS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
+* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2358.md)
+* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1123.md)
+* [Reduction in Traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+
 ## Property: has_MitigationSource
 
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

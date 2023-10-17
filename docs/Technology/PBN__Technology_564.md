@@ -10,3 +10,16 @@
 
 * [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
 
+## Closest similar item
+
+* [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
+* [targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1279.md)
+* [policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+* [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
+* [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
+

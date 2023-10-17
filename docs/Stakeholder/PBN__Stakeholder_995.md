@@ -2,17 +2,26 @@
 
 # __academic institutions__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q4671277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4671277.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## Closest similar item
+
+* [academic institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1645.md)
+* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
+* [education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1041.md)
+* [universities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_962.md)
+* [institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_891.md)
+* [educational institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1644.md)
+* [academic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1631.md)
+* [education institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1632.md)
+* [university](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1457.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
 
 ## Risk affecting this stakeholder
 
@@ -20,4 +29,8 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q4671277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4671277.md)
 

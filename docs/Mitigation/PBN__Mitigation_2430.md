@@ -2,12 +2,25 @@
 
 # __Increase availability of healthcare resources__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
+* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
+* [Availability of Resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1039.md)
+* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
+* [Healthcare Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1742.md)
+
 ## Property: has_MitigationSource
 
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

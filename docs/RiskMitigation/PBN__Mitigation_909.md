@@ -2,12 +2,25 @@
 
 # __Reduction in Traffic__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
+* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1503.md)
+* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2435.md)
+* [Reduction in Pedestrian Flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_910.md)
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2100.md)
+* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
+* [Monitoring Traffic Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
+* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

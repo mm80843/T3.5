@@ -2,20 +2,20 @@
 
 # __Individualized dosing__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Private investors can benefit from the increased demand for wearables and data analysis services for vaccine monitoring and individualized dosing.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1047.md)
-
-## Articles mentionning this Benefit
-
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-
 ## Name of the Benefit
 
 Wearables can track the effects of vaccination on the body, leading to personalized dosing strategies and better management of vaccine efficacy.
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors can benefit from the increased demand for wearables and data analysis services for vaccine monitoring and individualized dosing.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1047.md)
 
 ## Stakeholders benefitting from this Benefit
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Articles mentionning this Benefit
+
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 

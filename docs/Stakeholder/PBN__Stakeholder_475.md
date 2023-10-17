@@ -6,3 +6,16 @@
 
 * [Improved working performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1216.md)
 
+## Closest similar item
+
+* [individuals working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_617.md)
+* [Individuals working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2180.md)
+* [Individual working remotely](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2271.md)
+* [frontline workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_797.md)
+* [homeles individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2112.md)
+* [indoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_808.md)
+* [informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_96.md)
+* [remote workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1702.md)
+* [frontline worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1655.md)
+* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1794.md)
+

@@ -2,18 +2,31 @@
 
 # __reducing chemical use in indoor environments__
 
+## Closest similar item
+
+* [indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4482.md)
+* [indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
+* [sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1369.md)
+* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2523.md)
+* [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+* [indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
+
 ## Risks linked to this technology
 
 * [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
-
-## This Technology is identified by the following QID
-
-* [Q104885559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104885559.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
 * [Biological and Chemical Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_130.md)
+
+## This Technology is identified by the following QID
+
+* [Q104885559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104885559.md)
 
 ## This Technology belongs to this TechGroup
 

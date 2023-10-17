@@ -10,3 +10,16 @@
 
 * [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
 
+## Closest similar item
+
+* [workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3613.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2046.md)
+* [training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3460.md)
+* [job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
+* [training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
+* [training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
+* [employee support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
+* [trained cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3873.md)
+

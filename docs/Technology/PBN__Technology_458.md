@@ -10,3 +10,16 @@
 
 * [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
 
+## Closest similar item
+
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
+* [local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
+* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
+* [water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
+* [infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1673.md)
+* [Infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2377.md)
+* [infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2995.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
+* [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
+

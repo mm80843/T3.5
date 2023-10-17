@@ -2,6 +2,19 @@
 
 # __instructional videos__
 
+## Closest similar item
+
+* [video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
+* [prerecorded video lecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
+* [surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
+* [online exercise videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1079.md)
+* [online tutorials and guides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_418.md)
+* [Online tutorials and guides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2203.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2625.md)
+* [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+
 ## Risks linked to this technology
 
 * [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)

@@ -6,3 +6,16 @@
 
 * [Stress management and coping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_829.md)
 
+## Closest similar item
+
+* [Psychosocial needs and support during direct patient encounters curtailed by home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_593.md)
+* [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
+* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
+* [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_694.md)
+* [Risk of non-compliance with stay-at-home orders and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
+* [Domestic violence threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
+* [Increased levels of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_483.md)
+* [Increased domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2499.md)
+* [Increase in mental diseases and domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_101.md)
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+

@@ -10,3 +10,15 @@
 
 * [spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2290.md)
 
+## Closest similar item
+
+* [promotion of outdoor activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2206.md)
+* [improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1571.md)
+* [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2848.md)
+* [data nan nan warehousing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1573.md)
+* [encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
+* [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2611.md)
+* [social nan distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1869.md)
+* [nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3991.md)
+* [hands-free light nan switches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3989.md)
+

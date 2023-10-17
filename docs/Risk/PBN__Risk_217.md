@@ -6,3 +6,16 @@
 
 * [Carefully-designed studies on humidity effects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_261.md)
 
+## Closest similar item
+
+* [Influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_215.md)
+* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
+* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
+* [Influenza incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_216.md)
+* [Inter-city variations in influenza-like outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_285.md)
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
+* [Improving models predicting trends in influenza-like illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_680.md)
+* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
+* [Infectious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_942.md)
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
+

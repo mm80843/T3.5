@@ -6,3 +6,16 @@
 
 * [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1188.md)
 
+## Closest similar item
+
+* [vaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1293.md)
+* [vaccinated patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_462.md)
+* [individuals under quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_268.md)
+* [individuals in quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_608.md)
+* [quarantined individuals and health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_342.md)
+* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
+* [immunocompromised individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1157.md)
+* [re-infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1296.md)
+* [vaccine distributor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1917.md)
+* [immunocompromised individuals, including children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2288.md)
+

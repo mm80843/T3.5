@@ -2,11 +2,24 @@
 
 # __Monitor vaccination status__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Waning efficacy of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_861.md)
+
 ## Property: has_MitigationBenefit
 
 * [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1187.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Waning efficacy of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_861.md)
+* [Monitoring the effects of vaccination on the body using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_946.md)
+* [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3059.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
+* [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
+* [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1186.md)
+* [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)
+* [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_508.md)
+* [Improve surveillance for drug resistance, invest in vaccine development infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2137.md)
+* [Develop predictive models using SIR and vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_200.md)
+* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2759.md)
 

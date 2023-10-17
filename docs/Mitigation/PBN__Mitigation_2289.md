@@ -2,12 +2,25 @@
 
 # __Suitable pressure difference__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
+* [Negative Pressure AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_628.md)
+* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
+* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_940.md)
+* [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1326.md)
+* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1841.md)
+* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1368.md)
+* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
+* [Negative pressure during cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1424.md)
+
 ## Property: has_MitigationSource
 
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

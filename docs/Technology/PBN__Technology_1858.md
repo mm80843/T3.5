@@ -10,3 +10,16 @@
 
 * [Lack of Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2278.md)
 
+## Closest similar item
+
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
+* [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
+* [identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
+* [Identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+* [enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
+* [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2543.md)
+

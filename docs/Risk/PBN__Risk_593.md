@@ -6,3 +6,16 @@
 
 * [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_830.md)
 
+## Closest similar item
+
+* [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
+* [Psychological sequelae associated with mass home confinement directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_592.md)
+* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
+* [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_694.md)
+* [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_896.md)
+* [Limited access to support services for victims of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1037.md)
+* [Mental health issues due to extended lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_729.md)
+* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
+* [Limited capacity of domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3085.md)
+* [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
+

@@ -6,3 +6,16 @@
 
 * [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
 
+## Closest similar item
+
+* [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Transmission via close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_73.md)
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
+* [Transmission through person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
+* [Transmission via hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2758.md)
+

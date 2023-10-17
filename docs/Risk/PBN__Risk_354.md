@@ -6,3 +6,16 @@
 
 * [Integration of GIS and GPS applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_465.md)
 
+## Closest similar item
+
+* [Weak health-care systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1721.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3295.md)
+* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3238.md)
+* [Resource burden on health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_461.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Healthcare system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
+* [Collapse of health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3001.md)
+* [Health system collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_233.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2901.md)
+

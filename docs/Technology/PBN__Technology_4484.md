@@ -6,3 +6,16 @@
 
 * [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
 
+## Closest similar item
+
+* [sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4067.md)
+* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
+* [eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
+* [green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
+* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
+* [green building strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4066.md)
+* [recycled materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4519.md)
+* [green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1033.md)
+* [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
+

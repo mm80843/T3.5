@@ -6,3 +6,16 @@
 
 * [Cost and practicability of clinical testing and WBE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
 
+## Closest similar item
+
+* [WBE surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
+* [Use of WBE for tracking COVID-19 prevalence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1208.md)
+* [WBE for monitoring Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1024.md)
+* [Strengthening of surveillance systems, increased monitoring of vector populations and disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3057.md)
+* [Combined use of WBE followed by clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1206.md)
+* [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
+* [Enhance surveillance systems to detect and respond to emerging diseases in new areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)
+* [Wastewater-based epidemiology (WBE) surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_880.md)
+* [Utilize WBE for early-warning ability, establish baselines for incidence of Covid-19 before re-opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1799.md)
+* [Implement wastewater-based epidemiology (WBE), target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1798.md)
+

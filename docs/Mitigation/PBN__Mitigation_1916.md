@@ -2,12 +2,25 @@
 
 # __Conditional Lockdown__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
+* [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2214.md)
+* [Enforce Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_108.md)
+* [Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1911.md)
+* [Building Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1464.md)
+* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2341.md)
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1167.md)
+* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,12 +2,25 @@
 
 # __Washing Hands__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Hand Washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
+* [Frequent Hand Washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1704.md)
+* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_817.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
+* [Regular Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)
+* [Proper handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_544.md)
+* [Proper Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_136.md)
+
 ## Property: has_MitigationSource
 
 * [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

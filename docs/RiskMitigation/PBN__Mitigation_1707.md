@@ -2,13 +2,26 @@
 
 # __Urban Green Infrastructure__
 
-## Property: has_MitigationSource
-
-* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Urban overheating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3226.md)
+
+## Closest similar item
+
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
+* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Green and Blue Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
+* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
+* [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2284.md)
+* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1004.md)
+
+## Property: has_MitigationSource
+
+* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 
 ## Property: has_MitigationPrinciple
 

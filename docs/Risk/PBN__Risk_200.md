@@ -6,3 +6,16 @@
 
 * [Use of water-efficient appliances and fixtures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_239.md)
 
+## Closest similar item
+
+* [WC1: Water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_199.md)
+* [Water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3357.md)
+* [Increased water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
+* [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
+* [WC2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
+* [WQ2: Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_189.md)
+* [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
+* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+

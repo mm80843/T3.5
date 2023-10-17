@@ -7,3 +7,16 @@
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
 * [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2750.md)
 
+## Closest similar item
+
+* [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+* [Energy Management and Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_95.md)
+* [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+* [Energy Saving and Conservation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_177.md)
+* [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_183.md)
+* [Environmental Controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
+* [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
+* [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+* [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
+* [Infrastructure and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+

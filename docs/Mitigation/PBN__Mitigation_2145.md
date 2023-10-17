@@ -2,13 +2,26 @@
 
 # __Design level adjustments on noise insulation and acoustics__
 
-## Property: has_MitigationSource
-
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
+
+## Closest similar item
+
+* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2237.md)
+* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
+* [Acoustic Design Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
+* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
+* [Consideration of Noise Levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1764.md)
+* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_120.md)
+* [Portable Acoustic Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1961.md)
+* [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
+* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
 ## Property: has_MitigationPrinciple
 

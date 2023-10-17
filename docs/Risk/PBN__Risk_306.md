@@ -2,40 +2,9 @@
 
 # __Delay in completion of construction projects__
 
-## Name of the risk
-
-Project delays, increased costs, penalties
-
-## Description of the risk
-
-Construction halted or slowed down due to lockdown measures
-
-## Mitigations of this risk
-
-* [Implement shift and break schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_385.md)
-* [Safety protocols, efficient scheduling, communication with clients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2707.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
-* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
 ## People affected by this risk
 
@@ -43,15 +12,59 @@ Construction halted or slowed down due to lockdown measures
 * [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 
+## Name of the risk
+
+Project delays, increased costs, penalties
+
 ## Property: has_RiskISO_Purpose
 
 * [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Closest similar item
+
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
+* [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
+* [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
+* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
+* [Delays in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_305.md)
+* [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
+* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2959.md)
+* [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
+* [Construction speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3363.md)
+
+## Description of the risk
+
+Construction halted or slowed down due to lockdown measures
+
+## Technologies linked to the risk
+
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Mitigations of this risk
+
+* [Implement shift and break schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_385.md)
+* [Safety protocols, efficient scheduling, communication with clients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2707.md)
+
+## Articles mentionning the risk
+
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 

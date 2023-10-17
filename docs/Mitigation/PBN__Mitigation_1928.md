@@ -2,13 +2,26 @@
 
 # __Real-time Health Data Capture__
 
-## Property: has_MitigationSource
-
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
+
+## Closest similar item
+
+* [Real-time Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Healthcare instrument tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1882.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
+
+## Property: has_MitigationSource
+
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
 ## Property: has_MitigationPrinciple
 
@@ -16,7 +29,7 @@ Captures real-time health data from infected patients for analysis and decision-
 
 ## This Mitigation is enabled by the following technologies
 
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
 

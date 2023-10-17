@@ -2,13 +2,26 @@
 
 # __Online meeting platforms__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q7935096](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7935096.md)
+* [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2399.md)
+* [virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
+* [online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
+* [e-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3124.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_993.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
+## This Technology is identified by the following QID
+
+* [Q7935096](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7935096.md)
 
 ## This Technology belongs to this TechGroup
 

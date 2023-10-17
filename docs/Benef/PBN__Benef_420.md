@@ -2,20 +2,20 @@
 
 # __Transmission reduction__
 
+## Name of the Benefit
+
+The relaxation of NPIs in Phase III resulted in a reduction in SARS-CoV-2 transmission.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from implementing this measure as it would help reduce the spread of the virus, leading to a safer and healthier community and potentially preventing lockdowns or business closures, which could protect economic stability and property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_450.md)
 * [Private investors would benefit from implementing this measure as it would help prevent a resurgence in cases, leading to a more stable and resilient economy and potentially protecting property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_451.md)
 
-## Articles mentionning this Benefit
-
-* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
-
-## Name of the Benefit
-
-The relaxation of NPIs in Phase III resulted in a reduction in SARS-CoV-2 transmission.
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Articles mentionning this Benefit
+
+* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
 

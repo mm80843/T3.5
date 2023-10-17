@@ -6,3 +6,16 @@
 
 * [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 
+## Closest similar item
+
+* [smart power strips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1787.md)
+* [strip curtains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4199.md)
+* [data capture infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3539.md)
+* [telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
+* [thick walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2957.md)
+* [shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3505.md)
+* [video communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+* [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
+* [light pipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
+* [adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4291.md)
+

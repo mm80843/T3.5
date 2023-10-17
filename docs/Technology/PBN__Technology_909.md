@@ -10,3 +10,16 @@
 
 * [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
 
+## Closest similar item
+
+* [networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
+* [virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
+

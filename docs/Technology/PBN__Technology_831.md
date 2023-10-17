@@ -2,19 +2,32 @@
 
 # __personal hygiene__
 
+## Closest similar item
+
+* [personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2211.md)
+* [hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2554.md)
+* [hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4102.md)
+* [cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4064.md)
+* [enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
+* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
+* [hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
+* [Hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2591.md)
+* [strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
+
 ## Risks linked to this technology
 
 * [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
-
-## This Technology is identified by the following QID
-
-* [Q9292190](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9292190.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_24.md)
 * [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
 * [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+
+## This Technology is identified by the following QID
+
+* [Q9292190](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9292190.md)
 
 ## This Technology belongs to this TechGroup
 

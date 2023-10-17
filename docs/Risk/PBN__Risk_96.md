@@ -6,3 +6,16 @@
 
 * [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_118.md)
 
+## Closest similar item
+
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
+* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
+* [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2864.md)
+* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
+* [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
+* [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1874.md)
+* [Inconsistencies in Accuracy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1260.md)
+* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
+* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
+

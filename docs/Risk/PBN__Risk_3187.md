@@ -6,3 +6,16 @@
 
 * [Improved lift maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1641.md)
 
+## Closest similar item
+
+* [Urban crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1064.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1325.md)
+* [Crowding and close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2751.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+* [Crowding during funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2646.md)
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3381.md)
+* [Crowd congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
+

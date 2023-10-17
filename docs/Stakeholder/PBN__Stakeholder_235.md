@@ -6,3 +6,16 @@
 
 * [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
 
+## Closest similar item
+
+* [funeral organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_867.md)
+* [communities practicing home funerals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_866.md)
+* [event attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_844.md)
+* [individuals attending events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2545.md)
+* [attendees of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_861.md)
+* [event organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_862.md)
+* [individual attending event](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2509.md)
+* [community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)
+* [social gathering](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2483.md)
+* [hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
+

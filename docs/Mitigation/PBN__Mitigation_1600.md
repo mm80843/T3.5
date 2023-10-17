@@ -2,13 +2,26 @@
 
 # __Appropriate unit sizes and layouts that support physical distancing__
 
-## Property: has_MitigationSource
-
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inability to physically distance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3153.md)
+
+## Closest similar item
+
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
+* [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
+* [Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1331.md)
+* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1798.md)
+* [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_899.md)
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2382.md)
+* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2429.md)
+
+## Property: has_MitigationSource
+
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 
 ## Property: has_MitigationPrinciple
 

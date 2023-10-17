@@ -10,3 +10,16 @@
 
 * [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
 
+## Closest similar item
+
+* [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2348.md)
+* [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2701.md)
+* [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
+* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2674.md)
+* [mechanical ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4036.md)
+* [ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3822.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+

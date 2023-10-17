@@ -2,12 +2,25 @@
 
 # __Outdoor gathering spaces__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q116893334](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116893334.md)
+* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2724.md)
+* [outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
+* [outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2991.md)
+* [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
+* [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+* [sport and recreation spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1742.md)
+* [outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_849.md)
+* [community initiatives for using nearby green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
+* [crowd management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q116893334](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116893334.md)
 
 ## This Technology belongs to this TechGroup
 

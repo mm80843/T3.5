@@ -10,3 +10,16 @@
 
 * [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1212.md)
 
+## Closest similar item
+
+* [economic policies and planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4083.md)
+* [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
+* [marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
+* [strategic master plan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
+* [support for entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1804.md)
+* [investment in emerging sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1800.md)
+

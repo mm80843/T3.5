@@ -6,3 +6,16 @@
 
 * [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 
+## Closest similar item
+
+* [people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_567.md)
+* [People with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2109.md)
+* [persons with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_450.md)
+* [non-governmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1959.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [organizations promoting social inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1371.md)
+* [nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_812.md)
+* [Nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2497.md)
+* [non-governmental organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1920.md)
+

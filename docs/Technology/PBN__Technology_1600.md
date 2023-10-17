@@ -10,3 +10,16 @@
 
 * [Unbalanced utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
 
+## Closest similar item
+
+* [Smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2383.md)
+* [smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
+* [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+* [smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1015.md)
+* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2477.md)
+* [architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2720.md)
+* [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
+

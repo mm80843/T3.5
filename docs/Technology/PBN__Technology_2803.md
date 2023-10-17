@@ -2,12 +2,25 @@
 
 # __Antigen tests__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q66023711](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66023711.md)
+* [Antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2803.md)
+* [rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_782.md)
+* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2092.md)
+* [antigen rapid tests (arts)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
+* [clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1624.md)
+* [laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q66023711](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66023711.md)
 
 ## This Technology belongs to this TechGroup
 

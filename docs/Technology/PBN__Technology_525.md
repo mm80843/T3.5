@@ -10,3 +10,16 @@
 
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 
+## Closest similar item
+
+* [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
+* [enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
+* [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2543.md)
+* [Improved surveillance infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
+* [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2483.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+

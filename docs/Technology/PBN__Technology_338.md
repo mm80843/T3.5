@@ -10,3 +10,16 @@
 
 * [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
 
+## Closest similar item
+
+* [Safe navigation apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2397.md)
+* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
+* [safe management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4255.md)
+* [easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1671.md)
+* [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
+* [safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3053.md)
+* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
+* [user-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
+

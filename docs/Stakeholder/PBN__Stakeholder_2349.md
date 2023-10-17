@@ -2,14 +2,27 @@
 
 # __individuals in need of mental health support; individuals with pre-existing mental health conditions; marginalized communities with limited access to mental health services__
 
-## This Stakeholder is identified by the following QID
-
-* [Q6817416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6817416.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
+## Closest similar item
+
+* [individual in need of mental health support; individual with pre-existing mental health conditions; marginalized community with limited acces to mental health service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2352.md)
+* [individual in need of mental health support; individual with pre-existing mental health conditions; marginalized community with limited acce to mental health service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2183.md)
+* [individuals in need of mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1345.md)
+* [marginalized communities with limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1346.md)
+* [individual in need of mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2542.md)
+* [individuals with mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1373.md)
+* [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
+* [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
+* [individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1417.md)
+* [individuals with previous mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1339.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q6817416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6817416.md)
 

@@ -2,13 +2,26 @@
 
 # __Climatically compatible house designs__
 
-## Property: has_MitigationSource
-
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
+
+## Closest similar item
+
+* [Climate-Sensitive Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_526.md)
+* [Improved Indoor Climate Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1762.md)
+* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
+* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1498.md)
+* [Sustainable Building Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1786.md)
+* [Thermal Comfort Optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_181.md)
+* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
+
+## Property: has_MitigationSource
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
 ## Property: has_MitigationPrinciple
 

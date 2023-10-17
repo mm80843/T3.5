@@ -10,3 +10,16 @@
 
 * [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
 
+## Closest similar item
+
+* [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2594.md)
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_199.md)
+* [movable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4357.md)
+* [partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)
+* [physical barriers (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3586.md)
+* [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
+* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
+

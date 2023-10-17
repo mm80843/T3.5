@@ -10,3 +10,16 @@
 
 * [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
 
+## Closest similar item
+
+* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2442.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
+* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+* [identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
+* [Identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+

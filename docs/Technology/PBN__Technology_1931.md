@@ -10,3 +10,16 @@
 
 * [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
 
+## Closest similar item
+
+* [Smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2269.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
+* [smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
+* [health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1516.md)
+* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
+* [integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4074.md)
+* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
+* [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
+* [smart home systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3272.md)
+

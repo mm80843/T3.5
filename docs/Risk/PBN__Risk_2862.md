@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Bricolage Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
 * [Purposeful Bricolage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1024.md)
+* [Bricolage Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
+
+## Closest similar item
+
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
+* [Inherent vulnerabilities in](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_775.md)
+* [Challenges of new](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_902.md)
+* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
+* [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
+* [Building resilience capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3375.md)
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
+* [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2022.md)
+* [Threat events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 

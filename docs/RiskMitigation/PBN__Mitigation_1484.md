@@ -2,13 +2,26 @@
 
 # __Healthcare access and affordability__
 
-## Property: has_MitigationSource
-
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Low accessibility and affordability worsen malaria risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3099.md)
+
+## Closest similar item
+
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
+* [Equitable Healthcare Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
+* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
+* [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
+* [Healthcare Access and Early Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
+* [Publicly funded and managed healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2253.md)
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
+* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
+
+## Property: has_MitigationSource
+
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 
 ## Property: has_MitigationPrinciple
 

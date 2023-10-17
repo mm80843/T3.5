@@ -10,3 +10,16 @@
 
 * [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
 
+## Closest similar item
+
+* [modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
+* [mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_298.md)
+* [Mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2054.md)
+* [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
+* [modeling and simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_759.md)
+* [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
+* [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
+* [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
+

@@ -10,3 +10,16 @@
 
 * [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
 
+## Closest similar item
+
+* [Forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
+* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
+* [demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1133.md)
+* [Demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
+* [demand forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3813.md)
+* [predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3951.md)
+* [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
+* [fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4334.md)
+* [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+* [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+

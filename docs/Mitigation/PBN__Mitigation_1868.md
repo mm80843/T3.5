@@ -2,12 +2,25 @@
 
 # __Integrated management and planning__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Integrated Project Delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_748.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
+* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1821.md)
+* [Integrated Command and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
+* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
+* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
+* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
+* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
+* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
+
 ## Property: has_MitigationSource
 
 * [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

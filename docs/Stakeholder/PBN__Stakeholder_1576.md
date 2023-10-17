@@ -6,3 +6,16 @@
 
 * [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
 
+## Closest similar item
+
+* [general populations in areas with vector-borne disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1572.md)
+* [people living in provinces with high hiv prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_858.md)
+* [People living in provinces with high HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2236.md)
+* [residents of underserved areas and areas with high disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_731.md)
+* [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
+* [person living in province with high HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2394.md)
+* [individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_686.md)
+* [individuals infected with COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2157.md)
+* [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
+* [resident of underserved area and area with high disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2148.md)
+

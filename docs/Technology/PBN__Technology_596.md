@@ -10,3 +10,16 @@
 
 * [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
 
+## Closest similar item
+
+* [Green space quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2118.md)
+* [green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
+* [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3610.md)
+* [access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2745.md)
+* [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+

@@ -10,3 +10,16 @@
 
 * [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
 
+## Closest similar item
+
+* [implementation of HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2762.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2236.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4550.md)
+* [air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
+* [air purifiers with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2892.md)
+* [air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3287.md)
+* [hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)
+* [HVAC systems with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+* [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+

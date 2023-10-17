@@ -2,15 +2,15 @@
 
 # __A review of definitions and measures of system resilience__
 
-## DOI of the article
+## Year of publication
 
-10.1016/j.ress.2015.08.006
+2016
 
 ## Title of the article
 
 A review of definitions and measures of system resilience
 
-## Year of publication
+## DOI of the article
 
-2016
+10.1016/j.ress.2015.08.006
 

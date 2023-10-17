@@ -2,12 +2,25 @@
 
 # __Controlling source__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
+* [Automatic Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2408.md)
+* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1546.md)
+* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_908.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+
 ## Property: has_MitigationSource
 
 * [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

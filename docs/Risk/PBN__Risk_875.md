@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Enhancing ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
 * [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
+* [Enhancing ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
+
+## Closest similar item
+
+* [Reduction in transmission of SAR-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_888.md)
+* [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
+* [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)
+* [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
+* [Spread of SARS-CoV-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_459.md)
+* [Transmission of SARS-CoV-2 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_222.md)
+* [Uncontrolled SARS-CoV-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
+* [Spread of SARS-CoV-2 virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_0.md)
+* [Transmission of SARS-CoV-2 through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_223.md)
+* [Transmission of SARS-CoV-2 through contact with contaminated objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_221.md)
 

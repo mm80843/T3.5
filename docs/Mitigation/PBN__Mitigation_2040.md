@@ -2,13 +2,26 @@
 
 # __Distance index Pd__
 
-## Property: has_MitigationSource
-
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+
+## Closest similar item
+
+* [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1558.md)
+* [Social Distance Radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
+* [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1901.md)
+* [Increase distance between spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_977.md)
+* [Monitoring Mobility Metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
+* [Benchmarking Mobility Metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
+* [Distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1818.md)
+* [Increasing social distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2043.md)
+* [Travel-related Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_756.md)
+
+## Property: has_MitigationSource
+
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
 
 ## Property: has_MitigationPrinciple
 

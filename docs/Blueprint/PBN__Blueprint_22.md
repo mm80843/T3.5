@@ -2,13 +2,33 @@
 
 # __Drinking Water Safety - Restoring water quality in buildings after forced closure__
 
-## GBN Phase of the blueprint
+## Title of the blueprint
 
-Operational 
+PBN:BP_23
 
-## Scale of the of the blueprint
+## Value proposition of the blueprint
 
-Both
+​BP describes a general procedure to be followed before reopening a building or GBN to ensure high quality drinking water.
+
+## Demonstration of the blueprint
+
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/rtcr/seasonal_instructions.pdf
+https://www.epa.gov/sites/default/files/2020-05/documents/final_maintaining_building_water_quality_5.6.20-v2.pdf
+https://www.ontario.ca/page/procedure-disinfection-drinking-water-ontario
+https://www.epa.gov/sites/default/files/2020-05/documents/final_checklist_for_maintaining_building_water_quality_5-6-2020.pdf
+
+## Problem of the blueprint
+
+Water stagnation for weeks or even months as a result of building closures can cause the growth of microbial and chemical contaminants in water and affect the quality of drinking water.
+
+## Context of the blueprint
+
+This measure is to be implemented in all GBN buildings that have been closed for a longer period of time or are used seasonally.
+
+## Interventions of the blueprint
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_28.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_32.md)
 
 ## Mode of transmission covered by the blueprint
 
@@ -18,13 +38,27 @@ Water outlets (e.g. taps, showers, toilets, fountains...)
 
 Technical
 
+## Scale of the of the blueprint
+
+Both
+
+## Type of deployment of the blueprint
+
+Temporary
+
+## GBN Phase of the blueprint
+
+Operational 
+
 ## Capabilities of the blueprint
 
 Water quality is closely monitored in Europe and North America; therefore, there are many resources for determining a reopening procedure tailored to the needs of a particular building or GBN.
 
-## Restrictions of the blueprint
+## Reason of the blueprint
 
-If thorough quality control and disinfection of the drinking water network is required, external support may be necessary.
+Safe drinking water infrastructure is essential for the proper operation of buildings or GBN. In a pandemic scenario, prolonged periods of closure can lead to bacterial growth contaminating and even clogging drinking water treatment systems if these systems are not properly restarted.
+To address this potential problem, authorities recommend that building owners and managers take proactive measures to minimise water stagnation during forced closure periods and take steps to improve the building's water quality before reopening. Maintaining water quality helps to ensure that more complex remediation is not required prior to reopening.
+In most cases, this problem can be solved by implementing procedures to flush and disinfect the building's sanitary facilities before reopening.
 
 ## Description of the blueprint
 
@@ -38,43 +72,9 @@ This BP describes a general procedure for the quality of drinking water in build
 6) Depending on the results of the previous step, consider whether further disinfection or heat treatment is required.
 7) Consider informing building occupants of the condition of the water system and restricting access to water whose quality is unsafe. In this scenario, temporary on-demand water service providers may be considered.
 
-## Problem of the blueprint
+## Restrictions of the blueprint
 
-Water stagnation for weeks or even months as a result of building closures can cause the growth of microbial and chemical contaminants in water and affect the quality of drinking water.
-
-## Demonstration of the blueprint
-
-https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/rtcr/seasonal_instructions.pdf
-https://www.epa.gov/sites/default/files/2020-05/documents/final_maintaining_building_water_quality_5.6.20-v2.pdf
-https://www.ontario.ca/page/procedure-disinfection-drinking-water-ontario
-https://www.epa.gov/sites/default/files/2020-05/documents/final_checklist_for_maintaining_building_water_quality_5-6-2020.pdf
-
-## Reason of the blueprint
-
-Safe drinking water infrastructure is essential for the proper operation of buildings or GBN. In a pandemic scenario, prolonged periods of closure can lead to bacterial growth contaminating and even clogging drinking water treatment systems if these systems are not properly restarted.
-To address this potential problem, authorities recommend that building owners and managers take proactive measures to minimise water stagnation during forced closure periods and take steps to improve the building's water quality before reopening. Maintaining water quality helps to ensure that more complex remediation is not required prior to reopening.
-In most cases, this problem can be solved by implementing procedures to flush and disinfect the building's sanitary facilities before reopening.
-
-## Value proposition of the blueprint
-
-​BP describes a general procedure to be followed before reopening a building or GBN to ensure high quality drinking water.
-
-## Context of the blueprint
-
-This measure is to be implemented in all GBN buildings that have been closed for a longer period of time or are used seasonally.
-
-## Title of the blueprint
-
-PBN:BP_23
-
-## Interventions of the blueprint
-
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_28.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_32.md)
-
-## Type of deployment of the blueprint
-
-Temporary
+If thorough quality control and disinfection of the drinking water network is required, external support may be necessary.
 
 ## Enablers of the blueprint
 

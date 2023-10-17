@@ -6,3 +6,16 @@
 
 * [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
 
+## Closest similar item
+
+* [natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
+* [sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4067.md)
+* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
+* [eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
+* [better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2016.md)
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
+* [recycled materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4519.md)
+* [eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
+

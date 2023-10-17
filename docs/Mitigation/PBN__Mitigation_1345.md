@@ -2,12 +2,25 @@
 
 # __Increasing fresh air supply in HVAC systems__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Optimization of fresh air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2290.md)
+* [Enhanced HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1756.md)
+* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
+* [Clean and functional HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2288.md)
+* [Access to Fresh Air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_522.md)
+* [Air Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
+* [Improvement in Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_919.md)
+* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_220.md)
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
+
 ## Property: has_MitigationSource
 
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

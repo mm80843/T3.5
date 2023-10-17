@@ -2,13 +2,26 @@
 
 # __Prevention applications__
 
-## Property: has_MitigationSource
-
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
+
+## Closest similar item
+
+* [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1473.md)
+* [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2446.md)
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
+* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
+* [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
+* [Universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2051.md)
+* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
+* [Behavioral Interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
+
+## Property: has_MitigationSource
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 
 ## Property: has_MitigationPrinciple
 

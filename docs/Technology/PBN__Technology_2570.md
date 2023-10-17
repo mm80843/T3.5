@@ -2,13 +2,26 @@
 
 # __Regular cleaning and disinfection technologies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2570.md)
+* [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
+* [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2547.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1664.md)
+* [Enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+
+## This Technology is identified by the following QID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 
 ## This Technology belongs to this TechGroup
 

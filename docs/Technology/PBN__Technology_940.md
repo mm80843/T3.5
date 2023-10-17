@@ -10,3 +10,16 @@
 
 * [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
 
+## Closest similar item
+
+* [healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3378.md)
+* [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_254.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2177.md)
+* [healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_300.md)
+* [healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+* [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
+* [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+* [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+

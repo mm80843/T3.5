@@ -2,6 +2,19 @@
 
 # __Cleaning products__
 
+## Closest similar item
+
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2569.md)
+* [cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2009.md)
+* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2547.md)
+* [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
+* [cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_439.md)
+* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2823.md)
+* [enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
+* [proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
+
 ## This Technology belongs to this TechSubgroup
 
 

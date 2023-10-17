@@ -10,3 +10,16 @@
 
 * [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
 
+## Closest similar item
+
+* [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
+* [teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4495.md)
+* [teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
+* [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4089.md)
+* [teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4122.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4548.md)
+* [teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
+* [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [Teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2287.md)
+* [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
+

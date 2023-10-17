@@ -6,3 +6,16 @@
 
 * [Regulation of DV](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_740.md)
 
+## Closest similar item
+
+* [surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
+* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
+* [enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+* [legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1431.md)
+* [legal advice](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4162.md)
+* [legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+

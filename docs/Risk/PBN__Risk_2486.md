@@ -6,3 +6,16 @@
 
 * [Integration of IoT and AI Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
 
+## Closest similar item
+
+* [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3211.md)
+* [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2563.md)
+* [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+* [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_398.md)
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
+* [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_739.md)
+* [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
+* [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2610.md)
+* [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
+* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
+

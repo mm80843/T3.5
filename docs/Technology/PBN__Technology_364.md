@@ -10,3 +10,16 @@
 
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
 
+## Closest similar item
+
+* [disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
+* [cleaning and disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [Disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
+* [disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+* [preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+

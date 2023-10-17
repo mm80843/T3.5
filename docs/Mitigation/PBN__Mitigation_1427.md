@@ -2,13 +2,26 @@
 
 # __Increased outdoor air supply__
 
-## Property: has_MitigationSource
-
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Insufficient outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3065.md)
+
+## Closest similar item
+
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_726.md)
+* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
+* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Increasing fresh air supply in HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1345.md)
+* [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
+* [Optimization of fresh air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2290.md)
+
+## Property: has_MitigationSource
+
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
 ## Property: has_MitigationPrinciple
 

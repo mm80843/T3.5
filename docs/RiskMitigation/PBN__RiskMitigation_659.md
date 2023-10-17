@@ -2,11 +2,24 @@
 
 # __Improved urban planning__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Urban crowding and poor housing facilitates spread of VBDs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_469.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_666.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Urban crowding and poor housing facilitates spread of VBDs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_469.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
+* [Improve urban planning to provide adequate housing, infrastructure, and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1453.md)
+* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
+* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1736.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
+* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
+* [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1503.md)
 

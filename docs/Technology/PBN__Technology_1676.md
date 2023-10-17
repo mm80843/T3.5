@@ -2,16 +2,29 @@
 
 # __opal-datashield__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q6051160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6051160.md)
+* [Opal-DataSHIELD](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2110.md)
+* [open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
+* [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [data encryption tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1901.md)
+* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3546.md)
+* [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
+* [new data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4411.md)
+* [open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_823.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+
+## Risks linked to this technology
+
+* [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
 
 ## This Technology enables the following mitigations
 
 * [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2059.md)
 * [Federated infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2072.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
+* [Q6051160](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6051160.md)
 

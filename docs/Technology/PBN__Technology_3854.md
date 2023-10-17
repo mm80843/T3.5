@@ -6,3 +6,16 @@
 
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
 
+## Closest similar item
+
+* [silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3780.md)
+* [atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3112.md)
+* [surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
+* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+* [safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
+* [cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2782.md)
+* [scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_216.md)
+* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2688.md)
+

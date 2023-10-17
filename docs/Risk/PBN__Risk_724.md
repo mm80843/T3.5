@@ -6,3 +6,16 @@
 
 * [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
 
+## Closest similar item
+
+* [Ineffective dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_404.md)
+* [Ineffective dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2661.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1338.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3019.md)
+* [Communication Challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
+* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
+* [Dissemination of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_493.md)
+

@@ -2,13 +2,26 @@
 
 # __Improved ventilation rates__
 
-## Property: has_MitigationSource
-
-* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+
+## Closest similar item
+
+* [Increased Ventilation Rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1223.md)
+* [Higher ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1839.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2048.md)
+* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
+* [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1327.md)
+* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1349.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Improved Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+
+## Property: has_MitigationSource
+
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 
 ## Property: has_MitigationPrinciple
 

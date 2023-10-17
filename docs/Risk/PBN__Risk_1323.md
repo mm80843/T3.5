@@ -2,35 +2,38 @@
 
 # __Ineffective administrative controls__
 
-## Name of the risk
-
-Increased risk of exposure to SARS-CoV-2 in the workplace.
-
-## Description of the risk
-
-Inadequate implementation of policies and procedures to limit exposure.
-
-## Mitigations of this risk
-
-* [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
-
-## Property: has_RiskHealth
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-* [health and safety professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_835.md)
-* [human resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_842.md)
+* [workers in all industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_841.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased risk of exposure to SARS-CoV-2 in the workplace.
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1975.md)
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
+* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_542.md)
+* [Ineffective public management models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1195.md)
+* [Loss of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_51.md)
+* [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3328.md)
+* [Inadequate governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_631.md)
+* [Difficulties in management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1526.md)
+
+## Description of the risk
+
+Inadequate implementation of policies and procedures to limit exposure.
 
 ## Technologies linked to the risk
 
@@ -38,19 +41,29 @@ Inadequate implementation of policies and procedures to limit exposure.
 * [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
 * [employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [workers in all industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_841.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
+
+## Articles mentionning the risk
+
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [health and safety professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_835.md)
+* [human resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_842.md)
 

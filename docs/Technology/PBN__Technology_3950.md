@@ -6,3 +6,16 @@
 
 * [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
 
+## Closest similar item
+
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2445.md)
+* [rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
+* [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)
+* [increased production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1970.md)
+* [testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
+* [hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+

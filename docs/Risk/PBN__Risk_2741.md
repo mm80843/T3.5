@@ -6,3 +6,16 @@
 
 * [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
 
+## Closest similar item
+
+* [Limited access to outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
+* [Limited access to outdoor areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_344.md)
+* [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
+* [Limited access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2581.md)
+* [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1684.md)
+* [Limited access to outdoor space in urban centres](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_920.md)
+* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
+* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
+* [Lack of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
+* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
+

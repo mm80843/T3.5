@@ -10,3 +10,16 @@
 
 * [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
 
+## Closest similar item
+
+* [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
+* [travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
+* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2478.md)
+* [travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4042.md)
+* [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
+* [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
+* [location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3708.md)
+* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2453.md)
+* [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
+

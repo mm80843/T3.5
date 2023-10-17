@@ -2,53 +2,66 @@
 
 # __Inefficient VOC removal by plants__
 
-## Name of the risk
-
-Limited reduction of VOCs, inability to maintain indoor air quality.
-
-## Description of the risk
-
-Plants alone are not efficient in removing VOCs in the built environment due to low uptake rates and inadequate understanding of removal mechanisms.
-
-## Mitigations of this risk
-
-* [Further research on plant efficiency, explore other removal methods, such as activated carbon.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2998.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-
-## Stakeholders who can mitigate this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
-* [activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
 
 ## People affected by this risk
 
 * [people in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1536.md)
 
+## Name of the risk
+
+Limited reduction of VOCs, inability to maintain indoor air quality.
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [VOC Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
+* [Emissions of VOCs, risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
+* [Contamination of indoor air with volatile organic compounds (VOCs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_966.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
+* [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
+* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2969.md)
+* [Poor filtration efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3023.md)
+* [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
+* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
+* [AQ1: Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_184.md)
+
+## Description of the risk
+
+Plants alone are not efficient in removing VOCs in the built environment due to low uptake rates and inadequate understanding of removal mechanisms.
+
+## Technologies linked to the risk
+
+* [activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
+* [biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Further research on plant efficiency, explore other removal methods, such as activated carbon.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2998.md)
+
+## Articles mentionning the risk
+
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 

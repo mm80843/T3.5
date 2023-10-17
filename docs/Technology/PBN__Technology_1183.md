@@ -10,3 +10,16 @@
 
 * [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1825.md)
 
+## Closest similar item
+
+* [targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
+* [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
+* [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
+* [investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_945.md)
+* [neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4135.md)
+* [neighbourhood improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4501.md)
+* [impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1697.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
+

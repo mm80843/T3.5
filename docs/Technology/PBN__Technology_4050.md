@@ -4,6 +4,19 @@
 
 ## This Technology enables the following mitigations
 
-* [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
 * [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
+* [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
+
+## Closest similar item
+
+* [automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1733.md)
+* [smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
+* [temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4112.md)
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
+* [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
+* [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2518.md)
+* [temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3742.md)
 

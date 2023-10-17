@@ -2,13 +2,13 @@
 
 # __Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With__
 
-## Referenced by other articles
-
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
-
 ## Title of the article
 
 Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With
+
+## Referenced by other articles
+
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 
 ## Year of publication
 

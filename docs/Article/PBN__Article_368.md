@@ -2,15 +2,15 @@
 
 # __DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic__
 
-## DOI of the article
+## Year of publication
 
-10.3390/app10217514
+2020
 
 ## Title of the article
 
 DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic
 
-## Year of publication
+## DOI of the article
 
-2020
+10.3390/app10217514
 

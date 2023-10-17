@@ -2,13 +2,26 @@
 
 # __Barrier Measures__
 
-## Property: has_MitigationSource
-
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+
+## Closest similar item
+
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
+* [Physical Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
+* [Barrier-Free Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
+* [Physical Barriers (e.g., Plexiglass)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
+* [Reducing Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
+* [Preventive Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1870.md)
+* [Combined Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
+
+## Property: has_MitigationSource
+
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 
 ## Property: has_MitigationPrinciple
 

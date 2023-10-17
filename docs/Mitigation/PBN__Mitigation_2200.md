@@ -2,12 +2,25 @@
 
 # __Psychological First Aid (PFA)__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Ultrabrief Psychological Intervention (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2199.md)
+* [Psychological Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
+* [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
+* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
+* [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
+* [Behavioral Interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
+* [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
+* [Personal protective equipment (PPE) use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_955.md)
+* [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
+
 ## Property: has_MitigationSource
 
 * [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

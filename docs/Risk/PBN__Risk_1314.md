@@ -2,35 +2,39 @@
 
 # __Inadequate urban design and planning for disease prevention__
 
-## Name of the risk
-
-Higher infection rates, overwhelmed healthcare systems, high mortality rates.
-
-## Description of the risk
-
-Lack of consideration for disease prevention in urban design and planning can increase the spread of infectious diseases.
-
-## Mitigations of this risk
-
-* [Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1803.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
-* [urban planning organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_832.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Higher infection rates, overwhelmed healthcare systems, high mortality rates.
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1215.md)
+* [Inequalities in health driven by urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_286.md)
+* [Limited focus on pandemic preparedness in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2450.md)
+* [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
+* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
+* [Fragile socio-economic and spatial structures of cities exposed by COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_753.md)
+* [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
+* [Mainstreaming health criteria in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_910.md)
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
+
+## Description of the risk
+
+Lack of consideration for disease prevention in urban design and planning can increase the spread of infectious diseases.
 
 ## Technologies linked to the risk
 
@@ -38,20 +42,29 @@ Lack of consideration for disease prevention in urban design and planning can in
 * [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
 * [sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1803.md)
+
+## Articles mentionning the risk
+
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [urban planning organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_832.md)
 

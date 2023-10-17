@@ -2,12 +2,25 @@
 
 # __Maintenance of web apps during outbreak__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
+* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
+* [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
+* [Outbreak Investigation and Response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
+* [Global virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
+* [Virus-inactivating Solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_823.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
+
 ## Property: has_MitigationSource
 
 * [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

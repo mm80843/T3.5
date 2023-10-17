@@ -6,3 +6,16 @@
 
 * [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
 
+## Closest similar item
+
+* [close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_974.md)
+* [individuals in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_756.md)
+* [individual in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2138.md)
+* [individuals in contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1522.md)
+* [individual in contact with surface](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2224.md)
+* [individuals in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1206.md)
+* [contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1051.md)
+* [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
+* [individual in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2285.md)
+* [telecommunication companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_633.md)
+

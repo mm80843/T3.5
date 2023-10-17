@@ -10,3 +10,16 @@
 
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 
+## Closest similar item
+
+* [green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1033.md)
+* [green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1840.md)
+* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2351.md)
+* [green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
+* [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2321.md)
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+* [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
+* [green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
+* [cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
+* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
+

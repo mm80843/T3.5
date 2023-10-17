@@ -2,15 +2,28 @@
 
 # __policies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q47011897](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47011897.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1609.md)
+* [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+* [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
+* [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+
+## Risks linked to this technology
+
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
 
 ## This Technology enables the following mitigations
 
 * [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2435.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
+* [Q47011897](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47011897.md)
 

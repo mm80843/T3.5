@@ -6,3 +6,16 @@
 
 * [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
 
+## Closest similar item
+
+* [Enhance surveillance systems, strengthen global cooperation, and invest in research and development.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2726.md)
+* [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
+* [Improve monitoring and enforcement of mitigation measures, increase public awareness and understanding of the importance of measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2363.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1031.md)
+* [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1223.md)
+* [Strengthening surveillance and control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
+* [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
+* [Strengthening of surveillance systems, increased monitoring of vector populations and disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3057.md)
+* [Strengthen border health surveillance, develop rapid response protocols, promote international cooperation in disease control.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2729.md)
+

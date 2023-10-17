@@ -6,3 +6,16 @@
 
 * [IoT in healthcare (IoMT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_142.md)
 
+## Closest similar item
+
+* [Musculoskeletal disorders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_940.md)
+* [Lack of Effective Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1868.md)
+* [Physical health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2986.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+* [Lack of recovery support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2877.md)
+* [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)
+* [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
+* [Inadequate patient-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2021.md)
+* [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
+

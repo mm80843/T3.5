@@ -2,35 +2,39 @@
 
 # __Inadequate Acoustics__
 
-## Name of the risk
-
-Increased stress, reduced concentration, reduced productivity, and negative impact on mental well-being.
-
-## Description of the risk
-
-Excessive noise levels in buildings can lead to stress, distraction, and decreased cognitive performance.
-
-## Mitigations of this risk
-
-* [Good acoustic design, use of sound-absorbing materials, acoustic panels, and partitions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1572.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [especially those who work in open offices or noisy environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_653.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased stress, reduced concentration, reduced productivity, and negative impact on mental well-being.
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Closest similar item
+
+* [Poor acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_128.md)
+* [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
+* [Noise Disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2482.md)
+* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1092.md)
+* [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
+* [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_398.md)
+* [Inadequate Safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2670.md)
+* [Environmental noise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_841.md)
+
+## Description of the risk
+
+Excessive noise levels in buildings can lead to stress, distraction, and decreased cognitive performance.
 
 ## Technologies linked to the risk
 
@@ -38,20 +42,29 @@ Excessive noise levels in buildings can lead to stress, distraction, and decreas
 * [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
 * [partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_199.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [especially those who work in open offices or noisy environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_653.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Good acoustic design, use of sound-absorbing materials, acoustic panels, and partitions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1572.md)
+
+## Articles mentionning the risk
+
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 

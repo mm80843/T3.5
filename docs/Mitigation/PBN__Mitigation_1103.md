@@ -2,13 +2,26 @@
 
 # __Configurable Simulation__
 
-## Property: has_MitigationSource
-
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Overwhelming customization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2923.md)
+
+## Closest similar item
+
+* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
+* [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
+* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
+* [Proper system configuration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
+* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
+* [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
+* [Integrated Command and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
+
+## Property: has_MitigationSource
+
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 
 ## Property: has_MitigationPrinciple
 

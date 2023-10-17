@@ -2,12 +2,25 @@
 
 # __Indoor residual spraying (IRS)__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Elimination of Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
+* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
+* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1410.md)
+* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_502.md)
+* [Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1297.md)
+* [Good Indoor Airflow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1463.md)
+* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1995.md)
+* [Nano-Spray Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
+
 ## Property: has_MitigationSource
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 
@@ -15,6 +28,6 @@ IRS involves the application of residual insecticides to the inner walls of room
 
 ## This Mitigation is enabled by the following technologies
 
-* [spraying equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2918.md)
 * [insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+* [spraying equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2918.md)
 

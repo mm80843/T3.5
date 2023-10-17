@@ -2,54 +2,67 @@
 
 # __Lack of public awareness__
 
-## Name of the risk
-
-Misinformation and non-compliance with control measures
-
-## Description of the risk
-
-Lack of knowledge and understanding about COVID-19
-
-## Mitigations of this risk
-
-* [Increase public education and communication efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2852.md)
-* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
-* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Misinformation and non-compliance with control measures
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Closest similar item
+
+* [Lack of public awareness and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2590.md)
+* [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
+* [Low public knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2009.md)
+* [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
+* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
+* [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
+
+## Description of the risk
+
+Lack of knowledge and understanding about COVID-19
 
 ## Technologies linked to the risk
 
 * [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Increase public education and communication efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2852.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
+
+## Articles mentionning the risk
+
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
 

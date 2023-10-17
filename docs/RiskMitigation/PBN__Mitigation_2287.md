@@ -2,12 +2,25 @@
 
 # __Switch off heat/cold recovery__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
+* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1082.md)
+* [Shut off air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2286.md)
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
+* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_30.md)
+* [Energy-Efficient Heating/Cooling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1774.md)
+* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1845.md)
+* [Regular HVAC Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
+
 ## Property: has_MitigationSource
 
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

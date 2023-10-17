@@ -10,3 +10,16 @@
 
 * [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1340.md)
 
+## Closest similar item
+
+* [evidence base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3173.md)
+* [validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
+* [reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3524.md)
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
+* [reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
+

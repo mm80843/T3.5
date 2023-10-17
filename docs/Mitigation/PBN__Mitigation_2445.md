@@ -2,13 +2,26 @@
 
 # __Access to accurate and reliable information__
 
-## Property: has_MitigationSource
-
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+
+## Closest similar item
+
+* [Reliable Information Sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1727.md)
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1546.md)
+* [Clear and Timely Information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1725.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2461.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
+* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2464.md)
+* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2460.md)
+* [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1634.md)
+* [Real-time Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
+
+## Property: has_MitigationSource
+
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 
 ## Property: has_MitigationPrinciple
 
@@ -16,6 +29,6 @@ Ensuring access to accurate and reliable information through internet and variou
 
 ## This Mitigation is enabled by the following technologies
 
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 

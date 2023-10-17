@@ -6,3 +6,16 @@
 
 * [Reduced poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_629.md)
 
+## Closest similar item
+
+* [temporary migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1516.md)
+* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
+* [Migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2346.md)
+* [Migrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2383.md)
+* [migrant populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
+* [global migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_950.md)
+* [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
+* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+* [immigrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2332.md)
+* [refugee habitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2243.md)
+

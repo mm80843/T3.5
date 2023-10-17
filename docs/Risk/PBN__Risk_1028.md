@@ -2,34 +2,39 @@
 
 # __Inadequate global travel restrictions__
 
-## Name of the risk
-
-Increased disease spread to different regions
-
-## Description of the risk
-
-Insufficient control of disease transmission through travel
-
-## Mitigations of this risk
-
-* [Implement temperature screening, travel advisories, and quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1459.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [border control authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_554.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Increased disease spread to different regions
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
+* [Travel-related risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
+* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
+* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3384.md)
+* [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_679.md)
+* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2773.md)
+* [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
+* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
+* [Increased travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3004.md)
+* [Individual responsibility for travel choices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_531.md)
+
+## Description of the risk
+
+Insufficient control of disease transmission through travel
 
 ## Technologies linked to the risk
 
@@ -37,20 +42,28 @@ Insufficient control of disease transmission through travel
 * [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
 * [quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Implement temperature screening, travel advisories, and quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1459.md)
+
+## Articles mentionning the risk
+
+* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [border control authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_554.md)
 

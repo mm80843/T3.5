@@ -2,11 +2,24 @@
 
 # __UV-based technologies__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+
 ## Property: has_MitigationBenefit
 
 * [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+* [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
+* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
+* [More research on UV susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2988.md)
+* [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
+* [Upper-room UV light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_522.md)
+* [Upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_846.md)
+* [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_191.md)
+* [Train and certify more UV technicians](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2372.md)
+* [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
 

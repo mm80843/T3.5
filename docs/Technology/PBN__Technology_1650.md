@@ -10,3 +10,16 @@
 
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
 
+## Closest similar item
+
+* [Eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2586.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+* [disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
+* [use of industry-approved disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_294.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1728.md)
+* [EPA-approved disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2583.md)
+

@@ -8,3 +8,16 @@
 * [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
 * [Reduced eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_198.md)
 
+## Closest similar item
+
+* [individuals facing eviction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_714.md)
+* [landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2013.md)
+* [tenants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_281.md)
+* [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
+* [tenant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1926.md)
+* [individuals living in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1060.md)
+* [low-income renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_112.md)
+* [individuals living in close proximity to neighbours during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1059.md)
+* [landlord](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1999.md)
+* [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
+

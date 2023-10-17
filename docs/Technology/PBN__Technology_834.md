@@ -10,3 +10,16 @@
 
 * [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
 
+## Closest similar item
+
+* [Animal surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2868.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+* [environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+* [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
+* [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
+

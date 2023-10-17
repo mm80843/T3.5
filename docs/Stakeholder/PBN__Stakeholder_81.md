@@ -2,6 +2,19 @@
 
 # __population__
 
+## Closest similar item
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [the general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
+* [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
+* [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
+* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+* [societal population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_289.md)
+* [the global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
+* [Minority population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2200.md)
+* [general population in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_571.md)
+* [wildlife population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2708.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)

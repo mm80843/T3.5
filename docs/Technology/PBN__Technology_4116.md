@@ -6,3 +6,16 @@
 
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 
+## Closest similar item
+
+* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2485.md)
+* [travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4040.md)
+* [travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1567.md)
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2488.md)
+* [travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
+* [government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
+* [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
+* [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
+

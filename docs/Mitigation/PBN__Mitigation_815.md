@@ -2,13 +2,26 @@
 
 # __Filtration systems__
 
-## Property: has_MitigationSource
-
-* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [High indoor pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2756.md)
+
+## Closest similar item
+
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
+* [water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2679.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2678.md)
+* [mechanical filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2680.md)
+* [filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3915.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2681.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
+* [air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3145.md)
+
+## Property: has_MitigationSource
+
+* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
 
 ## Property: has_MitigationPrinciple
 

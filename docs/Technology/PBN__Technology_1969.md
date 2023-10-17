@@ -10,3 +10,16 @@
 
 * [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
 
+## Closest similar item
+
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
+* [open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
+* [data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
+* [open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_786.md)
+* [improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_886.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
+* [data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+

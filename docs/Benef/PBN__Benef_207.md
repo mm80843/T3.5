@@ -2,6 +2,10 @@
 
 # __Reduced transmission risk__
 
+## Name of the Benefit
+
+Reduced risk of contracting SARS-CoV-2 through contaminated surfaces and hands
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced reputation and marketability of buildings, attracting more tenants and higher rental rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_214.md)
@@ -14,6 +18,19 @@
 * [Investment in remote working capabilities ensures business continuity, minimizes disruptions, and improves employee morale.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1184.md)
 * [Reduced healthcare costs and improved patient outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1417.md)
 
+## Stakeholders benefitting from this Benefit
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
+
 ## Articles mentionning this Benefit
 
 * [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
@@ -22,21 +39,4 @@
 * [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 * [Sustainability of Coronavirus on Different Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
 * [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
-
-## Name of the Benefit
-
-Reduced risk of contracting SARS-CoV-2 through contaminated surfaces and hands
-
-## Stakeholders benefitting from this Benefit
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-* [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
 

@@ -10,3 +10,16 @@
 
 * [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2179.md)
 
+## Closest similar item
+
+* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
+* [real-time data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
+* [advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1129.md)
+* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2454.md)
+* [real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1707.md)
+* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2473.md)
+* [remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
+

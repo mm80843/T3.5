@@ -2,13 +2,26 @@
 
 # __Clear contractual arrangements__
 
-## Property: has_MitigationSource
-
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Uncertainty in contractual entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2847.md)
+
+## Closest similar item
+
+* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1903.md)
+* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_129.md)
+* [Upstream agreements for supply chain re-purposing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1492.md)
+* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1825.md)
+* [Altering assignments and schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1605.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_103.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Common debt issuance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
+* [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
+* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
+
+## Property: has_MitigationSource
+
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
 ## Property: has_MitigationPrinciple
 

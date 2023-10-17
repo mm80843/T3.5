@@ -10,3 +10,16 @@
 
 * [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
 
+## Closest similar item
+
+* [Use of drainage design and maintenance techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2325.md)
+* [drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3901.md)
+* [drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4451.md)
+* [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
+* [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+* [maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_844.md)
+* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2319.md)
+* [water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
+* [moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4068.md)
+* [proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4276.md)
+

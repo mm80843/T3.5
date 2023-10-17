@@ -2,13 +2,26 @@
 
 # __Climate change mitigation__
 
-## Property: has_MitigationSource
-
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Impact of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
+
+## Closest similar item
+
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1388.md)
+* [Climate-Sensitive Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_526.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
+* [Reducing Community Environmental Impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
+* [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_598.md)
+* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
+* [Local Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1019.md)
+* [Connect Extreme Weather and Climate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_684.md)
+* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
+* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 
 ## Property: has_MitigationPrinciple
 

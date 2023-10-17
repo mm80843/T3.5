@@ -2,12 +2,25 @@
 
 # __Research on aerosol transmission__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [aerosol irradiation chamber](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_324.md)
+* [UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)
+* [RH effect on UV inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
+* [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
+* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2297.md)
+* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1391.md)
+* [Advanced Air Distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_283.md)
+* [Monitoring Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_911.md)
+* [Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

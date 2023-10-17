@@ -6,3 +6,16 @@
 
 * [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_685.md)
 
+## Closest similar item
+
+* [real estate agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2037.md)
+* [real estate agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1949.md)
+* [real estate developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1891.md)
+* [real estate developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2097.md)
+* [real estate managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2065.md)
+* [real estate owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1943.md)
+* [real estate industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1220.md)
+* [real estate manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2096.md)
+* [real estate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_384.md)
+* [real estate owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1990.md)
+

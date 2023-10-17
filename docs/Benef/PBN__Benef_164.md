@@ -2,19 +2,19 @@
 
 # __Improved access to healthcare services__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Improved health outcomes, reduced healthcare costs for residents](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_166.md)
-
-## Articles mentionning this Benefit
-
-* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
-
 ## Name of the Benefit
 
 Increased availability and accessibility of healthcare services in informal settlements
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved health outcomes, reduced healthcare costs for residents](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_166.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
+
+## Articles mentionning this Benefit
+
+* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 

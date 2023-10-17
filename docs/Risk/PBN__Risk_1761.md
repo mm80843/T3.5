@@ -2,53 +2,66 @@
 
 # __UVGI systems must be properly used and maintained to ensure safety and efficacy__
 
-## Name of the risk
-
-Increased risks of eye and skin irritation, reduced disinfection effectiveness
-
-## Description of the risk
-
-Improper use and maintenance of UVGI systems can pose health risks and lead to ineffective disinfection
-
-## Mitigations of this risk
-
-* [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
-* [service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1171.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 
 ## People affected by this risk
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1171.md)
 
+## Name of the risk
+
+Increased risks of eye and skin irritation, reduced disinfection effectiveness
+
 ## Property: has_RiskISO_Purpose
 
 * [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Closest similar item
+
+* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
+* [UVGI systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
+* [Lack of standardized tests and protocols for UVGI efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1758.md)
+* [UVGI systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1759.md)
+* [Lack of definitive epidemiologic data on the ability of UVGI systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
+* [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Ultraviolet germicidal irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1192.md)
+* [Insufficient evidence on UVGI as an engineering control for preventing healthcare-associated tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
+* [Limited effectiveness of upper-room UVGI if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
+* [UVGI in AHUs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_256.md)
+
+## Description of the risk
+
+Improper use and maintenance of UVGI systems can pose health risks and lead to ineffective disinfection
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Ensure proper use and maintenance of UVGI systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
+
+## Articles mentionning the risk
+
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_10.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1171.md)
 

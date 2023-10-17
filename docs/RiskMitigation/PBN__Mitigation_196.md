@@ -2,13 +2,26 @@
 
 # __Self-Sanitizing Surfaces__
 
-## Property: has_MitigationSource
-
-* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+
+## Closest similar item
+
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
+* [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
+* [Enhanced Cleaning and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
+* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1899.md)
+* [Building Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1914.md)
+* [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2329.md)
+
+## Property: has_MitigationSource
+
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 
 ## Property: has_MitigationPrinciple
 

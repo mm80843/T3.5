@@ -2,12 +2,25 @@
 
 # __Negative air ionization__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Update and improve the design of negative air ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2887.md)
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
+* [Generating Negative Pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2888.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2889.md)
+* [Delivery in negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2890.md)
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2891.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2610.md)
+* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2892.md)
+* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2625.md)
+
 ## Property: has_MitigationSource
 
 * [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

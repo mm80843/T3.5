@@ -6,3 +6,16 @@
 
 * [Development of biosensors and LOC/POC systems for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_882.md)
 
+## Closest similar item
+
+* [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1155.md)
+* [Complex wastewater matrix as a challenge for biosensor detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
+* [Wastewater collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_717.md)
+* [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
+* [Lack of specific biomarkers for COVID-19 detection in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1154.md)
+* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2969.md)
+* [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2979.md)
+* [Detection of SARS-CoV-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_291.md)
+* [Variability in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3448.md)
+

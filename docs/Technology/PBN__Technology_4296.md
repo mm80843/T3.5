@@ -6,3 +6,16 @@
 
 * [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
 
+## Closest similar item
+
+* [lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4104.md)
+* [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+* [led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
+* [LED lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2853.md)
+* [lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
+* [lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3030.md)
+* [energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2251.md)
+* [led](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4086.md)
+* [lighting control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_654.md)
+

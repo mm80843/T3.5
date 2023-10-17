@@ -2,13 +2,26 @@
 
 # __Inter-sectoral collaboration__
 
-## Property: has_MitigationSource
-
-* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
+
+## Closest similar item
+
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
+* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1483.md)
+* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2213.md)
+* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2093.md)
+* [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
+* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
+* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
+
+## Property: has_MitigationSource
+
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 
 ## Property: has_MitigationPrinciple
 

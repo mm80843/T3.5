@@ -2,6 +2,19 @@
 
 # __social entrepreneurship funds__
 
+## Closest similar item
+
+* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+* [funding organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1196.md)
+* [money market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_509.md)
+* [entrepreneur](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1998.md)
+* [venture capitalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2023.md)
+* [capital market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_508.md)
+* [alternative investments funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_507.md)
+* [venture capitalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1958.md)
+* [funding organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2016.md)
+* [social institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_886.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)

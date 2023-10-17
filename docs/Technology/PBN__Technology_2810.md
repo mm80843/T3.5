@@ -2,12 +2,25 @@
 
 # __condom distribution__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q14076](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14076.md)
+* [hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
+* [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
+* [distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3575.md)
+* [vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
+* [HIV testing and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
+* [distribution strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1420.md)
+* [vaccine distribution to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_593.md)
+* [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+* [viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
+* [sterilization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4108.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q14076](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14076.md)
 
 ## This Technology belongs to this TechGroup
 

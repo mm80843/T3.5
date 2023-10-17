@@ -10,3 +10,16 @@
 
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 
+## Closest similar item
+
+* [cost reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
+* [cost optimization strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_162.md)
+* [budgeting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_691.md)
+* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
+* [production optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_10.md)
+* [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
+* [supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
+* [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
+* [restructuring models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
+* [alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
+

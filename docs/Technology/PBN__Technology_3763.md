@@ -7,3 +7,16 @@
 * [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1245.md)
 * [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1251.md)
 
+## Closest similar item
+
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
+* [virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2207.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4547.md)
+* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [virtual personal trainers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1076.md)
+

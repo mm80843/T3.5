@@ -2,13 +2,26 @@
 
 # __Modifying expectations__
 
-## Property: has_MitigationSource
-
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3157.md)
+
+## Closest similar item
+
+* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1488.md)
+* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
+* [Change and Opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
+* [Risk Perception](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_398.md)
+* [Policy Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
+* [Normative obligation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Tailored Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_687.md)
+* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2085.md)
+* [Altering assignments and schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1605.md)
+
+## Property: has_MitigationSource
+
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 
 ## Property: has_MitigationPrinciple
 

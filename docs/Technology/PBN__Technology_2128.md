@@ -2,12 +2,25 @@
 
 # __Multilingual social media platforms__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
+* [Multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
+* [multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
+* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
+* [multilingual resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
+* [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
+* [online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
+* [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology is identified by the following QID
+
+* [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
 
 ## This Technology belongs to this TechGroup
 

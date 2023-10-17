@@ -6,3 +6,16 @@
 
 * [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1503.md)
 
+## Closest similar item
+
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
+* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
+* [Impact on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_916.md)
+* [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
+* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2885.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+* [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2822.md)
+

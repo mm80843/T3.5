@@ -10,3 +10,16 @@
 
 * [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
 
+## Closest similar item
+
+* [data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
+* [data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
+* [data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2071.md)
+* [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
+* [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2613.md)
+* [data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_824.md)
+* [data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
+* [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
+

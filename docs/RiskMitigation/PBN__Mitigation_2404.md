@@ -2,12 +2,25 @@
 
 # __Data aggregation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
+* [Big Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+* [Continuous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1670.md)
+* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_661.md)
+* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
+* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_889.md)
+* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_655.md)
+* [Big Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_765.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
+
 ## Property: has_MitigationSource
 
 * [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

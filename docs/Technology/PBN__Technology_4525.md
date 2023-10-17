@@ -6,3 +6,16 @@
 
 * [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2480.md)
 
+## Closest similar item
+
+* [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
+* [chemical compositions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2932.md)
+* [natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
+* [natural views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3047.md)
+* [nature-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
+* [natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
+* [natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
+* [behavior change analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3547.md)
+* [nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4527.md)
+* [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+

@@ -2,13 +2,26 @@
 
 # __GIS tools for mapping and tracking__
 
-## Property: has_MitigationSource
-
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited access to spatial data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2989.md)
+
+## Closest similar item
+
+* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2110.md)
+* [Geographic Information System (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1376.md)
+* [GPS-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1697.md)
+* [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
+* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2224.md)
+* [Visualization and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
+* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
+* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2368.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
+
+## Property: has_MitigationSource
+
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 
 ## Property: has_MitigationPrinciple
 

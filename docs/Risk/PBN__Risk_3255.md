@@ -6,3 +6,16 @@
 
 * [Medical student support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1819.md)
 
+## Closest similar item
+
+* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Hospital-acquired COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_824.md)
+* [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
+* [Spread of Covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
+* [Severe cases of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
+* [COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2528.md)
+* [Underreporting of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
+* [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
+

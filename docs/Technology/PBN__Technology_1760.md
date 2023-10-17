@@ -10,3 +10,16 @@
 
 * [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)
 
+## Closest similar item
+
+* [backup energy source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4261.md)
+* [Backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2423.md)
+* [backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
+* [backup systems and capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4305.md)
+* [energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1761.md)
+* [energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1765.md)
+* [data backup and storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
+* [power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
+* [renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
+

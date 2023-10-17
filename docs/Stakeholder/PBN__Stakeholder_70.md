@@ -2,6 +2,30 @@
 
 # __healthcare system__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Closest similar item
+
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+* [healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
+* [public and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_402.md)
+* [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
+* [healthcare organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1872.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
+* [healthcare provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2039.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [healthcare agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1881.md)
+
+## Risk affecting this stakeholder
+
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
@@ -19,15 +43,4 @@
 ## This Stakeholder is identified by the following QID
 
 * [Q11000047](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11000047.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Risk affecting this stakeholder
-
-* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

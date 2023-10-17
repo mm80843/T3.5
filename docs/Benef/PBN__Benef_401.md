@@ -2,19 +2,19 @@
 
 # __Remote patient care and disinfection__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Investment in robotic systems can improve healthcare efficiency, reduce infection risk for healthcare workers, and enhance the reputation and asset value of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_429.md)
-
-## Articles mentionning this Benefit
-
-* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
-
 ## Name of the Benefit
 
 Robots can perform medical procedures, monitor patients, deliver supplies, and disinfect spaces, reducing the need for direct contact between healthcare workers and patients
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Investment in robotic systems can improve healthcare efficiency, reduce infection risk for healthcare workers, and enhance the reputation and asset value of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_429.md)
+
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Articles mentionning this Benefit
+
+* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 

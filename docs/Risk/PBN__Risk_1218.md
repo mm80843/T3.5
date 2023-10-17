@@ -2,34 +2,40 @@
 
 # __Fear of using public transport__
 
-## Name of the risk
-
-Decreased use of public transport, resulting in increased private car use and traffic congestion
-
-## Description of the risk
-
-Concerns about crowded spaces and close contact with others in public transport, leading to reduced ridership
-
-## Mitigations of this risk
-
-* [Communicate safety measures and hygiene protocols, provide real-time information on passenger flow and occupancy levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1670.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_732.md)
-* [transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_733.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
+* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Decreased use of public transport, resulting in increased private car use and traffic congestion
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
+* [Fear of infection in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_407.md)
+* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
+* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
+* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3106.md)
+* [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
+* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2885.md)
+
+## Description of the risk
+
+Concerns about crowded spaces and close contact with others in public transport, leading to reduced ridership
 
 ## Technologies linked to the risk
 
@@ -37,21 +43,28 @@ Concerns about crowded spaces and close contact with others in public transport,
 * [real-time monitoring of passenger flow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_302.md)
 * [pre-booking of seats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_305.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
-* [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Communicate safety measures and hygiene protocols, provide real-time information on passenger flow and occupancy levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1670.md)
+
+## Articles mentionning the risk
+
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_732.md)
+* [transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_733.md)
 

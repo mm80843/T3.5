@@ -2,13 +2,26 @@
 
 # __Nano-Spray Technology__
 
-## Property: has_MitigationSource
-
-* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2493.md)
+
+## Closest similar item
+
+* [Nanotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
+* [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_844.md)
+* [Nano-Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
+* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
+* [Nanotechnology (silver nanoparticles)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_280.md)
+* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1440.md)
+* [Indoor residual spraying (IRS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2389.md)
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2394.md)
+* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
+
+## Property: has_MitigationSource
+
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 
 ## Property: has_MitigationPrinciple
 

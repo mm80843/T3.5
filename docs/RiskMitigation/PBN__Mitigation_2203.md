@@ -2,13 +2,26 @@
 
 # __Home offices__
 
-## Property: has_MitigationSource
-
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
+
+## Closest similar item
+
+* [Modernizing Open-plan Offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1768.md)
+* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
+* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
+* [Working from Home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1705.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2434.md)
+* [Ability to Work from Home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1298.md)
+* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1809.md)
+
+## Property: has_MitigationSource
+
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 
 ## Property: has_MitigationPrinciple
 

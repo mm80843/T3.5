@@ -2,12 +2,25 @@
 
 # __Incorporation of green areas in available spaces__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Green space area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_637.md)
+* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
+* [Quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_52.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
+* [Urban Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
+* [Proximity of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_51.md)
+* [Green Open Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1706.md)
+* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_50.md)
+
 ## Property: has_MitigationSource
 
 * [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 
+## Closest similar item
+
+* [Remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
+* [Remote sensing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2438.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1531.md)
+* [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
+* [remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1366.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
+* [satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
+* [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+

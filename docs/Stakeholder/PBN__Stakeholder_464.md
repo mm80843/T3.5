@@ -6,3 +6,16 @@
 
 * [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1189.md)
 
+## Closest similar item
+
+* [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
+* [re-infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1296.md)
+* [previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_465.md)
+* [patients in quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1581.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [vulnerable patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_208.md)
+* [person with pre-existing medical condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2159.md)
+* [infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_114.md)
+* [people with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1322.md)
+* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2304.md)
+

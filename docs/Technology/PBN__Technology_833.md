@@ -2,10 +2,18 @@
 
 # __barriers__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
-* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2204.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
+* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2549.md)
+* [physical barriers (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3586.md)
+* [safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
+* [partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1656.md)
+* [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2594.md)
+* [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
 
 ## Risks linked to this technology
 
@@ -14,6 +22,11 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
+
+## This Technology enables the following mitigations
+
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
+* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2204.md)
 
 ## This Technology belongs to this TechGroup
 

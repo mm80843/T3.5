@@ -2,54 +2,67 @@
 
 # __Lack of Legal Protections and Financial Support__
 
-## Name of the risk
-
-Increased eviction rates, housing instability.
-
-## Description of the risk
-
-Insufficient legal protections and financial support, such as eviction moratoria and rental assistance, lead to increased eviction rates and housing displacement.
-
-## Mitigations of this risk
-
-* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1636.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-
-## Stakeholders who can mitigate this risk
-
-* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
-* [housing organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_709.md)
-* [non-profits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_710.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 
 ## People affected by this risk
 
 * [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
 * [people facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_712.md)
 
+## Name of the risk
+
+Increased eviction rates, housing instability.
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Lack of financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2587.md)
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
+* [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2874.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
+* [Lack of long-term protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2869.md)
+
+## Description of the risk
+
+Insufficient legal protections and financial support, such as eviction moratoria and rental assistance, lead to increased eviction rates and housing displacement.
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Mitigations of this risk
+
+* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1636.md)
+
+## Articles mentionning the risk
+
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+* [housing organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_709.md)
+* [non-profits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_710.md)
 

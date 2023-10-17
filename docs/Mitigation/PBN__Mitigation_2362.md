@@ -2,13 +2,26 @@
 
 # __Pandemic preparedness planning__
 
-## Property: has_MitigationSource
-
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
+
+## Closest similar item
+
+* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
+* [Emergency Preparedness Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
+* [Expansion of SDG 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
+* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1015.md)
+* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1488.md)
+* [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
+* [AI-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
+* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
+* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
+
+## Property: has_MitigationSource
+
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
 ## Property: has_MitigationPrinciple
 

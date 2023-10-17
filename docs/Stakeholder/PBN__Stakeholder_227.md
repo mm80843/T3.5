@@ -2,6 +2,32 @@
 
 # __decision-makers__
 
+## Closest similar item
+
+* [local decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_472.md)
+* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
+* [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+* [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
+* [risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)
+* [management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1453.md)
+* [city planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1607.md)
+* [city planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Risk affecting this stakeholder
+
+* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
+* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
+* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
+* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
+* [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
+* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
+* [Spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
+* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
+* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_538.md)
@@ -16,17 +42,4 @@
 ## This Stakeholder is identified by the following QID
 
 * [Q1331926](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1331926.md)
-
-## Risk affecting this stakeholder
-
-* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
-* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
-* [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
-* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
-* [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
-* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
-* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
-* [Spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
-* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
 

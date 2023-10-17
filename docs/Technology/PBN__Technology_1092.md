@@ -10,3 +10,16 @@
 
 * [Ineffective Signage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1724.md)
 
+## Closest similar item
+
+* [signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4103.md)
+* [digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_366.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
+* [signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1181.md)
+* [use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_497.md)
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
+* [ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
+* [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_133.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
+

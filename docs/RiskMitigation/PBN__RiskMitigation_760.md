@@ -2,11 +2,23 @@
 
 # __------------------------__
 
+## Risks possibly mitigated by this Mitigation
+
+* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_536.md)
+
 ## Property: has_MitigationBenefit
 
 * [------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_767.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_536.md)
+* [---------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2974.md)
+* [----------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_998.md)
+* [---------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1400.md)
+* [--------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2109.md)
+* [---------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3017.md)
+* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_380.md)
+* [sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_766.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
+* [service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
 

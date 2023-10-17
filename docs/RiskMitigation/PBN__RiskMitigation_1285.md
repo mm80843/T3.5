@@ -2,11 +2,24 @@
 
 # __Big data and facial recognition__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1269.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Implementation of facial recognition technology and AI algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2558.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_405.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)
+* [Collaborate with social-media platforms for real-time updates and use facial-recognition technology for screening.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2855.md)
+* [Implementing automated face recognition technology with AI integration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2660.md)
+* [Big data and AI forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
+* [Big-data analytics modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1326.md)
+* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_808.md)
 

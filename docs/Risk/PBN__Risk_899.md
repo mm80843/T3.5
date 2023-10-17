@@ -6,3 +6,16 @@
 
 * [Research and evaluation of UBPI effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1239.md)
 
+## Closest similar item
+
+* [Lack of quantitative evidence for the effectiveness of UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
+* [Lack of UGS density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1690.md)
+* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
+* [Lack of evidence in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3046.md)
+* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
+* [Lack of credibility as a source of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_400.md)
+* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
+* [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
+* [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_375.md)
+* [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
+

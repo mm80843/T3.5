@@ -2,11 +2,24 @@
 
 # __Adoption of climatically compatible house designs__
 
+## Risks possibly mitigated by this Mitigation
+
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1240.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
+* [Housing design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1217.md)
+* [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2488.md)
+* [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
+* [Incorporate climate change adaptation in infrastructure design and management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2527.md)
+* [Incorporation of sustainability criteria for urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_962.md)
+* [Optimize HVAC systems, provide individual temperature control options, insulate the building envelope](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2383.md)
+* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
+* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2572.md)
+* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1084.md)
 

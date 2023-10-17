@@ -4,9 +4,22 @@
 
 ## Mitigations of this risk
 
-* [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_639.md)
-* [Restricting occupancy and spacing equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_640.md)
-* [Enhanced cleaning and sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_641.md)
 * [Implementation of virtual training classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_642.md)
+* [Enhanced cleaning and sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_641.md)
+* [Restricting occupancy and spacing equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_640.md)
 * [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_643.md)
+* [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_639.md)
+
+## Closest similar item
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Spread of Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
+* [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+* [COVID-19 diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_623.md)
+* [Rapidly changing understanding of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
+* [Spread of COVID-19 through water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_577.md)
+* [Transmission of COVID-19 through surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_226.md)
+* [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
 

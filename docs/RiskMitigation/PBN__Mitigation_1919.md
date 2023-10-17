@@ -2,12 +2,25 @@
 
 # __Use of Face Masks and 50% Social Isolation__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_938.md)
+* [Use of Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
+* [Wearing Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1378.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
+* [Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
+* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1384.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
+* [Wearing Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
+* [Wearing of masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1243.md)
+
 ## Property: has_MitigationSource
 
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

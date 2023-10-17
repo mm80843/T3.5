@@ -6,3 +6,16 @@
 
 * [Drones and Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1668.md)
 
+## Closest similar item
+
+* [Inadequate Compliance Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1727.md)
+* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
+* [Low Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2275.md)
+* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2666.md)
+* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
+* [Compliance, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2996.md)
+* [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3408.md)
+* [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
+

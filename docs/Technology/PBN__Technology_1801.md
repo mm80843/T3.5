@@ -2,15 +2,28 @@
 
 # __online marketing__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1323528](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1323528.md)
+* [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+* [digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
+* [online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
+* [Online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2165.md)
+* [communication and marketing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_734.md)
+* [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+* [online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
+* [marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2753.md)
+* [marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+
+## Risks linked to this technology
+
+* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2231.md)
 
 ## This Technology enables the following mitigations
 
 * [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2231.md)
+* [Q1323528](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1323528.md)
 

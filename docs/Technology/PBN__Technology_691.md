@@ -10,3 +10,16 @@
 
 * [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_296.md)
 
+## Closest similar item
+
+* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
+* [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
+* [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
+* [cost-cutting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
+* [cost reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
+* [productivity improvement tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4128.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
+* [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
+* [production optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_10.md)
+

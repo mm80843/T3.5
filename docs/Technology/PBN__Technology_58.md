@@ -10,3 +10,16 @@
 
 * [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)
 
+## Closest similar item
+
+* [Improved RT-qPCR assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
+* [rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
+* [digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
+* [taqman rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4004.md)
+* [reverse transcriptase quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2943.md)
+* [reverse transcription-quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4428.md)
+* [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
+* [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
+* [quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3687.md)
+* [qrt pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3433.md)
+

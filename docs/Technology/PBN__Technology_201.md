@@ -2,39 +2,52 @@
 
 # __monitoring systems__
 
-## This Technology enables the following mitigations
+## Closest similar item
 
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
-* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2354.md)
-* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
-* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
-* [Restricting number of workers in freight elevators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1900.md)
-* [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1901.md)
-* [Early Warning Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
-* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1896.md)
-* [Safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2231.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
+* [monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
+* [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
+* [advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1129.md)
+* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2454.md)
+* [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
+* [remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
+* [real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
 
 ## Risks linked to this technology
 
-* [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
-* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 * [Impact of economic recovery responses on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
+* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
+* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 * [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
 * [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1788.md)
+* [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
 * [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
-* [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
 * [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
-* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
-
-## This Technology is identified by the following QID
-
-* [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)
+* [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Surveillance and Occupancy Tracking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_146.md)
 * [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+
+## This Technology enables the following mitigations
+
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
+* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2354.md)
+* [Early Warning Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
+* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1896.md)
+* [Safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2231.md)
+* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
+* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
+* [Restricting number of workers in freight elevators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1900.md)
+* [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1901.md)
+
+## This Technology is identified by the following QID
+
+* [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)
 
 ## This Technology belongs to this TechGroup
 

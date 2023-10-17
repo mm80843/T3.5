@@ -2,12 +2,25 @@
 
 # __Cancer surveillance__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
+* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
+* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
+* [Adaptive hospital surveillance-based triggers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_670.md)
+* [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
+* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Sentinel Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+
 ## Property: has_MitigationSource
 
 * [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

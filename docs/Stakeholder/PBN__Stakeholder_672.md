@@ -6,3 +6,16 @@
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 
+## Closest similar item
+
+* [public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_189.md)
+* [commercial facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_466.md)
+* [people in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1536.md)
+* [People in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2147.md)
+* [commercial areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1299.md)
+* [building industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1112.md)
+* [commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)
+* [Occupant of residential building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2572.md)
+* [person in residential and commercial building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2254.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+

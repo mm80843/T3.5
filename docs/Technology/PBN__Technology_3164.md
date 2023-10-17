@@ -7,3 +7,16 @@
 * [Global Positioning System (GPS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_330.md)
 * [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
 
+## Closest similar item
+
+* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4536.md)
+* [gps location](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
+* [mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4422.md)
+* [location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3708.md)
+* [positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4371.md)
+* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+* [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+* [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
+* [geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3365.md)
+

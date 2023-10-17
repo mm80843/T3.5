@@ -6,3 +6,16 @@
 
 * [Responsible information sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1446.md)
 
+## Closest similar item
+
+* [Spreading inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3131.md)
+* [Spread of misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2064.md)
+* [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
+* [Spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3132.md)
+* [Circulation of fake news and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
+* [Fake news spread through social media during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_648.md)
+* [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
+

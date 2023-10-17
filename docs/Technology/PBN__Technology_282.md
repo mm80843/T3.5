@@ -10,3 +10,16 @@
 
 * [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1199.md)
 
+## Closest similar item
+
+* [open government technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_283.md)
+* [governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_321.md)
+* [Governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2420.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_614.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
+* [government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4033.md)
+* [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
+* [government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3561.md)
+

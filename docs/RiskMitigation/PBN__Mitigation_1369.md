@@ -2,6 +2,24 @@
 
 # __Natural ventilation__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Closest similar item
+
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
+* [natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2630.md)
+* [natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2631.md)
+* [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2632.md)
+* [natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2633.md)
+* [natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2634.md)
+* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2635.md)
+* [natural or mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2636.md)
+* [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2637.md)
+* [use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2638.md)
+
 ## Property: has_MitigationSource
 
 * [Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_66.md)
@@ -9,11 +27,6 @@
 * [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 
 ## Property: has_MitigationPrinciple
 

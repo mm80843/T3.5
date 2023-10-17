@@ -2,12 +2,25 @@
 
 # __Individual hygiene__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1744.md)
+* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1271.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1008.md)
+* [Increased Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1712.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
+* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_966.md)
+* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1842.md)
+* [Hygiene Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2381.md)
+* [Hygiene and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
+
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

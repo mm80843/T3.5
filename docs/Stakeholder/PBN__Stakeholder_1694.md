@@ -2,14 +2,27 @@
 
 # __Teacher__
 
-## This Stakeholder is identified by the following QID
-
-* [Q37226](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q37226.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
+## Closest similar item
+
+* [Teacher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1694.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1649.md)
+* [educator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1633.md)
+* [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
+* [student](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
+* [school administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1640.md)
+* [school administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1282.md)
+* [school](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1630.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
+
+## This Stakeholder is identified by the following QID
+
+* [Q37226](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q37226.md)
 

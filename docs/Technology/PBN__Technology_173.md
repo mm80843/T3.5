@@ -10,3 +10,16 @@
 
 * [Limited differentiation of COVID-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1110.md)
 
+## Closest similar item
+
+* [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
+* [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
+* [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
+* [AI and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2059.md)
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
+* [Real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2115.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2043.md)
+

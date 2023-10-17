@@ -2,6 +2,23 @@
 
 # __operators__
 
+## Closest similar item
+
+* [network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1405.md)
+* [Network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1817.md)
+* [building operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_152.md)
+* [Network operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1784.md)
+* [grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_250.md)
+* [transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1303.md)
+* [grid operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1754.md)
+* [building owner and operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1934.md)
+* [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
+* [building owners/operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_406.md)
+
+## Risk affecting this stakeholder
+
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
@@ -10,8 +27,4 @@
 ## This Stakeholder is identified by the following QID
 
 * [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
-
-## Risk affecting this stakeholder
-
-* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
 

@@ -2,13 +2,26 @@
 
 # __Remote work and online meetings__
 
-## Property: has_MitigationSource
-
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+
+## Closest similar item
+
+* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2035.md)
+* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [Remote Work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1722.md)
+* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
+
+## Property: has_MitigationSource
+
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 
 ## Property: has_MitigationPrinciple
 

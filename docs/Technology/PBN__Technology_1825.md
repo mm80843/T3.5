@@ -10,3 +10,16 @@
 
 * [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
 
+## Closest similar item
+
+* [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
+* [capacity management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
+* [capacity-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1569.md)
+* [testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_907.md)
+* [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2096.md)
+* [limits on data use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_107.md)
+* [scaling up production capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1628.md)
+* [healthcare capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1606.md)
+* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [increased testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_592.md)
+

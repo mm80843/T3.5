@@ -6,3 +6,16 @@
 
 * [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
 
+## Closest similar item
+
+* [research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_701.md)
+* [University staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1745.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
+* [research organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2086.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
+* [technical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_747.md)
+* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+* [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
+

@@ -2,12 +2,25 @@
 
 # __Federated infrastructure__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2059.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
+* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
+* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
+* [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
+* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1160.md)
+* [Scalability and QoS provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
+
 ## Property: has_MitigationSource
 
 * [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

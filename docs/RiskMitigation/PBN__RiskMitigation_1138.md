@@ -2,11 +2,24 @@
 
 # __Provide psychosocial support and resources__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_831.md)
+
 ## Property: has_MitigationBenefit
 
 * [Reduction in stress and psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1135.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Impact on healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_831.md)
+* [Strengthen psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1139.md)
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_828.md)
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2810.md)
+* [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
+* [Provide mental health support services and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2463.md)
+* [Promoting social connections, providing psychosocial support, mental health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2336.md)
+* [Providing emotional support, counseling services, and resources to address mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1988.md)
+* [Provide adequate psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_47.md)
+* [Provide mental health support services, such as counseling and helplines, to individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2278.md)
+* [Promote mental health resources and support, provide access to counseling and psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
 

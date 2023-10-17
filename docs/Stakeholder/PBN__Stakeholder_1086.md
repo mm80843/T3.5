@@ -2,21 +2,34 @@
 
 # __wastewater workers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q336191](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336191.md)
-
-## Risk affecting this stakeholder
-
-* [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
-* [SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
-* [Transmission via water droplets from feces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 
+## Closest similar item
+
+* [wastewater treatment workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
+* [wastewater worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2680.md)
+* [wastewater treatment plant workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1049.md)
+* [workers handling human waste and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_174.md)
+* [wastewater treatment plant worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2686.md)
+* [wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
+* [environmental workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1307.md)
+* [waste management workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1210.md)
+* [wastewater treatment authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1140.md)
+* [wastewater treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_689.md)
+
+## Risk affecting this stakeholder
+
+* [SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
+* [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
+* [Transmission via water droplets from feces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q336191](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336191.md)
 

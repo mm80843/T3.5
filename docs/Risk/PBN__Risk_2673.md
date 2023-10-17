@@ -4,6 +4,19 @@
 
 ## Mitigations of this risk
 
-* [Design to minimize forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_645.md)
 * [Minimizing forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_650.md)
+* [Design to minimize forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_645.md)
+
+## Closest similar item
+
+* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3158.md)
+* [Wildlife disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2674.md)
+* [Noise Disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2482.md)
+* [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
+* [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_167.md)
+* [Disruption of activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
+* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
+* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
 

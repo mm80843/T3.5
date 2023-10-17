@@ -10,3 +10,16 @@
 
 * [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
 
+## Closest similar item
+
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+* [government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
+* [increased healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_109.md)
+* [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+* [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
+

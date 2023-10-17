@@ -2,13 +2,26 @@
 
 # __Crime reduction through mobile phone identification__
 
-## Property: has_MitigationSource
-
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
+## Closest similar item
+
+* [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_542.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
+* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
+* [Crowdsourced Smartphone Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1236.md)
+* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
+
+## Property: has_MitigationSource
+
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
 
+## Closest similar item
+
+* [People in spaces connected to ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2247.md)
+* [person in space connected to ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2358.md)
+* [individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_795.md)
+* [individuals in poorly ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1207.md)
+* [occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1201.md)
+* [Occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2595.md)
+* [people in spaces with poor air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1186.md)
+* [People in spaces with poor air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2344.md)
+* [individuals in poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_671.md)
+* [people in indoor spaces with air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_925.md)
+

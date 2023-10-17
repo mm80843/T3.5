@@ -6,3 +6,16 @@
 
 * [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
 
+## Closest similar item
+
+* [reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1862.md)
+* [reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
+* [reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2153.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
+

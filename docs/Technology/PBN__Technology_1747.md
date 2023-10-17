@@ -2,15 +2,28 @@
 
 # __self-closing doors__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q18043053](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18043053.md)
+* [automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3988.md)
+* [automatic door systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4113.md)
+* [sealed entrances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4183.md)
+* [door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
+* [openings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3702.md)
+* [closed streets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1040.md)
+* [locks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4317.md)
+* [self-driving cars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3789.md)
+* [portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3889.md)
+* [Closure signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2496.md)
+
+## Risks linked to this technology
+
+* [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
 
 ## This Technology enables the following mitigations
 
 * [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
+* [Q18043053](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18043053.md)
 

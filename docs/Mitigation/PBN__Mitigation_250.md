@@ -2,6 +2,35 @@
 
 # __Contact tracing__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2978.md)
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
+* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2768.md)
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Concealment of mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3209.md)
+* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
+* [Insufficient user uptake, navigation issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2552.md)
+* [Chain of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2511.md)
+
+## Closest similar item
+
+* [Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
+* [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
+* [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
+* [Contact Tracing Apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
+* [Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_542.md)
+
 ## Property: has_MitigationSource
 
 * [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
@@ -23,22 +52,6 @@
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 * [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [Chain of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2511.md)
-* [Insufficient user uptake, navigation issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2552.md)
-* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
-* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2768.md)
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-* [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2978.md)
-* [Concealment of mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3209.md)
-* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
-* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
-
 ## Property: has_MitigationPrinciple
 
 Contact tracing identifies individuals who have been in close contact with infected individuals, enabling early identification and interruption of transmission chains.
@@ -48,24 +61,24 @@ Contact tracing identifies individuals who have been in close contact with infec
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
-* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
-* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
-* [bluetooth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1384.md)
-* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
-* [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
-* [manual contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
-* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
-* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
-* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
-* [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
 * [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
-* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
-* [gps location](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
-* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
 * [digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3831.md)
-* [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
-* [cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
-* [bluetooth low energy (ble) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4123.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
+* [manual contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
+* [data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3515.md)
 * [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
+* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
+* [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
+* [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
+* [data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
+* [bluetooth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1384.md)
+* [bluetooth low energy (ble) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4123.md)
+* [cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
+* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [gps location](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
 

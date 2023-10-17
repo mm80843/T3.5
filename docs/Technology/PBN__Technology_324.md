@@ -2,11 +2,24 @@
 
 # __energy management systems__
 
+## Closest similar item
+
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4554.md)
+* [improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_181.md)
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2239.md)
+* [power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
+* [home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3196.md)
+* [smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
+* [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
+* [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
+
 ## Risks linked to this technology
 
 * [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
-* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
 * [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
+* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
 
 ## This Technology belongs to this TechSubgroup
 

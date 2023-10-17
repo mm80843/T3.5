@@ -6,3 +6,16 @@
 
 * [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_38.md)
 
+## Closest similar item
+
+* [individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1146.md)
+* [individual in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2251.md)
+* [individuals in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1582.md)
+* [individual in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2160.md)
+* [isolated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_65.md)
+* [general population undergoing isolation and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1031.md)
+* [individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
+* [individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2316.md)
+* [individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1285.md)
+* [individuals living alone or with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1343.md)
+

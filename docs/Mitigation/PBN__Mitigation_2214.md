@@ -2,13 +2,26 @@
 
 # __Flexibility in lockdown measures__
 
-## Property: has_MitigationSource
-
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Inflexible or strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3390.md)
+
+## Closest similar item
+
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_108.md)
+* [Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1911.md)
+* [Enforce Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
+* [Conditional Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1916.md)
+* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2341.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Building Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1464.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
+* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1167.md)
+
+## Property: has_MitigationSource
+
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 
 ## Property: has_MitigationPrinciple
 

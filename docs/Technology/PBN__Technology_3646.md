@@ -6,3 +6,16 @@
 
 * [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
 
+## Closest similar item
+
+* [transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
+* [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+* [urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_373.md)
+* [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2328.md)
+* [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+* [improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
+* [demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
+* [Demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2889.md)
+

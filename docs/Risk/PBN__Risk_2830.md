@@ -6,3 +6,16 @@
 
 * [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_959.md)
 
+## Closest similar item
+
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1683.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1092.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2908.md)
+* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1297.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
+* [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2016.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
+

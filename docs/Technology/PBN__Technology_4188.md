@@ -6,3 +6,16 @@
 
 * [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
 
+## Closest similar item
+
+* [half aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4189.md)
+* [specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
+* [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
+* [green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [rearrangement of furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_498.md)
+* [ramps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1037.md)
+* [flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3941.md)
+* [flexible shelving](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
+* [furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4295.md)
+* [modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
+

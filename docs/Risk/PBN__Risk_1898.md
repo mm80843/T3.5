@@ -2,54 +2,67 @@
 
 # __Psychopathology in vulnerable groups__
 
-## Name of the risk
-
-Adverse psychosocial outcomes such as depression and anxiety disorders in vulnerable groups
-
-## Description of the risk
-
-People at risk (elderly, those with compromised health, preexisting conditions) are more vulnerable
-
-## Mitigations of this risk
-
-* [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2496.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
+* [individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_798.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Adverse psychosocial outcomes such as depression and anxiety disorders in vulnerable groups
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2413.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
+* [Exclusion of vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2745.md)
+* [Insufficient protection for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
+* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+* [Psychological distress in general population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_895.md)
+* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
+* [Epidemiological Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
+
+## Description of the risk
+
+People at risk (elderly, those with compromised health, preexisting conditions) are more vulnerable
 
 ## Technologies linked to the risk
 
 * [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
 * [targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1279.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_798.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2496.md)
+
+## Articles mentionning the risk
+
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 

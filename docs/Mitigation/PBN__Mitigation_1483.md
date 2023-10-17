@@ -2,13 +2,26 @@
 
 # __Cross-disciplinary collaboration__
 
-## Property: has_MitigationSource
-
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3098.md)
+
+## Closest similar item
+
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
+* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
+* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Communication and Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1765.md)
+* [Conduct interdisciplinary research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
+* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2213.md)
+
+## Property: has_MitigationSource
+
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 
 ## Property: has_MitigationPrinciple
 

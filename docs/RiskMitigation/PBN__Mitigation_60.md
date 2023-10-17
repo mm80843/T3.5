@@ -2,12 +2,25 @@
 
 # __Information repositories__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_27.md)
+* [Centralised data repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2073.md)
+* [Reliable Information Sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1727.md)
+* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1546.md)
+* [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2105.md)
+* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2445.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2408.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
+* [Information Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
+
 ## Property: has_MitigationSource
 
 * [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

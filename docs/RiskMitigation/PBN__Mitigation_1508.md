@@ -2,13 +2,26 @@
 
 # __Targeted outreach and communication__
 
-## Property: has_MitigationSource
-
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3111.md)
+
+## Closest similar item
+
+* [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1500.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
+* [Targeted communications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1752.md)
+* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1282.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_291.md)
+
+## Property: has_MitigationSource
+
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
 ## Property: has_MitigationPrinciple
 

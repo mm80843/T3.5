@@ -2,30 +2,74 @@
 
 # __nan__
 
+## Property: has_RiskType
+
+
+## People affected by this risk
+
+
 ## Name of the risk
 
 nan
+
+## Property: has_RiskISO_Purpose
+
+
+## Closest similar item
+
+* [Financial Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
+* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
+* [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
+* [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
+* [Experimental Apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3505.md)
+* [Blockchain and Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3506.md)
+* [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
+* [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3508.md)
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
 
 ## Description of the risk
 
 nan
 
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
+
 ## Mitigations of this risk
 
+* [Combination of PCR methods and biomarker measurements (ELISA, MS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_879.md)
+* [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
+* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1068.md)
+* [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_975.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_608.md)
 * [Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
 * [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1430.md)
+* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_809.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
+* [service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [using OWL 2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1243.md)
+* [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
+* [Smart water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_806.md)
 * [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
 * [Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
 * [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
+* [AI-powered applications for diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1435.md)
+* [Germicidal ultraviolet (GUV)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_609.md)
+* [Digital twins and modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_807.md)
+* [WBE surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
 * [Natural Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
@@ -33,34 +77,18 @@ nan
 * [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [Knowledge management and BIM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_812.md)
 * [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_608.md)
-* [Germicidal ultraviolet (GUV)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_609.md)
-* [Smart water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_806.md)
-* [Digital twins and modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_807.md)
 * [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_808.md)
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_809.md)
 * [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_810.md)
 * [Biosensors and nanoscale tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_811.md)
-* [Knowledge management and BIM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_812.md)
-* [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
-* [Combination of PCR methods and biomarker measurements (ELISA, MS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_879.md)
-* [WBE surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
 * [Development of biosensors and LOC/POC systems for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_882.md)
-* [service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
 * [Minimum safety distance,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_973.md)
 * [Capacity limitations,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_974.md)
-* [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_975.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
 * [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_977.md)
 * [Local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1066.md)
-* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1068.md)
 * [and models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1241.md)
-* [using OWL 2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1243.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1430.md)
 * [AI-powered diagnosis applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
-* [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
-* [AI-powered applications for diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1435.md)
 * [AI-based social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1436.md)
 * [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
 * [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_50.md)
@@ -996,33 +1024,18 @@ nan
 * [Ratification of environmental commitments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2457.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## Property: has_RiskHealth
-
-
-## Property: has_RiskType
-
-
-## Stakeholders who can mitigate this risk
-
-
-## Property: has_RiskGBN
-
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-
-## Property: has_RiskISO_Purpose
-
-
-## Property: has_RiskISO_Impact
-
-
 ## Articles mentionning the risk
 
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 * [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Property: has_RiskISO_Impact
+
+
+## Property: has_RiskGBN
+
+
+## Stakeholders who can mitigate this risk
+
 

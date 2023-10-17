@@ -2,13 +2,26 @@
 
 # __QR code check-in__
 
-## Property: has_MitigationSource
-
-* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
+
+## Closest similar item
+
+* [Robust RT-qPCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
+* [Digital RT-qPCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1679.md)
+* [Revision of Building Codes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1967.md)
+* [Compliance with Building Codes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1770.md)
+* [Nested PCR assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
+* [TaqMan real-time RT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1678.md)
+* [Quarantine Monitoring System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
+* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1743.md)
+* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
+* [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
+
+## Property: has_MitigationSource
+
+* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
 
 ## Property: has_MitigationPrinciple
 

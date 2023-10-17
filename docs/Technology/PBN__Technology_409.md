@@ -10,3 +10,16 @@
 
 * [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1279.md)
 
+## Closest similar item
+
+* [counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2046.md)
+* [training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3460.md)
+* [trained cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3873.md)
+* [staff oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_395.md)
+* [enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_371.md)
+* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2500.md)
+* [employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
+

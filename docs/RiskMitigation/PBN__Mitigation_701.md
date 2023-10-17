@@ -2,12 +2,25 @@
 
 # __Interactive feedback__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_697.md)
+* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2407.md)
+* [Surveys and Feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
+* [Automatic Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
+* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
+* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
+* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
+
 ## Property: has_MitigationSource
 
 * [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,13 +2,26 @@
 
 # __Enhanced Communication__
 
-## Property: has_MitigationSource
-
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
+
+## Closest similar item
+
+* [Enhanced Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
+* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
+* [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+* [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_319.md)
+* [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
+
+## Property: has_MitigationSource
+
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 
 ## Property: has_MitigationPrinciple
 

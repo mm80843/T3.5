@@ -2,11 +2,24 @@
 
 # __Widening sidewalks and re-designing pedestrian crossings__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Streets being re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_909.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1242.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Streets being re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_909.md)
+* [Re-design streets to widen sidewalks, create more bike lanes, and prioritize pedestrian spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1973.md)
+* [Widening trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_38.md)
+* [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1260.md)
+* [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_39.md)
+* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_860.md)
+* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_659.md)
+* [Allocation of entry and exit points, signage, and wayfinding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1723.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
+* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_741.md)
 

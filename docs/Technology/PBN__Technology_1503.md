@@ -10,3 +10,16 @@
 
 * [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
 
+## Closest similar item
+
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2882.md)
+* [thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
+* [thermal camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
+* [infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1502.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2466.md)
+* [high-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4441.md)
+* [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
+* [infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
+* [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+

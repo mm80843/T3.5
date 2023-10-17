@@ -6,3 +6,16 @@
 
 * [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
 
+## Closest similar item
+
+* [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
+* [enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [automated cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_753.md)
+* [Automated cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
+* [enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1838.md)
+* [implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
+* [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
+* [proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
+

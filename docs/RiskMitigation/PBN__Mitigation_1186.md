@@ -2,12 +2,25 @@
 
 # __Scalability of IoT devices in IoMT__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2018.md)
+* [IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1248.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1578.md)
+* [Lightweight security solutions for IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
+* [AI and IoT technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1909.md)
+* [IoT and AI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
+* [IoT-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_285.md)
+* [Integration of IoT and AI Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
+* [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_438.md)
+* [IoT buttons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2020.md)
+
 ## Property: has_MitigationSource
 
 * [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

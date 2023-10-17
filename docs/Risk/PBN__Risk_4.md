@@ -6,3 +6,16 @@
 
 * [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_8.md)
 
+## Closest similar item
+
+* [Health Harming Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1433.md)
+* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
+* [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
+* [Mental Health Harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1432.md)
+* [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3155.md)
+* [health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2533.md)
+* [Health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3017.md)
+* [Human health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3013.md)
+* [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
+* [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2709.md)
+

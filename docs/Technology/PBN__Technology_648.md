@@ -10,3 +10,16 @@
 
 * [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
 
+## Closest similar item
+
+* [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2683.md)
+* [upgrading ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1044.md)
+* [improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
+* [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2538.md)
+* [ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3822.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
+* [enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3113.md)
+* [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
+

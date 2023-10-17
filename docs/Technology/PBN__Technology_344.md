@@ -10,3 +10,16 @@
 
 * [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
 
+## Closest similar item
+
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_788.md)
+* [advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
+* [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
+* [disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
+

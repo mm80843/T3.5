@@ -2,12 +2,25 @@
 
 # __Automatic Control__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1755.md)
+* [Autoclaving](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_846.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+* [Integrated Command and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
+* [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1858.md)
+* [Interactive feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_701.md)
+
 ## Property: has_MitigationSource
 
 * [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

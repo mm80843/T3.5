@@ -2,13 +2,26 @@
 
 # __Offsite construction__
 
-## Property: has_MitigationSource
-
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2598.md)
+
+## Closest similar item
+
+* [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3081.md)
+* [Further develop and optimize off-site construction methods, invest in new materials and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3831.md)
+* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3077.md)
+* [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3832.md)
+* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3083.md)
+* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3079.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3833.md)
+* [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3326.md)
+* [Shift towards integrated and non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3834.md)
+
+## Property: has_MitigationSource
+
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 
 ## Property: has_MitigationPrinciple
 

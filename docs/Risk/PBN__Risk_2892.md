@@ -6,3 +6,16 @@
 
 * [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
 
+## Closest similar item
+
+* [Resistance to change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2566.md)
+* [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2905.md)
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2916.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3317.md)
+* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
+* [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2899.md)
+* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2639.md)
+

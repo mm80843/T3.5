@@ -2,19 +2,32 @@
 
 # __gardening clubs__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1107656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1107656.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
+## Closest similar item
+
+* [gardening club](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2481.md)
+* [gardeners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_801.md)
+* [gardener](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2498.md)
+* [park managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1046.md)
+* [Park managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2699.md)
+* [agricultural organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1212.md)
+* [nature enthusiasts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_802.md)
+* [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
+* [food establishments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1526.md)
+* [local organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1463.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Gardening Clubs/Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_140.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1107656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1107656.md)
 

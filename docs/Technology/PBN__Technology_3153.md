@@ -6,3 +6,16 @@
 
 * [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
 
+## Closest similar item
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1072.md)
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
+* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4034.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
+* [medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
+* [access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4119.md)
+

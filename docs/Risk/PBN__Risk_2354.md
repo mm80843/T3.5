@@ -2,52 +2,65 @@
 
 # __Lack of funding__
 
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+
+## People affected by this risk
+
+* [general populations in areas with vector-borne disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1572.md)
+
 ## Name of the risk
 
 Weak programmatic capacity, inability to scale up interventions, decreased effectiveness of control measures
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2613.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2874.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1929.md)
+* [Lack of financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2587.md)
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
+* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2869.md)
+* [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+* [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1312.md)
+
 ## Description of the risk
 
 Insufficient investment in vector control programs
+
+## Technologies linked to the risk
+
+
+## Property: has_RiskHealth
+
 
 ## Mitigations of this risk
 
 * [Increased funding for vector control programs, allocation of resources to priority areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3056.md)
 * [Financial Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
 
-## Property: has_RiskHealth
+## Articles mentionning the risk
 
-
-## Property: has_RiskType
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
-## Stakeholders who can mitigate this risk
-
-* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
-* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [general populations in areas with vector-borne disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1572.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
 

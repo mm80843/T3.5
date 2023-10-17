@@ -6,3 +6,16 @@
 
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 
+## Closest similar item
+
+* [model sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4420.md)
+* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
+* [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+* [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [cloud-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1137.md)
+

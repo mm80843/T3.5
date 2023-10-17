@@ -2,12 +2,25 @@
 
 # __Support to Overstretched Staff__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_907.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
+* [Staff Compartmentalization within Zones/Cohorts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_866.md)
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2262.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
+* [Stricter protective measures for ICU staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_722.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
+* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1940.md)
+* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
+
 ## Property: has_MitigationSource
 
 * [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

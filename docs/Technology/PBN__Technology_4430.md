@@ -6,3 +6,16 @@
 
 * [Sanger sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2364.md)
 
+## Closest similar item
+
+* [dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
+* [dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1706.md)
+* [DNA barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2508.md)
+* [nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4480.md)
+* [molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
+* [nucleic acid-based polymerase chain reaction (pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3278.md)
+* [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+* [molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2802.md)
+* [qr code scanner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3475.md)
+

@@ -10,3 +10,16 @@
 
 * [Fragmented WBE data collection and reporting system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1311.md)
 
+## Closest similar item
+
+* [open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
+* [open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
+* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+

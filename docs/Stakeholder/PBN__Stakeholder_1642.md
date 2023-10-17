@@ -2,17 +2,30 @@
 
 # __student__
 
-## This Stakeholder is identified by the following QID
-
-* [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
-* [Q334375](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334375.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 
+## Closest similar item
+
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [academic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1631.md)
+* [teacher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1643.md)
+* [Teacher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1694.md)
+* [school](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
+* [university](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1457.md)
+* [students and young workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_224.md)
+* [academics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1021.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1630.md)
+* [education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1647.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Learners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
+* [Q334375](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334375.md)
 

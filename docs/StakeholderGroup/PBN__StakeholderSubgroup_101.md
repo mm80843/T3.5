@@ -4,8 +4,21 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [users of digital tools and platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_881.md)
 * [all individuals using mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1311.md)
-* [all individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1313.md)
 * [all individual using mobile application](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2313.md)
+* [all individuals relying on mobile application notifications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1313.md)
+* [users of digital tools and platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_881.md)
+
+## Closest similar item
+
+* [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
+* [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
+* [Subscribers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_149.md)
+* [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
+* [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_52.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_64.md)
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
+* [Community Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_141.md)
 

@@ -2,13 +2,26 @@
 
 # __Education and training__
 
-## Property: has_MitigationSource
-
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
+
+## Closest similar item
+
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
+* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1675.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2202.md)
+* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
+* [Education and Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1618.md)
+* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
+* [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
+* [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1485.md)
+
+## Property: has_MitigationSource
+
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 
 ## Property: has_MitigationPrinciple
 

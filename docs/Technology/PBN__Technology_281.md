@@ -10,3 +10,16 @@
 
 * [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1199.md)
 
+## Closest similar item
+
+* [emerging technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_275.md)
+* [collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3368.md)
+* [technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3171.md)
+* [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [continued technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
+* [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
+* [smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
+

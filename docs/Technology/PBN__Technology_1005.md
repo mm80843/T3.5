@@ -10,3 +10,16 @@
 
 * [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 
+## Closest similar item
+
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2668.md)
+* [furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4295.md)
+* [flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
+* [adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
+* [modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_376.md)
+* [rearrangement of furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_498.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2361.md)
+* [outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+* [ergonomic furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
+* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+

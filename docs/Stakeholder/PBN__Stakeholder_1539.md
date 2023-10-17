@@ -2,16 +2,29 @@
 
 # __domain experts__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
-* [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
-* [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2310.md)
-* [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Closest similar item
+
+* [domain expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2630.md)
+* [technical experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_718.md)
+* [technical expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
+* [IT expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
+* [experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_540.md)
+* [it experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1470.md)
+* [IT experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
+* [ontology experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_941.md)
+* [cybersecurity experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_789.md)
+* [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
+* [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2310.md)
+* [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
+* [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 

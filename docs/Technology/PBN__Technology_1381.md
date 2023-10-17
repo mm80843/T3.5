@@ -10,3 +10,16 @@
 
 * [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
 
+## Closest similar item
+
+* [develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_494.md)
+* [emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2492.md)
+* [preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
+* [emergency management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
+* [preparedness strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_33.md)
+* [emergency systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
+* [emergency response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_32.md)
+

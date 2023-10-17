@@ -2,13 +2,26 @@
 
 # __Mutual aid groups__
 
-## Property: has_MitigationSource
-
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2413.md)
+
+## Closest similar item
+
+* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1089.md)
+* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1958.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
+* [International Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
+* [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2095.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
 ## Property: has_MitigationPrinciple
 

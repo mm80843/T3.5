@@ -6,3 +6,16 @@
 
 * [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
 
+## Closest similar item
+
+* [marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+* [social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+* [destination marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_995.md)
+* [online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_46.md)
+* [Online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2148.md)
+* [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2147.md)
+* [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
+

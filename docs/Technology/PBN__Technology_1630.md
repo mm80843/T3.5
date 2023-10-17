@@ -10,3 +10,16 @@
 
 * [Limited access to personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2124.md)
 
+## Closest similar item
+
+* [increase ppe production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
+* [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
+* [manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
+* [proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_511.md)
+* [PPE equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2595.md)
+* [PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2557.md)
+* [ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4107.md)
+* [PPE training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2254.md)
+* [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+

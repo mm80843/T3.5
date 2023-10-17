@@ -10,3 +10,16 @@
 
 * [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
 
+## Closest similar item
+
+* [ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1850.md)
+* [AI triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2051.md)
+* [protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
+* [ai-driven triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1245.md)
+* [AI-driven triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2084.md)
+* [containment protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2.md)
+* [standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
+* [cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
+* [reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
+* [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
+

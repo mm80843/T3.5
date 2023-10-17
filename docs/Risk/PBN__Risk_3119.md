@@ -6,3 +6,16 @@
 
 * [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
 
+## Closest similar item
+
+* [Vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_273.md)
+* [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2357.md)
+* [Vector-borne diseases outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
+* [Lack of understanding of disease spread and patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
+* [Lack of knowledge about the virus, treatments, and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2920.md)
+* [Vector-borne diseases (VBDs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_937.md)
+* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
+* [Lack of knowledge on disease transmission mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_6.md)
+* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_60.md)
+* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
+

@@ -10,3 +10,16 @@
 
 * [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 
+## Closest similar item
+
+* [App store policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2495.md)
+* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1589.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
+* [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
+* [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
+* [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+* [open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_823.md)
+* [policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+

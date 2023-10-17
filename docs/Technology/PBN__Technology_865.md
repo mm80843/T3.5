@@ -10,3 +10,16 @@
 
 * [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1561.md)
 
+## Closest similar item
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [Remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2880.md)
+* [remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_863.md)
+* [inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_990.md)
+* [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
+* [indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+

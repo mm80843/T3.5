@@ -2,13 +2,26 @@
 
 # __Nano-Vaccines__
 
-## Property: has_MitigationSource
-
-* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2494.md)
+
+## Closest similar item
+
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+* [Nanotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
+* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1556.md)
+* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
+* [Universal vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2402.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
+* [Preventive Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
+* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1255.md)
+* [Nano-Spray Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+
+## Property: has_MitigationSource
+
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 
 ## Property: has_MitigationPrinciple
 

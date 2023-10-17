@@ -11,3 +11,16 @@
 * [Positive health effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1792.md)
 * [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 
+## Closest similar item
+
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2750.md)
+* [sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1507.md)
+* [sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
+* [sustainable manufacturing and disposal methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1648.md)
+* [sustainable development goals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
+* [sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4485.md)
+* [environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4067.md)
+* [sustainable site design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4209.md)
+* [industrial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
+

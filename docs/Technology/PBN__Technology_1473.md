@@ -10,3 +10,16 @@
 
 * [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
 
+## Closest similar item
+
+* [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2401.md)
+* [investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_942.md)
+* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2642.md)
+* [investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1797.md)
+* [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2633.md)
+* [education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
+* [education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
+* [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+

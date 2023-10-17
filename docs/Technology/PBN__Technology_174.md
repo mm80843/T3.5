@@ -2,15 +2,28 @@
 
 # __outreach programs__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
+* [outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
+* [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
+* [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+* [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
+* [community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+
+## Risks linked to this technology
+
+* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
 
 ## This Technology enables the following mitigations
 
 * [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1508.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
+* [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
 

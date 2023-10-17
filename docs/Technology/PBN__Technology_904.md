@@ -10,3 +10,16 @@
 
 * [Reliability of social media data for research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
 
+## Closest similar item
+
+* [comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
+* [Comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2062.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [historical data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_809.md)
+* [Historical data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2524.md)
+* [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
+* [statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
+* [data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
+* [comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4470.md)
+* [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+

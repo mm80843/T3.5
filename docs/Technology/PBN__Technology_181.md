@@ -10,3 +10,16 @@
 
 * [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
 
+## Closest similar item
+
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2239.md)
+* [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4554.md)
+* [home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3196.md)
+* [power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
+* [smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
+* [smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
+* [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
+* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2676.md)
+

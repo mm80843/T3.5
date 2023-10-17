@@ -6,3 +6,16 @@
 
 * [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
 
+## Closest similar item
+
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
+* [5g)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4228.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
+* [cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
+* [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
+* [broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4446.md)
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [wi-fi)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3387.md)
+* [wireless data transmission (3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
+

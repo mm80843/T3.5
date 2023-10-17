@@ -10,3 +10,16 @@
 
 * [Desertification of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2232.md)
 
+## Closest similar item
+
+* [online entrepreneurship communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_914.md)
+* [economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
+* [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
+* [funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+* [livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_450.md)
+* [Livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
+* [economic and business development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
+* [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
+* [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
+* [job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_45.md)
+

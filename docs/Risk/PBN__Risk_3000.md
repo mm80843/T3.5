@@ -10,3 +10,16 @@
 * [Professional Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
 * [Duct Tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1260.md)
 
+## Closest similar item
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
+* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+* [Contagious Disease Propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
+* [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
+

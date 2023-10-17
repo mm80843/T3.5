@@ -6,3 +6,16 @@
 
 * [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
 
+## Closest similar item
+
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
+* [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
+* [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3274.md)
+* [Circulation of fake news and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
+* [Security risks, spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3224.md)
+* [Spread of misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2064.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+

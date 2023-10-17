@@ -2,20 +2,33 @@
 
 # __individuals with pre-existing health conditions__
 
-## This Stakeholder is identified by the following QID
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Q1952420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1952420.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Closest similar item
+
+* [individual with pre-existing health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2321.md)
+* [people with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1322.md)
+* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2304.md)
+* [individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_889.md)
+* [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
+* [person with pre-existing medical condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2159.md)
+* [people with preexisting medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1413.md)
+* [People with preexisting medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2113.md)
+* [especially vulnerable population and individual with pre-existing health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2124.md)
+* [especially vulnerable populations and individuals with pre-existing health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1230.md)
 
 ## Risk affecting this stakeholder
 
 * [Epidemiological Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1952420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1952420.md)
 

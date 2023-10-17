@@ -6,3 +6,16 @@
 
 * [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2378.md)
 
+## Closest similar item
+
+* [broadband connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4356.md)
+* [broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1938.md)
+* [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
+* [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [high-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+* [Internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2840.md)
+

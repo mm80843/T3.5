@@ -2,17 +2,30 @@
 
 # __3d printing__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4517.md)
+* [improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2015.md)
+* [Improved 3D printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2717.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_930.md)
+* [3D printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2375.md)
+* [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2654.md)
+* [ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
+* [print media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3582.md)
+
+## Risks linked to this technology
+
+* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
+* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
 
 ## This Technology enables the following mitigations
 
 * [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
 * [Alternative Means for Continuity of Basic Functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1874.md)
 
-## Risks linked to this technology
+## This Technology is identified by the following QID
 
-* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
-* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
+* [Q229367](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q229367.md)
 

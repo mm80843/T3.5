@@ -10,3 +10,16 @@
 
 * [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
 
+## Closest similar item
+
+* [volunteer involvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
+* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
+* [social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
+* [voluntary participation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3965.md)
+* [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
+* [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
+

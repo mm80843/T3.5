@@ -6,3 +6,16 @@
 
 * [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1622.md)
 
+## Closest similar item
+
+* [rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1136.md)
+* [RFID technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2846.md)
+* [smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3183.md)
+* [mobile payment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3916.md)
+* [digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1947.md)
+* [encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
+* [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2414.md)
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
+* [encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1542.md)
+

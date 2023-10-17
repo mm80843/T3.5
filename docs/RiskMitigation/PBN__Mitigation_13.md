@@ -2,13 +2,26 @@
 
 # __Offshore medical rigs__
 
-## Property: has_MitigationSource
-
-* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2407.md)
+
+## Closest similar item
+
+* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3616.md)
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3352.md)
+* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3444.md)
+* [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3617.md)
+* [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3618.md)
+* [Medical supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3619.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3353.md)
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
+* [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3620.md)
+* [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3621.md)
+
+## Property: has_MitigationSource
+
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
 
 ## Property: has_MitigationPrinciple
 

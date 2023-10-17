@@ -2,13 +2,31 @@
 
 # __Access control, limitation, or lockdown__
 
-## GBN Phase of the blueprint
+## Title of the blueprint
 
-Design & Operational
+PBN:BP_8
 
-## Scale of the of the blueprint
+## Value proposition of the blueprint
 
-Building
+By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.
+
+## Demonstration of the blueprint
+
+Access limitation was experienced during the COVID-19 pandemic
+
+## Problem of the blueprint
+
+The measure limits the contact between individuals and avoids overcrowding if limitations are localised. 
+
+## Context of the blueprint
+
+As mentioned above, the context varies depending on the severity of the actual pandemic situation, as different interpretations and levels of action may be applied. It has been shown that during the largest outbreaks, most non-essential activities were carried out from home, resulting in lower transmission rates.
+
+## Interventions of the blueprint
+
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_1.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_14.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_15.md)
 
 ## Mode of transmission covered by the blueprint
 
@@ -18,6 +36,18 @@ Airborne & Respiratory & Direct Contact
 
 Technical & Behavioural
 
+## Scale of the of the blueprint
+
+Building
+
+## Type of deployment of the blueprint
+
+Temporary
+
+## GBN Phase of the blueprint
+
+Design & Operational
+
 ## Capabilities of the blueprint
 
 Thanks to technology and the DT, the possibilities for controlling access and the flow of people can be greatly improved. Various solutions are conceivable 
@@ -25,6 +55,14 @@ Thanks to technology and the DT, the possibilities for controlling access and th
 •	 sensors to monitor occupancy
 •	 teleworking 
 •	 appointment scheduling system
+
+## Reason of the blueprint
+
+Controlling access is one of the most important points in limiting the spread of a virus limiting the number of human interactions.
+
+## Description of the blueprint
+
+One of the most drastic measures to prevent the spread of COVID -19 during the spike periods was to restrict access to certain buildings or prevent it altogether. During the peak of the lockdowns, many employers closed their buildings and asked their employees to work from home if possible. With the partial normalisation of the situation (decline in case numbers, vaccination coverage and milder variants), these restrictions became less severe and targeted specific groups (vulnerable or symptomatic individuals), types of buildings (hospitals and prisons) or specific spaces within buildings (non-essential, high-visibility areas). These restrictions have been imposed at national, regional and organisational levels. In addition, this measure also provides for restrictions based on occupancy density.
 
 ## Restrictions of the blueprint
 
@@ -37,44 +75,6 @@ Various adverse cost are linked to this measure:
 •	 potentially high cost of operating infrastructure to restrict access
 •	 lower levels of work morale due to the introduction of remote working
 •	 increased surveillance could lead to social consequences
-
-## Description of the blueprint
-
-One of the most drastic measures to prevent the spread of COVID -19 during the spike periods was to restrict access to certain buildings or prevent it altogether. During the peak of the lockdowns, many employers closed their buildings and asked their employees to work from home if possible. With the partial normalisation of the situation (decline in case numbers, vaccination coverage and milder variants), these restrictions became less severe and targeted specific groups (vulnerable or symptomatic individuals), types of buildings (hospitals and prisons) or specific spaces within buildings (non-essential, high-visibility areas). These restrictions have been imposed at national, regional and organisational levels. In addition, this measure also provides for restrictions based on occupancy density.
-
-## Problem of the blueprint
-
-The measure limits the contact between individuals and avoids overcrowding if limitations are localised. 
-
-## Demonstration of the blueprint
-
-Access limitation was experienced during the COVID-19 pandemic
-
-## Reason of the blueprint
-
-Controlling access is one of the most important points in limiting the spread of a virus limiting the number of human interactions.
-
-## Value proposition of the blueprint
-
-By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.
-
-## Context of the blueprint
-
-As mentioned above, the context varies depending on the severity of the actual pandemic situation, as different interpretations and levels of action may be applied. It has been shown that during the largest outbreaks, most non-essential activities were carried out from home, resulting in lower transmission rates.
-
-## Title of the blueprint
-
-PBN:BP_8
-
-## Interventions of the blueprint
-
-* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_1.md)
-* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_14.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_15.md)
-
-## Type of deployment of the blueprint
-
-Temporary
 
 ## Enablers of the blueprint
 

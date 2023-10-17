@@ -10,3 +10,16 @@
 
 * [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
 
+## Closest similar item
+
+* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2435.md)
+* [contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
+* [contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1462.md)
+* [use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_291.md)
+* [testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1260.md)
+* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2776.md)
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2867.md)
+* [manual contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
+

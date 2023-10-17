@@ -2,6 +2,19 @@
 
 # __access control__
 
+## Closest similar item
+
+* [access control system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2883.md)
+* [controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2884.md)
+* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2885.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2886.md)
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2887.md)
+* [access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2888.md)
+* [access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2889.md)
+* [access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2890.md)
+* [administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2891.md)
+* [access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2892.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_402.md)

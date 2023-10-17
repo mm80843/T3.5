@@ -2,20 +2,20 @@
 
 # __Reduced income inequalities__
 
-## Description of Benefits pertaining to Beneficiaries
-
-* [Improved social cohesion, reduced societal inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_744.md)
-
-## Articles mentionning this Benefit
-
-* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
-
 ## Name of the Benefit
 
 Addressing socioeconomic factors during the pandemic helps mitigate income disparities
 
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved social cohesion, reduced societal inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_744.md)
+
 ## Stakeholders benefitting from this Benefit
 
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [societal population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_289.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Articles mentionning this Benefit
+
+* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 

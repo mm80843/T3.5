@@ -2,13 +2,26 @@
 
 # __Virtual clinics__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
+* [Telehealth Clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_429.md)
+* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
+* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
+* [Healthcare Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1742.md)
+* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1719.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_860.md)
+* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2332.md)
+* [Teleconferencing and Virtual Meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1738.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2025.md)
+
 ## Property: has_MitigationSource
 
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -2,12 +2,25 @@
 
 # __Descriptive statistics__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1193.md)
+* [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2273.md)
+* [Data Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
+* [Combined Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
+* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_657.md)
+* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
+* [Long-Term Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
+
 ## Property: has_MitigationSource
 
 * [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

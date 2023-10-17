@@ -2,13 +2,26 @@
 
 # __Resilient Approach__
 
-## Property: has_MitigationSource
-
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Future "black swan" events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
+
+## Closest similar item
+
+* [Resilience Building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
+* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1356.md)
+* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
+* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
+* [Resilience, flexibility, and emotional regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_210.md)
+* [Protect the Vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_691.md)
+* [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2433.md)
+* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1488.md)
+
+## Property: has_MitigationSource
+
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
 ## Property: has_MitigationPrinciple
 

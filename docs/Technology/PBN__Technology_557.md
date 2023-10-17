@@ -10,3 +10,16 @@
 
 * [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
 
+## Closest similar item
+
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
+* [contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4134.md)
+* [digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3831.md)
+* [mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
+* [Mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2462.md)
+* [mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_603.md)
+* [contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
+

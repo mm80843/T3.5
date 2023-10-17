@@ -6,3 +6,16 @@
 
 * [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2435.md)
 
+## Closest similar item
+
+* [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
+* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
+* [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+* [improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
+* [transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+* [railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
+* [infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
+* [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+

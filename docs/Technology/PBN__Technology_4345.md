@@ -6,3 +6,16 @@
 
 * [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
 
+## Closest similar item
+
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
+* [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+* [online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+

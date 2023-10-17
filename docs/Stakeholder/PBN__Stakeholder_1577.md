@@ -6,3 +6,16 @@
 
 * [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
 
+## Closest similar item
+
+* [local authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_625.md)
+* [local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
+* [urban authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_434.md)
+* [local and national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_550.md)
+* [local and regional governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_875.md)
+* [city government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1114.md)
+* [national authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2413.md)
+

@@ -6,3 +6,16 @@
 
 * [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
 
+## Closest similar item
+
+* [alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1992.md)
+* [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2888.md)
+* [transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3135.md)
+* [transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+* [alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_111.md)
+* [promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
+* [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
+* [railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
+* [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
+* [transportation and epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
+

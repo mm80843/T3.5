@@ -2,34 +2,38 @@
 
 # __Misdiagnosis and equipment malfunction__
 
-## Name of the risk
-
-Delayed or incorrect treatment, compromised patient safety.
-
-## Description of the risk
-
-Virtual care platforms can lead to misdiagnoses or equipment malfunction, potentially compromising patient care.
-
-## Mitigations of this risk
-
-* [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-* [technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_719.md)
+* [patients receiving virtual care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1568.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Delayed or incorrect treatment, compromised patient safety.
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2981.md)
+* [Unreliable reporting, atypical symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2551.md)
+* [Technical failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2764.md)
+* [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_398.md)
+* [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
+* [Risk of misdiagnosis or false results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_839.md)
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
+* [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
+* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
+
+## Description of the risk
+
+Virtual care platforms can lead to misdiagnoses or equipment malfunction, potentially compromising patient care.
 
 ## Technologies linked to the risk
 
@@ -37,19 +41,28 @@ Virtual care platforms can lead to misdiagnoses or equipment malfunction, potent
 * [quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
 * [technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1596.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [patients receiving virtual care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1568.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
+
+## Articles mentionning the risk
+
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_719.md)
 

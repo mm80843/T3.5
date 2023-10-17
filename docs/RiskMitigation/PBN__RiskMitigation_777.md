@@ -2,11 +2,24 @@
 
 # __Mutualized debt through corona bonds__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Economic divisions in the EU due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_550.md)
+
 ## Property: has_MitigationBenefit
 
 * [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Economic divisions in the EU due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_550.md)
+* [Fiscal consolidation measures, economic reforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2592.md)
+* [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1398.md)
+* [of different human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3021.md)
+* [Governments should establish and expand credit guarantee schemes (CGSs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2824.md)
+* [Robust contract and claims management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_673.md)
+* [Diversifying income streams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1065.md)
+* [Loan restructuring, government assistance, financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2591.md)
+* [Strengthen risk management and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_309.md)
+* [Increase investment in renewable energy incentives and tax credits, support renewable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2763.md)
+* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
 

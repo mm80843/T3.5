@@ -6,3 +6,16 @@
 
 * [Government support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_940.md)
 
+## Closest similar item
+
+* [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
+* [Financial vulnerability of SMEs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
+* [Environmental impacts of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_931.md)
+* [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
+* [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
+* [Impact of COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
+* [Economic and social impact of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_701.md)
+* [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
+* [Economic decline during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_516.md)
+* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
+

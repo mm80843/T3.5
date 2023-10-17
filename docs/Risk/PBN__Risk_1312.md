@@ -2,52 +2,65 @@
 
 # __Lack of research and development__
 
-## Name of the risk
-
-Slow progress in developing optimized testing protocols and standardized methods
-
-## Description of the risk
-
-Insufficient focus and funding for the advancement of WBE as a public health tool
-
-## Mitigations of this risk
-
-* [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
-
-## Property: has_RiskHealth
-
-
 ## Property: has_RiskType
 
 * [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
-
-## Stakeholders who can mitigate this risk
-
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
-
-## Property: has_RiskGBN
-
-
-## Technologies linked to the risk
-
-* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
-* [research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
 
 ## People affected by this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 
+## Name of the risk
+
+Slow progress in developing optimized testing protocols and standardized methods
+
 ## Property: has_RiskISO_Purpose
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+
+## Closest similar item
+
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2874.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
+* [Lack of Knowledge and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2016.md)
+* [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2652.md)
+* [Lack of Knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
+* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
+
+## Description of the risk
+
+Insufficient focus and funding for the advancement of WBE as a public health tool
+
+## Technologies linked to the risk
+
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
+
+## Property: has_RiskHealth
+
+
+## Mitigations of this risk
+
+* [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
+
+## Articles mentionning the risk
+
+* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+
+## Stakeholders who can mitigate this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 

@@ -6,3 +6,16 @@
 
 * [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
 
+## Closest similar item
+
+* [IoT industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2657.md)
+* [iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1400.md)
+* [iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_790.md)
+* [IoT device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
+* [IoT technology provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2654.md)
+* [IoT device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2661.md)
+* [iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
+* [IoT technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2623.md)
+* [iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1436.md)
+* [IoT device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2644.md)
+

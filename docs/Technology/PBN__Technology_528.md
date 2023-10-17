@@ -10,3 +10,16 @@
 
 * [Inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
 
+## Closest similar item
+
+* [technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3171.md)
+* [access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4178.md)
+* [access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
+* [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3618.md)
+* [continued technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
+* [technology transfer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3577.md)
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+* [improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2369.md)
+

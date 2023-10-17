@@ -6,3 +6,16 @@
 
 * [Stainless steel coupons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_857.md)
 
+## Closest similar item
+
+* [alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4273.md)
+* [copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4272.md)
+* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
+* [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+* [lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4302.md)
+* [natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
+* [mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
+* [better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2016.md)
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
+* [metal cable](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
+

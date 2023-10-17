@@ -6,3 +6,16 @@
 
 * [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_91.md)
 
+## Closest similar item
+
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
+* [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1873.md)
+* [Remote collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1532.md)
+* [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3103.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
+* [Technology Access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
+* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2556.md)
+* [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2741.md)
+

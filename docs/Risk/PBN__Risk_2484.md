@@ -6,3 +6,16 @@
 
 * [Active Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
 
+## Closest similar item
+
+* [Sedentary lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
+* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_113.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
+* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3124.md)
+* [Negative effects of sedentary behavior during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_645.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
+* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
+* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_130.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
+* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+

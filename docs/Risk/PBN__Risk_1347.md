@@ -2,35 +2,39 @@
 
 # __Spatial variation in HIV prevalence__
 
-## Name of the risk
-
-Unequal distribution of healthcare resources, disparities in access to HIV prevention and treatment services
-
-## Description of the risk
-
-HIV prevalence varies by province in South Africa
-
-## Mitigations of this risk
-
-* [Improve resource allocation and healthcare infrastructure in provinces with high prevalence, promote education and awareness on HIV prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1841.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [people living in provinces with high hiv prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_858.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Unequal distribution of healthcare resources, disparities in access to HIV prevention and treatment services
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Closest similar item
+
+* [High HIV prevalence in men](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1346.md)
+* [HIV prevalence in South Africa](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_136.md)
+* [High HIV prevalence in women](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1345.md)
+* [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
+* [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+* [Incidence disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1685.md)
+* [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
+* [High population density increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_604.md)
+* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+
+## Description of the risk
+
+HIV prevalence varies by province in South Africa
 
 ## Technologies linked to the risk
 
@@ -38,19 +42,28 @@ HIV prevalence varies by province in South Africa
 * [geographic information systems (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_541.md)
 * [spatial analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_542.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [people living in provinces with high hiv prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_858.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Improve resource allocation and healthcare infrastructure in provinces with high prevalence, promote education and awareness on HIV prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1841.md)
+
+## Articles mentionning the risk
+
+* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 

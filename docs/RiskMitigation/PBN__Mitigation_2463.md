@@ -2,13 +2,26 @@
 
 # __Cultural sensitivity__
 
-## Property: has_MitigationSource
-
-* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of understanding, fear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3463.md)
+
+## Closest similar item
+
+* [Cultural change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_903.md)
+* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_618.md)
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1953.md)
+* [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2273.md)
+* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
+* [Perceived clarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2270.md)
+* [Communication and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Social Norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_391.md)
+* [National and international conversations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2256.md)
+* [Risk Perception](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_398.md)
+
+## Property: has_MitigationSource
+
+* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 
 ## Property: has_MitigationPrinciple
 

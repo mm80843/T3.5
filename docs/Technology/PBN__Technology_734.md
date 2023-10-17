@@ -10,3 +10,16 @@
 
 * [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
 
+## Closest similar item
+
+* [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+* [marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
+* [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+* [online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1801.md)
+* [digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
+* [marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2753.md)
+* [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+

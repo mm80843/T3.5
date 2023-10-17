@@ -2,6 +2,36 @@
 
 # __Social Distancing__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3200.md)
+* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
+* [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
+* [Close Proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2974.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Closest similar item
+
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2556.md)
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2557.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2558.md)
+* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2559.md)
+* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2560.md)
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2561.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2562.md)
+* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2563.md)
+* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2564.md)
+
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
@@ -33,23 +63,6 @@
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
-* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
-* [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
-* [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
-* [Close Proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2974.md)
-* [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
-* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3200.md)
-* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
-* [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
 
 ## Property: has_MitigationPrinciple
 

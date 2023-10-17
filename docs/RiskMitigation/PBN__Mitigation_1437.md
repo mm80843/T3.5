@@ -2,12 +2,25 @@
 
 # __Monitoring wastewater__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
+* [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
+* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
+* [Testing urological wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2002.md)
+* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2414.md)
+
 ## Property: has_MitigationSource
 
 * [nghiem_covid-19_2020 nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_308.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

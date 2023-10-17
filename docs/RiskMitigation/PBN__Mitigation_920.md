@@ -2,12 +2,25 @@
 
 # __Benchmarking Mobility Metrics__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Monitoring Mobility Metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
+* [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
+* [Mobility Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
+* [Travel-related Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_756.md)
+* [Reduced traveling and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
+* [Improved travel limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
+* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1123.md)
+* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
+* [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1558.md)
+
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

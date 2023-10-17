@@ -10,3 +10,16 @@
 
 * [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
 
+## Closest similar item
+
+* [biosafety officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1056.md)
+* [physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
+* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+* [regulatory body](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1601.md)
+* [medical professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2005.md)
+* [medical doctors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_501.md)
+* [scientist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1862.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
+* [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+* [medical researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_687.md)
+

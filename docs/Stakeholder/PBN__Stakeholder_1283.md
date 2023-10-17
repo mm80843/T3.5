@@ -6,3 +6,16 @@
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
 
+## Closest similar item
+
+* [Ministry of Commerce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2411.md)
+* [ministry of education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1281.md)
+* [Ministry of Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2417.md)
+* [education ministry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1636.md)
+* [ministry of health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1278.md)
+* [Ministry of Health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2433.md)
+* [education ministries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1363.md)
+* [government department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2436.md)
+* [government agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2414.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+

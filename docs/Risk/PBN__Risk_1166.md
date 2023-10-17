@@ -2,34 +2,40 @@
 
 # __Insufficient healthcare infrastructure and resources__
 
-## Name of the risk
-
-Overwhelmed healthcare systems, inability to provide proper care and treatment, increased mortality rates.
-
-## Description of the risk
-
-Inadequate healthcare infrastructure and insufficient resources can hinder the management and control of contagious diseases.
-
-## Mitigations of this risk
-
-* [Investing in healthcare infrastructure, allocating resources for healthcare facilities, enhancing surveillance and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1618.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Overwhelmed healthcare systems, inability to provide proper care and treatment, increased mortality rates.
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Closest similar item
+
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1326.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3238.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3295.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1315.md)
+* [Lack of Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1881.md)
+* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
+
+## Description of the risk
+
+Inadequate healthcare infrastructure and insufficient resources can hinder the management and control of contagious diseases.
 
 ## Technologies linked to the risk
 
@@ -37,21 +43,28 @@ Inadequate healthcare infrastructure and insufficient resources can hinder the m
 * [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
 * [improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_254.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Investing in healthcare infrastructure, allocating resources for healthcare facilities, enhancing surveillance and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1618.md)
+
+## Articles mentionning the risk
+
+* [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 

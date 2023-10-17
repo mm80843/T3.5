@@ -2,3 +2,16 @@
 
 # __Biophilic desing__
 
+## Closest similar item
+
+* [biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3940.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2678.md)
+* [biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
+* [incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
+* [biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2558.md)
+* [desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3405.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
+* [indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
+* [biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1651.md)
+

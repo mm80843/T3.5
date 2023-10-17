@@ -6,3 +6,16 @@
 
 * [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1322.md)
 
+## Closest similar item
+
+* [Installation of barriers or partitions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_477.md)
+* [Physical barriers (e.g., partitions, dividers)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_195.md)
+* [Use of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_374.md)
+* [Engineering controls (physical barriers)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_514.md)
+* [Adjust workstations, establish physical barriers/partitions, ensure good ventilation, provide handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2801.md)
+* [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2797.md)
+* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1321.md)
+* [Proper placement of supply and exhaust vents, remove barriers to airflow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2352.md)
+* [Implement noise reduction measures such as sound barriers or regulations on construction noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2175.md)
+* [Vertical isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_696.md)
+

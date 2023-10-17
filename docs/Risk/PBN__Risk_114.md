@@ -2,56 +2,69 @@
 
 # __Lack of connection with nature__
 
-## Name of the risk
-
-Decreased mental well-being, increased stress and feelings of disconnection
-
-## Description of the risk
-
-Lack of connection with nature in built environments can lead to feelings of stress, disconnection, and reduced well-being
-
-## Mitigations of this risk
-
-* [Integration of natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_138.md)
-* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2572.md)
-* [Biophilic Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
-* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
-* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Decreased mental well-being, increased stress and feelings of disconnection
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Limited connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_957.md)
+* [Lack of contact with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_735.md)
+* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2953.md)
+* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
+* [Lack of greenery and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2955.md)
+* [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2743.md)
+* [Lack of spatial variety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1890.md)
+* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1250.md)
+
+## Description of the risk
+
+Lack of connection with nature in built environments can lead to feelings of stress, disconnection, and reduced well-being
 
 ## Technologies linked to the risk
 
 * [incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
 * [provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2572.md)
+* [Integration of natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_138.md)
+* [Biophilic Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
+
+## Articles mentionning the risk
+
+* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 

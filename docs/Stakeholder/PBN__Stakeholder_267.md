@@ -6,3 +6,16 @@
 
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
 
+## Closest similar item
+
+* [especially those in low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2162.md)
+* [especially those in low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_587.md)
+* [especially those with limited acce to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2336.md)
+* [especially those with limited acces to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2295.md)
+* [especially those with limited access to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_903.md)
+* [especially in low-income country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2210.md)
+* [especially socially disadvantaged individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1065.md)
+* [especially in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
+* [especially low-income and minority community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2211.md)
+* [especially low-income and minority communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1234.md)
+

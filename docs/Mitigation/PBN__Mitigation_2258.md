@@ -2,12 +2,25 @@
 
 # __Reducing inequality and poverty__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1828.md)
+* [Social Equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_943.md)
+* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_576.md)
+* [Loss of jobs and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1534.md)
+* [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
+* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
+* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1089.md)
+* [Equitable Healthcare Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
+* [Income](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
+* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_993.md)
+
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

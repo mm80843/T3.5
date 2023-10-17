@@ -2,11 +2,24 @@
 
 # __Ensuring green space is within a ten-minute walk from home__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of proximity to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_142.md)
+
 ## Property: has_MitigationBenefit
 
 * [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_187.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Lack of proximity to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_142.md)
+* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2914.md)
+* [Increase availability of greenspaces for physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2917.md)
+* [Increase greenspace availability in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_210.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
+* [Increase greenspace availability in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2915.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_171.md)
+* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
+* [Increase greenspace availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_209.md)
+* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 

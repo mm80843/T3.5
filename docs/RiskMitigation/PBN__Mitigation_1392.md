@@ -2,13 +2,26 @@
 
 # __Upper room germicidal UV fixtures__
 
-## Property: has_MitigationSource
-
-* [Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_66.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Closest similar item
+
+* [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
+* [Implement UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
+* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
+* [Upper room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2291.md)
+* [Germicidal UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1420.md)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
+* [Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
+* [Ultraviolet germicidal irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
+* [UV light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
+
+## Property: has_MitigationSource
+
+* [Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_66.md)
 
 ## Property: has_MitigationPrinciple
 

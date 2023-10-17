@@ -2,53 +2,66 @@
 
 # __Lack of novel treatment options__
 
-## Name of the risk
-
-Limited treatment options and increased mortality rates.
-
-## Description of the risk
-
-Limited availability of effective drugs for treating COVID-19.
-
-## Mitigations of this risk
-
-* [Utilize AI algorithms for drug discovery and development of novel treatments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2860.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Stakeholders who can mitigate this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
 
 ## People affected by this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
+## Name of the risk
+
+Limited treatment options and increased mortality rates.
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
+* [Lack of Effective Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1868.md)
+* [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
+* [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+* [Ineffective treatments based on flawed preprints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_617.md)
+* [Lack of effective pharmaceutical response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1602.md)
+* [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2826.md)
+* [Lack of effective drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2724.md)
+* [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
+
+## Description of the risk
+
+Limited availability of effective drugs for treating COVID-19.
+
+## Technologies linked to the risk
+
+* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Mitigations of this risk
+
+* [Utilize AI algorithms for drug discovery and development of novel treatments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2860.md)
+
+## Articles mentionning the risk
+
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
 

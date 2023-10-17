@@ -6,3 +6,16 @@
 
 * [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
 
+## Closest similar item
+
+* [Direct contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
+* [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+* [Direct and indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
+* [Close person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2785.md)
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Direct contact with infectious individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2617.md)
+* [Transmission through person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
+* [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+

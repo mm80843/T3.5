@@ -10,3 +10,16 @@
 
 * [WQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2205.md)
 
+## Closest similar item
+
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [widespread testing programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
+* [advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
+* [rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2917.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2445.md)
+

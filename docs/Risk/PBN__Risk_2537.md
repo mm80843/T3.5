@@ -6,3 +6,16 @@
 
 * [Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
 
+## Closest similar item
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1087.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2619.md)
+* [Transmission Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
+* [Indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1554.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)
+* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
+* [Individual exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
+

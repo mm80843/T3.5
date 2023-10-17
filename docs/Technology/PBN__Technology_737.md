@@ -10,3 +10,16 @@
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 
+## Closest similar item
+
+* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
+* [enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_742.md)
+* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2563.md)
+* [enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
+* [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
+* [regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2570.md)
+* [cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3556.md)
+* [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
+

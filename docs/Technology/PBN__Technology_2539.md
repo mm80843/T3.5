@@ -2,13 +2,26 @@
 
 # __Sensor integration and development__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q167676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167676.md)
+* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2539.md)
+* [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
+* [smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+* [sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_990.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+
+## This Technology is identified by the following QID
+
+* [Q167676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167676.md)
 
 ## This Technology belongs to this TechGroup
 

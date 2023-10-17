@@ -2,12 +2,25 @@
 
 # __ASTM E1052 Standard Test Method__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [ASTM E1153 Method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
+* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+* [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
+* [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
+
 ## Property: has_MitigationSource
 
 * [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

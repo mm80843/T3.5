@@ -6,3 +6,16 @@
 
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
 
+## Closest similar item
+
+* [self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_788.md)
+* [advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+* [self-disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1757.md)
+* [surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2584.md)
+* [regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+

@@ -10,3 +10,16 @@
 
 * [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1273.md)
 
+## Closest similar item
+
+* [electronic health records (EHR) interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
+* [electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
+* [Electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
+* [electronic health record systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
+* [integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4074.md)
+* [health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1516.md)
+* [health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4423.md)
+* [health information exchange (hie) systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_397.md)
+* [Health information exchange (HIE) systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2415.md)
+* [healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
+

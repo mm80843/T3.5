@@ -2,34 +2,39 @@
 
 # __Privacy and data protection__
 
-## Name of the risk
-
-Breach of confidentiality, potential identity theft, loss of trust in healthcare systems
-
-## Description of the risk
-
-Unauthorized access and misuse of personal medical data, compromising patient privacy and confidentiality
-
-## Mitigations of this risk
-
-* [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_786.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Breach of confidentiality, potential identity theft, loss of trust in healthcare systems
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2312.md)
+* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
+* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
+* [Privacy and Security of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3018.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
+* [Privacy of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3288.md)
+* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2093.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
+
+## Description of the risk
+
+Unauthorized access and misuse of personal medical data, compromising patient privacy and confidentiality
 
 ## Technologies linked to the risk
 
@@ -37,20 +42,28 @@ Unauthorized access and misuse of personal medical data, compromising patient pr
 * [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
 * [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
+
+## Articles mentionning the risk
+
+* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_786.md)
 

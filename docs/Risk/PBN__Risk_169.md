@@ -6,3 +6,16 @@
 
 * [Increase greenspace availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_209.md)
 
+## Closest similar item
+
+* [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
+* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
+* [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2289.md)
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
+* [Lack of proximity to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_142.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
+* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
+

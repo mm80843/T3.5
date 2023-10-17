@@ -10,3 +10,16 @@
 
 * [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
 
+## Closest similar item
+
+* [market analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1370.md)
+* [Market analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2346.md)
+* [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+* [research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
+* [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
+* [data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
+* [research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3340.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [online advertising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4385.md)
+* [market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
+

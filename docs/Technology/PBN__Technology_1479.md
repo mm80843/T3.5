@@ -10,3 +10,16 @@
 
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
 
+## Closest similar item
+
+* [touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_721.md)
+* [low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
+* [lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3030.md)
+* [water-efficient fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4354.md)
+* [efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_655.md)
+* [extra light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
+* [regular provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2585.md)
+* [touchless faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
+* [hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_247.md)
+* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
+

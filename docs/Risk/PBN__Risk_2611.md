@@ -6,3 +6,16 @@
 
 * [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_518.md)
 
+## Closest similar item
+
+* [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
+* [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3274.md)
+* [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
+* [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
+* [Misinformed decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2779.md)
+* [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
+* [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+* [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
+* [Lack of clarity and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2804.md)
+

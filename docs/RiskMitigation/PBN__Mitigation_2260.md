@@ -2,13 +2,26 @@
 
 # __Strengthening enforcement of labour standards__
 
-## Property: has_MitigationSource
-
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Exploitation of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3399.md)
+
+## Closest similar item
+
+* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
+* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2443.md)
+* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1494.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
+* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1809.md)
+* [Reimagining post-lockdown workplace rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
+* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
+
+## Property: has_MitigationSource
+
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
 ## Property: has_MitigationPrinciple
 

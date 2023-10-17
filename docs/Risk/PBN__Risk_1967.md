@@ -2,53 +2,66 @@
 
 # __Lack of outdoor recreation during lockdown__
 
-## Name of the risk
-
-Negative impact on emotional health and well-being
-
-## Description of the risk
-
-Lack of access to outdoor spaces for recreation and emotional well-being during quarantine situations
-
-## Mitigations of this risk
-
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
-* [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1284.md)
+* [individuals in quarantine or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1321.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Negative impact on emotional health and well-being
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Closest similar item
+
+* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
+* [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
+* [Lack of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
+* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
+* [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
+* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1619.md)
+* [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
+* [Increased recreational use on more remote trails](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_891.md)
+* [Limited access to outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
+* [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2741.md)
+
+## Description of the risk
+
+Lack of access to outdoor spaces for recreation and emotional well-being during quarantine situations
 
 ## Technologies linked to the risk
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1391.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [individuals in quarantine or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1321.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
+
+## Articles mentionning the risk
+
+* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_15.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+* [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1284.md)
 

@@ -2,13 +2,26 @@
 
 # __DNA barcoding__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q1154642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1154642.md)
+* [DNA barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2508.md)
+* [dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4430.md)
+* [dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
+* [nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4480.md)
+* [next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4141.md)
+* [genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1952.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2793.md)
+* [mrna](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4473.md)
+* [nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3071.md)
+* [nucleic acid-based polymerase chain reaction (pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3278.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
+
+## This Technology is identified by the following QID
+
+* [Q1154642](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1154642.md)
 
 ## This Technology belongs to this TechGroup
 

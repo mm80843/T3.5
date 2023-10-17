@@ -10,3 +10,16 @@
 
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
 
+## Closest similar item
+
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
+* [touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
+* [touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
+* [touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
+* [touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
+* [contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
+* [contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
+

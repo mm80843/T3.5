@@ -10,3 +10,16 @@
 
 * [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 
+## Closest similar item
+
+* [cost-cutting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
+* [cost optimization strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_162.md)
+* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
+* [budgeting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_691.md)
+* [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
+* [restructuring models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
+* [risk reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
+* [alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
+* [climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
+* [production optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_10.md)
+

@@ -2,15 +2,15 @@
 
 # __Role of ventilation in airborne transmission of infectious agents in the built environment ? a multidisciplinary systematic review__
 
-## DOI of the article
+## Year of publication
 
-10.1111/j.1600-0668.2006.00445.x
+2007
 
 ## Title of the article
 
 Role of ventilation in airborne transmission of infectious agents in the built environment ? a multidisciplinary systematic review
 
-## Year of publication
+## DOI of the article
 
-2007
+10.1111/j.1600-0668.2006.00445.x
 

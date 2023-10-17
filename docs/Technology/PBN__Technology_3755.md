@@ -6,3 +6,16 @@
 
 * [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
 
+## Closest similar item
+
+* [biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
+* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2814.md)
+* [biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
+* [sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2451.md)
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+

@@ -2,53 +2,66 @@
 
 # __Insufficient health literacy__
 
-## Name of the risk
-
-Misunderstanding of preventive measures and higher infection rates
-
-## Description of the risk
-
-Limited ability to seek and interpret health information hampers effective response to a pandemic
-
-## Mitigations of this risk
-
-* [Enhance health literacy programs and improve access to health information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2647.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [social/health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_18.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+Misunderstanding of preventive measures and higher infection rates
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Closest similar item
+
+* [Limited health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3111.md)
+* [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
+* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
+* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
+* [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1316.md)
+* [Neglecting public health requirements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_115.md)
+* [Lack of patient education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2090.md)
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
+* [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2901.md)
+
+## Description of the risk
+
+Limited ability to seek and interpret health information hampers effective response to a pandemic
 
 ## Technologies linked to the risk
 
 * [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 * [health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_475.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Enhance health literacy programs and improve access to health information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2647.md)
+
+## Articles mentionning the risk
+
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Stakeholders who can mitigate this risk
+
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
 

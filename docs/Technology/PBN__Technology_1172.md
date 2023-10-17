@@ -10,3 +10,16 @@
 
 * [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 
+## Closest similar item
+
+* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
+* [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
+* [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2273.md)
+* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1652.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2289.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2277.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+* [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
+

@@ -6,3 +6,16 @@
 
 * [Elimination of Indoor Pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
 
+## Closest similar item
+
+* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_259.md)
+* [High indoor pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2756.md)
+* [Harmful indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_969.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
+* [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
+* [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3253.md)
+* [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
+* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
+

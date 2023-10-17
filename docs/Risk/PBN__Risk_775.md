@@ -6,3 +6,16 @@
 
 * [Systemic change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
 
+## Closest similar item
+
+* [Systemic Vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2352.md)
+* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
+* [Vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_458.md)
+* [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
+* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
+* [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3114.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Health System Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
+* [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2442.md)
+

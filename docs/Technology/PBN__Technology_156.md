@@ -10,3 +10,16 @@
 
 * [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1100.md)
 
+## Closest similar item
+
+* [interdisciplinary expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3358.md)
+* [education teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3462.md)
+* [collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
+* [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [collaboration with other groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
+* [expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
+* [collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
+* [research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
+

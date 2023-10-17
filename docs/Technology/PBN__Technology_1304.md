@@ -10,3 +10,16 @@
 
 * [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
 
+## Closest similar item
+
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2600.md)
+* [secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
+* [data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2424.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
+* [data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_346.md)
+* [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
+* [Data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2615.md)
+

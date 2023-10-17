@@ -2,10 +2,23 @@
 
 # __research methodologies__
 
+## Closest similar item
+
+* [research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
+* [research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+* [research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3523.md)
+
 ## Risks linked to this technology
 
-* [Lack of clarity on COVID-19-related loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
 * [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)
+* [Lack of clarity on COVID-19-related loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
 
 ## This Technology belongs to this TechSubgroup
 

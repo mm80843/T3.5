@@ -10,3 +10,16 @@
 
 * [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
 
+## Closest similar item
+
+* [Online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2165.md)
+* [online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1801.md)
+* [online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_46.md)
+* [Online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2148.md)
+* [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+* [advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
+* [well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1514.md)
+* [online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
+* [promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
+* [health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
+

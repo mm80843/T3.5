@@ -7,3 +7,16 @@
 * [Temperature Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
 * [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_833.md)
 
+## Closest similar item
+
+* [infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
+* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
+* [digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4442.md)
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [infrared thermal camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
+* [thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4488.md)
+* [infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1502.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2466.md)
+* [temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
+* [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
+

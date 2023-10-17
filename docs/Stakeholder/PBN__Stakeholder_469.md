@@ -2,6 +2,23 @@
 
 # __homeless__
 
+## Closest similar item
+
+* [homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
+* [homeless people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_444.md)
+* [homeless populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_711.md)
+* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+* [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
+* [city dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_772.md)
+* [urban dweller](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2502.md)
+* [unemployed individuals)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_265.md)
+* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+* [person living in deprived area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2353.md)
+
+## Risk affecting this stakeholder
+
+* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1202.md)
@@ -10,8 +27,4 @@
 ## This Stakeholder is identified by the following QID
 
 * [Q29817206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29817206.md)
-
-## Risk affecting this stakeholder
-
-* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
 

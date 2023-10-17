@@ -10,3 +10,16 @@
 
 * [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
 
+## Closest similar item
+
+* [testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+* [diagnostic testing equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2904.md)
+* [testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2445.md)
+* [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+* [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
+* [test kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3950.md)
+* [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+

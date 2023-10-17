@@ -6,3 +6,16 @@
 
 * [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
 
+## Closest similar item
+
+* [community-level infrastructure planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3216.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2378.md)
+* [participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4213.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
+* [planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2988.md)
+* [community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+

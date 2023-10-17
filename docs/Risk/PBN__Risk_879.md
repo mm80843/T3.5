@@ -6,3 +6,16 @@
 
 * [Subaltern technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
 
+## Closest similar item
+
+* [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
+* [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
+* [Lack of data for pandemic management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_876.md)
+* [Limited access to healthcare during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_518.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
+* [Environmental impacts of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_931.md)
+* [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
+* [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
+* [Economic decline during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_516.md)
+* [Exaggerated pandemic estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_374.md)
+

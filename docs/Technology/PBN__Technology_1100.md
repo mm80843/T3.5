@@ -10,3 +10,16 @@
 
 * [Climate conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1732.md)
 
+## Closest similar item
+
+* [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
+* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+* [climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
+* [greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4012.md)
+* [emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
+* [Environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2697.md)
+* [environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
+* [smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
+* [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
+

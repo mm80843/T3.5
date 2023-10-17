@@ -4,8 +4,21 @@
 
 ## Mitigations of this risk
 
-* [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_682.md)
-* [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_683.md)
-* [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_684.md)
 * [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)
+* [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_683.md)
+* [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_682.md)
+* [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_684.md)
+
+## Closest similar item
+
+* [Social inequalities and COVID-19 testing rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_486.md)
+* [Social, spatial, and economic inequalities exacerbated by COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_754.md)
+* [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
+* [Risk of spreading COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
+* [Economic and social costs of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_578.md)
+* [Impact of Covid-19 on neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_29.md)
+* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
+* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
+* [Poor practices for COVID-19 prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_626.md)
 

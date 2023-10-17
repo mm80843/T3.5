@@ -10,3 +10,16 @@
 
 * [Induction process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
 
+## Closest similar item
+
+* [virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2631.md)
+* [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
+* [virtual personal trainers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1076.md)
+* [online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
+* [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
+* [virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
+* [simulation and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4315.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
+

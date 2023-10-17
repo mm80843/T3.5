@@ -13,10 +13,6 @@
 * [Support for victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_687.md)
 * [Increased revenue for video-gaming companies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_688.md)
 
-## Short summary of the article
-
-The outbreak of COVID-19 has had a detrimental effect on global healthcare systems and the world economy. In terms of the primary sectors of the economy, the agricultural sector has been impacted by a global crash in demand, resulting in a drop in prices of agricultural commodities. The petroleum and oil sector has experienced an oil-price war triggered by a refusal by Russia to slash oil production, leading to a steep price crash. The manufacturing industry has seen a decline in turnover and disruptions to supply chains. In the tertiary sectors, the education sector has been greatly affected, with widespread school closures and socioeconomic implications such as the loss of free school meals and increased childcare costs. The financial industry has faced disruptions in supply chains and a decline in stock markets. The real estate sector has been uncertain due to social distancing measures and the inability to conduct house viewings. The tourism industry has been severely impacted with travel restrictions and cancellations of major sporting events. The healthcare and pharmaceutical industry is facing challenges in providing care and shortages of protective equipment, while also experiencing changes in healthcare management and investments in vaccine development. The food sector has seen panic-buying and stockpiling, leading to shortages and challenges in food distribution. The social impact of the pandemic includes an increase in domestic violence and a boost in online gaming. To mitigate the effects of the crisis, governments and financial institutions have implemented various measures such as economic stimulus packages and support for affected businesses.
-
 ## Summary of the article
 
 The COVID-19 outbreak, caused by a virus called SARS-CoV-2, has had a big impact on the world. It has affected our health, our jobs, and the economy. Let's look at how it has affected different parts of the economy. 
@@ -39,19 +35,9 @@ The sports industry has also been impacted. Many sporting events have been cance
 
 Overall, the COVID-19 outbreak has had a big impact on many different parts of the economy. It has caused a lot of uncertainty and financial difficulties for businesses and workers. It is important for governments and leaders to come up with plans to support the economy and help people who have been affected by the virus.
 
-## List of risks in an article
+## Short summary of the article
 
-* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
-* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
-* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
-* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
-* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
-* [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
-* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
-* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
-* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
-* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
+The outbreak of COVID-19 has had a detrimental effect on global healthcare systems and the world economy. In terms of the primary sectors of the economy, the agricultural sector has been impacted by a global crash in demand, resulting in a drop in prices of agricultural commodities. The petroleum and oil sector has experienced an oil-price war triggered by a refusal by Russia to slash oil production, leading to a steep price crash. The manufacturing industry has seen a decline in turnover and disruptions to supply chains. In the tertiary sectors, the education sector has been greatly affected, with widespread school closures and socioeconomic implications such as the loss of free school meals and increased childcare costs. The financial industry has faced disruptions in supply chains and a decline in stock markets. The real estate sector has been uncertain due to social distancing measures and the inability to conduct house viewings. The tourism industry has been severely impacted with travel restrictions and cancellations of major sporting events. The healthcare and pharmaceutical industry is facing challenges in providing care and shortages of protective equipment, while also experiencing changes in healthcare management and investments in vaccine development. The food sector has seen panic-buying and stockpiling, leading to shortages and challenges in food distribution. The social impact of the pandemic includes an increase in domestic violence and a boost in online gaming. To mitigate the effects of the crisis, governments and financial institutions have implemented various measures such as economic stimulus packages and support for affected businesses.
 
 ## This article points to following mitigation
 
@@ -61,22 +47,36 @@ Overall, the COVID-19 outbreak has had a big impact on many different parts of t
 * [Self-Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_707.md)
 * [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
 * [Increased Production of Ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1443.md)
+* [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
 * [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
-* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
-* [Delivery Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
-* [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
-* [Mortgage Holidays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1447.md)
+* [Flexible Delivery Hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
 * [Emergency Loan Guarantees](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1448.md)
-* [Support for Unemployed Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1449.md)
 * [Government Bailout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1450.md)
+* [Support for Unemployed Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1449.md)
+* [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
+* [Delivery Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
+* [Online Grocery Delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1456.md)
 * [State Aid for Tourism Industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1451.md)
 * [Increased Funding for Vaccine Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
+* [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
+* [Tele-response Bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
+* [Mortgage Holidays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1447.md)
 * [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
-* [Flexible Delivery Hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
 * [Limiting Product Range](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1455.md)
-* [Online Grocery Delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1456.md)
-* [Increased Support for Domestic Violence Services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1457.md)
-* [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
+
+## List of risks in an article
+
+* [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
+* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
+* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
+* [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
+* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
+* [Decline in manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
+* [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
+* [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
 
 ## Title of the article
 

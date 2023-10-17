@@ -2,15 +2,28 @@
 
 # __urban planning authority__
 
-## This Stakeholder is identified by the following QID
-
-* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 
+## Closest similar item
+
+* [urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
+* [urban planning agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1622.md)
+* [urban planning department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1602.md)
+* [urban planning agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_552.md)
+* [urban planning organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1606.md)
+* [urban planning departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_777.md)
+* [urban planning organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_832.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [city planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
+* [urban authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_434.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
 

@@ -2,11 +2,24 @@
 
 # __Strengthening partnerships__
 
+## Risks possibly mitigated by this Mitigation
+
+* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved collaboration and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1062.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
+* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
+* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_11.md)
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
+* [Robust government support and partnership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_531.md)
+* [Seek alternative sources of funding, diversify revenue streams, engage in partnerships and collaborations for financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2843.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1119.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_987.md)
+* [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2784.md)
+* [Collaboration with WHO and Government Organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
+* [Strengthen partnerships with donors, improve access to funding opportunities, and highlight the importance of conservation in development efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1783.md)
 

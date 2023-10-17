@@ -10,3 +10,16 @@
 
 * [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 
+## Closest similar item
+
+* [terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4349.md)
+* [ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4493.md)
+* [monitor risers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1401.md)
+* [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
+* [rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
+* [green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [rowing machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3244.md)
+* [widened aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4188.md)
+* [actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4130.md)
+* [cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
+

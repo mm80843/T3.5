@@ -2,14 +2,27 @@
 
 # __Monitoring technologies__
 
-## This Technology is identified by the following QID
+## Closest similar item
 
-* [Q41567412](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41567412.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
+* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
+* [technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
+* [monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
+* [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
+* [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
 
 ## This Technology belongs to this TechSubgroup
 
 * [Digital Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_93.md)
 * [Technologies for Monitoring and Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_64.md)
+
+## This Technology is identified by the following QID
+
+* [Q41567412](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41567412.md)
 
 ## This Technology belongs to this TechGroup
 

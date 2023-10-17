@@ -2,12 +2,25 @@
 
 # __Simulation software tools__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
+* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
+* [Configurable Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
+* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2224.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
+* [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_241.md)
+* [GIS tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
+* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
+
 ## Property: has_MitigationSource
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

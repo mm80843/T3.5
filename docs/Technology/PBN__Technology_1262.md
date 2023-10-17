@@ -10,3 +10,16 @@
 
 * [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
 
+## Closest similar item
+
+* [technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [remote teaching tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1810.md)
+* [Remote learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
+* [education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2898.md)
+* [remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+* [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+* [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [remote assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1423.md)
+

@@ -10,3 +10,16 @@
 
 * [Ethical considerations for wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1054.md)
 
+## Closest similar item
+
+* [ethical guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1432.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2510.md)
+* [enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1999.md)
+* [ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
+* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2419.md)
+* [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+* [clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
+* [ethical considerations and responsible building practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3455.md)
+

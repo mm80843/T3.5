@@ -6,3 +6,16 @@
 
 * [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2407.md)
 
+## Closest similar item
+
+* [web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+* [software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
+* [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1663.md)
+* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
+* [collaboration tools (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
+* [digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4029.md)
+* [collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3038.md)
+* [collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+

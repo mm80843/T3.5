@@ -6,3 +6,16 @@
 
 * [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
 
+## Closest similar item
+
+* [Carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_149.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
+* [Greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
+* [Ozone emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3016.md)
+* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
+* [Environmental impacts, lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2820.md)
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
+* [Challenges in promoting low-carbon policies in Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
+* [Insufficient funding for climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3320.md)
+* [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1220.md)
+

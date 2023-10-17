@@ -7,3 +7,16 @@
 * [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1189.md)
 * [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1192.md)
 
+## Closest similar item
+
+* [marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2753.md)
+* [market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
+* [communication and marketing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_734.md)
+* [online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1801.md)
+* [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+

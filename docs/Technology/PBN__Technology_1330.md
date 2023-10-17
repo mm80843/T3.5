@@ -10,3 +10,16 @@
 
 * [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
 
+## Closest similar item
+
+* [touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
+* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
+* [contactless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_489.md)
+* [touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
+* [touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+* [touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_747.md)
+* [Touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1291.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+

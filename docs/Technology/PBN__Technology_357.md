@@ -10,3 +10,16 @@
 
 * [Metropolitan area-specific study](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1256.md)
 
+## Closest similar item
+
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3986.md)
+* [its](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3997.md)
+* [rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1062.md)
+* [--------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1867.md)
+* [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+* [Negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2713.md)
+* [sio)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3984.md)
+* [yolo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4132.md)
+* [signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3923.md)
+* [loc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
+

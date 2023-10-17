@@ -6,3 +6,16 @@
 
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 
+## Closest similar item
+
+* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
+* [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
+* [Lack of knowledge about the virus, treatments, and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2920.md)
+* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1748.md)
+* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1349.md)
+* [High patient demand for vaccinations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_155.md)
+* [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3194.md)
+* [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
+

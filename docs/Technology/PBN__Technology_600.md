@@ -10,3 +10,16 @@
 
 * [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1381.md)
 
+## Closest similar item
+
+* [Biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
+* [conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_536.md)
+* [wildlife-friendly guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_602.md)
+* [ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
+* [habitat creation and management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_601.md)
+* [Habitat creation and management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
+* [conservation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4096.md)
+* [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
+* [environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+

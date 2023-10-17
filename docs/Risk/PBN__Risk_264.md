@@ -2,35 +2,39 @@
 
 # __Establish a one-way mobility circulation__
 
-## Name of the risk
-
-Improved management of human circulation, determination of access routes.
-
-## Description of the risk
-
-Implementation of one-way mobility circulation to control and manage human movement in public places.
-
-## Mitigations of this risk
-
-* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_322.md)
-* [Allocation of entry and exit points, signage, and wayfinding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1723.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [public place owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_768.md)
-* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Improved management of human circulation, determination of access routes.
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Closest similar item
+
+* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
+* [Population mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_705.md)
+* [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2556.md)
+* [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
+* [Concealment of mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3209.md)
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
+
+## Description of the risk
+
+Implementation of one-way mobility circulation to control and manage human movement in public places.
 
 ## Technologies linked to the risk
 
@@ -38,20 +42,29 @@ Implementation of one-way mobility circulation to control and manage human movem
 * [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 * [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Allocation of entry and exit points, signage, and wayfinding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1723.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_322.md)
+
+## Articles mentionning the risk
+
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public place owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_768.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 

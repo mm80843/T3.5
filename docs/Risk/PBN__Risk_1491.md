@@ -2,54 +2,67 @@
 
 # __Visible costs of policies versus unseen health benefits__
 
-## Name of the risk
-
-Reluctance to implement policies, potential for uncontrolled spread of the virus
-
-## Description of the risk
-
-Societies hesitate to implement anti-contagion policies due to the visible costs (e.g. unemployment, school closures) and unseen health benefits
-
-## Mitigations of this risk
-
-* [Communicate and educate the public about the health benefits of policies, use evidence-based arguments to justify policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2011.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Stakeholders who can mitigate this risk
+## People affected by this risk
 
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_RiskGBN
+## Name of the risk
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+Reluctance to implement policies, potential for uncontrolled spread of the virus
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Closest similar item
+
+* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
+* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Elevated healthcare expenditure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_663.md)
+* [Neglecting public health requirements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_115.md)
+* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
+* [Limited access to health information and beliefs hindering adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3100.md)
+* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
+* [Resource burden on health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_461.md)
+* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2688.md)
+* [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
+
+## Description of the risk
+
+Societies hesitate to implement anti-contagion policies due to the visible costs (e.g. unemployment, school closures) and unseen health benefits
 
 ## Technologies linked to the risk
 
 * [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
 * [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [Communicate and educate the public about the health benefits of policies, use evidence-based arguments to justify policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2011.md)
+
+## Articles mentionning the risk
+
+* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Articles mentionning the risk
+## Property: has_RiskGBN
 
-* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Stakeholders who can mitigate this risk
+
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 

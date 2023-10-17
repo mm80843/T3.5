@@ -2,13 +2,26 @@
 
 # __Vulnerability Identification__
 
-## Property: has_MitigationSource
-
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
+
+## Closest similar item
+
+* [Protect the Vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_691.md)
+* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1853.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
+* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2085.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
+* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1488.md)
+* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
+* [Home Security Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_387.md)
+* [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_793.md)
+
+## Property: has_MitigationSource
+
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
 ## Property: has_MitigationPrinciple
 

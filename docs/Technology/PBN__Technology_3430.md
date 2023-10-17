@@ -8,3 +8,16 @@
 * [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
 * [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1309.md)
 
+## Closest similar item
+
+* [urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_924.md)
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
+* [urban design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
+* [urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2721.md)
+* [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2334.md)
+* [urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_383.md)
+* [urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2389.md)
+

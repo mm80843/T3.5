@@ -2,13 +2,26 @@
 
 # __Flexibility and Adaptability__
 
-## Property: has_MitigationSource
-
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2864.md)
+
+## Closest similar item
+
+* [Adaptability and Flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1028.md)
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
+* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
+* [Flexibility and Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1293.md)
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
+* [Flexible Design Solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1968.md)
+* [Expandability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
+* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+
+## Property: has_MitigationSource
+
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
 ## Property: has_MitigationPrinciple
 

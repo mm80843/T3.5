@@ -2,6 +2,35 @@
 
 # __staff__
 
+## Closest similar item
+
+* [staff of](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1549.md)
+* [new staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_295.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [essential staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_863.md)
+* [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+* [restaurant staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1816.md)
+* [technical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_747.md)
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [new staff members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_985.md)
+* [University staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1745.md)
+
+## Risk affecting this stakeholder
+
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
+* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
+* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Lack of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1502.md)
+* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
+* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
+* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
+* [Lack of sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
+* [Failure to prioritize team safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2150.md)
+
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
@@ -22,20 +51,4 @@
 ## This Stakeholder is identified by the following QID
 
 * [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
-
-## Risk affecting this stakeholder
-
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
-* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
-* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
-* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
-* [Lack of sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
-* [Lack of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1502.md)
-* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
-* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
-* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
-* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
-* [Failure to prioritize team safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2150.md)
 

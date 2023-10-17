@@ -6,3 +6,16 @@
 
 * [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_220.md)
 
+## Closest similar item
+
+* [MH3: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_182.md)
+* [MH2: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_181.md)
+* [MH4: Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_183.md)
+* [MH1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2196.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+* [MH2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2197.md)
+* [MH3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2198.md)
+* [Mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2460.md)
+* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
+

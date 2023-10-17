@@ -2,12 +2,25 @@
 
 # __IoT__
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Closest similar item
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1578.md)
+* [iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2842.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3113.md)
+* [IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2018.md)
+* [iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2841.md)
+* [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2843.md)
+* [iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3114.md)
+* [IoT protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3115.md)
+* [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2838.md)
+* [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3116.md)
+
 ## Property: has_MitigationSource
 
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
-
-## Risks possibly mitigated by this Mitigation
-
 
 ## Property: has_MitigationPrinciple
 

@@ -6,3 +6,16 @@
 
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
 
+## Closest similar item
+
+* [alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4273.md)
+* [cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2782.md)
+* [copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4272.md)
+* [copper particles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
+* [surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
+* [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
+* [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+* [cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
+
