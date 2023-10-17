@@ -2,14 +2,6 @@
 
 # __Lack of preexisting immunities__
 
-## Mitigations of this risk
-
-* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2759.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Higher susceptibility to infection and increased risk of severe symptoms
@@ -17,6 +9,14 @@ Higher susceptibility to infection and increased risk of severe symptoms
 ## Description of the risk
 
 Lack of immunity to Covid-19 in the general population
+
+## Mitigations of this risk
+
+* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2759.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +28,21 @@ Lack of immunity to Covid-19 in the general population
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Lack of immunity to Covid-19 in the general population
 ## Articles mentionning the risk
 
 * [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
 

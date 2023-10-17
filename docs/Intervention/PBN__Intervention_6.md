@@ -2,7 +2,7 @@
 
 # __Absorb surge in service demande__
 
-## This Technology belongs to this TechSubgroup
+## This intervention is used in the following blueprints
 
 * [Smart Locker System](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)

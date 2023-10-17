@@ -2,15 +2,16 @@
 
 # __Telemedecine__
 
+## Property: has_BP_EnablerTitle
+
+enabler_018
+
 ## Property: has_TechEquivalent
 
 * [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4542.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_018
 

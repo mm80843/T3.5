@@ -2,10 +2,6 @@
 
 # __patients__
 
-## This Stakeholder is identified by the following QID
-
-* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
@@ -83,9 +79,9 @@
 * [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
 * [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
+* [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -162,4 +158,8 @@
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Tissue tropism and pathogenesis of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2360.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
 

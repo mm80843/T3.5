@@ -2,18 +2,18 @@
 
 # __Ability to Work from Home__
 
-## Property: has_MitigationPrinciple
-
-Enable remote work options to reduce physical contact and limit the spread of infections in the workplace.
-
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Enable remote work options to reduce physical contact and limit the spread of infections in the workplace.
+
 ## This Mitigation is enabled by the following technologies
 
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

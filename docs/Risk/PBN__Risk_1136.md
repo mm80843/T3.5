@@ -2,16 +2,6 @@
 
 # __Contagious disease propagation in built environment__
 
-## Mitigations of this risk
-
-* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1584.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
 ## Name of the risk
 
 Increased infection rates, overwhelmed healthcare systems, higher risk of mortality
@@ -19,6 +9,14 @@ Increased infection rates, overwhelmed healthcare systems, higher risk of mortal
 ## Description of the risk
 
 Spread of diseases in the built environment, leading to increased transmission among individuals
+
+## Mitigations of this risk
+
+* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1584.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,13 +27,23 @@ Spread of diseases in the built environment, leading to increased transmission a
 * [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
 * [building owners and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_524.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -44,12 +52,4 @@ Spread of diseases in the built environment, leading to increased transmission a
 ## Articles mentionning the risk
 
 * [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

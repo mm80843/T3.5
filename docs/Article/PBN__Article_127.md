@@ -2,30 +2,6 @@
 
 # __Applications of digital technology in COVID-19 pandemic planning and response__
 
-## Short summary of the article
-
-Digital health technology has become a crucial tool in managing and responding to the COVID-19 pandemic. Countries like South Korea have effectively integrated digital technology into their pandemic strategy, including surveillance, testing, contact tracing, and quarantine. This has led to early flattening of the incidence curves in these countries. Big data and artificial intelligence (AI) have helped track the movement of infected individuals and forecast transmission dynamics. AI algorithms have also incorporated the effect of climate into projections. Screening for infection has been facilitated by digital thermometers, mobile technology for symptom reporting, and widespread testing of asymptomatic individuals. Contact tracing has been enhanced through the use of security cameras, facial recognition technology, and mobile phone applications. Quarantine and self-isolation have been monitored through QR code systems, electronic monitoring, and mobile phone solutions. AI has also assisted in rapid diagnosis and risk prediction, while virtual care platforms have enabled remote healthcare delivery. However, the use of digital technology can exacerbate socioeconomic inequalities and privacy concerns. Access and infrastructure disparities need to be addressed, and privacy measures should balance the need for contact tracing. Overall, integrating digital technology into pandemic policy and response is crucial for effective management and mitigating the spread of COVID-19.
-
-## Year of publication
-
-2020
-
-## Title of the article
-
-Applications of digital technology in COVID-19 pandemic planning and response
-
-## List of risks in an article
-
-* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
-* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
-* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
-
-## DOI of the article
-
-10.1016/s2589-7500(20)30142-4
-
 ## Benefits listed in this article
 
 * [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
@@ -34,6 +10,22 @@ Applications of digital technology in COVID-19 pandemic planning and response
 * [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_640.md)
 * [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_641.md)
 * [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_642.md)
+
+## Short summary of the article
+
+Digital health technology has become a crucial tool in managing and responding to the COVID-19 pandemic. Countries like South Korea have effectively integrated digital technology into their pandemic strategy, including surveillance, testing, contact tracing, and quarantine. This has led to early flattening of the incidence curves in these countries. Big data and artificial intelligence (AI) have helped track the movement of infected individuals and forecast transmission dynamics. AI algorithms have also incorporated the effect of climate into projections. Screening for infection has been facilitated by digital thermometers, mobile technology for symptom reporting, and widespread testing of asymptomatic individuals. Contact tracing has been enhanced through the use of security cameras, facial recognition technology, and mobile phone applications. Quarantine and self-isolation have been monitored through QR code systems, electronic monitoring, and mobile phone solutions. AI has also assisted in rapid diagnosis and risk prediction, while virtual care platforms have enabled remote healthcare delivery. However, the use of digital technology can exacerbate socioeconomic inequalities and privacy concerns. Access and infrastructure disparities need to be addressed, and privacy measures should balance the need for contact tracing. Overall, integrating digital technology into pandemic policy and response is crucial for effective management and mitigating the spread of COVID-19.
+
+## Summary of the article
+
+Digital health technology has been used by different countries to help manage the COVID-19 pandemic. For example, South Korea used digital technology to track people's movements and identify those who might have been exposed to the virus. Taiwan used data from immigration records and health databases to track the travel history of individuals and test them for the virus. Germany and Singapore used mobile apps to help with contact tracing, which means finding people who have been in contact with someone who has the virus. China used a QR code system to monitor people's health and control their movement. Digital technology can also help with diagnosing the virus, monitoring patients remotely, and delivering healthcare through video appointments. However, there are some challenges with using digital technology, such as privacy concerns and inequalities in access to technology. Overall, digital health technology has been helpful in managing the pandemic and can provide valuable lessons for other countries.
+
+## List of risks in an article
+
+* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
+* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
 
 ## This article points to following mitigation
 
@@ -51,7 +43,15 @@ Applications of digital technology in COVID-19 pandemic planning and response
 * [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2378.md)
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2379.md)
 
-## Summary of the article
+## Title of the article
 
-Digital health technology has been used by different countries to help manage the COVID-19 pandemic. For example, South Korea used digital technology to track people's movements and identify those who might have been exposed to the virus. Taiwan used data from immigration records and health databases to track the travel history of individuals and test them for the virus. Germany and Singapore used mobile apps to help with contact tracing, which means finding people who have been in contact with someone who has the virus. China used a QR code system to monitor people's health and control their movement. Digital technology can also help with diagnosing the virus, monitoring patients remotely, and delivering healthcare through video appointments. However, there are some challenges with using digital technology, such as privacy concerns and inequalities in access to technology. Overall, digital health technology has been helpful in managing the pandemic and can provide valuable lessons for other countries.
+Applications of digital technology in COVID-19 pandemic planning and response
+
+## Year of publication
+
+2020
+
+## DOI of the article
+
+10.1016/s2589-7500(20)30142-4
 

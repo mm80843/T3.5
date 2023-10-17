@@ -2,14 +2,6 @@
 
 # __----------------------__
 
-## Stakeholders benefitting from this Benefit
-
-* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_396.md)
-
-## Name of the Benefit
-
-------------------------------------------------
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [-------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1109.md)
@@ -22,4 +14,12 @@
 ## Articles mentionning this Benefit
 
 * [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+
+## Name of the Benefit
+
+------------------------------------------------
+
+## Stakeholders benefitting from this Benefit
+
+* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_396.md)
 

@@ -2,15 +2,6 @@
 
 # __Transmission of COVID-19 through wastewater__
 
-## Mitigations of this risk
-
-* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [wastewater treatment workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
-
 ## Name of the risk
 
 Spread of COVID-19, potential for outbreaks in wastewater treatment facilities
@@ -18,6 +9,14 @@ Spread of COVID-19, potential for outbreaks in wastewater treatment facilities
 ## Description of the risk
 
 Wastewater can contain SARS-CoV-2, potentially leading to transmission of COVID-19
+
+## Mitigations of this risk
+
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,21 @@ Wastewater can contain SARS-CoV-2, potentially leading to transmission of COVID-
 * [wastewater treatment authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1140.md)
 * [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [wastewater treatment workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Wastewater can contain SARS-CoV-2, potentially leading to transmission of COVID-
 ## Articles mentionning the risk
 
 * [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

@@ -2,10 +2,6 @@
 
 # __urban green spaces__
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## Risks linked to this technology
 
 * [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
@@ -13,4 +9,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

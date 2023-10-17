@@ -2,16 +2,6 @@
 
 # __COVID-19 outbreak impact__
 
-## Mitigations of this risk
-
-* [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
-
-## People affected by this risk
-
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-* [stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)
-
 ## Name of the risk
 
 Project delays, increased costs, reduced productivity, health risks.
@@ -19,6 +9,14 @@ Project delays, increased costs, reduced productivity, health risks.
 ## Description of the risk
 
 Disruption caused by the COVID-19 pandemic on project completion and operations.
+
+## Mitigations of this risk
+
+* [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -30,22 +28,6 @@ Disruption caused by the COVID-19 pandemic on project completion and operations.
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -54,4 +36,22 @@ Disruption caused by the COVID-19 pandemic on project completion and operations.
 
 * [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
 * [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
+
+## People affected by this risk
+
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+* [stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 

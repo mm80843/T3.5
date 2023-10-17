@@ -2,11 +2,6 @@
 
 # __urban planning tools__
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology enables the following mitigations
 
 * [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1486.md)
@@ -24,4 +19,9 @@
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
 * [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

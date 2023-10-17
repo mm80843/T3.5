@@ -2,14 +2,6 @@
 
 # __Fear and negative emotion__
 
-## Mitigations of this risk
-
-* [Promote mental health resources and support, provide access to counseling and psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Increased stress and anxiety, decreased mental well-being, decreased adoption of protective measures
@@ -17,6 +9,14 @@ Increased stress and anxiety, decreased mental well-being, decreased adoption of
 ## Description of the risk
 
 Fear and negative emotional responses to the outbreak can impact mental health and hinder adoption of protective measures
+
+## Mitigations of this risk
+
+* [Promote mental health resources and support, provide access to counseling and psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -27,22 +27,6 @@ Fear and negative emotional responses to the outbreak can impact mental health a
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -51,4 +35,20 @@ Fear and negative emotional responses to the outbreak can impact mental health a
 
 * [counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
 * [mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 

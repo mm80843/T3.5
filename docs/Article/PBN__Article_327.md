@@ -2,20 +2,20 @@
 
 # __Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro__
 
-## Year of publication
+## Referenced by other articles
 
-2022
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 
 ## Title of the article
 
 Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro
 
+## Year of publication
+
+2022
+
 ## DOI of the article
 
 10.3390/su14031302
-
-## Referenced by other articles
-
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

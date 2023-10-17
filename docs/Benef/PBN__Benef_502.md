@@ -2,14 +2,6 @@
 
 # __Minimized face-to-face interaction__
 
-## Stakeholders benefitting from this Benefit
-
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-
-## Name of the Benefit
-
-Implementing administrative controls such as online meetings and shift arrangements reduces the risk of virus transmission through close contact
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in administrative controls reduces the risk of COVID-19 transmission in the workplace, protecting workers and ensuring business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_546.md)
@@ -17,4 +9,12 @@ Implementing administrative controls such as online meetings and shift arrangeme
 ## Articles mentionning this Benefit
 
 * [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## Name of the Benefit
+
+Implementing administrative controls such as online meetings and shift arrangements reduces the risk of virus transmission through close contact
+
+## Stakeholders benefitting from this Benefit
+
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 

@@ -2,10 +2,6 @@
 
 # __photocatalytic oxidation__
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## This Technology enables the following mitigations
 
 * [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2129.md)
@@ -21,4 +17,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

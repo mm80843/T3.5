@@ -2,11 +2,11 @@
 
 # __Infection tracking / monitoring__
 
-## Property: has_BP_InterventionKey
-
-MP1
-
 ## Property: has_BP_InterventionTitle
 
 Infection tracking / monitoring
+
+## Property: has_BP_InterventionKey
+
+MP1
 

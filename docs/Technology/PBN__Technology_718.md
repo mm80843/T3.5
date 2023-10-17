@@ -2,10 +2,6 @@
 
 # __remote working__
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## Risks linked to this technology
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Digital Communication and Collaboration Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_93.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

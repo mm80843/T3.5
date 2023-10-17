@@ -8,10 +8,6 @@
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
 * [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
@@ -23,4 +19,8 @@
 * [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
 * [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
 * [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
 

@@ -2,7 +2,7 @@
 
 # __Maintenance / decontamination of building water sytems__
 
-## This Technology belongs to this TechSubgroup
+## This intervention is used in the following blueprints
 
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Drinking Water Safety - Biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)

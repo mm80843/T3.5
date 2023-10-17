@@ -2,10 +2,6 @@
 
 # __policymakers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q4175034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4175034.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
@@ -29,47 +25,6 @@
 * [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
 * [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1320.md)
 * [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1322.md)
-
-## Risk affecting this stakeholder
-
-* [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)
-* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-* [Temperature and COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1247.md)
-* [Humidity and COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1248.md)
-* [Confounding factors in transmission analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1251.md)
-* [Metropolitan area-specific study](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1256.md)
-* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
-* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
-* [Lag between infection and death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
-* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
-* [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1394.md)
-* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1395.md)
-* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
-* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1489.md)
-* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
-* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1492.md)
-* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
-* [Publication bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
-* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
-* [Exponential community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1520.md)
-* [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1521.md)
-* [Claims of a once-in-a-century pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1523.md)
-* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
-* [Lack of clarity on COVID-19-related loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
-* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
-* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
-* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
-* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
-* [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
-* [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
-* [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2310.md)
-* [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
-* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
-* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -125,4 +80,49 @@
 * [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 * [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
 * [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4175034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4175034.md)
+
+## Risk affecting this stakeholder
+
+* [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)
+* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Temperature and COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1247.md)
+* [Humidity and COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1248.md)
+* [Confounding factors in transmission analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1251.md)
+* [Metropolitan area-specific study](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1256.md)
+* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
+* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
+* [Lag between infection and death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
+* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
+* [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1394.md)
+* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1395.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
+* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1489.md)
+* [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
+* [Unknown effects of policies on infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1492.md)
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
+* [Publication bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
+* [Exaggerated estimates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
+* [Exponential community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1520.md)
+* [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1521.md)
+* [Claims of a once-in-a-century pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1523.md)
+* [Comparison to the 1918 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
+* [Lack of clarity on COVID-19-related loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
+* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
+* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1763.md)
+* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
+* [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
+* [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
+* [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2310.md)
+* [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
+* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
+* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
 

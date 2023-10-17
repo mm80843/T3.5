@@ -2,16 +2,6 @@
 
 # __Global mobility__
 
-## Mitigations of this risk
-
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2716.md)
-
-## People affected by this risk
-
-* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
-* [migrant populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
-
 ## Name of the risk
 
 Rapid diffusion of the virus to different countries and regions
@@ -19,6 +9,15 @@ Rapid diffusion of the virus to different countries and regions
 ## Description of the risk
 
 The risk of the disease spreading across borders due to international travel and migration
+
+## Mitigations of this risk
+
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2716.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +28,6 @@ The risk of the disease spreading across borders due to international travel and
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [immigration authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1076.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Articles mentionning the risk
-
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -54,4 +37,21 @@ The risk of the disease spreading across borders due to international travel and
 * [travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
 * [biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
 * [border control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1549.md)
+
+## People affected by this risk
+
+* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
+* [migrant populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Articles mentionning the risk
+
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 

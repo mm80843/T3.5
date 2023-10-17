@@ -2,15 +2,6 @@
 
 # __Shortage of personal protective equipment (PPE)__
 
-## Mitigations of this risk
-
-* [Increase production and distribution of PPE, implement reuse and recycling programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2018.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Increased risk of exposure to the virus, higher rates of infection among healthcare workers.
@@ -18,6 +9,14 @@ Increased risk of exposure to the virus, higher rates of infection among healthc
 ## Description of the risk
 
 There is a shortage of PPE, such as masks and gloves, for healthcare workers and the general population.
+
+## Mitigations of this risk
+
+* [Increase production and distribution of PPE, implement reuse and recycling programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2018.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +28,6 @@ There is a shortage of PPE, such as masks and gloves, for healthcare workers and
 * [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
-
-## Articles mentionning the risk
-
-* [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -53,4 +36,21 @@ There is a shortage of PPE, such as masks and gloves, for healthcare workers and
 
 * [manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
 * [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
+
+## Articles mentionning the risk
+
+* [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
 

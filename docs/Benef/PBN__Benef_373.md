@@ -2,15 +2,6 @@
 
 # __Minimized exposure through changes in work procedures__
 
-## Stakeholders benefitting from this Benefit
-
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-
-## Name of the Benefit
-
-Implementing administrative controls, such as limiting the total number of workers in each work shift and minimizing face-to-face meetings, can reduce the risk of exposure to COVID-19 in the workplace.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing administrative controls can create a safer work environment, reducing the risk of COVID-19 transmission among workers and potentially decreasing the number of sick days taken. This can contribute to improved employee health, increased productivity, and potentially reduced healthcare costs for employers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_400.md)
@@ -18,4 +9,13 @@ Implementing administrative controls, such as limiting the total number of worke
 ## Articles mentionning this Benefit
 
 * [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+
+## Name of the Benefit
+
+Implementing administrative controls, such as limiting the total number of workers in each work shift and minimizing face-to-face meetings, can reduce the risk of exposure to COVID-19 in the workplace.
+
+## Stakeholders benefitting from this Benefit
+
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 

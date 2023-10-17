@@ -2,11 +2,6 @@
 
 # __remote monitoring__
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Risks linked to this technology
 
 * [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
@@ -22,4 +17,9 @@
 
 * [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
 * [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

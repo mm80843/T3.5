@@ -2,14 +2,6 @@
 
 # __Decreased interest in COVID-19 news__
 
-## Mitigations of this risk
-
-* [Increase public interest and awareness through targeted communication strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1673.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Decreased awareness and adherence to public health guidelines.
@@ -17,6 +9,14 @@ Decreased awareness and adherence to public health guidelines.
 ## Description of the risk
 
 One-third of respondents are losing interest in COVID-19 news.
+
+## Mitigations of this risk
+
+* [Increase public interest and awareness through targeted communication strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1673.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,20 @@ One-third of respondents are losing interest in COVID-19 news.
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,11 +49,4 @@ One-third of respondents are losing interest in COVID-19 news.
 ## Articles mentionning the risk
 
 * [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

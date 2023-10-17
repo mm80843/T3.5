@@ -2,15 +2,6 @@
 
 # __Context-specific and actionable evidence__
 
-## Stakeholders benefitting from this Benefit
-
-* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
-* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
-
-## Name of the Benefit
-
-Providing evidence in user-friendly formats and tailoring findings to local context increases use and application of evidence in policies and practice
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved decision-making and implementation of evidence-based policies lead to better health outcomes, increased efficiency, and improved population health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_592.md)
@@ -18,4 +9,13 @@ Providing evidence in user-friendly formats and tailoring findings to local cont
 ## Articles mentionning this Benefit
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Name of the Benefit
+
+Providing evidence in user-friendly formats and tailoring findings to local context increases use and application of evidence in policies and practice
+
+## Stakeholders benefitting from this Benefit
+
+* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
 

@@ -2,18 +2,6 @@
 
 # __Financial constraints__
 
-## Mitigations of this risk
-
-* [Provide financial support and assistance programs, promote job creation and training opportunities, offer financial education and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1775.md)
-* [Cost-cutting measures, exploring alternative funding sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2709.md)
-
-## People affected by this risk
-
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-* [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
-* [unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_811.md)
-
 ## Name of the risk
 
 Financial instability, project delays, layoffs
@@ -21,6 +9,15 @@ Financial instability, project delays, layoffs
 ## Description of the risk
 
 Loss of income, limited access to funds from banks and clients
+
+## Mitigations of this risk
+
+* [Provide financial support and assistance programs, promote job creation and training opportunities, offer financial education and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1775.md)
+* [Cost-cutting measures, exploring alternative funding sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2709.md)
+
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Property: has_RiskType
 
@@ -34,23 +31,6 @@ Loss of income, limited access to funds from banks and clients
 * [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
 * [nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_812.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Articles mentionning the risk
-
-* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -63,4 +43,24 @@ Loss of income, limited access to funds from banks and clients
 * [financial aid apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_429.md)
 * [job search platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
 * [online financial education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_431.md)
+
+## People affected by this risk
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+* [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
+* [unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_811.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Articles mentionning the risk
+
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 

@@ -6,15 +6,15 @@
 
 * [Q205398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q205398.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
+* [Risk of asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1377.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
-* [Risk of asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1377.md)
 

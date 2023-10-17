@@ -2,19 +2,19 @@
 
 # __Public Health Interventions for COVID-19__
 
-## Year of publication
+## Referenced by other articles
 
-2020
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
 ## Title of the article
 
 Public Health Interventions for COVID-19
 
+## Year of publication
+
+2020
+
 ## DOI of the article
 
 10.1001/jama.2020.5910
-
-## Referenced by other articles
-
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 

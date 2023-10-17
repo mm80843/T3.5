@@ -2,11 +2,6 @@
 
 # __blockchain__
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## This Technology enables the following mitigations
 
 * [Blockchain Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_433.md)
@@ -43,4 +38,9 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Blockchain and Quantum Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_145.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

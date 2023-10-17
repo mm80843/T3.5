@@ -2,13 +2,17 @@
 
 # __Clear and inclusive communication__
 
-## Property: has_MitigationPrinciple
-
-To provide reliable and accessible information about the disease to all populations, using diverse channels in different languages
-
 ## Property: has_MitigationSource
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misinterpretation of health recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3033.md)
+
+## Property: has_MitigationPrinciple
+
+To provide reliable and accessible information about the disease to all populations, using diverse channels in different languages
 
 ## This Mitigation is enabled by the following technologies
 
@@ -16,8 +20,4 @@ To provide reliable and accessible information about the disease to all populati
 * [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
 * [newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3806.md)
 * [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Misinterpretation of health recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3033.md)
 

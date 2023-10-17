@@ -2,13 +2,13 @@
 
 # __covid-19 patients__
 
-## This Stakeholder is identified by the following QID
-
-* [Q97189089](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q97189089.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Treatment options for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1278.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q97189089](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q97189089.md)
 
 ## Risk affecting this stakeholder
 

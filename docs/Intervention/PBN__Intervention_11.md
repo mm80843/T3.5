@@ -2,7 +2,7 @@
 
 # __Environmental parameters control__
 
-## This Technology belongs to this TechSubgroup
+## This intervention is used in the following blueprints
 
 * [Indoor Environmental Quality (IEQ) monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
 

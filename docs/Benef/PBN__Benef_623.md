@@ -2,15 +2,6 @@
 
 # __Enhanced energy infrastructure__
 
-## Stakeholders benefitting from this Benefit
-
-* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
-* [energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
-
-## Name of the Benefit
-
-Government stimulus packages that target energy infrastructure can lead to the development and deployment of renewable energy technologies, improving energy efficiency and grid resilience
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from increased market demand for renewable energy technologies, leading to business growth and investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_666.md)
@@ -18,4 +9,13 @@ Government stimulus packages that target energy infrastructure can lead to the d
 ## Articles mentionning this Benefit
 
 * [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+
+## Name of the Benefit
+
+Government stimulus packages that target energy infrastructure can lead to the development and deployment of renewable energy technologies, improving energy efficiency and grid resilience
+
+## Stakeholders benefitting from this Benefit
+
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
 

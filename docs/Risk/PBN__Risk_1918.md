@@ -2,15 +2,6 @@
 
 # __Sewage epidemiology__
 
-## Mitigations of this risk
-
-* [Monitoring community wastewater influent and implementing real-time monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2521.md)
-
-## People affected by this risk
-
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
-
 ## Name of the risk
 
 Improved tracking and understanding of the virus spread.
@@ -18,6 +9,14 @@ Improved tracking and understanding of the virus spread.
 ## Description of the risk
 
 SARS-CoV-2 can be detected in wastewater, providing a tool for tracking and understanding the spread of the virus.
+
+## Mitigations of this risk
+
+* [Monitoring community wastewater influent and implementing real-time monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2521.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,22 @@ SARS-CoV-2 can be detected in wastewater, providing a tool for tracking and unde
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ SARS-CoV-2 can be detected in wastewater, providing a tool for tracking and unde
 ## Articles mentionning the risk
 
 * [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

@@ -2,17 +2,22 @@
 
 # __An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network__
 
+## Benefits listed in this article
+
+* [Limit spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1261.md)
+
 ## Short summary of the article
 
 This paper presents a smart city framework for detecting whether a person is wearing a face mask or not in order to reduce the spread of COVID-19. The system utilizes CCTV cameras in public places to capture real-time video footage, from which facial images are extracted and analyzed using a Convolutional Neural Network (CNN) for mask detection. When a person without a mask is detected, the system sends the information, along with the person's location and time, to the corresponding authority via SMS. The proposed system achieved an accuracy of 98.7% in detecting face masks. However, the system faces challenges in classifying faces covered by hands or when a person without a mask is in a vehicle. It also relies on a good network connection for sending SMS notifications. Future work includes automating the system using drones and robots, alerting nearby individuals through alarm signals, and displaying violators' faces on LED screens to maintain social distancing.
 
-## Year of publication
+## Summary of the article
 
-2020
+There is a new virus called coronavirus that has spread all over the world. It can make people sick and some people have even died from it. One way to protect yourself and others from getting the virus is by wearing a face mask. Face masks cover your mouth and nose to prevent the virus from spreading. In this paper, scientists have developed a system using cameras to check if people are wearing face masks. If someone is not wearing a mask, the system tells the authorities so they can take action. The system has been tested and it can detect if a person is wearing a face mask with accuracy. This system can help stop the spread of the virus and keep people safe.
 
-## Title of the article
+## Referenced by other articles
 
-An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
 ## List of risks in an article
 
@@ -21,14 +26,6 @@ An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City 
 * [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1945.md)
 * [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
 * [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
-
-## DOI of the article
-
-10.1109/IEMTRONICS51293.2020.9216386
-
-## Benefits listed in this article
-
-* [Limit spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1261.md)
 
 ## This article points to following mitigation
 
@@ -48,12 +45,15 @@ An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City 
 * [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1673.md)
 * [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1674.md)
 
-## Summary of the article
+## Title of the article
 
-There is a new virus called coronavirus that has spread all over the world. It can make people sick and some people have even died from it. One way to protect yourself and others from getting the virus is by wearing a face mask. Face masks cover your mouth and nose to prevent the virus from spreading. In this paper, scientists have developed a system using cameras to check if people are wearing face masks. If someone is not wearing a mask, the system tells the authorities so they can take action. The system has been tested and it can detect if a person is wearing a face mask with accuracy. This system can help stop the spread of the virus and keep people safe.
+An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network
 
-## Referenced by other articles
+## Year of publication
 
-* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+2020
+
+## DOI of the article
+
+10.1109/IEMTRONICS51293.2020.9216386
 

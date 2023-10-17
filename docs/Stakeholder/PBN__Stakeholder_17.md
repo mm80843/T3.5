@@ -2,10 +2,6 @@
 
 # __humans__
 
-## This Stakeholder is identified by the following QID
-
-* [Q5](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced risk of future zoonotic outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_23.md)
@@ -14,9 +10,9 @@
 * [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_698.md)
 * [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_699.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Q5](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -27,4 +23,8 @@
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 * [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 * [Baylisascaris procyonis contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 

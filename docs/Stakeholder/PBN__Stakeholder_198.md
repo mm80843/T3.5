@@ -2,10 +2,6 @@
 
 # __urban population__
 
-## This Stakeholder is identified by the following QID
-
-* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_416.md)
@@ -16,11 +12,15 @@
 * [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
 * [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 

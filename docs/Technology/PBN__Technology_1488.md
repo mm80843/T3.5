@@ -2,10 +2,6 @@
 
 # __data monitoring and analysis systems__
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
 ## Risks linked to this technology
 
 * [Lack of IAQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Monitoring Systems and Maintenance Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_155.md)
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
 

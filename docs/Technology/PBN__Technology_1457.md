@@ -2,10 +2,6 @@
 
 # __risk assessment tools__
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## Risks linked to this technology
 
 * [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
@@ -19,4 +15,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

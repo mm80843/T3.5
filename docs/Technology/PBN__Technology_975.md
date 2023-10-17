@@ -2,10 +2,6 @@
 
 # __water treatment technologies__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology enables the following mitigations
 
 * [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
@@ -23,4 +19,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

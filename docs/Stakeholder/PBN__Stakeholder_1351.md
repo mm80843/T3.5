@@ -6,14 +6,14 @@
 
 * [Q12713481](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12713481.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
 

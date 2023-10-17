@@ -2,14 +2,6 @@
 
 # __Inadequate means of communication__
 
-## Mitigations of this risk
-
-* [Improve ventilation, sanitize frequently touched surfaces, promote social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1539.md)
-
-## People affected by this risk
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
 ## Name of the risk
 
 Increased risk of disease transmission
@@ -17,6 +9,14 @@ Increased risk of disease transmission
 ## Description of the risk
 
 Lack of proper ventilation and hygiene in shared spaces
+
+## Mitigations of this risk
+
+* [Improve ventilation, sanitize frequently touched surfaces, promote social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1539.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,22 +27,6 @@ Lack of proper ventilation and hygiene in shared spaces
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -51,4 +35,20 @@ Lack of proper ventilation and hygiene in shared spaces
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_143.md)
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 

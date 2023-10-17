@@ -2,10 +2,6 @@
 
 # __online platforms for sharing information__
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## Risks linked to this technology
 
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
@@ -16,4 +12,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

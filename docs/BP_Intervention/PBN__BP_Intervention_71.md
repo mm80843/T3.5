@@ -2,11 +2,11 @@
 
 # __Early detection__
 
-## Property: has_BP_InterventionKey
-
-MP3
-
 ## Property: has_BP_InterventionTitle
 
 Early detection
+
+## Property: has_BP_InterventionKey
+
+MP3
 

@@ -2,14 +2,6 @@
 
 # __Reduction in virus spread__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Name of the Benefit
-
-Controlling movement and minimizing contact between individuals
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Decreased transmission rate, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1558.md)
@@ -17,4 +9,12 @@ Controlling movement and minimizing contact between individuals
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## Name of the Benefit
+
+Controlling movement and minimizing contact between individuals
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

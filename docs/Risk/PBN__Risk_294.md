@@ -2,6 +2,14 @@
 
 # __Poor indoor air quality__
 
+## Name of the risk
+
+Health issues, decreased productivity, dissatisfaction.
+
+## Description of the risk
+
+Indoor air pollution can be two to five times higher than outdoor levels, impacting public health, comfort, and productivity.
+
 ## Mitigations of this risk
 
 * [Natural Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
@@ -20,24 +28,10 @@
 * [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
 * [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1598.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [occupants of indoor spaces (homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1035.md)
-* [offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1036.md)
-* [healthcare facilities)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1037.md)
-* [particularly those in crowded and poorly ventilated environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1162.md)
-* [occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
-* [everyone who spends time indoors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1534.md)
-* [especially in offices and buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1535.md)
-
-## Name of the risk
-
-Health issues, decreased productivity, dissatisfaction.
-
-## Description of the risk
-
-Indoor air pollution can be two to five times higher than outdoor levels, impacting public health, comfort, and productivity.
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -51,27 +45,6 @@ Indoor air pollution can be two to five times higher than outdoor levels, impact
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [hvac specialists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_623.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
-* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
-* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 
 ## Property: has_RiskGBN
 
@@ -87,4 +60,31 @@ Indoor air pollution can be two to five times higher than outdoor levels, impact
 * [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
 * [other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1112.md)
 * [humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1165.md)
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [occupants of indoor spaces (homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1035.md)
+* [offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1036.md)
+* [healthcare facilities)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1037.md)
+* [particularly those in crowded and poorly ventilated environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1162.md)
+* [occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
+* [everyone who spends time indoors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1534.md)
+* [especially in offices and buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1535.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
+* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 

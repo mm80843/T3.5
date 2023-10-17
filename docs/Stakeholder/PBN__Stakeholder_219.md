@@ -2,14 +2,14 @@
 
 # __low-income households__
 
-## This Stakeholder is identified by the following QID
-
-* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_520.md)
 * [Access to cleaner and more efficient fuel](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1325.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
 
 ## Risk affecting this stakeholder
 

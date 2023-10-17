@@ -2,16 +2,6 @@
 
 # __property developers__
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-* [Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_64.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Inadequate window views](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_951.md)
@@ -21,4 +11,14 @@
 * [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1893.md)
 * [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1894.md)
 * [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1967.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_64.md)
 

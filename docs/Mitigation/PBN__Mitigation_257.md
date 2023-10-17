@@ -2,17 +2,17 @@
 
 # __Use of bleach-soaked pads to prevent virus spread__
 
-## Property: has_MitigationPrinciple
-
-Creates a moist environment to prevent drying of the virus onto surfaces
-
 ## Property: has_MitigationSource
 
 * [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Creates a moist environment to prevent drying of the virus onto surfaces
+
+## This Mitigation is enabled by the following technologies
 
 

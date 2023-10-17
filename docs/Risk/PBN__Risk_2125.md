@@ -2,16 +2,6 @@
 
 # __Disruptions to global and national supply chains__
 
-## Mitigations of this risk
-
-* [Diversification of supply chains, local production capabilities, and contingency planning for disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-
 ## Name of the risk
 
 Difficulty in accessing necessary goods, economic impacts, and potential social unrest.
@@ -19,6 +9,14 @@ Difficulty in accessing necessary goods, economic impacts, and potential social 
 ## Description of the risk
 
 Reductions in air cargo volume and shipping can lead to delays, shortages, and increased costs of essential goods, including medical supplies and food.
+
+## Mitigations of this risk
+
+* [Diversification of supply chains, local production capabilities, and contingency planning for disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -32,22 +30,6 @@ Reductions in air cargo volume and shipping can lead to delays, shortages, and i
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Articles mentionning the risk
-
-* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -57,4 +39,22 @@ Reductions in air cargo volume and shipping can lead to delays, shortages, and i
 * [improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1631.md)
 * [blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1632.md)
 * [automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1633.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Articles mentionning the risk
+
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
 

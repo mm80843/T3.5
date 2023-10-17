@@ -2,14 +2,17 @@
 
 # __Digital Transformation__
 
-## Property: has_MitigationPrinciple
-
-Empowers a more human-centered mode of operation, enabling decentralized and interconnected decision-making based on digital data
-
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 * [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Empowers a more human-centered mode of operation, enabling decentralized and interconnected decision-making based on digital data
 
 ## This Mitigation is enabled by the following technologies
 
@@ -18,7 +21,4 @@ Empowers a more human-centered mode of operation, enabling decentralized and int
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
 * [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
 * [digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

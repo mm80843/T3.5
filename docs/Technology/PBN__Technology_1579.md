@@ -2,10 +2,6 @@
 
 # __privacy-by-design__
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology enables the following mitigations
 
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
@@ -20,4 +16,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

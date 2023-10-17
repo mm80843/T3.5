@@ -2,15 +2,6 @@
 
 # __Monitoring and tracking patients__
 
-## Stakeholders benefitting from this Benefit
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-
-## Name of the Benefit
-
-Enables efficient monitoring of infected individuals and their movements for containment and public health response
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Allows for targeted interventions, contact tracing, and efficient allocation of resources, improving control measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1287.md)
@@ -18,4 +9,13 @@ Enables efficient monitoring of infected individuals and their movements for con
 ## Articles mentionning this Benefit
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## Name of the Benefit
+
+Enables efficient monitoring of infected individuals and their movements for containment and public health response
+
+## Stakeholders benefitting from this Benefit
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 

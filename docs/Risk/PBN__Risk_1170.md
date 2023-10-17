@@ -2,15 +2,6 @@
 
 # __Neglecting standard cleaning practices__
 
-## Mitigations of this risk
-
-* [Use UV-C disinfection as an adjunct to standard cleaning practices, not as a replacement.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1622.md)
-
-## People affected by this risk
-
-* [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
-* [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
-
 ## Name of the risk
 
 Inadequate surface cleanliness and increased risk of infection spread.
@@ -18,6 +9,13 @@ Inadequate surface cleanliness and increased risk of infection spread.
 ## Description of the risk
 
 If UV-C disinfection is used as a replacement for standard cleaning practices, it can result in inadequate cleaning of surfaces and increased risk of infection spread.
+
+## Mitigations of this risk
+
+* [Use UV-C disinfection as an adjunct to standard cleaning practices, not as a replacement.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1622.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -28,12 +26,21 @@ If UV-C disinfection is used as a replacement for standard cleaning practices, i
 * [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
 * [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
+* [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -42,11 +49,4 @@ If UV-C disinfection is used as a replacement for standard cleaning practices, i
 ## Articles mentionning the risk
 
 * [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

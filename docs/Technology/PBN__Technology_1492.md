@@ -2,10 +2,6 @@
 
 # __support programs__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Risks linked to this technology
 
 * [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

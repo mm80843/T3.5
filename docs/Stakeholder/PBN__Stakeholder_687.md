@@ -2,11 +2,11 @@
 
 # __medical researchers__
 
-## Risk affecting this stakeholder
-
-* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1146.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
 

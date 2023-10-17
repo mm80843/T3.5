@@ -2,15 +2,6 @@
 
 # __Lack of data support__
 
-## Mitigations of this risk
-
-* [Collect more data on disease transmission mechanisms and spatial separation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2620.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
-
 ## Name of the risk
 
 Uncertainty in the effectiveness of social distancing measures
@@ -18,6 +9,14 @@ Uncertainty in the effectiveness of social distancing measures
 ## Description of the risk
 
 Insufficient data to support the 1-2m rule for spatial separation assumed for disease transmission during the pandemic
+
+## Mitigations of this risk
+
+* [Collect more data on disease transmission mechanisms and spatial separation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2620.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,22 @@ Insufficient data to support the 1-2m rule for spatial separation assumed for di
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Insufficient data to support the 1-2m rule for spatial separation assumed for di
 ## Articles mentionning the risk
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
 

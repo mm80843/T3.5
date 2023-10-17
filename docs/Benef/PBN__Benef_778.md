@@ -2,15 +2,6 @@
 
 # __Improved coordination and response__
 
-## Stakeholders benefitting from this Benefit
-
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-
-## Name of the Benefit
-
-Greater coordination and timely response to cross-border health threats, improved flow of equipment and sharing of resources
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased public health security, reduced impact of public health crises on economies and societies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_847.md)
@@ -18,4 +9,13 @@ Greater coordination and timely response to cross-border health threats, improve
 ## Articles mentionning this Benefit
 
 * [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+
+## Name of the Benefit
+
+Greater coordination and timely response to cross-border health threats, improved flow of equipment and sharing of resources
+
+## Stakeholders benefitting from this Benefit
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 

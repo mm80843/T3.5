@@ -2,10 +2,6 @@
 
 # __Contact tracing__
 
-## Property: has_MitigationPrinciple
-
-Contact tracing identifies individuals who have been in close contact with infected individuals, enabling early identification and interruption of transmission chains.
-
 ## Property: has_MitigationSource
 
 * [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
@@ -26,6 +22,26 @@ Contact tracing identifies individuals who have been in close contact with infec
 * [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 * [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Chain of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2511.md)
+* [Insufficient user uptake, navigation issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2552.md)
+* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2768.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+* [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2978.md)
+* [Concealment of mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3209.md)
+* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
+
+## Property: has_MitigationPrinciple
+
+Contact tracing identifies individuals who have been in close contact with infected individuals, enabling early identification and interruption of transmission chains.
 
 ## This Mitigation is enabled by the following technologies
 
@@ -52,20 +68,4 @@ Contact tracing identifies individuals who have been in close contact with infec
 * [cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
 * [bluetooth low energy (ble) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4123.md)
 * [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [Chain of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2511.md)
-* [Insufficient user uptake, navigation issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2552.md)
-* [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
-* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2768.md)
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-* [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2978.md)
-* [Concealment of mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3209.md)
-* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
-* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
 

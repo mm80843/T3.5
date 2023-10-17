@@ -2,7 +2,7 @@
 
 # __Managing drinking water safety measures__
 
-## This Technology belongs to this TechSubgroup
+## This intervention is used in the following blueprints
 
 * [Drinking Water Safety - Biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking Water Safety - Restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)

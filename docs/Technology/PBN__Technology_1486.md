@@ -2,12 +2,6 @@
 
 # __reducing chemical use in indoor environments__
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
 ## Risks linked to this technology
 
 * [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
@@ -20,4 +14,10 @@
 
 * [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
 * [Biological and Chemical Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_130.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
 

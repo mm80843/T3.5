@@ -2,11 +2,11 @@
 
 # __Biophilic desing__
 
-## Property: has_TechEquivalent
-
-* [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4555.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_031
+
+## Property: has_TechEquivalent
+
+* [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4555.md)
 

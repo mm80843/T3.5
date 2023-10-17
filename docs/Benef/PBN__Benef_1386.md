@@ -2,15 +2,6 @@
 
 # __Enhanced transport capacity__
 
-## Stakeholders benefitting from this Benefit
-
-* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
-* [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
-
-## Name of the Benefit
-
-Imposing restrictions on crowding may result in increased public transport capacity
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public transportation, reduced congestion](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1573.md)
@@ -18,4 +9,13 @@ Imposing restrictions on crowding may result in increased public transport capac
 ## Articles mentionning this Benefit
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## Name of the Benefit
+
+Imposing restrictions on crowding may result in increased public transport capacity
+
+## Stakeholders benefitting from this Benefit
+
+* [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
+* [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
 

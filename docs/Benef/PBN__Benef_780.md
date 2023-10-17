@@ -2,16 +2,6 @@
 
 # __Enhanced economic support and stability__
 
-## Stakeholders benefitting from this Benefit
-
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-* [member states](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_315.md)
-
-## Name of the Benefit
-
-Greater financial resources for countries in economic crisis, reduced economic disparities among Member States
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Economic recovery, increased stability, reduced risk of economic collapse](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_849.md)
@@ -19,4 +9,14 @@ Greater financial resources for countries in economic crisis, reduced economic d
 ## Articles mentionning this Benefit
 
 * [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+
+## Name of the Benefit
+
+Greater financial resources for countries in economic crisis, reduced economic disparities among Member States
+
+## Stakeholders benefitting from this Benefit
+
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [member states](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_315.md)
 

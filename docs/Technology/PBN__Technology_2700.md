@@ -2,11 +2,6 @@
 
 # __HVAC systems with HEPA filters__
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## This Technology is identified by the following QID
 
 * [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
@@ -15,4 +10,9 @@
 
 * [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_96.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

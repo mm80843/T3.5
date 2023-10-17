@@ -2,15 +2,6 @@
 
 # __Inadequate emergency preparedness__
 
-## Mitigations of this risk
-
-* [Develop and implement comprehensive emergency preparedness plans, including outbreak response protocols and contingency plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2266.md)
-
-## People affected by this risk
-
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [emergency response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_471.md)
-
 ## Name of the risk
 
 Inability to effectively respond and manage outbreaks, leading to higher impact and spread
@@ -18,6 +9,14 @@ Inability to effectively respond and manage outbreaks, leading to higher impact 
 ## Description of the risk
 
 Lack of preparedness and planning for potential outbreaks and emergencies.
+
+## Mitigations of this risk
+
+* [Develop and implement comprehensive emergency preparedness plans, including outbreak response protocols and contingency plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2266.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +27,6 @@ Lack of preparedness and planning for potential outbreaks and emergencies.
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [emergency authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1121.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -52,4 +35,21 @@ Lack of preparedness and planning for potential outbreaks and emergencies.
 
 * [emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)
 * [communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
+
+## People affected by this risk
+
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [emergency response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_471.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
 

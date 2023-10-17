@@ -6,10 +6,13 @@
 
 * [Evidence-based insights for authorities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_821.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
-* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+* [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
+* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
+* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
+* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -31,11 +34,8 @@
 * [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
 * [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-* [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
-* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
-* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
-* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 

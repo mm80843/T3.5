@@ -2,14 +2,6 @@
 
 # __Social and political stability__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Name of the Benefit
-
-Reduced conflicts, improved governance, and stronger institutions
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Social and political stability create favorable conditions for economic growth and investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_582.md)
@@ -17,4 +9,12 @@ Reduced conflicts, improved governance, and stronger institutions
 ## Articles mentionning this Benefit
 
 * [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+
+## Name of the Benefit
+
+Reduced conflicts, improved governance, and stronger institutions
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

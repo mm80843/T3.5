@@ -2,11 +2,11 @@
 
 # __Introduce "multi-use" / modular designs__
 
-## Property: has_BP_InterventionKey
-
-HS1
-
 ## Property: has_BP_InterventionTitle
 
 Introduce "multi-use" / modular designs
+
+## Property: has_BP_InterventionKey
+
+HS1
 

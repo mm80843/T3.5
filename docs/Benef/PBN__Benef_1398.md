@@ -2,14 +2,6 @@
 
 # __Discovery of unknown correlations and more accurate predictions__
 
-## Stakeholders benefitting from this Benefit
-
-* [healthcare practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_544.md)
-
-## Name of the Benefit
-
-Analysis of sensor data can yield previously unknown correlations, leading to more accurate predictions and improving the efficacy of healthcare practitioners in diagnosing and treating patients.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors could benefit from investing in data analytics and machine learning technologies, as it would enhance the capabilities of wearable devices and improve patient outcomes, leading to potential profit and asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1586.md)
@@ -17,4 +9,12 @@ Analysis of sensor data can yield previously unknown correlations, leading to mo
 ## Articles mentionning this Benefit
 
 * [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+
+## Name of the Benefit
+
+Analysis of sensor data can yield previously unknown correlations, leading to more accurate predictions and improving the efficacy of healthcare practitioners in diagnosing and treating patients.
+
+## Stakeholders benefitting from this Benefit
+
+* [healthcare practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_544.md)
 

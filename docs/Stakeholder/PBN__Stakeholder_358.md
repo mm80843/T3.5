@@ -6,9 +6,10 @@
 
 * [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_899.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_60.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
+* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -18,8 +19,7 @@
 
 * [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
+* [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_60.md)
 

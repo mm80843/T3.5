@@ -2,15 +2,6 @@
 
 # __Improved access to routine health services__
 
-## Stakeholders benefitting from this Benefit
-
-* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
-* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
-
-## Name of the Benefit
-
-Access to essential healthcare and reduced risk of undernutrition
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health outcomes, reduced risk of undernutrition](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1192.md)
@@ -18,4 +9,13 @@ Access to essential healthcare and reduced risk of undernutrition
 ## Articles mentionning this Benefit
 
 * [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+
+## Name of the Benefit
+
+Access to essential healthcare and reduced risk of undernutrition
+
+## Stakeholders benefitting from this Benefit
+
+* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 

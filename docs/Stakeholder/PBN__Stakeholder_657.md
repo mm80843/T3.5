@@ -6,15 +6,15 @@
 
 * [Q2630687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2630687.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Specific Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_68.md)
+* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
+* [Specific Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_68.md)
 

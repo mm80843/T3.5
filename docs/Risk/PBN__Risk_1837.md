@@ -2,16 +2,6 @@
 
 # __Concentration of suppliers__
 
-## Mitigations of this risk
-
-* [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
-
-## People affected by this risk
-
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-* [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
-* [countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
-
 ## Name of the risk
 
 Increased risk of supply chain disruptions and limited flexibility in switching suppliers during shocks.
@@ -19,6 +9,13 @@ Increased risk of supply chain disruptions and limited flexibility in switching 
 ## Description of the risk
 
 High concentration of suppliers in GVCs can lead to disruptions in the supply chain and vulnerability to shocks.
+
+## Mitigations of this risk
+
+* [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -31,12 +28,23 @@ High concentration of suppliers in GVCs can lead to disruptions in the supply ch
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
+
+## People affected by this risk
+
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
+* [countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -45,12 +53,4 @@ High concentration of suppliers in GVCs can lead to disruptions in the supply ch
 ## Articles mentionning the risk
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
 

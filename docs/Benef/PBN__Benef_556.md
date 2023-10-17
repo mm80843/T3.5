@@ -2,14 +2,6 @@
 
 # __Reduced congestion and pollution__
 
-## Stakeholders benefitting from this Benefit
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
-## Name of the Benefit
-
-Decreased traffic congestion, improved air quality
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and quality of life, positive impact on environment and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_610.md)
@@ -17,4 +9,12 @@ Decreased traffic congestion, improved air quality
 ## Articles mentionning this Benefit
 
 * [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+
+## Name of the Benefit
+
+Decreased traffic congestion, improved air quality
+
+## Stakeholders benefitting from this Benefit
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 

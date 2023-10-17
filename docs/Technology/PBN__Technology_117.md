@@ -2,12 +2,6 @@
 
 # __mental health apps__
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## Risks linked to this technology
 
 * [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
@@ -30,4 +24,10 @@
 
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
 * [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

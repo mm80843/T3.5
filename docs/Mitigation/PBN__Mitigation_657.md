@@ -2,17 +2,17 @@
 
 # __Reporting study conditions__
 
-## Property: has_MitigationPrinciple
-
-Provide detailed information about the pandemic-related policies and impacts during data collection
-
 ## Property: has_MitigationSource
 
 * [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Provide detailed information about the pandemic-related policies and impacts during data collection
+
+## This Mitigation is enabled by the following technologies
 
 

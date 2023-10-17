@@ -2,11 +2,6 @@
 
 # __water purification systems__
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## Risks linked to this technology
 
 * [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
@@ -20,4 +15,9 @@
 
 * [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
 * [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_120.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

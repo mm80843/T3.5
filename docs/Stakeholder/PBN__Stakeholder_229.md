@@ -2,10 +2,6 @@
 
 # __policy-makers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q3907287](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3907287.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_541.md)
@@ -16,4 +12,8 @@
 * [Improved research design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1353.md)
 * [Longitudinal insights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1354.md)
 * [Enhanced research practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1356.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3907287](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3907287.md)
 

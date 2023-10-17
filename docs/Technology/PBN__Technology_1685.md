@@ -2,10 +2,6 @@
 
 # __mobile phone tracking__
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## This Technology enables the following mitigations
 
 * [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_238.md)
@@ -22,4 +18,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

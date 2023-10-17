@@ -2,14 +2,6 @@
 
 # __Increased accessibility__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Name of the Benefit
-
-Remote access to mental health services can improve access and reduce barriers
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental well-being and increased access to care](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_56.md)
@@ -17,4 +9,12 @@ Remote access to mental health services can improve access and reduce barriers
 ## Articles mentionning this Benefit
 
 * [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+
+## Name of the Benefit
+
+Remote access to mental health services can improve access and reduce barriers
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

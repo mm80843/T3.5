@@ -2,10 +2,6 @@
 
 # __smart lighting controls__
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## Risks linked to this technology
 
 * [Inadequate Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

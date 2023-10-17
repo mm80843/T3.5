@@ -2,10 +2,6 @@
 
 # __robotics__
 
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
 ## This Technology enables the following mitigations
 
 * [Support to Overstretched Staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1873.md)
@@ -25,4 +21,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

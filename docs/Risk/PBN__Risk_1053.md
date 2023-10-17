@@ -2,14 +2,6 @@
 
 # __Safety risks for wastewater sampling personnel__
 
-## Mitigations of this risk
-
-* [Adhere to established safety procedures including the use of personal protective equipment (PPE) and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
-
-## People affected by this risk
-
-* [wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
-
 ## Name of the risk
 
 Risk of infection for sampling personnel
@@ -17,6 +9,14 @@ Risk of infection for sampling personnel
 ## Description of the risk
 
 Potential exposure of sampling personnel to pathogens, including SARS-CoV-2, during wastewater sampling
+
+## Mitigations of this risk
+
+* [Adhere to established safety procedures including the use of personal protective equipment (PPE) and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,21 @@ Potential exposure of sampling personnel to pathogens, including SARS-CoV-2, dur
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 * [wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
+
+## People affected by this risk
+
+* [wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ Potential exposure of sampling personnel to pathogens, including SARS-CoV-2, dur
 ## Articles mentionning the risk
 
 * [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
 

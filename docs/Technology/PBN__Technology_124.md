@@ -2,11 +2,6 @@
 
 # __online support groups__
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## Risks linked to this technology
 
 * [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
@@ -21,4 +16,9 @@
 
 * [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
 * [Digital Platforms and Apps](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_54.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

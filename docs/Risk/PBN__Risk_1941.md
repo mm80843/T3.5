@@ -2,16 +2,6 @@
 
 # __Lack of axioms and definition patterns__
 
-## Mitigations of this risk
-
-* [Explore the use of established ontological models such as EQ or REA to fill the gap.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2547.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
-* [ontology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1305.md)
-
 ## Name of the risk
 
 Limited reasoning for discovery and integration of epidemiological and clinical data.
@@ -19,6 +9,13 @@ Limited reasoning for discovery and integration of epidemiological and clinical 
 ## Description of the risk
 
 Absence of ontological axioms and definition patterns for relating epidemiology and clinical ontologies.
+
+## Mitigations of this risk
+
+* [Explore the use of established ontological models such as EQ or REA to fill the gap.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2547.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -30,21 +27,6 @@ Absence of ontological axioms and definition patterns for relating epidemiology 
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 * [ontology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1305.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-
-## Property: has_RiskISO_Impact
-
-* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
-
-## Articles mentionning the risk
-
-* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -53,4 +35,22 @@ Absence of ontological axioms and definition patterns for relating epidemiology 
 
 * [semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
 * [established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1347.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
+* [ontology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1305.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
+
+## Articles mentionning the risk
+
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 

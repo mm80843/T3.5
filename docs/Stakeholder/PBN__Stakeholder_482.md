@@ -2,18 +2,14 @@
 
 # __cyclists__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2125610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2125610.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1242.md)
 * [Increased livability and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1246.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Commuters/Cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
+* [Q2125610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2125610.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -23,4 +19,8 @@
 
 * [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
 * [Streets re-designed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Commuters/Cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
 

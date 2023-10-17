@@ -2,10 +2,6 @@
 
 # __online applications__
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## Risks linked to this technology
 
 * [Impact of COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Contract and Financial Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_176.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

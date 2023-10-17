@@ -2,10 +2,6 @@
 
 # __data collection and sharing systems__
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## Risks linked to this technology
 
 * [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

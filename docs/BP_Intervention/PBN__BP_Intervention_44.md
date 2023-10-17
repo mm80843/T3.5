@@ -2,11 +2,11 @@
 
 # __Control airflows in spaces & Avoid air recirculation__
 
-## Property: has_BP_InterventionKey
-
-PA5
-
 ## Property: has_BP_InterventionTitle
 
 Control airflows in spaces & Avoid air recirculation
+
+## Property: has_BP_InterventionKey
+
+PA5
 

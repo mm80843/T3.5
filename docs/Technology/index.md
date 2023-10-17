@@ -4531,7 +4531,7 @@
 * [nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
 * [nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4527.md)
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
-* [DigitalPlaform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4529.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4529.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
 * [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
 * [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4532.md)

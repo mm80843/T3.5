@@ -2,15 +2,6 @@
 
 # __Lack of Outdoor Spaces__
 
-## Mitigations of this risk
-
-* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1525.md)
-
-## People affected by this risk
-
-* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
-* [individuals living in apartments without balconies or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_612.md)
-
 ## Name of the risk
 
 Reduced physical and mental well-being, increased feelings of confinement and isolation.
@@ -18,6 +9,14 @@ Reduced physical and mental well-being, increased feelings of confinement and is
 ## Description of the risk
 
 Limited access to outdoor spaces, such as balconies or gardens, can negatively impact mental health by restricting opportunities for physical activity and contact with nature.
+
+## Mitigations of this risk
+
+* [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1525.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -30,22 +29,6 @@ Limited access to outdoor spaces, such as balconies or gardens, can negatively i
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_613.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -55,4 +38,21 @@ Limited access to outdoor spaces, such as balconies or gardens, can negatively i
 * [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
 * [landscape architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_121.md)
 * [community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
+
+## People affected by this risk
+
+* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+* [individuals living in apartments without balconies or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_612.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 

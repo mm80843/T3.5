@@ -2,17 +2,17 @@
 
 # __Products__
 
-## Property: has_MitigationPrinciple
-
-nan
-
 ## Property: has_MitigationSource
 
 * [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+nan
+
+## This Mitigation is enabled by the following technologies
 
 

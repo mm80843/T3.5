@@ -2,10 +2,6 @@
 
 # __apartment residents__
 
-## This Stakeholder is identified by the following QID
-
-* [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
@@ -14,9 +10,9 @@
 * [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_889.md)
 * [Improved hygiene and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_890.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
+* [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -38,4 +34,8 @@
 * [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1893.md)
 * [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1894.md)
 * [Lack of passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1895.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
 

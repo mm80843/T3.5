@@ -2,14 +2,6 @@
 
 # __environmental organizations__
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_894.md)
@@ -19,4 +11,12 @@
 * [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 * [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
 * [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
 

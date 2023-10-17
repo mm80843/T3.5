@@ -2,14 +2,6 @@
 
 # __Enhanced structured communication__
 
-## Stakeholders benefitting from this Benefit
-
-* [digital health communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_205.md)
-
-## Name of the Benefit
-
-Enables active discussion and collaboration in considering the digital response to COVID-19, supported by senior digital health leaders.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Accelerates innovation and the development of effective digital health solutions to address the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_493.md)
@@ -17,4 +9,12 @@ Enables active discussion and collaboration in considering the digital response 
 ## Articles mentionning this Benefit
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## Name of the Benefit
+
+Enables active discussion and collaboration in considering the digital response to COVID-19, supported by senior digital health leaders.
+
+## Stakeholders benefitting from this Benefit
+
+* [digital health communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_205.md)
 

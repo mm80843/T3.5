@@ -2,15 +2,6 @@
 
 # __UVGI systems can cause health risks if not properly installed and maintained__
 
-## Mitigations of this risk
-
-* [Ensure proper installation and maintenance of UVGI systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2326.md)
-
-## People affected by this risk
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1171.md)
-
 ## Name of the risk
 
 Risks of eye and skin irritation, skin aging, and increased risk of skin cancer and cataracts
@@ -18,6 +9,14 @@ Risks of eye and skin irritation, skin aging, and increased risk of skin cancer 
 ## Description of the risk
 
 Improper installation and maintenance of UVGI systems can lead to harm to building occupants
+
+## Mitigations of this risk
+
+* [Ensure proper installation and maintenance of UVGI systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2326.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,21 @@ Improper installation and maintenance of UVGI systems can lead to harm to buildi
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1171.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Improper installation and maintenance of UVGI systems can lead to harm to buildi
 ## Articles mentionning the risk
 
 * [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

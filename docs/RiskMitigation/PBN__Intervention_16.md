@@ -2,7 +2,7 @@
 
 # __Wall and floors treatment__
 
-## This Technology belongs to this TechSubgroup
+## This intervention is used in the following blueprints
 
 * [Antimicrobial Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
 * [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)

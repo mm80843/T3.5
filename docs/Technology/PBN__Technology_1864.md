@@ -2,10 +2,6 @@
 
 # __multi-factor authentication__
 
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## Risks linked to this technology
 
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Encryption and Authentication Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

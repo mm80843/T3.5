@@ -2,14 +2,17 @@
 
 # __Virtual clinics__
 
-## Property: has_MitigationPrinciple
-
-Conducting virtual consultations to screen patients before they arrive in hospitals, reducing the need for physical presence at clinics and allowing for efficient triage and patient evaluation
-
 ## Property: has_MitigationSource
 
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Conducting virtual consultations to screen patients before they arrive in hospitals, reducing the need for physical presence at clinics and allowing for efficient triage and patient evaluation
 
 ## This Mitigation is enabled by the following technologies
 
@@ -17,7 +20,4 @@ Conducting virtual consultations to screen patients before they arrive in hospit
 * [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 * [webcam-enabled computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3003.md)
 * [digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4233.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

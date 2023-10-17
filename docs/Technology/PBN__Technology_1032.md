@@ -2,11 +2,6 @@
 
 # __green infrastructure design__
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
 ## Risks linked to this technology
 
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
@@ -20,4 +15,9 @@
 
 * [Urban Planning and Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
 * [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

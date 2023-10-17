@@ -2,16 +2,6 @@
 
 # __Impact on real estate and housing sector__
 
-## Mitigations of this risk
-
-* [Offer mortgage holidays, provide financial support for individuals, delay negotiations during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2398.md)
-
-## People affected by this risk
-
-* [buyers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)
-* [sellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1218.md)
-* [renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1219.md)
-
 ## Name of the risk
 
 Disruption in selling process, financial difficulties for individuals, negative impact on housing market
@@ -19,6 +9,14 @@ Disruption in selling process, financial difficulties for individuals, negative 
 ## Description of the risk
 
 Uncertainty in the real estate industry, reduction in house viewings, inability to pay rent or mortgages
+
+## Mitigations of this risk
+
+* [Offer mortgage holidays, provide financial support for individuals, delay negotiations during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2398.md)
+
+## Property: has_RiskHealth
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Property: has_RiskType
 
@@ -29,13 +27,22 @@ Uncertainty in the real estate industry, reduction in house viewings, inability 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [real estate industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1220.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [buyers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)
+* [sellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1218.md)
+* [renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1219.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -44,11 +51,4 @@ Uncertainty in the real estate industry, reduction in house viewings, inability 
 ## Articles mentionning the risk
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

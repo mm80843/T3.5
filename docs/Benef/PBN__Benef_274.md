@@ -2,14 +2,6 @@
 
 # __Better understanding of virus viability__
 
-## Stakeholders benefitting from this Benefit
-
-* [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
-
-## Name of the Benefit
-
-Studying the effects of droplet evaporation and chemistry on virus viability can provide insights into key factors influencing virus survival and transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in research on droplet physics and chemistry can contribute to the development of more targeted prevention and control measures, potentially reducing the economic burden of influenza outbreaks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_286.md)
@@ -17,4 +9,12 @@ Studying the effects of droplet evaporation and chemistry on virus viability can
 ## Articles mentionning this Benefit
 
 * [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+
+## Name of the Benefit
+
+Studying the effects of droplet evaporation and chemistry on virus viability can provide insights into key factors influencing virus survival and transmission.
+
+## Stakeholders benefitting from this Benefit
+
+* [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
 

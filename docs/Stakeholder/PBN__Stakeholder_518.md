@@ -2,16 +2,13 @@
 
 # __urban managers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q30263062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30263062.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1320.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q30263062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30263062.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -20,4 +17,7 @@
 ## Risk affecting this stakeholder
 
 * [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

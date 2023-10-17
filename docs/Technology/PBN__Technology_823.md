@@ -2,10 +2,6 @@
 
 # __open data policies__
 
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## This Technology enables the following mitigations
 
 * [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
@@ -21,4 +17,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Data Sharing and Validation Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_141.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

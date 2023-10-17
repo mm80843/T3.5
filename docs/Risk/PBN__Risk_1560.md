@@ -2,15 +2,6 @@
 
 # __Financial impact on construction industry__
 
-## Mitigations of this risk
-
-* [Seeking short-term relief and long-term sustainable solutions for financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2090.md)
-
-## People affected by this risk
-
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
-
 ## Name of the risk
 
 Financial strain on construction companies and government agencies, potential service cuts and project delays.
@@ -18,6 +9,13 @@ Financial strain on construction companies and government agencies, potential se
 ## Description of the risk
 
 Reduced revenue from gas tax, sales taxes, and user fees have impacted the financial stability of construction agencies.
+
+## Mitigations of this risk
+
+* [Seeking short-term relief and long-term sustainable solutions for financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2090.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -29,21 +27,6 @@ Reduced revenue from gas tax, sales taxes, and user fees have impacted the finan
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 * [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
-
-## Property: has_RiskHealth
-
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Articles mentionning the risk
-
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +35,21 @@ Reduced revenue from gas tax, sales taxes, and user fees have impacted the finan
 
 * [public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
 * [increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
+
+## People affected by this risk
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Articles mentionning the risk
+
+* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 

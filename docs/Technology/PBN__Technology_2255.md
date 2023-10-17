@@ -2,14 +2,14 @@
 
 # __Equitable urban planning and policies__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology is identified by the following QID
 
 * [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

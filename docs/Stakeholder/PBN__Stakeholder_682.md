@@ -6,15 +6,15 @@
 
 * [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Public Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
+* [Public Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
 

@@ -2,16 +2,6 @@
 
 # __Lack of proper ventilation__
 
-## Mitigations of this risk
-
-* [Install and maintain proper ventilation systems, ensure regular airflow and air exchange.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2105.md)
-
-## People affected by this risk
-
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1015.md)
-
 ## Name of the risk
 
 Increased risk of airborne diseases, respiratory problems, and discomfort.
@@ -19,6 +9,14 @@ Increased risk of airborne diseases, respiratory problems, and discomfort.
 ## Description of the risk
 
 Inadequate ventilation can lead to poor air quality, increased humidity, and the buildup of pollutants and contaminants.
+
+## Mitigations of this risk
+
+* [Install and maintain proper ventilation systems, ensure regular airflow and air exchange.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2105.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -30,13 +28,23 @@ Inadequate ventilation can lead to poor air quality, increased humidity, and the
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [hvac technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1015.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -45,12 +53,4 @@ Inadequate ventilation can lead to poor air quality, increased humidity, and the
 ## Articles mentionning the risk
 
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

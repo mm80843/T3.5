@@ -2,14 +2,6 @@
 
 # __Fresh air supply__
 
-## Stakeholders benefitting from this Benefit
-
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-
-## Name of the Benefit
-
-Natural ventilation systems provide fresh air supply, improving indoor air quality and reducing the risk of virus transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Incorporating natural ventilation systems can enhance the property’s value and create a healthier living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_250.md)
@@ -17,4 +9,12 @@ Natural ventilation systems provide fresh air supply, improving indoor air quali
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Name of the Benefit
+
+Natural ventilation systems provide fresh air supply, improving indoor air quality and reducing the risk of virus transmission
+
+## Stakeholders benefitting from this Benefit
+
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 

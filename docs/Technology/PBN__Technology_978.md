@@ -2,10 +2,6 @@
 
 # __larvicide treatments__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## Risks linked to this technology
 
 * [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Vector Control Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_156.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

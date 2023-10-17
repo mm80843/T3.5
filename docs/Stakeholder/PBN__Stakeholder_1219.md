@@ -2,15 +2,15 @@
 
 # __renters__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
+* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
+* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
 

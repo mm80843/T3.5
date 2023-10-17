@@ -2,13 +2,13 @@
 
 # __indigenous populations__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1277626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1277626.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1277626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1277626.md)
 
 ## Risk affecting this stakeholder
 

@@ -2,11 +2,6 @@
 
 # __natural ventilation__
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
 ## This Technology enables the following mitigations
 
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
@@ -32,4 +27,9 @@
 
 * [Air Purification Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_74.md)
 * [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
 

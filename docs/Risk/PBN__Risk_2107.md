@@ -2,14 +2,6 @@
 
 # __Environmental-based__
 
-## Mitigations of this risk
-
-* [Develop climate-specific adaptations and technologies, incorporate renewable energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2757.md)
-
-## People affected by this risk
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
 ## Name of the risk
 
 Inefficient energy use, poor thermal performance, negative impact on the environment.
@@ -17,6 +9,14 @@ Inefficient energy use, poor thermal performance, negative impact on the environ
 ## Description of the risk
 
 Inadequate technological solutions for adapting car parking buildings to different climates.
+
+## Mitigations of this risk
+
+* [Develop climate-specific adaptations and technologies, incorporate renewable energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2757.md)
+
+## Property: has_RiskHealth
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_9.md)
 
 ## Property: has_RiskType
 
@@ -27,22 +27,6 @@ Inadequate technological solutions for adapting car parking buildings to differe
 * [building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
 * [sustainability experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1412.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_9.md)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Articles mentionning the risk
-
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -51,4 +35,20 @@ Inadequate technological solutions for adapting car parking buildings to differe
 
 * [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
 * [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Articles mentionning the risk
+
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

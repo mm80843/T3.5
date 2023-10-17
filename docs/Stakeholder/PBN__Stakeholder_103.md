@@ -2,10 +2,6 @@
 
 # __staff__
 
-## This Stakeholder is identified by the following QID
-
-* [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
@@ -22,6 +18,10 @@
 * [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
 * [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
 * [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1275.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
 
 ## Risk affecting this stakeholder
 

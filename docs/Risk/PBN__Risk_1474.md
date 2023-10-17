@@ -2,14 +2,6 @@
 
 # __Training and education__
 
-## Mitigations of this risk
-
-* [Conducting training programs and educational sessions on COVID-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1992.md)
-
-## People affected by this risk
-
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-
 ## Name of the risk
 
 Enhanced knowledge and skills among healthcare workers to effectively manage the pandemic
@@ -17,6 +9,14 @@ Enhanced knowledge and skills among healthcare workers to effectively manage the
 ## Description of the risk
 
 Providing necessary training and education on handling COVID-19
+
+## Mitigations of this risk
+
+* [Conducting training programs and educational sessions on COVID-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1992.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,20 @@ Providing necessary training and education on handling COVID-19
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,11 +49,4 @@ Providing necessary training and education on handling COVID-19
 ## Articles mentionning the risk
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

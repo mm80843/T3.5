@@ -2,11 +2,11 @@
 
 # __Natural ventilation increase__
 
-## Property: has_BP_InterventionKey
-
-PA6
-
 ## Property: has_BP_InterventionTitle
 
 Natural ventilation increase
+
+## Property: has_BP_InterventionKey
+
+PA6
 

@@ -2,18 +2,6 @@
 
 # __Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT__
 
-## Year of publication
-
-2021
-
-## Title of the article
-
-Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT
-
-## DOI of the article
-
-10.3390/s21113838
-
 ## Referenced by other articles
 
 * [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
@@ -27,4 +15,16 @@ Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, 
 * [COVID-19 Could Leverage a Sustainable Built Environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_316.md)
 * [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
 * [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
+
+## Title of the article
+
+Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT
+
+## Year of publication
+
+2021
+
+## DOI of the article
+
+10.3390/s21113838
 

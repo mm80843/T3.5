@@ -2,14 +2,6 @@
 
 # __Chemical pollutants__
 
-## Mitigations of this risk
-
-* [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2642.md)
-
-## People affected by this risk
-
-* [building occupants in environments with high chemical pollutant levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1358.md)
-
 ## Name of the risk
 
 Increased risk of respiratory problems, allergies, and other health issues.
@@ -17,6 +9,14 @@ Increased risk of respiratory problems, allergies, and other health issues.
 ## Description of the risk
 
 Indoor environments with high levels of volatile organic compounds (VOCs) and other chemical pollutants pose health risks.
+
+## Mitigations of this risk
+
+* [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2642.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +28,6 @@ Indoor environments with high levels of volatile organic compounds (VOCs) and ot
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -53,4 +37,20 @@ Indoor environments with high levels of volatile organic compounds (VOCs) and ot
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
+
+## People affected by this risk
+
+* [building occupants in environments with high chemical pollutant levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1358.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 

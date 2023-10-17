@@ -2,10 +2,6 @@
 
 # __testing automation__
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## Risks linked to this technology
 
 * [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1507.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

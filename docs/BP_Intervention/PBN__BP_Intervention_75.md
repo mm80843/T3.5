@@ -2,11 +2,11 @@
 
 # __Absorb surge in service demande__
 
-## Property: has_BP_InterventionKey
-
-MC4
-
 ## Property: has_BP_InterventionTitle
 
 Absorb surge in service demande
+
+## Property: has_BP_InterventionKey
+
+MC4
 

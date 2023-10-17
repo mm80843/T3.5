@@ -6,11 +6,11 @@
 
 * [Q79913](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q79913.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Nonprofit and Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_41.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Nonprofit and Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_41.md)
 

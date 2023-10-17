@@ -2,16 +2,6 @@
 
 # __Remote collaboration__
 
-## Mitigations of this risk
-
-* [Utilize video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2060.md)
-
-## People affected by this risk
-
-* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
-* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
-* [team members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_989.md)
-
 ## Name of the risk
 
 Communication breakdown, reduced productivity
@@ -19,6 +9,13 @@ Communication breakdown, reduced productivity
 ## Description of the risk
 
 Challenges in collaborating and communicating with team members
+
+## Mitigations of this risk
+
+* [Utilize video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2060.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -29,21 +26,6 @@ Challenges in collaborating and communicating with team members
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 * [management team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_292.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
-
-## Property: has_RiskHealth
-
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
-
-## Articles mentionning the risk
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -52,4 +34,22 @@ Challenges in collaborating and communicating with team members
 
 * [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 * [video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
+
+## People affected by this risk
+
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
+* [team members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_989.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Articles mentionning the risk
+
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

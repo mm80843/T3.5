@@ -2,16 +2,6 @@
 
 # __Reduction in airborne transmission__
 
-## Stakeholders benefitting from this Benefit
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [occupants in the room](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_164.md)
-* [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
-
-## Name of the Benefit
-
-Proper ventilation helps reduce the concentration of airborne viruses in healthcare facilities
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract tenants and increase asset value by implementing a proven and effective measure to reduce the spread of infectious diseases in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_362.md)
@@ -24,4 +14,14 @@ Proper ventilation helps reduce the concentration of airborne viruses in healthc
 * [Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_66.md)
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 * [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+
+## Name of the Benefit
+
+Proper ventilation helps reduce the concentration of airborne viruses in healthcare facilities
+
+## Stakeholders benefitting from this Benefit
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [occupants in the room](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_164.md)
+* [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
 

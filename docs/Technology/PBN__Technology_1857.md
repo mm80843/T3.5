@@ -2,10 +2,6 @@
 
 # __teletherapy platforms__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Risks linked to this technology
 
 * [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

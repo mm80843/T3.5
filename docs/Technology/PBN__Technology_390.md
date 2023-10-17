@@ -2,11 +2,6 @@
 
 # __surgical videos__
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## Risks linked to this technology
 
 * [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
@@ -18,4 +13,9 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

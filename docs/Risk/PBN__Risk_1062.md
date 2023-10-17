@@ -2,14 +2,6 @@
 
 # __Unconscious occupant behavior__
 
-## Mitigations of this risk
-
-* [Raise awareness about energy conservation and promote energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1501.md)
-
-## People affected by this risk
-
-* [occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_583.md)
-
 ## Name of the risk
 
 Increased energy consumption and higher costs for individuals and the government.
@@ -17,6 +9,13 @@ Increased energy consumption and higher costs for individuals and the government
 ## Description of the risk
 
 Occupants in Kuwaiti residences may exhibit energy-unconscious behaviors such as leaving lights and appliances on when not needed.
+
+## Mitigations of this risk
+
+* [Raise awareness about energy conservation and promote energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1501.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -28,21 +27,6 @@ Occupants in Kuwaiti residences may exhibit energy-unconscious behaviors such as
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [ministry of electricity and water (mew)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_584.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -52,4 +36,20 @@ Occupants in Kuwaiti residences may exhibit energy-unconscious behaviors such as
 * [education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
 * [energy-saving tips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_86.md)
 * [incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
+
+## People affected by this risk
+
+* [occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_583.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 

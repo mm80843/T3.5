@@ -2,11 +2,11 @@
 
 # __Quarantine support__
 
-## Property: has_BP_InterventionKey
-
-MP2
-
 ## Property: has_BP_InterventionTitle
 
 Quarantine support
+
+## Property: has_BP_InterventionKey
+
+MP2
 

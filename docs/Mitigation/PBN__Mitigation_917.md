@@ -2,19 +2,19 @@
 
 # __Monitoring Changing Social Behavior__
 
-## Property: has_MitigationPrinciple
-
-Analyzing data to understand and highlight changes in social behavior during the lockdown
-
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Analyzing data to understand and highlight changes in social behavior during the lockdown
 
 ## This Mitigation is enabled by the following technologies
 
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
 * [social behavior analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3544.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

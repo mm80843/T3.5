@@ -2,16 +2,6 @@
 
 # __Restrictions on shared facilities in public places__
 
-## Mitigations of this risk
-
-* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_327.md)
-* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1728.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
-
 ## Name of the risk
 
 Reduced spread of diseases through shared facilities and services.
@@ -19,6 +9,15 @@ Reduced spread of diseases through shared facilities and services.
 ## Description of the risk
 
 Implementing restrictions on shared facilities and uses in public places to minimize disease transmission.
+
+## Mitigations of this risk
+
+* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_327.md)
+* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1728.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +28,6 @@ Implementing restrictions on shared facilities and uses in public places to mini
 * [public place owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_768.md)
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Articles mentionning the risk
-
-* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -53,4 +36,21 @@ Implementing restrictions on shared facilities and uses in public places to mini
 
 * [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
 * [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_767.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Articles mentionning the risk
+
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 

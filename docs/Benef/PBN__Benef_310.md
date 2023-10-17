@@ -2,15 +2,6 @@
 
 # __Improved information systems and risk management__
 
-## Stakeholders benefitting from this Benefit
-
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-
-## Name of the Benefit
-
-Adoption of digital technologies for trade facilitation
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced efficiency, transparency, and risk management in trade processes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_328.md)
@@ -18,4 +9,13 @@ Adoption of digital technologies for trade facilitation
 ## Articles mentionning this Benefit
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## Name of the Benefit
+
+Adoption of digital technologies for trade facilitation
+
+## Stakeholders benefitting from this Benefit
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 

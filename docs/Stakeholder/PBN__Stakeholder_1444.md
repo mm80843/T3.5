@@ -2,18 +2,6 @@
 
 # __company__
 
-## This Stakeholder is identified by the following QID
-
-* [Q783794](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q783794.md)
-* [Q2915810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915810.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
@@ -26,4 +14,16 @@
 * [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 * [Personal Protective Equipment (PPE) usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2144.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q783794](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q783794.md)
+* [Q2915810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2915810.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

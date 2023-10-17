@@ -2,30 +2,6 @@
 
 # __Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19__
 
-## Short summary of the article
-
-This research abstract summarizes the potential use of graphene-based nanomaterials (GBNs) as antiviral coatings to combat the spread of infectious diseases, particularly the current COVID-19 pandemic. The abstract discusses the stability of viruses on various surfaces and the need for effective surface disinfection to prevent transmission. GBNs, specifically graphene oxide (GO) and reduced graphene oxide (rGO), have been found to exhibit antimicrobial activity against various types of viruses. The unique properties of GBNs, such as their negative charge, sharp edges, and nanosheet structure, contribute to their antiviral effects. The abstract also highlights the potential application of GBNs in various forms such as surface coatings, diagnostic devices, personal protective equipment, and air filtration systems. Additionally, the abstract discusses the mechanisms of action by which GBNs interact with and inactivate viruses. The abstract concludes by emphasizing the importance of further research and development of GBNs as long-lasting antiviral coatings to prevent the spread of infectious diseases.
-
-## Year of publication
-
-2021
-
-## Title of the article
-
-Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19
-
-## List of risks in an article
-
-* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
-* [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1132.md)
-* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1133.md)
-* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
-* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
-
-## DOI of the article
-
-10.1016/j.surfin.2021.101460
-
 ## Benefits listed in this article
 
 * [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
@@ -33,13 +9,9 @@ Graphene-based nanomaterials as antimicrobial surface coatings: A parallel appro
 * [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_919.md)
 * [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
 
-## This article points to following mitigation
+## Short summary of the article
 
-* [Antiviral Coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
-* [Self-Sanitizing Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_196.md)
-* [Graphene-Metal Composites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
-* [Nano-Spray Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
-* [Nano-Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
+This research abstract summarizes the potential use of graphene-based nanomaterials (GBNs) as antiviral coatings to combat the spread of infectious diseases, particularly the current COVID-19 pandemic. The abstract discusses the stability of viruses on various surfaces and the need for effective surface disinfection to prevent transmission. GBNs, specifically graphene oxide (GO) and reduced graphene oxide (rGO), have been found to exhibit antimicrobial activity against various types of viruses. The unique properties of GBNs, such as their negative charge, sharp edges, and nanosheet structure, contribute to their antiviral effects. The abstract also highlights the potential application of GBNs in various forms such as surface coatings, diagnostic devices, personal protective equipment, and air filtration systems. Additionally, the abstract discusses the mechanisms of action by which GBNs interact with and inactivate viruses. The abstract concludes by emphasizing the importance of further research and development of GBNs as long-lasting antiviral coatings to prevent the spread of infectious diseases.
 
 ## Summary of the article
 
@@ -49,4 +21,32 @@ Viruses like the coronavirus can cause diseases in humans, and they can spread f
 
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 * [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+
+## List of risks in an article
+
+* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
+* [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1132.md)
+* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1133.md)
+* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
+* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
+
+## This article points to following mitigation
+
+* [Antiviral Coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
+* [Self-Sanitizing Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_196.md)
+* [Graphene-Metal Composites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
+* [Nano-Spray Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
+* [Nano-Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
+
+## Title of the article
+
+Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19
+
+## Year of publication
+
+2021
+
+## DOI of the article
+
+10.1016/j.surfin.2021.101460
 

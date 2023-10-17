@@ -2,17 +2,17 @@
 
 # __Data science literacy__
 
-## Property: has_MitigationPrinciple
-
-Improve skills of professionals working with health data
-
 ## Property: has_MitigationSource
 
 * [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Improve skills of professionals working with health data
+
+## This Mitigation is enabled by the following technologies
 
 

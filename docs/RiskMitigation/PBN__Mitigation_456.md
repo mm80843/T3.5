@@ -2,17 +2,17 @@
 
 # __Stretching exercises__
 
-## Property: has_MitigationPrinciple
-
-Performing stretching exercises to improve flexibility and relieve muscle tension.
-
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Performing stretching exercises to improve flexibility and relieve muscle tension.
+
+## This Mitigation is enabled by the following technologies
 
 

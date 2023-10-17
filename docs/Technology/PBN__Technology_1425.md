@@ -2,10 +2,6 @@
 
 # __electronic health records__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Risks linked to this technology
 
 * [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1985.md)
@@ -19,4 +15,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

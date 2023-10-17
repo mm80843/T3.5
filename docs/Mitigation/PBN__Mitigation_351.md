@@ -2,10 +2,6 @@
 
 # __Physical Distancing__
 
-## Property: has_MitigationPrinciple
-
-Maintaining a minimum safe distance between individuals
-
 ## Property: has_MitigationSource
 
 * [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
@@ -13,12 +9,16 @@ Maintaining a minimum safe distance between individuals
 * [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 * [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_42.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
 
 * [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+
+## Property: has_MitigationPrinciple
+
+Maintaining a minimum safe distance between individuals
+
+## This Mitigation is enabled by the following technologies
+
 

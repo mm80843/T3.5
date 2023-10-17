@@ -2,11 +2,6 @@
 
 # __digital surveillance systems__
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## Risks linked to this technology
 
 * [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2079.md)
@@ -20,4 +15,9 @@
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
 * [Technology and Digital Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_55.md)
 * [Data Management and Recording Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_148.md)
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

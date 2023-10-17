@@ -2,10 +2,6 @@
 
 # __global population__
 
-## This Stakeholder is identified by the following QID
-
-* [Q11188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11188.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_670.md)
@@ -14,9 +10,9 @@
 * [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
 * [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1210.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+* [Q11188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11188.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,4 +22,8 @@
 
 * [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
 * [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 

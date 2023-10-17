@@ -2,10 +2,6 @@
 
 # __care coordination tools__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Risks linked to this technology
 
 * [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
@@ -16,4 +12,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

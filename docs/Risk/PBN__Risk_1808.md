@@ -2,16 +2,6 @@
 
 # __Crash in demand for agricultural commodities__
 
-## Mitigations of this risk
-
-* [Implement strategies to support and stabilize agricultural sector, find alternative markets for agricultural products](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2392.md)
-
-## People affected by this risk
-
-* [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
-* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
-* [agricultural workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1211.md)
-
 ## Name of the risk
 
 Pronounced implications for perishable goods and shortage of inspectors and delivery staff
@@ -19,6 +9,14 @@ Pronounced implications for perishable goods and shortage of inspectors and deli
 ## Description of the risk
 
 Global crash in demand from hotels and restaurants causing prices of agricultural commodities to drop by 20%
+
+## Mitigations of this risk
+
+* [Implement strategies to support and stabilize agricultural sector, find alternative markets for agricultural products](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2392.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,13 +27,22 @@ Global crash in demand from hotels and restaurants causing prices of agricultura
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [agricultural organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1212.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
+* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+* [agricultural workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1211.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -44,11 +51,4 @@ Global crash in demand from hotels and restaurants causing prices of agricultura
 ## Articles mentionning the risk
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

@@ -2,11 +2,11 @@
 
 # __Monitor and control indoor air quality__
 
-## Property: has_BP_InterventionKey
-
-PA4
-
 ## Property: has_BP_InterventionTitle
 
 Monitor and control indoor air quality
+
+## Property: has_BP_InterventionKey
+
+PA4
 

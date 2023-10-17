@@ -2,10 +2,6 @@
 
 # __vulnerable groups__
 
-## This Stakeholder is identified by the following QID
-
-* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
@@ -15,8 +11,9 @@
 * [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
 * [Equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1181.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -31,4 +28,7 @@
 * [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
 * [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
 * [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

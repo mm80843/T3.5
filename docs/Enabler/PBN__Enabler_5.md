@@ -2,11 +2,15 @@
 
 # __IoT__
 
+## Property: has_BP_EnablerTitle
+
+enabler_006
+
 ## Property: has_TechEquivalent
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Smart Locker System](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
@@ -20,8 +24,4 @@
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Drinking Water Safety - Biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking Water Safety - Restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_006
 

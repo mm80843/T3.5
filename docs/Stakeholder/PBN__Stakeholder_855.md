@@ -2,15 +2,15 @@
 
 # __global markets__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+* [Systemic risk in economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1342.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Systemic risk in economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1342.md)
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 

@@ -6,19 +6,6 @@
 
 * [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1039.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Risk affecting this stakeholder
-
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
-* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1052.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
@@ -63,4 +50,17 @@
 * [UV dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2302.md)
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Risk affecting this stakeholder
+
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
+* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1052.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
 

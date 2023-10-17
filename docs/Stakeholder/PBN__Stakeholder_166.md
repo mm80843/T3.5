@@ -7,29 +7,6 @@
 * [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
 * [Increased adoption of germicidal UV](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Risk affecting this stakeholder
-
-* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
-* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
-* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
-* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
-* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
-* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
-* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
-* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
-* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
-* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
-* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
@@ -173,4 +150,27 @@
 * [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
 * [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 * [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Risk affecting this stakeholder
+
+* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
+* [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
+* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
+* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
+* [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
+* [Energy Consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
+* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
+* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

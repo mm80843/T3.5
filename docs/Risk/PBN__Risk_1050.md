@@ -2,14 +2,6 @@
 
 # __Undetected SARS-CoV-2 in wastewater__
 
-## Mitigations of this risk
-
-* [Cross-validate the performance of different RT-qPCR assays on wastewater samples and ensure sequencing of positive samples for confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1483.md)
-
-## People affected by this risk
-
-* [general population in the catchment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_573.md)
-
 ## Name of the risk
 
 Inaccurate estimation of the prevalence of infections and potential failure to implement effective public health interventions
@@ -17,6 +9,14 @@ Inaccurate estimation of the prevalence of infections and potential failure to i
 ## Description of the risk
 
 Failure to detect SARS-CoV-2 RNA in wastewater samples, leading to inaccurate monitoring of infections in the population
+
+## Mitigations of this risk
+
+* [Cross-validate the performance of different RT-qPCR assays on wastewater samples and ensure sequencing of positive samples for confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1483.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,21 @@ Failure to detect SARS-CoV-2 RNA in wastewater samples, leading to inaccurate mo
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 * [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
+
+## People affected by this risk
+
+* [general population in the catchment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_573.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ Failure to detect SARS-CoV-2 RNA in wastewater samples, leading to inaccurate mo
 ## Articles mentionning the risk
 
 * [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
 

@@ -2,15 +2,6 @@
 
 # __Limited connectivity challenges__
 
-## Mitigations of this risk
-
-* [Accelerate deployment plans, encourage small scale deployments, support purpose-built IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2745.md)
-
-## People affected by this risk
-
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
 ## Name of the risk
 
 Inability to access 5G services and applications
@@ -18,6 +9,14 @@ Inability to access 5G services and applications
 ## Description of the risk
 
 Limited deployment and availability of 5G networks and devices
+
+## Mitigations of this risk
+
+* [Accelerate deployment plans, encourage small scale deployments, support purpose-built IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2745.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +27,6 @@ Limited deployment and availability of 5G networks and devices
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1405.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Articles mentionning the risk
-
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +35,21 @@ Limited deployment and availability of 5G networks and devices
 
 * [l5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
 * [purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
+
+## People affected by this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Articles mentionning the risk
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 

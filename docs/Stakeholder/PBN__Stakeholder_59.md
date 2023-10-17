@@ -2,10 +2,6 @@
 
 # __residents__
 
-## This Stakeholder is identified by the following QID
-
-* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
@@ -50,10 +46,16 @@
 * [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1303.md)
 * [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1304.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
-* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
+* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
+* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
+* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -121,10 +123,8 @@
 * [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
 * [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
-* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
-* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
-* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
 

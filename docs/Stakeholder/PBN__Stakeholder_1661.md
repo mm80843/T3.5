@@ -6,11 +6,11 @@
 
 * [Q1391083](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1391083.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
 

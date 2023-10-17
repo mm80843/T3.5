@@ -2,14 +2,6 @@
 
 # __Decline in urban park visitation__
 
-## Mitigations of this risk
-
-* [Develop and promote alternative outdoor recreation opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2155.md)
-
-## People affected by this risk
-
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-
 ## Name of the risk
 
 Reduced access to physical and mental health benefits of urban parks.
@@ -17,6 +9,14 @@ Reduced access to physical and mental health benefits of urban parks.
 ## Description of the risk
 
 Decrease in the number of people visiting urban parks during the COVID-19 pandemic.
+
+## Mitigations of this risk
+
+* [Develop and promote alternative outdoor recreation opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2155.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -26,13 +26,20 @@ Decrease in the number of people visiting urban parks during the COVID-19 pandem
 
 * [park managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1046.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -41,11 +48,4 @@ Decrease in the number of people visiting urban parks during the COVID-19 pandem
 ## Articles mentionning the risk
 
 * [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

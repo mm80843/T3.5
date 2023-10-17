@@ -2,14 +2,6 @@
 
 # __Direct transmission__
 
-## Mitigations of this risk
-
-* [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2082.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
 ## Name of the risk
 
 High risk of infection for susceptible individuals
@@ -17,6 +9,14 @@ High risk of infection for susceptible individuals
 ## Description of the risk
 
 Transmission of the virus directly from person to person through respiratory droplets
+
+## Mitigations of this risk
+
+* [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2082.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -26,13 +26,20 @@ Transmission of the virus directly from person to person through respiratory dro
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -41,11 +48,4 @@ Transmission of the virus directly from person to person through respiratory dro
 ## Articles mentionning the risk
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

@@ -2,15 +2,6 @@
 
 # __Faecal-oral transmission of COVID-19__
 
-## Mitigations of this risk
-
-* [Improve sanitation, increase diagnostic capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2214.md)
-
-## People affected by this risk
-
-* [areas with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1088.md)
-* [limited diagnostic capacity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1089.md)
-
 ## Name of the risk
 
 Increased transmission risk, challenges in diagnosis
@@ -18,6 +9,14 @@ Increased transmission risk, challenges in diagnosis
 ## Description of the risk
 
 Possibility of transmission of COVID-19 through faecal-oral route has implications, especially in areas with poor sanitation and limited diagnostic capacity.
+
+## Mitigations of this risk
+
+* [Improve sanitation, increase diagnostic capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2214.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +27,6 @@ Possibility of transmission of COVID-19 through faecal-oral route has implicatio
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [sanitation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1090.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +35,21 @@ Possibility of transmission of COVID-19 through faecal-oral route has implicatio
 
 * [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
 * [improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+
+## People affected by this risk
+
+* [areas with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1088.md)
+* [limited diagnostic capacity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1089.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 

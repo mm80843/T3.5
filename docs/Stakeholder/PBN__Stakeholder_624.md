@@ -2,10 +2,6 @@
 
 # __planners__
 
-## Risk affecting this stakeholder
-
-* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
@@ -13,4 +9,8 @@
 * [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
 * [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
 * [spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2290.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 

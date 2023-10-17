@@ -2,18 +2,18 @@
 
 # __Same Room Exposure__
 
-## Property: has_MitigationPrinciple
-
-Occupant exposure is accounted for when agents are in the same room/compartment. The number of building occupants in each room at each time-step is used to identify occupant exposure.
-
 ## Property: has_MitigationSource
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Occupant exposure is accounted for when agents are in the same room/compartment. The number of building occupants in each room at each time-step is used to identify occupant exposure.
+
 ## This Mitigation is enabled by the following technologies
 
 * [number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

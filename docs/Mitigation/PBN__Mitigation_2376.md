@@ -2,18 +2,18 @@
 
 # __AI-assisted CT service__
 
-## Property: has_MitigationPrinciple
-
-Rapid diagnosis of COVID-19 pneumonia cases through processing CT images in seconds
-
 ## Property: has_MitigationSource
 
 * [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Rapid diagnosis of COVID-19 pneumonia cases through processing CT images in seconds
+
 ## This Mitigation is enabled by the following technologies
 
 * [cloud-based ai-assisted ct service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4444.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

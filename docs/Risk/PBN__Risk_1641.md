@@ -2,15 +2,6 @@
 
 # __Lack of anterooms__
 
-## Mitigations of this risk
-
-* [Partition rooms or corridors to create anterooms for each patient room, ensuring proper design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2187.md)
-
-## People affected by this risk
-
-* [health care workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_408.md)
-* [patients in aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1063.md)
-
 ## Name of the risk
 
 Increased risk of infection spread and inadequate infection control in AIIRs
@@ -18,6 +9,14 @@ Increased risk of infection spread and inadequate infection control in AIIRs
 ## Description of the risk
 
 Lack of anterooms to maintain pressure gradient and reduce migration of infectious particles
+
+## Mitigations of this risk
+
+* [Partition rooms or corridors to create anterooms for each patient room, ensuring proper design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2187.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,21 @@ Lack of anterooms to maintain pressure gradient and reduce migration of infectio
 * [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
 * [hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_799.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [health care workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_408.md)
+* [patients in aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1063.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Lack of anterooms to maintain pressure gradient and reduce migration of infectio
 ## Articles mentionning the risk
 
 * [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

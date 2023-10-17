@@ -2,15 +2,6 @@
 
 # __Increased skill levels__
 
-## Stakeholders benefitting from this Benefit
-
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
-
-## Name of the Benefit
-
-Improved access to training and upskilling programs for immigrants
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased employability and career advancement opportunities for immigrants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1526.md)
@@ -18,4 +9,13 @@ Improved access to training and upskilling programs for immigrants
 ## Articles mentionning this Benefit
 
 * [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## Name of the Benefit
+
+Improved access to training and upskilling programs for immigrants
+
+## Stakeholders benefitting from this Benefit
+
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
 

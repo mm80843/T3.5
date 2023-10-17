@@ -2,11 +2,11 @@
 
 # __finance department__
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
 * [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
 

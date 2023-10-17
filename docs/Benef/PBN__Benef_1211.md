@@ -2,14 +2,6 @@
 
 # __Accurate detection of virus__
 
-## Stakeholders benefitting from this Benefit
-
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-
-## Name of the Benefit
-
-Accounting for wastewater temperature in WBE allows for more accurate detection of SARS-CoV-2, providing reliable data on virus shedding within the community.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in WBE implementation would benefit from accurate and reliable data, enabling public health agencies to make informed decisions and implement targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1355.md)
@@ -17,4 +9,12 @@ Accounting for wastewater temperature in WBE allows for more accurate detection 
 ## Articles mentionning this Benefit
 
 * [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+
+## Name of the Benefit
+
+Accounting for wastewater temperature in WBE allows for more accurate detection of SARS-CoV-2, providing reliable data on virus shedding within the community.
+
+## Stakeholders benefitting from this Benefit
+
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 

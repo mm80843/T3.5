@@ -2,17 +2,17 @@
 
 # __Accessibility to healthcare facilities__
 
-## Property: has_MitigationPrinciple
-
-Including the nearest healthcare facility as a factor in mobility patterns accounts for individuals seeking diagnosis and treatment.
-
 ## Property: has_MitigationSource
 
 * [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Including the nearest healthcare facility as a factor in mobility patterns accounts for individuals seeking diagnosis and treatment.
+
+## This Mitigation is enabled by the following technologies
 
 

@@ -2,15 +2,6 @@
 
 # __Lack of air disinfection__
 
-## Mitigations of this risk
-
-* [Implement air disinfection technologies such as UVGI, bipolar ionization, or photocatalytic oxidation. Regularly clean and disinfect surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2311.md)
-
-## People affected by this risk
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [particularly those in buildings with inadequate air disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1166.md)
-
 ## Name of the risk
 
 Increased risk of airborne transmission of diseases among occupants.
@@ -18,6 +9,14 @@ Increased risk of airborne transmission of diseases among occupants.
 ## Description of the risk
 
 Absence of air disinfection measures can allow the survival and spread of airborne pathogens, including viruses like COVID-19.
+
+## Mitigations of this risk
+
+* [Implement air disinfection technologies such as UVGI, bipolar ionization, or photocatalytic oxidation. Regularly clean and disinfect surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2311.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,13 +28,22 @@ Absence of air disinfection measures can allow the survival and spread of airbor
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [particularly those in buildings with inadequate air disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1166.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -44,12 +52,4 @@ Absence of air disinfection measures can allow the survival and spread of airbor
 ## Articles mentionning the risk
 
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

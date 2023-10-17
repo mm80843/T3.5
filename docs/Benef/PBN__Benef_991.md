@@ -2,14 +2,6 @@
 
 # __Early warning of disease outbreaks__
 
-## Stakeholders benefitting from this Benefit
-
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
-
-## Name of the Benefit
-
-Allows for early detection of infections in the community through monitoring wastewater, enabling prompt public health interventions
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health response, reduced transmission, better control of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1098.md)
@@ -17,4 +9,12 @@ Allows for early detection of infections in the community through monitoring was
 ## Articles mentionning this Benefit
 
 * [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+
+## Name of the Benefit
+
+Allows for early detection of infections in the community through monitoring wastewater, enabling prompt public health interventions
+
+## Stakeholders benefitting from this Benefit
+
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 

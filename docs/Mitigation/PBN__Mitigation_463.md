@@ -2,10 +2,6 @@
 
 # __Hand Hygiene__
 
-## Property: has_MitigationPrinciple
-
-Encourage individuals to practice proper hand hygiene to prevent the spread of the virus through hand contact.
-
 ## Property: has_MitigationSource
 
 * [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
@@ -20,16 +16,6 @@ Encourage individuals to practice proper hand hygiene to prevent the spread of t
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
-## This Mitigation is enabled by the following technologies
-
-* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
-* [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
-* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [alcohol-based hand rubs (80% ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
-* [75% 2-propanol)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3555.md)
-* [hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
@@ -39,4 +25,18 @@ Encourage individuals to practice proper hand hygiene to prevent the spread of t
 * [Poor Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2975.md)
 * [Lack of proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3201.md)
 * [Contaminated Hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3285.md)
+
+## Property: has_MitigationPrinciple
+
+Encourage individuals to practice proper hand hygiene to prevent the spread of the virus through hand contact.
+
+## This Mitigation is enabled by the following technologies
+
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [alcohol-based hand rubs (80% ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
+* [75% 2-propanol)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3555.md)
+* [hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
 

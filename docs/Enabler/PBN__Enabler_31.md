@@ -2,15 +2,16 @@
 
 # __Digital signage__
 
+## Property: has_BP_EnablerTitle
+
+enabler_032
+
 ## Property: has_TechEquivalent
 
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
 * [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_032
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 

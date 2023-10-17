@@ -2,14 +2,6 @@
 
 # __public awareness campaigns__
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology enables the following mitigations
 
 * [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_251.md)
@@ -44,4 +36,12 @@
 * [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
 * [Public Awareness and Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_50.md)
 * [Public Health and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_51.md)
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

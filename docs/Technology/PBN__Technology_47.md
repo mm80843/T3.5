@@ -2,10 +2,6 @@
 
 # __social media platforms__
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology enables the following mitigations
 
 * [Transparent Communication and Prevention of Fake News](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1872.md)
@@ -45,4 +41,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Social Media Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_33.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

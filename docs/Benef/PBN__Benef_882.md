@@ -2,15 +2,6 @@
 
 # __Identification of immunized patients__
 
-## Stakeholders benefitting from this Benefit
-
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-
-## Name of the Benefit
-
-WBE surveillance can identify patients who have recovered from COVID-19, providing valuable data on immunity and helping to estimate the future impact of the virus.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Identification of immunized patients can inform vaccination strategies and public health planning, attracting more funding and collaboration opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_963.md)
@@ -18,4 +9,13 @@ WBE surveillance can identify patients who have recovered from COVID-19, providi
 ## Articles mentionning this Benefit
 
 * [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
+
+## Name of the Benefit
+
+WBE surveillance can identify patients who have recovered from COVID-19, providing valuable data on immunity and helping to estimate the future impact of the virus.
+
+## Stakeholders benefitting from this Benefit
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 

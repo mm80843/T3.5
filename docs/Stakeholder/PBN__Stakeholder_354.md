@@ -7,14 +7,6 @@
 * [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_876.md)
 * [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_877.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
@@ -41,4 +33,12 @@
 * [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
 * [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2336.md)
 * [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 

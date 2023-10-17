@@ -2,11 +2,11 @@
 
 # __Raising awareness__
 
-## Property: has_BP_InterventionKey
-
-MI3
-
 ## Property: has_BP_InterventionTitle
 
 Raising awareness
+
+## Property: has_BP_InterventionKey
+
+MI3
 

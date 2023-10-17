@@ -2,12 +2,12 @@
 
 # __construction firms__
 
-## This Stakeholder is identified by the following QID
-
-* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
 

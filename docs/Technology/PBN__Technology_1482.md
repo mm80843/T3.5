@@ -2,11 +2,6 @@
 
 # __clean cooking technologies__
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## Risks linked to this technology
 
 * [Indoor Air Pollution (IAP)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2017.md)
@@ -19,4 +14,9 @@
 
 * [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

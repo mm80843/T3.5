@@ -2,17 +2,17 @@
 
 # __Individual hygiene__
 
-## Property: has_MitigationPrinciple
-
-Individuals should follow all government norms including washing hands, not touching their faces, adopting respiratory practices, maintaining physical distance, and self-isolating.
-
 ## Property: has_MitigationSource
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Individuals should follow all government norms including washing hands, not touching their faces, adopting respiratory practices, maintaining physical distance, and self-isolating.
+
+## This Mitigation is enabled by the following technologies
 
 

@@ -2,10 +2,6 @@
 
 # __Social distancing__
 
-## Property: has_MitigationPrinciple
-
-Minimize close contact and maintain physical distance to reduce the spread of the disease
-
 ## Property: has_MitigationSource
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
@@ -49,13 +45,6 @@ Minimize close contact and maintain physical distance to reduce the spread of th
 * [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
 * [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
-## This Mitigation is enabled by the following technologies
-
-* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
-* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
-* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
@@ -80,4 +69,15 @@ Minimize close contact and maintain physical distance to reduce the spread of th
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 * [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3333.md)
 * [Reduced human contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3380.md)
+
+## Property: has_MitigationPrinciple
+
+Minimize close contact and maintain physical distance to reduce the spread of the disease
+
+## This Mitigation is enabled by the following technologies
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4071.md)
 

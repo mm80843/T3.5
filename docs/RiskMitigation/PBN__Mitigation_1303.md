@@ -2,17 +2,17 @@
 
 # __Hygienic Building Materials__
 
-## Property: has_MitigationPrinciple
-
-Incorporate hygienic and antibacterial materials in building design to minimize the risk of infection transmission and facilitate easy sanitization.
-
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Incorporate hygienic and antibacterial materials in building design to minimize the risk of infection transmission and facilitate easy sanitization.
+
+## This Mitigation is enabled by the following technologies
 
 

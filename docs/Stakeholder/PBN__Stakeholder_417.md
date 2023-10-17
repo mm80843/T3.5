@@ -2,18 +2,20 @@
 
 # __entrepreneurs__
 
-## This Stakeholder is identified by the following QID
-
-* [Q131524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q131524.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Strengthening of local economies and employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1042.md)
 * [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
 * [Revitalization of commercial and artisanal spaces, enhanced public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1044.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
+* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q131524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q131524.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -24,8 +26,6 @@
 * [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
 * [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
-* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
 

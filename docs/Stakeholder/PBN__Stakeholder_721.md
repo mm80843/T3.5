@@ -2,7 +2,7 @@
 
 # __supervisors__
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
 * [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
@@ -11,7 +11,7 @@
 * [Inadequate Hygiene Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
 * [Failure to Disinfect and Clean Work Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
 * [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
 * [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)

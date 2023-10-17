@@ -2,12 +2,12 @@
 
 # __Labor organizations__
 
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Companies and Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_23.md)
 * [Unions and Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_20.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

@@ -2,11 +2,6 @@
 
 # __fact-checking tools__
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology enables the following mitigations
 
 * [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
@@ -34,4 +29,9 @@
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
 * [Fact-Checking and Information Verification](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_17.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

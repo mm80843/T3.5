@@ -2,10 +2,6 @@
 
 # __online therapy platforms__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Risks linked to this technology
 
 * [Impact on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
@@ -20,4 +16,8 @@
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
 * [Digital Platforms and Apps](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_54.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

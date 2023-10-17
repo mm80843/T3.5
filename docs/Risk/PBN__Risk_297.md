@@ -2,17 +2,6 @@
 
 # __Improper implementation__
 
-## Mitigations of this risk
-
-* [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_368.md)
-* [Improve project management and supervision, provide proper training to workforce, implement quality control measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
-
-## People affected by this risk
-
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
-* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
-
 ## Name of the risk
 
 Quality issues, rework, project delays, increased costs.
@@ -20,6 +9,15 @@ Quality issues, rework, project delays, increased costs.
 ## Description of the risk
 
 Incorrect execution of project tasks and activities leading to poor quality and delays.
+
+## Mitigations of this risk
+
+* [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_368.md)
+* [Improve project management and supervision, provide proper training to workforce, implement quality control measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -30,21 +28,6 @@ Incorrect execution of project tasks and activities leading to poor quality and 
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 * [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskISO_Impact
-
-
-## Articles mentionning the risk
-
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -53,4 +36,21 @@ Incorrect execution of project tasks and activities leading to poor quality and 
 
 * [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 * [quality control tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_692.md)
+
+## People affected by this risk
+
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskISO_Impact
+
+
+## Articles mentionning the risk
+
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 

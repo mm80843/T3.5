@@ -2,19 +2,6 @@
 
 # __Improved indoor air quality__
 
-## Stakeholders benefitting from this Benefit
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [occupants in the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_165.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-
-## Name of the Benefit
-
-Green buildings with proper ventilation systems improve indoor air quality, reducing the risk of COVID-19 transmission and improving occupants' health and well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved indoor air quality leads to healthier occupants, reduced absenteeism, and higher productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_173.md)
@@ -42,4 +29,17 @@ Green buildings with proper ventilation systems improve indoor air quality, redu
 * [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 * [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 * [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+
+## Name of the Benefit
+
+Green buildings with proper ventilation systems improve indoor air quality, reducing the risk of COVID-19 transmission and improving occupants' health and well-being.
+
+## Stakeholders benefitting from this Benefit
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [occupants in the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_165.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 

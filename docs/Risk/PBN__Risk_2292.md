@@ -2,14 +2,6 @@
 
 # __mobility on mental__
 
-## Mitigations of this risk
-
-* [to digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
-
-## People affected by this risk
-
-* [vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
-
 ## Name of the risk
 
 physical well-being,
@@ -18,6 +10,13 @@ physical well-being,
 
 to green spaces due to reduced
 
+## Mitigations of this risk
+
+* [to digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
+
+## Property: has_RiskHealth
+
+
 ## Property: has_RiskType
 
 
@@ -25,12 +24,20 @@ to green spaces due to reduced
 
 * [technological providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1528.md)
 
+## Property: has_RiskGBN
+
+
+## Technologies linked to the risk
+
+* [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
+
+## People affected by this risk
+
+* [vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -39,11 +46,4 @@ to green spaces due to reduced
 ## Articles mentionning the risk
 
 * [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
-
-## Property: has_RiskGBN
-
-
-## Technologies linked to the risk
-
-* [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
 

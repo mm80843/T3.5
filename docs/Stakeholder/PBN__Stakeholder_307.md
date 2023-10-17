@@ -2,13 +2,13 @@
 
 # __local government__
 
-## This Stakeholder is identified by the following QID
-
-* [Q6501447](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501447.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_743.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q6501447](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501447.md)
 
 ## Risks that can be mitigated by this stakeholder
 

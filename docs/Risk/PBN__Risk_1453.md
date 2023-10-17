@@ -2,16 +2,6 @@
 
 # __Lack of ontology interoperability__
 
-## Mitigations of this risk
-
-* [Foster ontology interoperability and collaboration among developers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1965.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-* [bioinformaticians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_940.md)
-
 ## Name of the risk
 
 Forms silos and fails to support integrative research.
@@ -19,6 +9,13 @@ Forms silos and fails to support integrative research.
 ## Description of the risk
 
 Many ontologies do not align or are not interoperable with each other, hindering data sharing and integration.
+
+## Mitigations of this risk
+
+* [Foster ontology interoperability and collaboration among developers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1965.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -29,12 +26,23 @@ Many ontologies do not align or are not interoperable with each other, hindering
 * [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
 * [ontology experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_941.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [bioinformaticians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_940.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Many ontologies do not align or are not interoperable with each other, hindering
 ## Articles mentionning the risk
 
 * [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
 

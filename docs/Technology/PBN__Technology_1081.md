@@ -2,10 +2,6 @@
 
 # __unemployment benefits systems__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## Risks linked to this technology
 
 * [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

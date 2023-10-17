@@ -2,12 +2,6 @@
 
 # __air filtration systems__
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-
 ## This Technology enables the following mitigations
 
 * [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
@@ -34,4 +28,10 @@
 
 * [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
 * [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
 

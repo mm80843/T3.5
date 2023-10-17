@@ -2,10 +2,6 @@
 
 # __fundraising campaigns__
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## Risks linked to this technology
 
 * [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

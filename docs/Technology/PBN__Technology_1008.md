@@ -2,10 +2,6 @@
 
 # __touchless technologies__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology enables the following mitigations
 
 * [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
@@ -24,4 +20,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

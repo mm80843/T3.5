@@ -2,10 +2,6 @@
 
 # __use of industry-approved disinfectants__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## Risks linked to this technology
 
 * [Failure to Disinfect and Clean Work Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

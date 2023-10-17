@@ -2,15 +2,6 @@
 
 # __Mixed Messaging__
 
-## Mitigations of this risk
-
-* [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2291.md)
-
-## People affected by this risk
-
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-
 ## Name of the risk
 
 Customers may receive conflicting information or be unsure about the credibility of the messages, leading to non-compliance with social distancing measures.
@@ -18,6 +9,14 @@ Customers may receive conflicting information or be unsure about the credibility
 ## Description of the risk
 
 Retailers using both informal and professional signs may cause confusion and inconsistency in communication of social distancing measures.
+
+## Mitigations of this risk
+
+* [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2291.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +26,22 @@ Retailers using both informal and professional signs may cause confusion and inc
 
 * [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1096.md)
+
+## People affected by this risk
+
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ Retailers using both informal and professional signs may cause confusion and inc
 ## Articles mentionning the risk
 
 * [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1096.md)
 

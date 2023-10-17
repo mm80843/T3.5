@@ -2,10 +2,6 @@
 
 # __Improved ventilation__
 
-## Property: has_MitigationPrinciple
-
-Increasing fresh air circulation and removing indoor contaminants, including viruses, through proper ventilation
-
 ## Property: has_MitigationSource
 
 * [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
@@ -14,6 +10,17 @@ Increasing fresh air circulation and removing indoor contaminants, including vir
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 * [rahim_impact_2022 rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_309.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
+* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3011.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing fresh air circulation and removing indoor contaminants, including viruses, through proper ventilation
 
 ## This Mitigation is enabled by the following technologies
 
@@ -24,11 +31,4 @@ Increasing fresh air circulation and removing indoor contaminants, including vir
 * [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
 * [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
-* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
-* [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3011.md)
 

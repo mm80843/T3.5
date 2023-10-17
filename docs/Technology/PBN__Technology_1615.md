@@ -2,10 +2,6 @@
 
 # __window views of green spaces__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## Risks linked to this technology
 
 * [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

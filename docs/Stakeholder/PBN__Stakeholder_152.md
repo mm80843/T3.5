@@ -2,11 +2,11 @@
 
 # __building operators__
 
-## This Stakeholder is identified by the following QID
-
-* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced data resolution and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_322.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
 

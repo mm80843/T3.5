@@ -2,10 +2,6 @@
 
 # __contactless transactions__
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## Risks linked to this technology
 
 * [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
@@ -16,4 +12,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

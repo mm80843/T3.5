@@ -2,19 +2,19 @@
 
 # __Wearing Masks__
 
-## Property: has_MitigationPrinciple
-
-Wearing masks can reduce the transmission of respiratory viruses by blocking the release of droplets.
-
 ## Property: has_MitigationSource
 
 * [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 
-## This Mitigation is enabled by the following technologies
-
-* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+
+## Property: has_MitigationPrinciple
+
+Wearing masks can reduce the transmission of respiratory viruses by blocking the release of droplets.
+
+## This Mitigation is enabled by the following technologies
+
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 

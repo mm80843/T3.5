@@ -6,15 +6,15 @@
 
 * [Q156537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156537.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Domestic Violence Victims](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_90.md)
+* [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
+* [Domestic Violence Victims](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_90.md)
 

@@ -2,30 +2,6 @@
 
 # __The impact of the COVID-19 pandemic on the importance of urban green spaces to the public__
 
-## Short summary of the article
-
-This paper presents the results of a survey conducted in the city of Krakow, Poland to assess the impact of visits to urban green spaces on the mental and physical well-being of residents during the COVID-19 pandemic. The study found that before the pandemic, 92% of respondents visited green spaces, but this fell to 78.9% during the pandemic due to mobility restrictions. Compliance with governmental restrictions and fear of infection were the main reasons for not visiting green spaces. However, visiting green spaces during the pandemic was found to have a significant positive impact on respondents' general well-being and stress levels, with over 75% indicating a big or very big influence. The most popular green spaces visited during the pandemic were the Vistula Promenades and the Planty Gardens, which are situated in the city center and offer a combination of natural and historic features. The study underscores the importance of urban green spaces for meeting the intangible needs of residents during a crisis and advocates for their protection and further development.
-
-## Year of publication
-
-2022
-
-## Title of the article
-
-The impact of the COVID-19 pandemic on the importance of urban green spaces to the public
-
-## List of risks in an article
-
-* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
-* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
-* [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1824.md)
-* [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1825.md)
-* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
-
-## DOI of the article
-
-10.1016/j.landusepol.2021.105925
-
 ## Benefits listed in this article
 
 * [Improved physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_174.md)
@@ -34,13 +10,9 @@ The impact of the COVID-19 pandemic on the importance of urban green spaces to t
 * [Enhanced social interaction and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_987.md)
 * [Improved public health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_988.md)
 
-## This article points to following mitigation
+## Short summary of the article
 
-* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
-* [Use of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1468.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
-* [Closure of Public Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
+This paper presents the results of a survey conducted in the city of Krakow, Poland to assess the impact of visits to urban green spaces on the mental and physical well-being of residents during the COVID-19 pandemic. The study found that before the pandemic, 92% of respondents visited green spaces, but this fell to 78.9% during the pandemic due to mobility restrictions. Compliance with governmental restrictions and fear of infection were the main reasons for not visiting green spaces. However, visiting green spaces during the pandemic was found to have a significant positive impact on respondents' general well-being and stress levels, with over 75% indicating a big or very big influence. The most popular green spaces visited during the pandemic were the Vistula Promenades and the Planty Gardens, which are situated in the city center and offer a combination of natural and historic features. The study underscores the importance of urban green spaces for meeting the intangible needs of residents during a crisis and advocates for their protection and further development.
 
 ## Summary of the article
 
@@ -54,4 +26,32 @@ During the COVID-19 pandemic, a new form of coronavirus, called SARS-CoV-2, emer
 * [A call to action: Improving urban green spaces to reduce health inequalities exacerbated by COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_343.md)
 * [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_318.md)
 * [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
+
+## List of risks in an article
+
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1822.md)
+* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
+* [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1824.md)
+* [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1825.md)
+* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
+
+## This article points to following mitigation
+
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Use of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1468.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [Closure of Public Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
+
+## Title of the article
+
+The impact of the COVID-19 pandemic on the importance of urban green spaces to the public
+
+## Year of publication
+
+2022
+
+## DOI of the article
+
+10.1016/j.landusepol.2021.105925
 

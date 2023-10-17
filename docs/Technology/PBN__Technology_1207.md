@@ -2,10 +2,6 @@
 
 # __mobile vaccination clinics__
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## Risks linked to this technology
 
 * [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
@@ -18,4 +14,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

@@ -2,27 +2,9 @@
 
 # __financial institutions__
 
-## This Stakeholder is identified by the following QID
-
-* [Q57774188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57774188.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Timely shutdown and reopening of specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1021.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Risk affecting this stakeholder
-
-* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
-* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
-* [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2162.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -45,4 +27,22 @@
 * [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
 * [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
 * [Impact of COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q57774188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57774188.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Risk affecting this stakeholder
+
+* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
+* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
+* [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2162.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 

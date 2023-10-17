@@ -1,9 +1,9 @@
 [Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md)
 
-# Enabler -- 43 instances.
+# Enabler -- 35 instances.
 
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
-* [DigitalPlaform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
 * [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
@@ -35,13 +35,5 @@
 * [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_30.md)
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
 * [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
-* [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
-* [Disease testing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
-* [Big Data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_35.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
-* [Digital Platform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
-* [HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_39.md)
-* [Digital signagne](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_40.md)
-* [Disease testing equipement](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
+* [Water Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)

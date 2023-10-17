@@ -2,11 +2,6 @@
 
 # __helplines__
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology enables the following mitigations
 
 * [Effective Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1865.md)
@@ -22,4 +17,9 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

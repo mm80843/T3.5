@@ -2,10 +2,6 @@
 
 # __equitable governance structures__
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## Risks linked to this technology
 
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

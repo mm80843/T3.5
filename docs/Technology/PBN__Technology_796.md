@@ -2,10 +2,6 @@
 
 # __rapid testing technologies__
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## Risks linked to this technology
 
 * [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

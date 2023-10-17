@@ -2,10 +2,6 @@
 
 # __healthcare institutions__
 
-## This Stakeholder is identified by the following QID
-
-* [Q31207](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q31207.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_642.md)
@@ -13,22 +9,6 @@
 * [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_899.md)
 * [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_939.md)
 * [Improved resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_975.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
-* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
-* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
-* [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -94,4 +74,24 @@
 * [Health System Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
 * [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2374.md)
 * [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q31207](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q31207.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
+* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
+* [Lack of Historical Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
+* [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
+* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

@@ -2,13 +2,13 @@
 
 # __Security systems__
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
 * [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

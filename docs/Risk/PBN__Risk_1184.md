@@ -2,15 +2,6 @@
 
 # __Lack of Legal Protections and Financial Support__
 
-## Mitigations of this risk
-
-* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1636.md)
-
-## People affected by this risk
-
-* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
-* [people facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_712.md)
-
 ## Name of the risk
 
 Increased eviction rates, housing instability.
@@ -18,6 +9,14 @@ Increased eviction rates, housing instability.
 ## Description of the risk
 
 Insufficient legal protections and financial support, such as eviction moratoria and rental assistance, lead to increased eviction rates and housing displacement.
+
+## Mitigations of this risk
+
+* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1636.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -30,13 +29,21 @@ Insufficient legal protections and financial support, such as eviction moratoria
 * [housing organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_709.md)
 * [non-profits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_710.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
+* [people facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_712.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -45,11 +52,4 @@ Insufficient legal protections and financial support, such as eviction moratoria
 ## Articles mentionning the risk
 
 * [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

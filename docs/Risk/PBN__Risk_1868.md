@@ -2,15 +2,6 @@
 
 # __Lack of Effective Treatment__
 
-## Mitigations of this risk
-
-* [Support ongoing research for vaccine development and antiviral medications, repurpose existing drugs for treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_686.md)
-
 ## Name of the risk
 
 Increased severity and mortality rates
@@ -18,6 +9,14 @@ Increased severity and mortality rates
 ## Description of the risk
 
 There are no specific medicines or vaccines available to control or treat COVID-19.
+
+## Mitigations of this risk
+
+* [Support ongoing research for vaccine development and antiviral medications, repurpose existing drugs for treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,13 +28,22 @@ There are no specific medicines or vaccines available to control or treat COVID-
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_686.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -44,12 +52,4 @@ There are no specific medicines or vaccines available to control or treat COVID-
 ## Articles mentionning the risk
 
 * [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
 

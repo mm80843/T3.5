@@ -2,18 +2,6 @@
 
 # __social media platforms__
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
-
-## Risk affecting this stakeholder
-
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
@@ -26,4 +14,16 @@
 * [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
 * [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
 * [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+
+## Risk affecting this stakeholder
+
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
 

@@ -2,18 +2,18 @@
 
 # __Integration of Ventilation__
 
-## Property: has_MitigationPrinciple
-
-Proper integration of ventilation systems in the design of buildings is necessary to ensure adequate indoor air quality and climate
-
 ## Property: has_MitigationSource
 
 * [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Proper integration of ventilation systems in the design of buildings is necessary to ensure adequate indoor air quality and climate
+
 ## This Mitigation is enabled by the following technologies
 
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

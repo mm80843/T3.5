@@ -2,10 +2,6 @@
 
 # __websites__
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## Risks linked to this technology
 
 * [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
@@ -14,4 +10,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Collaboration and Community Engagement Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_37.md)
+
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

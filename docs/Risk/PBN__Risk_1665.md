@@ -2,14 +2,6 @@
 
 # __Air circulation-limiting potential of tall, planted roadside vegetation__
 
-## Mitigations of this risk
-
-* [Proper planning and spacing of roadside vegetation, regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2220.md)
-
-## People affected by this risk
-
-* [people living and working near roads with planted vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1097.md)
-
 ## Name of the risk
 
 Reduced air quality, respiratory problems
@@ -17,6 +9,14 @@ Reduced air quality, respiratory problems
 ## Description of the risk
 
 Tall, planted vegetation on roadsides can limit air circulation and increase air pollution
+
+## Mitigations of this risk
+
+* [Proper planning and spacing of roadside vegetation, regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2220.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,20 @@ Tall, planted vegetation on roadsides can limit air circulation and increase air
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [people living and working near roads with planted vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1097.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,11 +49,4 @@ Tall, planted vegetation on roadsides can limit air circulation and increase air
 ## Articles mentionning the risk
 
 * [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

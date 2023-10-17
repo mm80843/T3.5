@@ -2,14 +2,6 @@
 
 # __Improved productivity__
 
-## Stakeholders benefitting from this Benefit
-
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-
-## Name of the Benefit
-
-Safety protocols help ensure the health and safety of construction workers, reducing the risk of COVID-19 transmission and increasing their productivity.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from improved project timelines and reduced costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_853.md)
@@ -17,4 +9,12 @@ Safety protocols help ensure the health and safety of construction workers, redu
 ## Articles mentionning this Benefit
 
 * [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+
+## Name of the Benefit
+
+Safety protocols help ensure the health and safety of construction workers, reducing the risk of COVID-19 transmission and increasing their productivity.
+
+## Stakeholders benefitting from this Benefit
+
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 

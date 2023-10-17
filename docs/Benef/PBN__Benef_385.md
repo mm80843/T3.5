@@ -2,15 +2,6 @@
 
 # __Improved understanding of movement__
 
-## Stakeholders benefitting from this Benefit
-
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
-
-## Name of the Benefit
-
-Guide design of elimination strategies
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [More efficient use of resources and tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_413.md)
@@ -18,4 +9,13 @@ Guide design of elimination strategies
 ## Articles mentionning this Benefit
 
 * [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+
+## Name of the Benefit
+
+Guide design of elimination strategies
+
+## Stakeholders benefitting from this Benefit
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
 

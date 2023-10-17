@@ -2,15 +2,15 @@
 
 # __state governments__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
+* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 

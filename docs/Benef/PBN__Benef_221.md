@@ -2,14 +2,6 @@
 
 # __Improved job security__
 
-## Stakeholders benefitting from this Benefit
-
-* [office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
-
-## Name of the Benefit
-
-Ability to work from home, reducing risk of job loss due to lockdowns or shutdowns
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved employee morale and loyalty](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_228.md)
@@ -17,4 +9,12 @@ Ability to work from home, reducing risk of job loss due to lockdowns or shutdow
 ## Articles mentionning this Benefit
 
 * [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+
+## Name of the Benefit
+
+Ability to work from home, reducing risk of job loss due to lockdowns or shutdowns
+
+## Stakeholders benefitting from this Benefit
+
+* [office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
 

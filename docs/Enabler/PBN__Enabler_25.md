@@ -2,11 +2,15 @@
 
 # __HEPA Filters__
 
+## Property: has_BP_EnablerTitle
+
+enabler_026
+
 ## Property: has_TechEquivalent
 
 * [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4550.md)
 
-## Property: has_BP_EnablerTitle
+## Thees blueprints use this enabler
 
-enabler_026
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 

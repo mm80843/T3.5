@@ -2,15 +2,6 @@
 
 # __Demand response automation__
 
-## Stakeholders benefitting from this Benefit
-
-* [electricity providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_249.md)
-* [grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_250.md)
-
-## Name of the Benefit
-
-HEMS can automate demand response programs, optimizing energy use and contributing to the stability of the power grid.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in HEMS technologies would benefit from increased demand from electricity providers and grid operators seeking to optimize energy consumption and ensure grid stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_649.md)
@@ -18,4 +9,13 @@ HEMS can automate demand response programs, optimizing energy use and contributi
 ## Articles mentionning this Benefit
 
 * [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
+
+## Name of the Benefit
+
+HEMS can automate demand response programs, optimizing energy use and contributing to the stability of the power grid.
+
+## Stakeholders benefitting from this Benefit
+
+* [electricity providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_249.md)
+* [grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_250.md)
 

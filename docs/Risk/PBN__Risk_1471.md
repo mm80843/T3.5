@@ -2,15 +2,6 @@
 
 # __Changes in work schedules of nursing staff__
 
-## Mitigations of this risk
-
-* [Implementing flexible work schedules and transportation arrangements for nurses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1989.md)
-
-## People affected by this risk
-
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
-
 ## Name of the risk
 
 Disruption of work-life balance and logistical challenges for nurses in commuting during curfew hours
@@ -18,6 +9,14 @@ Disruption of work-life balance and logistical challenges for nurses in commutin
 ## Description of the risk
 
 Shift adjustments to accommodate curfew measures
+
+## Mitigations of this risk
+
+* [Implementing flexible work schedules and transportation arrangements for nurses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1989.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,21 @@ Shift adjustments to accommodate curfew measures
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Shift adjustments to accommodate curfew measures
 ## Articles mentionning the risk
 
 * [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

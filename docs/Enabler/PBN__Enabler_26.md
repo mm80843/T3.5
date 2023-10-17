@@ -2,15 +2,15 @@
 
 # __Antimicrobial coating__
 
+## Property: has_BP_EnablerTitle
+
+enabler_027
+
 ## Property: has_TechEquivalent
 
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
 * [Antimicrobial Surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_027
 

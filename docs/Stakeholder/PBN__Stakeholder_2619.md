@@ -6,11 +6,11 @@
 
 * [Q69906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69906.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [AI and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_156.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [AI and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_156.md)
 

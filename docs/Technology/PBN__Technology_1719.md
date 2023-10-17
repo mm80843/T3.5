@@ -2,10 +2,6 @@
 
 # __rollout mats__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology enables the following mitigations
 
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
@@ -21,4 +17,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

@@ -2,10 +2,6 @@
 
 # __personalized medicine__
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## Risks linked to this technology
 
 * [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Bioinformatics and Genomic Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_30.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

@@ -2,16 +2,6 @@
 
 # __Inadequate sanitation and hygiene facilities__
 
-## Mitigations of this risk
-
-* [Ensuring the availability of hand hygiene facilities (handwashing stations or sanitizer dispensers), regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [workers in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1106.md)
-
 ## Name of the risk
 
 Higher infection rates, potential outbreaks, and increased risk of cross-contamination.
@@ -19,6 +9,14 @@ Higher infection rates, potential outbreaks, and increased risk of cross-contami
 ## Description of the risk
 
 Lack of proper sanitation and hygiene facilities can increase the risk of disease transmission in public spaces.
+
+## Mitigations of this risk
+
+* [Ensuring the availability of hand hygiene facilities (handwashing stations or sanitizer dispensers), regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +27,6 @@ Lack of proper sanitation and hygiene facilities can increase the risk of diseas
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 
 ## Property: has_RiskGBN
 
@@ -57,4 +39,22 @@ Lack of proper sanitation and hygiene facilities can increase the risk of diseas
 * [trash bins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
 * [antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1025.md)
 * [uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1026.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [workers in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1106.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 

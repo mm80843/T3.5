@@ -2,10 +2,6 @@
 
 # __Other air cleaning technologies__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
@@ -13,4 +9,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

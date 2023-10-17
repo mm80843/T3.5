@@ -2,14 +2,14 @@
 
 # __newcastle urban observatory__
 
-## Risk affecting this stakeholder
-
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Limited accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 * [Data quality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 * [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
+
+## Risk affecting this stakeholder
+
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 

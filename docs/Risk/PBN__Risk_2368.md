@@ -2,15 +2,6 @@
 
 # __Emerging local hot spots__
 
-## Mitigations of this risk
-
-* [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3075.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals in areas with high virus prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1576.md)
-
 ## Name of the risk
 
 Uncontrolled spread of the virus in specific areas, leading to increased cases, hospitalizations, and deaths.
@@ -18,6 +9,14 @@ Uncontrolled spread of the virus in specific areas, leading to increased cases, 
 ## Description of the risk
 
 Without early detection of emerging local hot spots, public health officials may be unable to implement timely interventions and control the spread of COVID-19.
+
+## Mitigations of this risk
+
+* [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3075.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +27,6 @@ Without early detection of emerging local hot spots, public health officials may
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 * [local government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1577.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_19.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
-
-## Articles mentionning the risk
-
-* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +35,21 @@ Without early detection of emerging local hot spots, public health officials may
 
 * [development and implementation of wastewater sampling and analysis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1974.md)
 * [data analysis algorithms for hotspot detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1975.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals in areas with high virus prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1576.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_19.md)
+
+## Property: has_RiskISO_Impact
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Articles mentionning the risk
+
+* [SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
 

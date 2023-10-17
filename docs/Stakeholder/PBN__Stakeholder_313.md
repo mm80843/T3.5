@@ -2,17 +2,13 @@
 
 # __community__
 
-## This Stakeholder is identified by the following QID
-
-* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced transmission risk in neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_762.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
+* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -21,4 +17,8 @@
 ## Risk affecting this stakeholder
 
 * [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [General Community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_139.md)
 

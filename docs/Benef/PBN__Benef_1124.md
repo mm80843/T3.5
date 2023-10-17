@@ -2,14 +2,6 @@
 
 # __Prevention of viral transmission__
 
-## Stakeholders benefitting from this Benefit
-
-* [public and healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_440.md)
-
-## Name of the Benefit
-
-Proper hand hygiene can prevent the transfer of the virus from contaminated surfaces to hands
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in surface disinfectants would benefit from improved asset value (e.g. increased demand for disinfectant products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1255.md)
@@ -18,4 +10,12 @@ Proper hand hygiene can prevent the transfer of the virus from contaminated surf
 ## Articles mentionning this Benefit
 
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+
+## Name of the Benefit
+
+Proper hand hygiene can prevent the transfer of the virus from contaminated surfaces to hands
+
+## Stakeholders benefitting from this Benefit
+
+* [public and healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_440.md)
 

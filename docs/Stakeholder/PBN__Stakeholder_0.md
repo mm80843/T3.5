@@ -2,17 +2,6 @@
 
 # __public health authorities__
 
-## Risk affecting this stakeholder
-
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
-* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
-* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
-* [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
-* [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
-* [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
-* [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
@@ -127,4 +116,15 @@
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 * [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
 * [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2342.md)
+
+## Risk affecting this stakeholder
+
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
+* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
+* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
+* [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
+* [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
+* [Climate change enhancing mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
+* [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
 

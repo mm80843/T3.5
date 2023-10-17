@@ -2,7 +2,7 @@
 
 # __Ensure use of personal protection equipment__
 
-## This Technology belongs to this TechSubgroup
+## This intervention is used in the following blueprints
 
 * [Tracking and enforcing use of Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
 

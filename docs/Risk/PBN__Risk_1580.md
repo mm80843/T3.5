@@ -2,14 +2,6 @@
 
 # __Legal Issues__
 
-## Mitigations of this risk
-
-* [Revise contracts to include virus outbreak as force majeure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2112.md)
-
-## People affected by this risk
-
-* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
-
 ## Name of the risk
 
 Contractors face difficulties in claiming losses and extensions
@@ -17,6 +9,14 @@ Contractors face difficulties in claiming losses and extensions
 ## Description of the risk
 
 Unclear contractual arrangements and entitlements due to outbreak
+
+## Mitigations of this risk
+
+* [Revise contracts to include virus outbreak as force majeure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2112.md)
+
+## Property: has_RiskHealth
+
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_11.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,20 @@ Unclear contractual arrangements and entitlements due to outbreak
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [contracting clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1018.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_11.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,11 +49,4 @@ Unclear contractual arrangements and entitlements due to outbreak
 ## Articles mentionning the risk
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

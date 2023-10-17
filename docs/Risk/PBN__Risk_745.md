@@ -2,6 +2,14 @@
 
 # __Energy consumption__
 
+## Name of the risk
+
+Increased energy costs, environmental impact.
+
+## Description of the risk
+
+Buildings account for a significant portion of energy consumption, and air conditioning offices contribute to the growing demand for energy.
+
 ## Mitigations of this risk
 
 * [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
@@ -15,20 +23,9 @@
 * [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
 * [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2163.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [energy managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1531.md)
-
-## Name of the risk
-
-Increased energy costs, environmental impact.
-
-## Description of the risk
-
-Buildings account for a significant portion of energy consumption, and air conditioning offices contribute to the growing demand for energy.
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -43,23 +40,6 @@ Buildings account for a significant portion of energy consumption, and air condi
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [energy managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1531.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Articles mentionning the risk
-
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -69,4 +49,24 @@ Buildings account for a significant portion of energy consumption, and air condi
 * [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
 * [smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
 * [energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1893.md)
+
+## People affected by this risk
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [energy managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1531.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Articles mentionning the risk
+
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
 

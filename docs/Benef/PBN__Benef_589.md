@@ -2,14 +2,6 @@
 
 # __Vaccine testing__
 
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-
-## Name of the Benefit
-
-Evaluation of vaccines and therapeutic drugs
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Asset value increase from improved testing and development](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_642.md)
@@ -17,4 +9,12 @@ Evaluation of vaccines and therapeutic drugs
 ## Articles mentionning this Benefit
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+
+## Name of the Benefit
+
+Evaluation of vaccines and therapeutic drugs
+
+## Stakeholders benefitting from this Benefit
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 

@@ -2,15 +2,6 @@
 
 # __Spread of SARS-CoV-2 in wastewater__
 
-## Mitigations of this risk
-
-* [Regular monitoring and testing of wastewater samples for SARS-CoV-2 can provide early detection and enable prompt control measures to prevent further spread.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2165.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [wastewater treatment plant workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1049.md)
-
 ## Name of the risk
 
 The spread of SARS-CoV-2 in wastewater can lead to further transmission of the virus and an increase in the number of COVID-19 cases.
@@ -18,6 +9,14 @@ The spread of SARS-CoV-2 in wastewater can lead to further transmission of the v
 ## Description of the risk
 
 Detection of SARS-CoV-2 RNA in sewage indicates the presence of the virus and the potential for its spread in the population.
+
+## Mitigations of this risk
+
+* [Regular monitoring and testing of wastewater samples for SARS-CoV-2 can provide early detection and enable prompt control measures to prevent further spread.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2165.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,22 @@ Detection of SARS-CoV-2 RNA in sewage indicates the presence of the virus and th
 * [health departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
 * [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [wastewater-based epidemiology (wbe) methods and pcr testing can be used for the detection of sars-cov-2 in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_947.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [wastewater treatment plant workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1049.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Detection of SARS-CoV-2 RNA in sewage indicates the presence of the virus and th
 ## Articles mentionning the risk
 
 * [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [wastewater-based epidemiology (wbe) methods and pcr testing can be used for the detection of sars-cov-2 in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_947.md)
 

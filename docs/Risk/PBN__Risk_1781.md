@@ -2,14 +2,6 @@
 
 # __Minimizing the number of people in indoor environments__
 
-## Mitigations of this risk
-
-* [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2354.md)
-
-## People affected by this risk
-
-* [people in indoor environments during an epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1189.md)
-
 ## Name of the risk
 
 Lower concentration of airborne virus-carrying particles, reduced transmission risk
@@ -17,6 +9,14 @@ Lower concentration of airborne virus-carrying particles, reduced transmission r
 ## Description of the risk
 
 Reducing the number of people sharing indoor spaces
+
+## Mitigations of this risk
+
+* [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2354.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +28,20 @@ Reducing the number of people sharing indoor spaces
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1183.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [people in indoor environments during an epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1189.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Reducing the number of people sharing indoor spaces
 ## Articles mentionning the risk
 
 * [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

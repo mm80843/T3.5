@@ -6,9 +6,10 @@
 
 * [Transparency of donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1171.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Donors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_146.md)
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -18,8 +19,7 @@
 
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
-* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
+* [Donors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_146.md)
 

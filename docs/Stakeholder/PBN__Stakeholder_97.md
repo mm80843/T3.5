@@ -2,10 +2,6 @@
 
 # __building occupants__
 
-## This Stakeholder is identified by the following QID
-
-* [Q11755880](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11755880.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
@@ -90,10 +86,17 @@
 * [Sanitation and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1409.md)
 * [Contactless interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1410.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
+* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+* [Poor Lighting and Glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
+* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
+* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q11755880](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11755880.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -226,11 +229,8 @@
 * [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 * [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
-* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
-* [Poor Lighting and Glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
-* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
-* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
 

@@ -2,10 +2,6 @@
 
 # __tracking systems__
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## Risks linked to this technology
 
 * [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

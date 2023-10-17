@@ -2,17 +2,17 @@
 
 # __Home-based exercise__
 
-## Property: has_MitigationPrinciple
-
-Engaging in physical activities at home, such as yoga, dancing, and weightlifting, as a coping strategy to promote mental health and well-being during COVID-19 lockdown and restrictions.
-
 ## Property: has_MitigationSource
 
 * [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Engaging in physical activities at home, such as yoga, dancing, and weightlifting, as a coping strategy to promote mental health and well-being during COVID-19 lockdown and restrictions.
+
+## This Mitigation is enabled by the following technologies
 
 

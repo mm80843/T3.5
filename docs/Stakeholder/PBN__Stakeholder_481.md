@@ -2,14 +2,14 @@
 
 # __pedestrians__
 
-## This Stakeholder is identified by the following QID
-
-* [Q221488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q221488.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accessibility and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1242.md)
 * [Increased livability and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1246.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q221488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q221488.md)
 
 ## Risk affecting this stakeholder
 

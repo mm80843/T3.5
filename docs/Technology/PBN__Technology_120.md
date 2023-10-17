@@ -2,10 +2,6 @@
 
 # __green spaces in residential areas__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## Risks linked to this technology
 
 * [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

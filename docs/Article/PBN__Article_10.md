@@ -2,17 +2,21 @@
 
 # __Impact of Covid-19 on the built environment__
 
+## Benefits listed in this article
+
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+* [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_44.md)
+* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
+* [Increased social activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_46.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+
 ## Short summary of the article
 
 This research abstract summarizes a comprehensive review of the impact of Covid-19 on the built environment and provides insights into design considerations for mitigating the spread of the virus. The study emphasizes the need for better preparedness and response actions to address the global pandemic. The impacts of Covid-19 on public health, socio-economic composition, neighborhoods, streets, green spaces, and transportation are discussed. The research highlights the vulnerability and resilience of urban systems and the importance of inclusive urban planning and management of multi-functional public spaces. Recommendations include promoting development with lower density, decentralization, urban farming, and encouraging pedestrian and cycling facilities. The study also emphasizes the role of community gardens, parks, trails, and other public spaces in fostering physical activity and social interactions. Additionally, the research acknowledges the challenges faced in dense populations and suggests incorporating pandemic-resilient strategies in architectural and urban design curriculum. The abstract concludes with the importance of ongoing research, effective governance, and future studies to understand and prevent future pandemics.
 
-## Year of publication
+## Summary of the article
 
-2022
-
-## Title of the article
-
-Impact of Covid-19 on the built environment
+Covid-19 is a global pandemic that is affecting people all over the world. It is a disease that spreads easily and can make people very sick, especially older people or those with other health problems. Because of Covid-19, we have to be careful and follow rules to protect ourselves and others, like washing our hands and keeping our distance from other people. The virus has also affected how we use public spaces, like parks and markets. Some places have had to make changes to keep people safe, like marking out spaces for people to stand and keeping crowds small. Architects and designers are also thinking about how to make buildings and cities safer for the future. They are considering things like wider sidewalks, more green spaces, and better transportation options. We need to be prepared for future pandemics and make sure our cities and buildings can keep us safe.
 
 ## List of risks in an article
 
@@ -21,18 +25,6 @@ Impact of Covid-19 on the built environment
 * [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
 * [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 * [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
-
-## DOI of the article
-
-10.1108/FEBE-09-2021-0040
-
-## Benefits listed in this article
-
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
-* [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_44.md)
-* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
-* [Increased social activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_46.md)
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
 
 ## This article points to following mitigation
 
@@ -53,7 +45,15 @@ Impact of Covid-19 on the built environment
 * [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1167.md)
 * [Pocket spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1171.md)
 
-## Summary of the article
+## Title of the article
 
-Covid-19 is a global pandemic that is affecting people all over the world. It is a disease that spreads easily and can make people very sick, especially older people or those with other health problems. Because of Covid-19, we have to be careful and follow rules to protect ourselves and others, like washing our hands and keeping our distance from other people. The virus has also affected how we use public spaces, like parks and markets. Some places have had to make changes to keep people safe, like marking out spaces for people to stand and keeping crowds small. Architects and designers are also thinking about how to make buildings and cities safer for the future. They are considering things like wider sidewalks, more green spaces, and better transportation options. We need to be prepared for future pandemics and make sure our cities and buildings can keep us safe.
+Impact of Covid-19 on the built environment
+
+## Year of publication
+
+2022
+
+## DOI of the article
+
+10.1108/FEBE-09-2021-0040
 

@@ -2,10 +2,6 @@
 
 # __use of portable air cleaners__
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## Risks linked to this technology
 
 * [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

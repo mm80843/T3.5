@@ -2,17 +2,17 @@
 
 # __Research on aerosol transmission__
 
-## Property: has_MitigationPrinciple
-
-Conducting research on possible aerosol transmission of COVID-19 and considering its implications for waste and wastewater management
-
 ## Property: has_MitigationSource
 
 * [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Conducting research on possible aerosol transmission of COVID-19 and considering its implications for waste and wastewater management
+
+## This Mitigation is enabled by the following technologies
 
 

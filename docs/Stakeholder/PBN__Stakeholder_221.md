@@ -2,10 +2,6 @@
 
 # __customers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2979031](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979031.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_525.md)
@@ -18,8 +14,13 @@
 * [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
 * [Enhanced safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2979031](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979031.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -43,7 +44,6 @@
 * [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
 * [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 

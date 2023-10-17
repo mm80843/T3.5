@@ -2,14 +2,6 @@
 
 # __Centralization of economic activities__
 
-## Mitigations of this risk
-
-* [Decentralize economic activities to distribute economic opportunities more evenly throughout the city](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1664.md)
-
-## People affected by this risk
-
-* [residents of central areas with high economic activity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_727.md)
-
 ## Name of the risk
 
 Higher contact rates and increased risk of infection among residents of central areas
@@ -17,6 +9,14 @@ Higher contact rates and increased risk of infection among residents of central 
 ## Description of the risk
 
 Concentration of economic activities in a few areas of the city
+
+## Mitigations of this risk
+
+* [Decentralize economic activities to distribute economic opportunities more evenly throughout the city](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1664.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +28,21 @@ Concentration of economic activities in a few areas of the city
 * [city officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_726.md)
 * [business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_728.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [economic and business development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
+
+## People affected by this risk
+
+* [residents of central areas with high economic activity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_727.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Concentration of economic activities in a few areas of the city
 ## Articles mentionning the risk
 
 * [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [economic and business development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
 

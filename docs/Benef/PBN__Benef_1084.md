@@ -2,14 +2,6 @@
 
 # __Efficient use of space__
 
-## Stakeholders benefitting from this Benefit
-
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-
-## Name of the Benefit
-
-Maximizes utilization of parking area, reduces need for additional expansion
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased efficiency in car parking development, potential for additional revenue from increased capacity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1211.md)
@@ -17,4 +9,12 @@ Maximizes utilization of parking area, reduces need for additional expansion
 ## Articles mentionning this Benefit
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Name of the Benefit
+
+Maximizes utilization of parking area, reduces need for additional expansion
+
+## Stakeholders benefitting from this Benefit
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 

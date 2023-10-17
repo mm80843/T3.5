@@ -2,13 +2,14 @@
 
 # __data collectors__
 
+## Risks that can be mitigated by this stakeholder
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
+
 ## This Stakeholder is identified by the following QID
 
 * [Q4929239](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4929239.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -20,8 +21,7 @@
 * [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
 * [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
+* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
 

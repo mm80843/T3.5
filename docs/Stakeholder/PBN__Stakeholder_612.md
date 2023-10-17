@@ -6,15 +6,15 @@
 
 * [Q674950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q674950.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Geographically Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_74.md)
+* [Lack of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Lack of Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
+* [Geographically Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_74.md)
 

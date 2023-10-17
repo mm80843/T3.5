@@ -2,17 +2,17 @@
 
 # __Sanitary Reform__
 
-## Property: has_MitigationPrinciple
-
-Develop water and sewage systems to fight pathogens and improve hygiene.
-
 ## Property: has_MitigationSource
 
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Develop water and sewage systems to fight pathogens and improve hygiene.
+
+## This Mitigation is enabled by the following technologies
 
 

@@ -2,10 +2,6 @@
 
 # __biometrics__
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-
 ## This Technology enables the following mitigations
 
 * [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
@@ -21,4 +17,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

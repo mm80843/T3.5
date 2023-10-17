@@ -2,15 +2,6 @@
 
 # __UVGI systems may not be a reliable method for preventing surgical site infections__
 
-## Mitigations of this risk
-
-* [Consider alternative infection control technologies, such as laminar airflow, before using UVGI systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2328.md)
-
-## People affected by this risk
-
-* [surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1172.md)
-* [operating room staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1173.md)
-
 ## Name of the risk
 
 Failure to effectively prevent surgical site infections
@@ -18,6 +9,14 @@ Failure to effectively prevent surgical site infections
 ## Description of the risk
 
 Limited evidence on the efficacy of UVGI in preventing surgical site infections
+
+## Mitigations of this risk
+
+* [Consider alternative infection control technologies, such as laminar airflow, before using UVGI systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2328.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,21 @@ Limited evidence on the efficacy of UVGI in preventing surgical site infections
 * [surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1172.md)
 * [operating room managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1174.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1172.md)
+* [operating room staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1173.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Limited evidence on the efficacy of UVGI in preventing surgical site infections
 ## Articles mentionning the risk
 
 * [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

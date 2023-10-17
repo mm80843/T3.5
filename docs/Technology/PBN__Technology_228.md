@@ -2,10 +2,6 @@
 
 # __antimicrobial surfaces__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## Risks linked to this technology
 
 * [Persistence of SARS-CoV-2 on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1141.md)
@@ -18,4 +14,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

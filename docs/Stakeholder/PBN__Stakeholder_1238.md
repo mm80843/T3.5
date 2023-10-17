@@ -6,15 +6,15 @@
 
 * [Q8236](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8236.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
+* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
+* [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
 

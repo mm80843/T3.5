@@ -2,17 +2,6 @@
 
 # __Early detection of infection__
 
-## Stakeholders benefitting from this Benefit
-
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
-
-## Name of the Benefit
-
-Wearables can detect changes in heart rate, respiration rate, and skin temperature that indicate early stages of fighting infection, allowing for early isolation and treatment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in staff respiratory testing can prevent outbreaks among healthcare staff, ensuring the continuity of medical services and reducing the costs associated with outbreak response.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_290.md)
@@ -23,4 +12,15 @@ Wearables can detect changes in heart rate, respiration rate, and skin temperatu
 
 * [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 * [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+
+## Name of the Benefit
+
+Wearables can detect changes in heart rate, respiration rate, and skin temperature that indicate early stages of fighting infection, allowing for early isolation and treatment.
+
+## Stakeholders benefitting from this Benefit
+
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
 

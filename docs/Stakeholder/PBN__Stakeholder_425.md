@@ -10,10 +10,10 @@
 * [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1412.md)
 * [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

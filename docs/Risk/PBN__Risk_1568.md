@@ -2,16 +2,6 @@
 
 # __Inadequate energy modeling for residential buildings__
 
-## Mitigations of this risk
-
-* [Improve energy modeling tools and methodologies to account for changes in occupancy behavior and energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2098.md)
-
-## People affected by this risk
-
-* [building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
-* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [energy modelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1011.md)
-
 ## Name of the risk
 
 Inefficient building designs and potential energy savings missed or overestimated.
@@ -19,6 +9,13 @@ Inefficient building designs and potential energy savings missed or overestimate
 ## Description of the risk
 
 Inaccurate energy modeling predictions for residential buildings due to changes in energy consumption behavior during the pandemic.
+
+## Mitigations of this risk
+
+* [Improve energy modeling tools and methodologies to account for changes in occupancy behavior and energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2098.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -29,12 +26,23 @@ Inaccurate energy modeling predictions for residential buildings due to changes 
 
 * [energy modeling software developers and research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1012.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
+
+## People affected by this risk
+
+* [building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [energy modelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1011.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Inaccurate energy modeling predictions for residential buildings due to changes 
 ## Articles mentionning the risk
 
 * [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
 

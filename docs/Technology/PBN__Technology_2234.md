@@ -2,11 +2,11 @@
 
 # __White noise machines__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

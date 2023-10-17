@@ -6,11 +6,11 @@
 
 * [Q11188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11188.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 

@@ -2,15 +2,6 @@
 
 # __Transmission through contaminated surfaces__
 
-## Mitigations of this risk
-
-* [Regular cleaning and disinfection of frequently touched surfaces, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1870.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals who frequent public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_884.md)
-
 ## Name of the risk
 
 High risk of infection for individuals who come into contact with contaminated surfaces.
@@ -18,6 +9,14 @@ High risk of infection for individuals who come into contact with contaminated s
 ## Description of the risk
 
 The virus can survive on surfaces such as plastic, metal, and glass, and can be transmitted when a person touches a contaminated surface and then touches their face.
+
+## Mitigations of this risk
+
+* [Regular cleaning and disinfection of frequently touched surfaces, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1870.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +28,6 @@ The virus can survive on surfaces such as plastic, metal, and glass, and can be 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -53,4 +36,21 @@ The virus can survive on surfaces such as plastic, metal, and glass, and can be 
 
 * [increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_586.md)
 * [touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals who frequent public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_884.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
 

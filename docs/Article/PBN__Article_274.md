@@ -2,35 +2,6 @@
 
 # __Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic__
 
-## Short summary of the article
-
-This research abstract summarizes the study's focus on the strategies developed by Sustainability Rating Systems (SRS) to minimize the transmission of infectious diseases, with a specific emphasis on the COVID-19 pandemic. The SRS examined in this study include WELL, Fitwel, and LEED, which have released evidence-based strategies in response to COVID-19. The aim of the study is to assess the strategies developed by these SRS and determine their level of sustainability. The study examines the degree of sustainability in terms of environmental, social, and economic factors for each strategy. The results show that strategies related to the built environment have a higher environmental and economic impact, while company policies are easier to implement. The study also highlights limitations of the SRS, including their weak sustainability approach and lack of analytical strategies addressing occupancy rates and physical distancing. Overall, this study provides a critical review of the strategies developed by SRS in response to the COVID-19 pandemic and assesses their level of sustainability. Supplementary materials with detailed strategies addressed by the SRS are provided.
-
-## Year of publication
-
-2021
-
-## Title of the article
-
-Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic
-
-## List of risks in an article
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
-* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
-* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
-* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
-* [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
-* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
-
-## DOI of the article
-
-10.3390/su132011164
-
 ## Benefits listed in this article
 
 * [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_533.md)
@@ -39,14 +10,9 @@ Resilient Built Environment: Critical Review of the Strategies Released by the S
 * [Maintaining Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1291.md)
 * [Enhanced Well-being and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1292.md)
 
-## This article points to following mitigation
+## Short summary of the article
 
-* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
-* [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
-* [Increased Ventilation Rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1223.md)
-* [Enhanced Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
-* [Enhanced Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1225.md)
+This research abstract summarizes the study's focus on the strategies developed by Sustainability Rating Systems (SRS) to minimize the transmission of infectious diseases, with a specific emphasis on the COVID-19 pandemic. The SRS examined in this study include WELL, Fitwel, and LEED, which have released evidence-based strategies in response to COVID-19. The aim of the study is to assess the strategies developed by these SRS and determine their level of sustainability. The study examines the degree of sustainability in terms of environmental, social, and economic factors for each strategy. The results show that strategies related to the built environment have a higher environmental and economic impact, while company policies are easier to implement. The study also highlights limitations of the SRS, including their weak sustainability approach and lack of analytical strategies addressing occupancy rates and physical distancing. Overall, this study provides a critical review of the strategies developed by SRS in response to the COVID-19 pandemic and assesses their level of sustainability. Supplementary materials with detailed strategies addressed by the SRS are provided.
 
 ## Summary of the article
 
@@ -61,4 +27,38 @@ In this text, we learn about different types of coronaviruses, including the one
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
 * [COVID-19 and Green Housing: A Review of Relevant Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_322.md)
+
+## List of risks in an article
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
+* [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
+* [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
+
+## This article points to following mitigation
+
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
+* [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
+* [Increased Ventilation Rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1223.md)
+* [Enhanced Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
+* [Enhanced Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1225.md)
+
+## Title of the article
+
+Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic
+
+## Year of publication
+
+2021
+
+## DOI of the article
+
+10.3390/su132011164
 

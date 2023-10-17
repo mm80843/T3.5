@@ -2,17 +2,17 @@
 
 # __Partial Isolation__
 
-## Property: has_MitigationPrinciple
-
-Implement a partial isolation policy, where a certain percentage of the population fulfills the isolation requirements while the remaining percentage does not.
-
 ## Property: has_MitigationSource
 
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Implement a partial isolation policy, where a certain percentage of the population fulfills the isolation requirements while the remaining percentage does not.
+
+## This Mitigation is enabled by the following technologies
 
 

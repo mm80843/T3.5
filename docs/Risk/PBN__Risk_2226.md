@@ -2,15 +2,6 @@
 
 # __Lack of business continuity planning__
 
-## Mitigations of this risk
-
-* [Develop and implement business continuity plans that identify potential risks and outline response strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2899.md)
-
-## People affected by this risk
-
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-* [critical infrastructure operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_273.md)
-
 ## Name of the risk
 
 Disruption of essential services and inability to recover quickly
@@ -18,6 +9,13 @@ Disruption of essential services and inability to recover quickly
 ## Description of the risk
 
 Lack of preparation and procedures to deal with unexpected events
+
+## Mitigations of this risk
+
+* [Develop and implement business continuity plans that identify potential risks and outline response strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2899.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -28,12 +26,22 @@ Lack of preparation and procedures to deal with unexpected events
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [critical infrastructure operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_273.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [business continuity management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1791.md)
+
+## People affected by this risk
+
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [critical infrastructure operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_273.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ Lack of preparation and procedures to deal with unexpected events
 ## Articles mentionning the risk
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [business continuity management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1791.md)
 

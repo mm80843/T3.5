@@ -2,13 +2,13 @@
 
 # __users of shared mobility services__
 
-## This Stakeholder is identified by the following QID
-
-* [Q16985745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16985745.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased safety and confidence in using shared mobility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1247.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q16985745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16985745.md)
 
 ## Risk affecting this stakeholder
 

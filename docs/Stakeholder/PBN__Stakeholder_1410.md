@@ -2,21 +2,21 @@
 
 # __building administrators__
 
+## Risks that can be mitigated by this stakeholder
+
+* [Unbalanced utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
+
 ## This Stakeholder is identified by the following QID
 
 * [Q16532929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16532929.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-* [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Unbalanced utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
 

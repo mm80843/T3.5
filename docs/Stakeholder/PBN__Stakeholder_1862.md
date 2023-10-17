@@ -7,11 +7,11 @@
 * [Q898207](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q898207.md)
 * [Q901](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q901.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
 

@@ -2,10 +2,6 @@
 
 # __education initiatives__
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## Risks linked to this technology
 
 * [Digital divide and information gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_751.md)
@@ -18,4 +14,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

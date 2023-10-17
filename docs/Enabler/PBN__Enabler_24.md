@@ -2,16 +2,16 @@
 
 # __Smart HVAC__
 
+## Property: has_BP_EnablerTitle
+
+enabler_025
+
 ## Property: has_TechEquivalent
 
 * [Smart HVAC](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4549.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
 * [Installing UV in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
 * [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_025
 

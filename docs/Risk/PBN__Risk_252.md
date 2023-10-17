@@ -2,6 +2,14 @@
 
 # __Airborne transmission__
 
+## Name of the risk
+
+Increased risk of infection and spread of disease
+
+## Description of the risk
+
+Contagious disease transmission through respiratory droplets in the air
+
 ## Mitigations of this risk
 
 * [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
@@ -54,25 +62,9 @@
 * [Isolation Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2090.md)
 * [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1201.md)
-* [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
-* [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
-
-## Name of the risk
-
-Increased risk of infection and spread of disease
-
-## Description of the risk
-
-Contagious disease transmission through respiratory droplets in the air
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -94,27 +86,6 @@ Contagious disease transmission through respiratory droplets in the air
 * [office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1289.md)
 * [facility ma](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1578.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
-* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
-* [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -131,4 +102,33 @@ Contagious disease transmission through respiratory droplets in the air
 * [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
 * [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
 * [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1201.md)
+* [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
+* [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
+* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+* [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 

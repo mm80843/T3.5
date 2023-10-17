@@ -6,15 +6,15 @@
 
 * [Q12713481](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12713481.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
+* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
+* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
 

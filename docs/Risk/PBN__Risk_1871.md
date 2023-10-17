@@ -2,14 +2,6 @@
 
 # __Exposure to the virus__
 
-## Mitigations of this risk
-
-* [Implement strict hygiene protocols, provide Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2461.md)
-
-## People affected by this risk
-
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-
 ## Name of the risk
 
 Increased risk of contracting and spreading the virus.
@@ -17,6 +9,14 @@ Increased risk of contracting and spreading the virus.
 ## Description of the risk
 
 Workers are at risk of being exposed to the COVID-19 virus in the workplace.
+
+## Mitigations of this risk
+
+* [Implement strict hygiene protocols, provide Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2461.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -26,13 +26,21 @@ Workers are at risk of being exposed to the COVID-19 virus in the workplace.
 
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1240.md)
+
+## People affected by this risk
+
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -41,12 +49,4 @@ Workers are at risk of being exposed to the COVID-19 virus in the workplace.
 ## Articles mentionning the risk
 
 * [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1240.md)
 

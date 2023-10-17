@@ -2,10 +2,6 @@
 
 # __virtual fitness classes__
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## Risks linked to this technology
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

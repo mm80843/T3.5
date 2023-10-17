@@ -2,24 +2,6 @@
 
 # __Reduction in transmission__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
-* [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
-* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
-* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
-* [passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_499.md)
-
-## Name of the Benefit
-
-Reducing physical contact and maintaining distance helps prevent the spread of the virus, protecting the health of workers and passengers
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from improved asset value and reputation of the institution, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_274.md)
@@ -47,4 +29,22 @@ Reducing physical contact and maintaining distance helps prevent the spread of t
 * [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
 * [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
 * [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+
+## Name of the Benefit
+
+Reducing physical contact and maintaining distance helps prevent the spread of the virus, protecting the health of workers and passengers
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+* [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
+* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
+* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+* [passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_499.md)
 

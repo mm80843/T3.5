@@ -2,14 +2,6 @@
 
 # __Regulatory compliance__
 
-## Stakeholders benefitting from this Benefit
-
-* [organisations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_298.md)
-
-## Name of the Benefit
-
-Ensures adherence to changing regulations and guidelines
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Mitigates potential legal and financial penalties](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_770.md)
@@ -17,4 +9,12 @@ Ensures adherence to changing regulations and guidelines
 ## Articles mentionning this Benefit
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## Name of the Benefit
+
+Ensures adherence to changing regulations and guidelines
+
+## Stakeholders benefitting from this Benefit
+
+* [organisations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_298.md)
 

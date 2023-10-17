@@ -2,11 +2,6 @@
 
 # __telemedicine__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
 ## This Technology enables the following mitigations
 
 * [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
@@ -49,4 +44,9 @@
 
 * [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
 * [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

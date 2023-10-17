@@ -2,17 +2,6 @@
 
 # __Lack of consensus on interoperability standards__
 
-## Mitigations of this risk
-
-* [Meta-harmonization of data standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1118.md)
-* [Meta-harmonization of common data standards, standardized processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2820.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
-* [it professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_628.md)
-
 ## Name of the risk
 
 Heterogeneity in data sources, lack of robust data sharing infrastructures
@@ -20,6 +9,15 @@ Heterogeneity in data sources, lack of robust data sharing infrastructures
 ## Description of the risk
 
 Different community-developed standards for health data create challenges in data integration and use
+
+## Mitigations of this risk
+
+* [Meta-harmonization of data standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1118.md)
+* [Meta-harmonization of common data standards, standardized processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2820.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -30,13 +28,22 @@ Different community-developed standards for health data create challenges in dat
 * [institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_891.md)
 * [organizations developing data standards](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1466.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [it professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_628.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -45,11 +52,4 @@ Different community-developed standards for health data create challenges in dat
 ## Articles mentionning the risk
 
 * [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

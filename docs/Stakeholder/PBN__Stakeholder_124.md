@@ -10,17 +10,6 @@
 * [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_684.md)
 * [Disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_915.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Risk affecting this stakeholder
-
-* [Delayed drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_430.md)
@@ -36,4 +25,15 @@
 * [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2109.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
 * [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Risk affecting this stakeholder
+
+* [Delayed drug development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

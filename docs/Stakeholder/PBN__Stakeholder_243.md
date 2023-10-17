@@ -2,13 +2,13 @@
 
 # __restaurants__
 
-## This Stakeholder is identified by the following QID
-
-* [Q11707](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11707.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Identification of impacted businesses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_566.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q11707](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11707.md)
 
 ## Risk affecting this stakeholder
 

@@ -6,10 +6,10 @@
 
 * [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

@@ -2,17 +2,17 @@
 
 # __Simplified procedures for essential activities__
 
-## Property: has_MitigationPrinciple
-
-Governments can implement simplified procedures and permits for essential activities to enable easier and faster production during disruptions.
-
 ## Property: has_MitigationSource
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Governments can implement simplified procedures and permits for essential activities to enable easier and faster production during disruptions.
+
+## This Mitigation is enabled by the following technologies
 
 

@@ -2,15 +2,6 @@
 
 # __Pervasive anxiety__
 
-## Mitigations of this risk
-
-* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2687.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Anxiety, insomnia, fatigue, reduced performance, and impaired decision-making.
@@ -18,6 +9,14 @@ Anxiety, insomnia, fatigue, reduced performance, and impaired decision-making.
 ## Description of the risk
 
 Social isolation and uncertainty during a pandemic can lead to abnormally increased anxiety.
+
+## Mitigations of this risk
+
+* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2687.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -27,22 +26,6 @@ Social isolation and uncertainty during a pandemic can lead to abnormally increa
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
 
 ## Property: has_RiskGBN
 
@@ -54,4 +37,21 @@ Social isolation and uncertainty during a pandemic can lead to abnormally increa
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
 * [helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1190.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
 

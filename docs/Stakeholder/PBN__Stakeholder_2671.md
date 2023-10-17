@@ -6,11 +6,11 @@
 
 * [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
 

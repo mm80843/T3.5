@@ -2,10 +2,6 @@
 
 # __environment__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_364.md)
@@ -18,8 +14,9 @@
 * [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
 * [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -28,4 +25,7 @@
 ## Risk affecting this stakeholder
 
 * [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

@@ -2,13 +2,16 @@
 
 # __Interoperable biomedical ontology__
 
-## Property: has_MitigationPrinciple
-
-Enable data sharing and formal reasoning for biomedical data and research
-
 ## Property: has_MitigationSource
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Enable data sharing and formal reasoning for biomedical data and research
 
 ## This Mitigation is enabled by the following technologies
 
@@ -16,7 +19,4 @@ Enable data sharing and formal reasoning for biomedical data and research
 * [obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
 * [dl-based formalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3979.md)
 * [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

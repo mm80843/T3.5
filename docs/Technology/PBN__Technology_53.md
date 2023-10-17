@@ -2,10 +2,6 @@
 
 # __financial incentives__
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology enables the following mitigations
 
 * [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1987.md)
@@ -24,4 +20,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Contract and Financial Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_176.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

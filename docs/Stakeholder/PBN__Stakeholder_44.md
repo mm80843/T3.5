@@ -2,11 +2,11 @@
 
 # __at-risk populations__
 
-## Risk affecting this stakeholder
-
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased social support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_55.md)
+
+## Risk affecting this stakeholder
+
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
 

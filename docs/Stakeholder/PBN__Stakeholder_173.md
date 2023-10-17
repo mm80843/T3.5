@@ -2,18 +2,9 @@
 
 # __public health organizations__
 
-## This Stakeholder is identified by the following QID
-
-* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -45,4 +36,13 @@
 * [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
 * [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
 * [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q30297045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30297045.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
 

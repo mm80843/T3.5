@@ -2,11 +2,11 @@
 
 # __Prevent fake news__
 
-## Property: has_BP_InterventionKey
-
-MI1
-
 ## Property: has_BP_InterventionTitle
 
 Prevent fake news
+
+## Property: has_BP_InterventionKey
+
+MI1
 

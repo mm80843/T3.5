@@ -2,6 +2,14 @@
 
 # __Poor air quality__
 
+## Name of the risk
+
+Negative health effects, decreased productivity
+
+## Description of the risk
+
+High levels of CO2, VOCs, and other pollutants in the air
+
 ## Mitigations of this risk
 
 * [IEQ monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1133.md)
@@ -11,18 +19,9 @@
 * [Ventilation System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1732.md)
 * [High-Efficiency Particulate Air (HEPA) Filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1733.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Name of the risk
-
-Negative health effects, decreased productivity
-
-## Description of the risk
-
-High levels of CO2, VOCs, and other pollutants in the air
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -33,22 +32,6 @@ High levels of CO2, VOCs, and other pollutants in the air
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Articles mentionning the risk
-
-* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -57,4 +40,21 @@ High levels of CO2, VOCs, and other pollutants in the air
 
 * [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+
+## People affected by this risk
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Articles mentionning the risk
+
+* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
 

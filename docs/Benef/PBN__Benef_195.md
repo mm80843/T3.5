@@ -2,17 +2,6 @@
 
 # __Reduced COVID-19 transmission__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
-* [people of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_111.md)
-
-## Name of the Benefit
-
-Screening workers' health before employment and periodically reduces the probability of infected workers entering the offshore workplace
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in rental properties would benefit from reduced vacancies, improved tenant health and reduced liability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_199.md)
@@ -22,4 +11,15 @@ Screening workers' health before employment and periodically reduces the probabi
 
 * [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 * [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## Name of the Benefit
+
+Screening workers' health before employment and periodically reduces the probability of infected workers entering the offshore workplace
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
+* [people of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_111.md)
 

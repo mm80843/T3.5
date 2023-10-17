@@ -2,15 +2,6 @@
 
 # __Effect of RH on UV susceptibility__
 
-## Mitigations of this risk
-
-* [Research on relationship between RH and UV susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2989.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Increase in UV resistance of airborne microorganisms
@@ -18,6 +9,14 @@ Increase in UV resistance of airborne microorganisms
 ## Description of the risk
 
 Unknown effect of relative humidity on UV inactivation rate
+
+## Mitigations of this risk
+
+* [Research on relationship between RH and UV susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2989.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,22 @@ Unknown effect of relative humidity on UV inactivation rate
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Unknown effect of relative humidity on UV inactivation rate
 ## Articles mentionning the risk
 
 * [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
 

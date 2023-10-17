@@ -2,18 +2,6 @@
 
 # __Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics__
 
-## Year of publication
-
-2021
-
-## Title of the article
-
-Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics
-
-## DOI of the article
-
-10.3390/su13020460
-
 ## Referenced by other articles
 
 * [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
@@ -35,4 +23,16 @@ Readiness Assessment of Green Building Certification Systems for Residential Bui
 * [Effects of temperature and humidity on the spread of COVID-19: A systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 * [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
 * [Gardening is beneficial for health: A meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_338.md)
+
+## Title of the article
+
+Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics
+
+## Year of publication
+
+2021
+
+## DOI of the article
+
+10.3390/su13020460
 

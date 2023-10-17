@@ -2,14 +2,6 @@
 
 # __Increased reliance on technology__
 
-## Mitigations of this risk
-
-* [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2586.md)
-
-## People affected by this risk
-
-* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
-
 ## Name of the risk
 
 Potential loss of sensitive data, decreased efficiency and productivity, and increased vulnerability to cyberattacks.
@@ -17,6 +9,14 @@ Potential loss of sensitive data, decreased efficiency and productivity, and inc
 ## Description of the risk
 
 Dependence on technology for telework may lead to technical issues, cyber security breaches, and productivity disruptions.
+
+## Mitigations of this risk
+
+* [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2586.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,21 @@ Dependence on technology for telework may lead to technical issues, cyber securi
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [it support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1325.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ Dependence on technology for telework may lead to technical issues, cyber securi
 ## Articles mentionning the risk
 
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

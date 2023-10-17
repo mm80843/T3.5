@@ -2,20 +2,6 @@
 
 # __Reduced risk of virus transmission__
 
-## Stakeholders benefitting from this Benefit
-
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
-* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
-
-## Name of the Benefit
-
-Autonomous robots can disinfect surfaces, reducing the risk of virus transmission and protecting the healthcare staff and patients.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Occupants are protected from the spread of infectious diseases, ensuring a safer and healthier environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_181.md)
@@ -32,4 +18,18 @@ Autonomous robots can disinfect surfaces, reducing the risk of virus transmissio
 * [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 * [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+
+## Name of the Benefit
+
+Autonomous robots can disinfect surfaces, reducing the risk of virus transmission and protecting the healthcare staff and patients.
+
+## Stakeholders benefitting from this Benefit
+
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
 

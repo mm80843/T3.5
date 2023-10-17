@@ -6,14 +6,14 @@
 
 * [Q12301128](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12301128.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Poor Housing Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
 

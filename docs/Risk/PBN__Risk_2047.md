@@ -2,16 +2,6 @@
 
 # __Inadequate ventilation and airflow management__
 
-## Mitigations of this risk
-
-* [Implementing HVAC system upgrades, increasing ventilation rates, and using air filtration and purification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2678.md)
-
-## People affected by this risk
-
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
 ## Name of the risk
 
 Poor indoor air quality, increased risk of infection, and potential for outbreaks in enclosed spaces.
@@ -19,6 +9,14 @@ Poor indoor air quality, increased risk of infection, and potential for outbreak
 ## Description of the risk
 
 Insufficient ventilation and airflow management in buildings, leading to poor indoor air quality and increased risk of COVID-19 transmission.
+
+## Mitigations of this risk
+
+* [Implementing HVAC system upgrades, increasing ventilation rates, and using air filtration and purification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2678.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -30,22 +28,6 @@ Insufficient ventilation and airflow management in buildings, leading to poor in
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [hvac technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Articles mentionning the risk
-
-* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -55,4 +37,22 @@ Insufficient ventilation and airflow management in buildings, leading to poor in
 * [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
 * [improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1526.md)
 * [smart controls for ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1527.md)
+
+## People affected by this risk
+
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Articles mentionning the risk
+
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 

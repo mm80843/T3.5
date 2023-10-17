@@ -2,16 +2,6 @@
 
 # __Increased recognition of UGS importance__
 
-## Stakeholders benefitting from this Benefit
-
-* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-
-## Name of the Benefit
-
-By raising awareness about the importance of UGS in the urban landscape, cities can foster a collective recognition and appreciation of these spaces, leading to better conservation efforts and the inclusion of UGS in public policies.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in initiatives that raise awareness about the importance of UGS can benefit from a positive perception of their properties, as they contribute to the overall well-being and sustainability of the neighborhood, potentially leading to increased demand and asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1065.md)
@@ -19,4 +9,14 @@ By raising awareness about the importance of UGS in the urban landscape, cities 
 ## Articles mentionning this Benefit
 
 * [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
+
+## Name of the Benefit
+
+By raising awareness about the importance of UGS in the urban landscape, cities can foster a collective recognition and appreciation of these spaces, leading to better conservation efforts and the inclusion of UGS in public policies.
+
+## Stakeholders benefitting from this Benefit
+
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 

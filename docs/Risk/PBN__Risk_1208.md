@@ -2,14 +2,6 @@
 
 # __General anxiety__
 
-## Mitigations of this risk
-
-* [Develop strategies to address general travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1660.md)
-
-## People affected by this risk
-
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
-
 ## Name of the risk
 
 Alters vacation plans, reduces length of vacations
@@ -17,6 +9,14 @@ Alters vacation plans, reduces length of vacations
 ## Description of the risk
 
 General anxiety unrelated to COVID-19
+
+## Mitigations of this risk
+
+* [Develop strategies to address general travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1660.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +28,20 @@ General anxiety unrelated to COVID-19
 * [destination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_723.md)
 * [tourism providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ General anxiety unrelated to COVID-19
 ## Articles mentionning the risk
 
 * [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

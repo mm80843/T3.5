@@ -2,10 +2,6 @@
 
 # __simulation__
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## This Technology enables the following mitigations
 
 * [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
@@ -21,4 +17,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

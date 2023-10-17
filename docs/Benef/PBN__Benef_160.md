@@ -2,15 +2,6 @@
 
 # __Efficient management of Covid-19 crisis__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-
-## Name of the Benefit
-
-Enables telemedicine services, prediction of outbreak, surveillance, and control of the virus
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Effective response to the pandemic, reduced transmission, and improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_162.md)
@@ -18,4 +9,13 @@ Enables telemedicine services, prediction of outbreak, surveillance, and control
 ## Articles mentionning this Benefit
 
 * [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+
+## Name of the Benefit
+
+Enables telemedicine services, prediction of outbreak, surveillance, and control of the virus
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 

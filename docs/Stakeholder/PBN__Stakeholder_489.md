@@ -2,10 +2,6 @@
 
 # __immigrants__
 
-## This Stakeholder is identified by the following QID
-
-* [Q4200293](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200293.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Early detection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_181.md)
@@ -15,9 +11,9 @@
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
 * [Increased skill levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1351.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
+* [Q4200293](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4200293.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -30,4 +26,8 @@
 * [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
 * [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
 * [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
 

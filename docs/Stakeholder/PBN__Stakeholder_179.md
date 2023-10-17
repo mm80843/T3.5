@@ -22,9 +22,13 @@
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
 * [Contractual stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1013.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
+* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
+* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
+* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -54,11 +58,7 @@
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
-* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
-* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
-* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

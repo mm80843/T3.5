@@ -2,15 +2,6 @@
 
 # __Inadequate hygiene practices__
 
-## Mitigations of this risk
-
-* [Promote and enforce proper hygiene practices, provide access to handwashing facilities and hygiene products, conduct regular cleaning and disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1778.md)
-
-## People affected by this risk
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [particularly those who do not practice good hygiene or live in unsanitary conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_815.md)
-
 ## Name of the risk
 
 Increased risk of disease transmission and decreased overall health and well-being for occupants.
@@ -18,6 +9,14 @@ Increased risk of disease transmission and decreased overall health and well-bei
 ## Description of the risk
 
 Poor hygiene practices, such as lack of handwashing or improper cleaning, can contribute to the spread of contagious diseases.
+
+## Mitigations of this risk
+
+* [Promote and enforce proper hygiene practices, provide access to handwashing facilities and hygiene products, conduct regular cleaning and disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1778.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -30,22 +29,6 @@ Poor hygiene practices, such as lack of handwashing or improper cleaning, can co
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -56,4 +39,21 @@ Poor hygiene practices, such as lack of handwashing or improper cleaning, can co
 * [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 * [hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_436.md)
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [particularly those who do not practice good hygiene or live in unsanitary conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_815.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
 

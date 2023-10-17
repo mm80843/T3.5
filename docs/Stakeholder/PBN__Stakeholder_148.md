@@ -2,13 +2,13 @@
 
 # __civil society__
 
-## This Stakeholder is identified by the following QID
-
-* [Q181865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181865.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_294.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q181865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181865.md)
 
 ## Risks that can be mitigated by this stakeholder
 

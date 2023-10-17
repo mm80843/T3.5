@@ -2,11 +2,11 @@
 
 # __Improve physical health__
 
-## Property: has_BP_InterventionKey
-
-HM4
-
 ## Property: has_BP_InterventionTitle
 
 Improve physical health
+
+## Property: has_BP_InterventionKey
+
+HM4
 

@@ -2,10 +2,6 @@
 
 # __biophilic design strategies__
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## Risks linked to this technology
 
 * [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_104.md)
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

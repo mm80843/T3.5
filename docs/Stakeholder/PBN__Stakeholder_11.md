@@ -2,27 +2,9 @@
 
 # __building designers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_16.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Risk affecting this stakeholder
-
-* [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
-* [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
-* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1833.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -34,4 +16,22 @@
 * [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
 * [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 * [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q323611](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q323611.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Risk affecting this stakeholder
+
+* [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
+* [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
+* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1833.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

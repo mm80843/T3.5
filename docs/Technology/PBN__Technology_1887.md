@@ -2,10 +2,6 @@
 
 # __online mental health resources__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Risks linked to this technology
 
 * [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
@@ -18,4 +14,8 @@
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
 * [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

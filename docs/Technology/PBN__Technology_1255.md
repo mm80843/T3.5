@@ -2,10 +2,6 @@
 
 # __personal comfort devices__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## Risks linked to this technology
 
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
@@ -16,4 +12,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

@@ -2,13 +2,13 @@
 
 # __people of color__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2072081](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072081.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_195.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2072081](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072081.md)
 
 ## Risk affecting this stakeholder
 

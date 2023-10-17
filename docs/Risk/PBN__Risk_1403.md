@@ -2,14 +2,6 @@
 
 # __Misunderstanding of the permanence of climate change__
 
-## Mitigations of this risk
-
-* [Highlight the permanent nature of climate change and the need for permanent transformations in various aspects of society.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1908.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 People may not understand the long-term and irreversible nature of climate change, leading to a lack of urgency in addressing it.
@@ -17,6 +9,14 @@ People may not understand the long-term and irreversible nature of climate chang
 ## Description of the risk
 
 Lockdown measures during the pandemic are temporary, leading to greater acceptance. Climate change, however, is a permanent transformation that requires permanent solutions.
+
+## Mitigations of this risk
+
+* [Highlight the permanent nature of climate change and the need for permanent transformations in various aspects of society.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1908.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,20 @@ Lockdown measures during the pandemic are temporary, leading to greater acceptan
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [climate change communicators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_909.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,11 +49,4 @@ Lockdown measures during the pandemic are temporary, leading to greater acceptan
 ## Articles mentionning the risk
 
 * [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

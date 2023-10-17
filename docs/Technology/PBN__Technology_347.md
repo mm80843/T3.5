@@ -2,11 +2,6 @@
 
 # __secure server networks__
 
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## Risks linked to this technology
 
 * [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
@@ -19,4 +14,9 @@
 
 * [Data Anonymization and Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_137.md)
 * [Data Storage and Backup Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_138.md)
+
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

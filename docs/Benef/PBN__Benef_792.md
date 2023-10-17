@@ -2,14 +2,6 @@
 
 # __Market responsiveness__
 
-## Stakeholders benefitting from this Benefit
-
-* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
-
-## Name of the Benefit
-
-Identifying and addressing new customer needs
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased customer satisfaction and market share](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_860.md)
@@ -17,4 +9,12 @@ Identifying and addressing new customer needs
 ## Articles mentionning this Benefit
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## Name of the Benefit
+
+Identifying and addressing new customer needs
+
+## Stakeholders benefitting from this Benefit
+
+* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
 

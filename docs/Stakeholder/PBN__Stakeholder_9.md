@@ -2,10 +2,6 @@
 
 # __general population__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
@@ -133,9 +129,9 @@
 * [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
 * [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1405.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -469,4 +465,8 @@
 * [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
 * [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
 * [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 

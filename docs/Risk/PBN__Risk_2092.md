@@ -2,14 +2,6 @@
 
 # __Inefficient pain management__
 
-## Mitigations of this risk
-
-* [Use virtual reality for pain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2741.md)
-
-## People affected by this risk
-
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
 ## Name of the risk
 
 Prolonged recovery time
@@ -17,6 +9,14 @@ Prolonged recovery time
 ## Description of the risk
 
 Difficulty managing pain and physical therapy
+
+## Mitigations of this risk
+
+* [Use virtual reality for pain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2741.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -26,13 +26,21 @@ Difficulty managing pain and physical therapy
 
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+
+## People affected by this risk
+
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -41,12 +49,4 @@ Difficulty managing pain and physical therapy
 ## Articles mentionning the risk
 
 * [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 

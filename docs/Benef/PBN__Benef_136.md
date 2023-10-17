@@ -2,15 +2,6 @@
 
 # __Elimination of unknown parameters__
 
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-
-## Name of the Benefit
-
-Identifies model parameters using AnyLogic simulation
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improves accuracy and validity of people flow models, resulting in more accurate occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_135.md)
@@ -18,4 +9,13 @@ Identifies model parameters using AnyLogic simulation
 ## Articles mentionning this Benefit
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## Name of the Benefit
+
+Identifies model parameters using AnyLogic simulation
+
+## Stakeholders benefitting from this Benefit
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 

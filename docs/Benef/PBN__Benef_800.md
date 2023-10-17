@@ -2,14 +2,6 @@
 
 # __Improved building performance__
 
-## Stakeholders benefitting from this Benefit
-
-* [building owners or portfolio managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_324.md)
-
-## Name of the Benefit
-
-Real-time IEQ data allows for timely identification and resolution of issues, leading to improved building performance and tenant satisfaction
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the SAMBA system improves building performance, thereby enhancing property value and attracting more tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_869.md)
@@ -17,4 +9,12 @@ Real-time IEQ data allows for timely identification and resolution of issues, le
 ## Articles mentionning this Benefit
 
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+
+## Name of the Benefit
+
+Real-time IEQ data allows for timely identification and resolution of issues, leading to improved building performance and tenant satisfaction
+
+## Stakeholders benefitting from this Benefit
+
+* [building owners or portfolio managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_324.md)
 

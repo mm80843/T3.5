@@ -2,19 +2,19 @@
 
 # __Monitoring Air Quality__
 
-## Property: has_MitigationPrinciple
-
-Tracking and analyzing air quality indicators to assess the impact of reduced traffic on air pollution
-
 ## Property: has_MitigationSource
 
 * [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Tracking and analyzing air quality indicators to assess the impact of reduced traffic on air pollution
 
 ## This Mitigation is enabled by the following technologies
 
 * [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

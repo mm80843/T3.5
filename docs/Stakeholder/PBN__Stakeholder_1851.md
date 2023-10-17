@@ -6,11 +6,11 @@
 
 * [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Telepsychiatry Platforms](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_46.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Telepsychiatry Platforms](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_46.md)
 

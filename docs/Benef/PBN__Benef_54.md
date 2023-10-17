@@ -2,14 +2,6 @@
 
 # __Reduction of anxiety__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Name of the Benefit
-
-Clear information and guidelines can reduce anxiety and provide reassurance
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental well-being and reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_54.md)
@@ -17,4 +9,12 @@ Clear information and guidelines can reduce anxiety and provide reassurance
 ## Articles mentionning this Benefit
 
 * [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+
+## Name of the Benefit
+
+Clear information and guidelines can reduce anxiety and provide reassurance
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

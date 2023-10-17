@@ -2,11 +2,15 @@
 
 # __5G__
 
+## Property: has_BP_EnablerTitle
+
+enabler_001
+
 ## Property: has_TechEquivalent
 
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
 * [Smart Locker System](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
 * [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
@@ -20,8 +24,4 @@
 * [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_001
 

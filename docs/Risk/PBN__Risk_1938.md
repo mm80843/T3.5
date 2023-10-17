@@ -2,14 +2,6 @@
 
 # __Differential impact of measures__
 
-## Mitigations of this risk
-
-* [Develop and implement policies that address the specific needs of deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2542.md)
-
-## People affected by this risk
-
-* [individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
-
 ## Name of the risk
 
 Unequal effect on controlling the virus and exacerbating disparities.
@@ -17,6 +9,14 @@ Unequal effect on controlling the virus and exacerbating disparities.
 ## Description of the risk
 
 COVID-19 response measures have differential impact on socially deprived and affluent areas.
+
+## Mitigations of this risk
+
+* [Develop and implement policies that address the specific needs of deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2542.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,22 +27,6 @@ COVID-19 response measures have differential impact on socially deprived and aff
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -51,4 +35,20 @@ COVID-19 response measures have differential impact on socially deprived and aff
 
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 * [tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1341.md)
+
+## People affected by this risk
+
+* [individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [COVID-19 and social inequalities: a complex and dynamic interaction](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 

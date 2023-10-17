@@ -2,15 +2,6 @@
 
 # __Prevention of vertical transmission__
 
-## Stakeholders benefitting from this Benefit
-
-* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
-* [newborns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_433.md)
-
-## Name of the Benefit
-
-Prevents transmission from mother to child
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved safety and reduced risk for newborns](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1216.md)
@@ -18,4 +9,13 @@ Prevents transmission from mother to child
 ## Articles mentionning this Benefit
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+
+## Name of the Benefit
+
+Prevents transmission from mother to child
+
+## Stakeholders benefitting from this Benefit
+
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [newborns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_433.md)
 

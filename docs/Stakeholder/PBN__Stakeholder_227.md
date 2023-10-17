@@ -2,10 +2,6 @@
 
 # __decision-makers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1331926](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1331926.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_538.md)
@@ -16,6 +12,10 @@
 * [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_546.md)
 * [Broadening search for relevant evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_547.md)
 * [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1331926](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1331926.md)
 
 ## Risk affecting this stakeholder
 

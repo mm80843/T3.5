@@ -1,6 +1,6 @@
 # Overview
 
-* _[Qid](https://github.com/mm80843/T3.5/blob/main/docs/Qid/index.md)_ -- 4714 instances.
+* _[Qid](https://github.com/mm80843/T3.5/blob/main/docs/Qid/index.md)_ -- 3636 instances.
 * _[Benef](https://github.com/mm80843/T3.5/blob/main/docs/Benef/index.md)_ -- 1415 instances.
 * _[BenefReturn](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/index.md)_ -- 1606 instances.
 * _[Article](https://github.com/mm80843/T3.5/blob/main/docs/Article/index.md)_ -- 376 instances.
@@ -16,7 +16,7 @@
 * _[StakeholderSubgroup](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/index.md)_ -- 169 instances.
 * _[TechGroup](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/index.md)_ -- 210 instances.
 * _[TechSubgroup](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/index.md)_ -- 191 instances.
-* _[Enabler](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/index.md)_ -- 43 instances.
+* _[Enabler](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/index.md)_ -- 35 instances.
 * _[Intervention](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/index.md)_ -- 34 instances.
 * _[Blueprint](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/index.md)_ -- 24 instances.
 * _[BP_Category](https://github.com/mm80843/T3.5/blob/main/docs/BP_Category/index.md)_ -- 6 instances.

@@ -2,16 +2,6 @@
 
 # __Identification of source and sink areas__
 
-## Stakeholders benefitting from this Benefit
-
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
-* [affected communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_183.md)
-
-## Name of the Benefit
-
-Target interventions and prevent transmission spread
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Effective deployment of resources and reduction in malaria cases](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_414.md)
@@ -19,4 +9,14 @@ Target interventions and prevent transmission spread
 ## Articles mentionning this Benefit
 
 * [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+
+## Name of the Benefit
+
+Target interventions and prevent transmission spread
+
+## Stakeholders benefitting from this Benefit
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+* [affected communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_183.md)
 

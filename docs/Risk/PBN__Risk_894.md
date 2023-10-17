@@ -2,6 +2,14 @@
 
 # __Climate change__
 
+## Name of the risk
+
+Increases environmental degradation, drives more extreme weather events and health risks.
+
+## Description of the risk
+
+Climate change impacts exacerbated by the pandemic, lack of progress in reducing emissions.
+
 ## Mitigations of this risk
 
 * [Focus on immediate consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1234.md)
@@ -10,18 +18,9 @@
 * [Strengthen climate action, reduce greenhouse gas emissions, promote sustainable practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2669.md)
 * [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
-
-## Name of the risk
-
-Increases environmental degradation, drives more extreme weather events and health risks.
-
-## Description of the risk
-
-Climate change impacts exacerbated by the pandemic, lack of progress in reducing emissions.
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -32,22 +31,6 @@ Climate change impacts exacerbated by the pandemic, lack of progress in reducing
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [environmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1193.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -57,4 +40,21 @@ Climate change impacts exacerbated by the pandemic, lack of progress in reducing
 * [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
 * [sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
 * [climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

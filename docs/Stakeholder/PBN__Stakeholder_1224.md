@@ -2,14 +2,14 @@
 
 # __gamers__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 

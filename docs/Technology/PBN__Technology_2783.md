@@ -2,11 +2,11 @@
 
 # __Pharmaceutical companies__
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Vaccines and Therapies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_100.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

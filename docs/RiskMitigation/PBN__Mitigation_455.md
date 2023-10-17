@@ -2,19 +2,19 @@
 
 # __Rowing ergometers__
 
-## Property: has_MitigationPrinciple
-
-Engaging in rowing exercises to increase aerobic fitness and improve mental health.
-
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Engaging in rowing exercises to increase aerobic fitness and improve mental health.
 
 ## This Mitigation is enabled by the following technologies
 
 * [heart rate monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
 * [rowing machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3244.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

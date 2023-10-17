@@ -2,14 +2,6 @@
 
 # __Lack of hand hygiene__
 
-## Mitigations of this risk
-
-* [Education on proper handwashing techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2004.md)
-
-## People affected by this risk
-
-* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
-
 ## Name of the risk
 
 Increased risk of spreading diseases
@@ -17,6 +9,14 @@ Increased risk of spreading diseases
 ## Description of the risk
 
 Failure to properly clean hands
+
+## Mitigations of this risk
+
+* [Education on proper handwashing techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2004.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -26,13 +26,21 @@ Failure to properly clean hands
 
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [sensor-activated faucets and soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_751.md)
+
+## People affected by this risk
+
+* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -41,12 +49,4 @@ Failure to properly clean hands
 ## Articles mentionning the risk
 
 * [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [sensor-activated faucets and soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_751.md)
 

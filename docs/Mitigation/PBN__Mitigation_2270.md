@@ -2,17 +2,17 @@
 
 # __Perceived clarity__
 
-## Property: has_MitigationPrinciple
-
-Compliance is affected by the perceived clarity of the measures.
-
 ## Property: has_MitigationSource
 
 * [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Compliance is affected by the perceived clarity of the measures.
+
+## This Mitigation is enabled by the following technologies
 
 

@@ -2,14 +2,6 @@
 
 # __Lower COVID-19 mortality__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Name of the Benefit
-
-Access to shops and services promotes physical activity and reduces obesity, which is associated with lower COVID-19 mortality rates.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in increasing tree canopy can lead to lower COVID-19 mortality rates, improving community health and resilience.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_940.md)
@@ -20,4 +12,12 @@ Access to shops and services promotes physical activity and reduces obesity, whi
 ## Articles mentionning this Benefit
 
 * [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+
+## Name of the Benefit
+
+Access to shops and services promotes physical activity and reduces obesity, which is associated with lower COVID-19 mortality rates.
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

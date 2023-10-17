@@ -2,10 +2,6 @@
 
 # __Contactless fare payment systems__
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology is identified by the following QID
 
 * [Q625903](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q625903.md)
@@ -13,4 +9,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
+
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

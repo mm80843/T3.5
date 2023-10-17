@@ -2,10 +2,6 @@
 
 # __citizens__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1393123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1393123.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_70.md)
@@ -27,9 +23,9 @@
 * [Protection of civil rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1201.md)
 * [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1203.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+* [Q1393123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1393123.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -45,4 +41,8 @@
 * [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
 * [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
 * [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 

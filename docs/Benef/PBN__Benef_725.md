@@ -2,14 +2,6 @@
 
 # __Reinforcement of information to the population__
 
-## Stakeholders benefitting from this Benefit
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
-## Name of the Benefit
-
-Data sharing through digital tools and communication platforms improve public awareness
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improve public compliance and adherence to health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_779.md)
@@ -17,4 +9,12 @@ Data sharing through digital tools and communication platforms improve public aw
 ## Articles mentionning this Benefit
 
 * [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## Name of the Benefit
+
+Data sharing through digital tools and communication platforms improve public awareness
+
+## Stakeholders benefitting from this Benefit
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 

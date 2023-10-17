@@ -2,16 +2,6 @@
 
 # __Contamination of fomites in the built environment__
 
-## Mitigations of this risk
-
-* [Regular cleaning and disinfection of high-touch surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1822.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
 ## Name of the risk
 
 Increase in risk of transmission through contact with contaminated surfaces.
@@ -19,6 +9,14 @@ Increase in risk of transmission through contact with contaminated surfaces.
 ## Description of the risk
 
 Viral particles can settle onto abiotic objects in the built environment and serve as reservoirs for viral transmission.
+
+## Mitigations of this risk
+
+* [Regular cleaning and disinfection of high-touch surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1822.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -31,13 +29,23 @@ Viral particles can settle onto abiotic objects in the built environment and ser
 * [facilities management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_658.md)
 * [janitorial staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_848.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [use of bleach solutions or alcohol-based cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_500.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -46,12 +54,4 @@ Viral particles can settle onto abiotic objects in the built environment and ser
 ## Articles mentionning the risk
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [use of bleach solutions or alcohol-based cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_500.md)
 

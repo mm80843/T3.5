@@ -2,10 +2,6 @@
 
 # __Vaccination__
 
-## Property: has_MitigationPrinciple
-
-Vaccination provides immunity to individuals and reduces the spread of infectious diseases by preventing transmission from infected individuals to susceptible ones.
-
 ## Property: has_MitigationSource
 
 * [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
@@ -25,12 +21,6 @@ Vaccination provides immunity to individuals and reduces the spread of infectiou
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 
-## This Mitigation is enabled by the following technologies
-
-* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
-* [vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
-* [vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3897.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
@@ -46,4 +36,14 @@ Vaccination provides immunity to individuals and reduces the spread of infectiou
 * [Risk of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3172.md)
 * [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3192.md)
 * [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
+
+## Property: has_MitigationPrinciple
+
+Vaccination provides immunity to individuals and reduces the spread of infectious diseases by preventing transmission from infected individuals to susceptible ones.
+
+## This Mitigation is enabled by the following technologies
+
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3897.md)
 

@@ -2,17 +2,17 @@
 
 # __Active short breaks__
 
-## Property: has_MitigationPrinciple
-
-Taking short breaks from sedentary activities every 30 minutes to increase physical activity.
-
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Taking short breaks from sedentary activities every 30 minutes to increase physical activity.
+
+## This Mitigation is enabled by the following technologies
 
 

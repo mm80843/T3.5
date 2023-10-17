@@ -2,10 +2,6 @@
 
 # __public health__
 
-## This Stakeholder is identified by the following QID
-
-* [Q30299491](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30299491.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_79.md)
@@ -37,4 +33,8 @@
 * [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1168.md)
 * [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1198.md)
 * [Increased vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1349.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q30299491](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30299491.md)
 

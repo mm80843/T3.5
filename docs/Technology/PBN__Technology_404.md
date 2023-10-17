@@ -2,10 +2,6 @@
 
 # __contact tracing__
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## This Technology enables the following mitigations
 
 * [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
@@ -29,4 +25,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

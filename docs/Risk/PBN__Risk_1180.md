@@ -2,15 +2,6 @@
 
 # __Risk of adverse effects from anti-SARS-CoV-2 coatings__
 
-## Mitigations of this risk
-
-* [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1632.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [environmental ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_707.md)
-
 ## Name of the risk
 
 Health issues or environmental pollution due to toxic coatings
@@ -18,6 +9,14 @@ Health issues or environmental pollution due to toxic coatings
 ## Description of the risk
 
 Anti-SARS-CoV-2 coatings may have adverse effects on human health or the environment
+
+## Mitigations of this risk
+
+* [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1632.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +27,6 @@ Anti-SARS-CoV-2 coatings may have adverse effects on human health or the environ
 * [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
 * [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Articles mentionning the risk
-
-* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +35,21 @@ Anti-SARS-CoV-2 coatings may have adverse effects on human health or the environ
 
 * [safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
 * [regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [environmental ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_707.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Articles mentionning the risk
+
+* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
 

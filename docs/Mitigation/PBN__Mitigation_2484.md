@@ -2,19 +2,19 @@
 
 # __Designing with nature__
 
-## Property: has_MitigationPrinciple
-
-Use biophilic design strategies in neighbourhood planning to enhance sustainability, biodiversity, and human well-being.
-
 ## Property: has_MitigationSource
 
 * [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 
-## This Mitigation is enabled by the following technologies
-
-* [nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4527.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## Property: has_MitigationPrinciple
+
+Use biophilic design strategies in neighbourhood planning to enhance sustainability, biodiversity, and human well-being.
+
+## This Mitigation is enabled by the following technologies
+
+* [nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4527.md)
 

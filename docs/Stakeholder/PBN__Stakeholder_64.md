@@ -2,10 +2,6 @@
 
 # __hospitals__
 
-## This Stakeholder is identified by the following QID
-
-* [Q16917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16917.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Efficient screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_102.md)
@@ -17,9 +13,13 @@
 * [Scalability and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1266.md)
 * [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1399.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q16917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16917.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -33,7 +33,7 @@
 * [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

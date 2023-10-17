@@ -2,6 +2,14 @@
 
 # __Social distancing__
 
+## Name of the risk
+
+Reduced productivity and communication.
+
+## Description of the risk
+
+Maintaining physical distance between workers to minimize the spread of the virus.
+
 ## Mitigations of this risk
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
@@ -14,17 +22,9 @@
 * [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
 * [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1568.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-
-## Name of the risk
-
-Reduced productivity and communication.
-
-## Description of the risk
-
-Maintaining physical distance between workers to minimize the spread of the virus.
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -34,13 +34,21 @@ Maintaining physical distance between workers to minimize the spread of the viru
 
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
+
+## People affected by this risk
+
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -49,12 +57,4 @@ Maintaining physical distance between workers to minimize the spread of the viru
 ## Articles mentionning the risk
 
 * [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
 

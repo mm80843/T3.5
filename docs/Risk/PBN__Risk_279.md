@@ -2,6 +2,14 @@
 
 # __Virus propagation risks__
 
+## Name of the risk
+
+Increased risk of virus transmission and potential outbreaks
+
+## Description of the risk
+
+Existing residential buildings have many surfaces of contact, which leads to limited capacity to protect occupants from virus transmission
+
 ## Mitigations of this risk
 
 * [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
@@ -11,17 +19,9 @@
 * [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_348.md)
 * [Implement touchless technologies, promote regular sanitization and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2894.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
-
-## Name of the risk
-
-Increased risk of virus transmission and potential outbreaks
-
-## Description of the risk
-
-Existing residential buildings have many surfaces of contact, which leads to limited capacity to protect occupants from virus transmission
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -32,22 +32,6 @@ Existing residential buildings have many surfaces of contact, which leads to lim
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [property managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_938.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -56,4 +40,20 @@ Existing residential buildings have many surfaces of contact, which leads to lim
 
 * [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
 * [sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_143.md)
+
+## People affected by this risk
+
+* [occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

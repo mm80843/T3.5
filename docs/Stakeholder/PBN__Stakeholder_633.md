@@ -2,8 +2,9 @@
 
 # __telecommunication companies__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -13,7 +14,6 @@
 
 * [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
 

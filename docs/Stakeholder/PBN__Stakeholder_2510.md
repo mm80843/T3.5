@@ -6,11 +6,11 @@
 
 * [Q453909](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q453909.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
 

@@ -2,14 +2,6 @@
 
 # __Energy demand management__
 
-## Stakeholders benefitting from this Benefit
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Name of the Benefit
-
-Installation of backup energy sources helps manage increased energy demands during lockdowns.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract residents who value uninterrupted power supply, potentially leading to higher occupancy rates and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_931.md)
@@ -17,4 +9,12 @@ Installation of backup energy sources helps manage increased energy demands duri
 ## Articles mentionning this Benefit
 
 * [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Name of the Benefit
+
+Installation of backup energy sources helps manage increased energy demands during lockdowns.
+
+## Stakeholders benefitting from this Benefit
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 

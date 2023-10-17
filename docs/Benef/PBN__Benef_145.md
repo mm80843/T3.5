@@ -2,15 +2,6 @@
 
 # __nan__
 
-## Stakeholders benefitting from this Benefit
-
-* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-* [transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_387.md)
-
-## Name of the Benefit
-
-nan
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1082.md)
@@ -38,4 +29,13 @@ nan
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 * [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
+
+## Name of the Benefit
+
+nan
+
+## Stakeholders benefitting from this Benefit
+
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_387.md)
 

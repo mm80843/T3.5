@@ -2,18 +2,18 @@
 
 # __Restricted Travel__
 
-## Property: has_MitigationPrinciple
-
-Limit travel between regions to prevent the introduction and spread of the disease from high-risk areas.
-
 ## Property: has_MitigationSource
 
 * [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Limit travel between regions to prevent the introduction and spread of the disease from high-risk areas.
+
 ## This Mitigation is enabled by the following technologies
 
 * [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

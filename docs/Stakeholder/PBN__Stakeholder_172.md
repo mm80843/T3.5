@@ -2,10 +2,6 @@
 
 # __research groups__
 
-## This Stakeholder is identified by the following QID
-
-* [Q7836899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7836899.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
@@ -13,4 +9,8 @@
 * [Enhanced data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1007.md)
 * [Enhanced research effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)
 * [Enhanced data comparability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1010.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7836899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7836899.md)
 

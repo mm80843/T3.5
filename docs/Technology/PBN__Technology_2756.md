@@ -2,10 +2,6 @@
 
 # __Smart lighting controls__
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3188260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3188260.md)
@@ -13,4 +9,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

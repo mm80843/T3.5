@@ -2,19 +2,19 @@
 
 # __fund management companies__
 
+## Risks that can be mitigated by this stakeholder
+
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
+
 ## This Stakeholder is identified by the following QID
 
 * [Q1435728](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1435728.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 

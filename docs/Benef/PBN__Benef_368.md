@@ -2,21 +2,6 @@
 
 # __Increased productivity__
 
-## Stakeholders benefitting from this Benefit
-
-* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
-* [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
-* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
-* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
-* [project stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_178.md)
-* [construction industry stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_345.md)
-
-## Name of the Benefit
-
-Offsite construction can help solve issues of labour shortages, low productivity, and social distancing, leading to increased productivity.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved project performance, reduced schedule variance, increased asset value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_395.md)
@@ -30,4 +15,19 @@ Offsite construction can help solve issues of labour shortages, low productivity
 * [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 * [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+
+## Name of the Benefit
+
+Offsite construction can help solve issues of labour shortages, low productivity, and social distancing, leading to increased productivity.
+
+## Stakeholders benefitting from this Benefit
+
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+* [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
+* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+* [project stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_178.md)
+* [construction industry stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_345.md)
 

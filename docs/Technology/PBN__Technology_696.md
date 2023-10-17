@@ -2,10 +2,6 @@
 
 # __e-commerce platforms__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology enables the following mitigations
 
 * [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
@@ -25,4 +21,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Digital Platforms and Apps](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_54.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

@@ -2,11 +2,11 @@
 
 # __Robots__
 
-## Property: has_TechEquivalent
-
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_015
+
+## Property: has_TechEquivalent
+
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
 

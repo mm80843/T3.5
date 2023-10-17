@@ -2,20 +2,29 @@
 
 # __Drinking Water Safety - Restoring water quality in buildings after forced closure__
 
-## Problem of the blueprint
+## GBN Phase of the blueprint
 
-Water stagnation for weeks or even months as a result of building closures can cause the growth of microbial and chemical contaminants in water and affect the quality of drinking water.
+Operational 
 
-## Demonstration of the blueprint
+## Scale of the of the blueprint
 
-https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/rtcr/seasonal_instructions.pdf
-https://www.epa.gov/sites/default/files/2020-05/documents/final_maintaining_building_water_quality_5.6.20-v2.pdf
-https://www.ontario.ca/page/procedure-disinfection-drinking-water-ontario
-https://www.epa.gov/sites/default/files/2020-05/documents/final_checklist_for_maintaining_building_water_quality_5-6-2020.pdf
+Both
 
-## Title of the blueprint
+## Mode of transmission covered by the blueprint
 
-PBN:BP_23
+Water outlets (e.g. taps, showers, toilets, fountains...)
+
+## Type of the blueprint
+
+Technical
+
+## Capabilities of the blueprint
+
+Water quality is closely monitored in Europe and North America; therefore, there are many resources for determining a reopening procedure tailored to the needs of a particular building or GBN.
+
+## Restrictions of the blueprint
+
+If thorough quality control and disinfection of the drinking water network is required, external support may be necessary.
 
 ## Description of the blueprint
 
@@ -29,17 +38,16 @@ This BP describes a general procedure for the quality of drinking water in build
 6) Depending on the results of the previous step, consider whether further disinfection or heat treatment is required.
 7) Consider informing building occupants of the condition of the water system and restricting access to water whose quality is unsafe. In this scenario, temporary on-demand water service providers may be considered.
 
-## GBN Phase of the blueprint
+## Problem of the blueprint
 
-Operational 
+Water stagnation for weeks or even months as a result of building closures can cause the growth of microbial and chemical contaminants in water and affect the quality of drinking water.
 
-## Capabilities of the blueprint
+## Demonstration of the blueprint
 
-Water quality is closely monitored in Europe and North America; therefore, there are many resources for determining a reopening procedure tailored to the needs of a particular building or GBN.
-
-## Mode of transmission covered by the blueprint
-
-Water outlets (e.g. taps, showers, toilets, fountains...)
+https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/rtcr/seasonal_instructions.pdf
+https://www.epa.gov/sites/default/files/2020-05/documents/final_maintaining_building_water_quality_5.6.20-v2.pdf
+https://www.ontario.ca/page/procedure-disinfection-drinking-water-ontario
+https://www.epa.gov/sites/default/files/2020-05/documents/final_checklist_for_maintaining_building_water_quality_5-6-2020.pdf
 
 ## Reason of the blueprint
 
@@ -51,34 +59,26 @@ In most cases, this problem can be solved by implementing procedures to flush an
 
 ​BP describes a general procedure to be followed before reopening a building or GBN to ensure high quality drinking water.
 
-## Restrictions of the blueprint
+## Context of the blueprint
 
-If thorough quality control and disinfection of the drinking water network is required, external support may be necessary.
+This measure is to be implemented in all GBN buildings that have been closed for a longer period of time or are used seasonally.
+
+## Title of the blueprint
+
+PBN:BP_23
 
 ## Interventions of the blueprint
 
 * [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_28.md)
 * [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_32.md)
 
-## Scale of the of the blueprint
-
-Both
-
-## Enalbers of the blueprint
-
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
-
-## Context of the blueprint
-
-This measure is to be implemented in all GBN buildings that have been closed for a longer period of time or are used seasonally.
-
 ## Type of deployment of the blueprint
 
 Temporary
 
-## Type of the blueprint
+## Enablers of the blueprint
 
-Technical
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
 

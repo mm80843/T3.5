@@ -2,15 +2,6 @@
 
 # __Lack of control of environmental conditions__
 
-## Mitigations of this risk
-
-* [Conduct controlled experiments, consider confounding factors in analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1710.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-
 ## Name of the risk
 
 Difficult to determine the true impact of temperature/humidity on transmission
@@ -18,6 +9,13 @@ Difficult to determine the true impact of temperature/humidity on transmission
 ## Description of the risk
 
 In natural history studies, environmental conditions may confound the relationship between temperature/humidity and transmission
+
+## Mitigations of this risk
+
+* [Conduct controlled experiments, consider confounding factors in analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1710.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -27,12 +25,21 @@ In natural history studies, environmental conditions may confound the relationsh
 
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -41,11 +48,4 @@ In natural history studies, environmental conditions may confound the relationsh
 ## Articles mentionning the risk
 
 * [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

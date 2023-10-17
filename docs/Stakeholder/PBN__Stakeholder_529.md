@@ -2,10 +2,6 @@
 
 # __construction professionals__
 
-## This Stakeholder is identified by the following QID
-
-* [Q21778977](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21778977.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1366.md)
@@ -13,6 +9,10 @@
 * [Decreased disruptions and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1368.md)
 * [Increased flexibility in work arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1369.md)
 * [Decreased financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1370.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q21778977](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21778977.md)
 
 ## Risk affecting this stakeholder
 

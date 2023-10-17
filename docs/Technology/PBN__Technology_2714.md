@@ -2,10 +2,6 @@
 
 # __Openable windows__
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1190017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1190017.md)
@@ -13,4 +9,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

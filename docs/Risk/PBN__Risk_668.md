@@ -2,17 +2,6 @@
 
 # __Inadequate disinfection of hospital wastewater__
 
-## Mitigations of this risk
-
-* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
-* [Implementation of effective disinfection technologies for hospital wastewater treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3010.md)
-
-## People affected by this risk
-
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
-* [water authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_494.md)
-
 ## Name of the risk
 
 Increased risk of infection, pollution of water sources, and ecosystem disruption.
@@ -20,6 +9,15 @@ Increased risk of infection, pollution of water sources, and ecosystem disruptio
 ## Description of the risk
 
 Inadequate disinfection of hospital wastewater can result in the release of pathogens and pollutants into the environment, posing risks to public health and ecosystems.
+
+## Mitigations of this risk
+
+* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
+* [Implementation of effective disinfection technologies for hospital wastewater treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3010.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -30,22 +28,6 @@ Inadequate disinfection of hospital wastewater can result in the release of path
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
 * [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
 ## Property: has_RiskGBN
 
@@ -58,4 +40,22 @@ Inadequate disinfection of hospital wastewater can result in the release of path
 * [liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1905.md)
 * [chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1906.md)
 * [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+
+## People affected by this risk
+
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
+* [water authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_494.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 

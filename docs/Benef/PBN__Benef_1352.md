@@ -2,16 +2,6 @@
 
 # __Enhanced validity__
 
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
-* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
-
-## Name of the Benefit
-
-By collecting and reporting additional contextual data related to the pandemic, research findings will have greater validity and can be better interpreted in the context of the progressing pandemic.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from investing in this mitigation measure as it would enhance the credibility and reliability of research findings, which can lead to informed policy and decision-making, ultimately improving the effectiveness and efficiency of energy-related investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1534.md)
@@ -19,4 +9,14 @@ By collecting and reporting additional contextual data related to the pandemic, 
 ## Articles mentionning this Benefit
 
 * [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+
+## Name of the Benefit
+
+By collecting and reporting additional contextual data related to the pandemic, research findings will have greater validity and can be better interpreted in the context of the progressing pandemic.
+
+## Stakeholders benefitting from this Benefit
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
 

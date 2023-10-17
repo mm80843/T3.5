@@ -2,12 +2,6 @@
 
 # __disinfection__
 
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## This Technology enables the following mitigations
 
 * [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2133.md)
@@ -28,4 +22,10 @@
 
 * [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
 * [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
+
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

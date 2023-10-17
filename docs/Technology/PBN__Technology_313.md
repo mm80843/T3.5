@@ -2,10 +2,6 @@
 
 # __public health organizations__
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## Risks linked to this technology
 
 * [Safety of far-UVC light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1229.md)
@@ -18,4 +14,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Local Government and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_98.md)
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

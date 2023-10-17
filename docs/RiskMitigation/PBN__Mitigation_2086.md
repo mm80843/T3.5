@@ -2,17 +2,17 @@
 
 # __Case-based mapping__
 
-## Property: has_MitigationPrinciple
-
-Identify regions of likely transmission, remote identification of transmission areas, lower cost than intensive surveillance
-
 ## Property: has_MitigationSource
 
 * [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Identify regions of likely transmission, remote identification of transmission areas, lower cost than intensive surveillance
+
+## This Mitigation is enabled by the following technologies
 
 

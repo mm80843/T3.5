@@ -2,16 +2,6 @@
 
 # __Urbanization__
 
-## Mitigations of this risk
-
-* [Implementing strict social distancing measures, promoting urban planning for public health, and improving access to healthcare services in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
-
-## People affected by this risk
-
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
-* [essential workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1387.md)
-
 ## Name of the risk
 
 Higher transmission rates, increased burden on healthcare systems, and greater vulnerability of residents
@@ -19,6 +9,14 @@ Higher transmission rates, increased burden on healthcare systems, and greater v
 ## Description of the risk
 
 The risk of the disease spreading rapidly in densely populated urban areas
+
+## Mitigations of this risk
+
+* [Implementing strict social distancing measures, promoting urban planning for public health, and improving access to healthcare services in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -30,22 +28,6 @@ The risk of the disease spreading rapidly in densely populated urban areas
 * [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -55,4 +37,22 @@ The risk of the disease spreading rapidly in densely populated urban areas
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
 * [urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
+
+## People affected by this risk
+
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
+* [essential workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1387.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 

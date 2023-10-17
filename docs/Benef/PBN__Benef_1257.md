@@ -2,15 +2,6 @@
 
 # __Reduced noise pollution__
 
-## Stakeholders benefitting from this Benefit
-
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
-
-## Name of the Benefit
-
-Green roofs act as sound barriers, reducing noise pollution and creating a quieter urban environment.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in green roofs can contribute to a better quality of life by reducing noise pollution for urban residents, benefiting municipalities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1413.md)
@@ -18,4 +9,13 @@ Green roofs act as sound barriers, reducing noise pollution and creating a quiet
 ## Articles mentionning this Benefit
 
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+
+## Name of the Benefit
+
+Green roofs act as sound barriers, reducing noise pollution and creating a quieter urban environment.
+
+## Stakeholders benefitting from this Benefit
+
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
 

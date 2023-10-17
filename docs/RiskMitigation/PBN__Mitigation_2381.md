@@ -2,17 +2,17 @@
 
 # __Improved hygiene__
 
-## Property: has_MitigationPrinciple
-
-Promote proper hygiene practices, such as frequent handwashing, to reduce the spread of COVID-19.
-
 ## Property: has_MitigationSource
 
 * [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Promote proper hygiene practices, such as frequent handwashing, to reduce the spread of COVID-19.
+
+## This Mitigation is enabled by the following technologies
 
 

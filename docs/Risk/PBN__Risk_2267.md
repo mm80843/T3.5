@@ -2,15 +2,6 @@
 
 # __Effects on gender equality__
 
-## Mitigations of this risk
-
-* [Implement policies for gender equality, promote flexible work arrangements and support services for women.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2954.md)
-
-## People affected by this risk
-
-* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
-* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
-
 ## Name of the risk
 
 Increased poverty and inequality for women, loss of jobs and income, increased risk of domestic violence.
@@ -18,6 +9,14 @@ Increased poverty and inequality for women, loss of jobs and income, increased r
 ## Description of the risk
 
 The pandemic has deepened pre-existing inequalities and has disproportionately impacted women in terms of job losses and increased unpaid care responsibilities.
+
+## Mitigations of this risk
+
+* [Implement policies for gender equality, promote flexible work arrangements and support services for women.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2954.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,21 @@ The pandemic has deepened pre-existing inequalities and has disproportionately i
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ The pandemic has deepened pre-existing inequalities and has disproportionately i
 ## Articles mentionning the risk
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

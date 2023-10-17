@@ -6,14 +6,14 @@
 
 * [Q967847](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q967847.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
 

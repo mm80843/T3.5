@@ -2,15 +2,6 @@
 
 # __Mother-to-child transmission__
 
-## Mitigations of this risk
-
-* [Delivery in negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1097.md)
-* [Delivery in negative pressure isolation rooms, strict hygiene and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2087.md)
-
-## People affected by this risk
-
-* [newborns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_433.md)
-
 ## Name of the risk
 
 Risk of infection in newborns
@@ -18,6 +9,15 @@ Risk of infection in newborns
 ## Description of the risk
 
 Transmission of the virus from an infected mother to her baby
+
+## Mitigations of this risk
+
+* [Delivery in negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1097.md)
+* [Delivery in negative pressure isolation rooms, strict hygiene and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2087.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +28,20 @@ Transmission of the virus from an infected mother to her baby
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [newborns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_433.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Transmission of the virus from an infected mother to her baby
 ## Articles mentionning the risk
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

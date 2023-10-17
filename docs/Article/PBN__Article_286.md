@@ -2,30 +2,6 @@
 
 # __Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil__
 
-## Short summary of the article
-
-This study examined the impact of the COVID-19 lockdown on the energy consumption of municipal buildings in Florianópolis, Brazil. The analysis focused on administrative buildings, elementary schools, and nursery schools, which experienced a significant reduction in energy use during the lockdown. However, the study found that these buildings still consumed a considerable amount of energy, suggesting a portion of energy use not directly related to occupant presence. The analysis also identified a basal energy use intensity in these buildings, representing the minimum energy required to maintain minimal operation. The study identified the main causes of remaining energy consumption, including stand-by loads, vital loads, and sporadic activity of staff. The findings highlight the need for strategies to reduce energy wastage in buildings and promote energy efficiency in the post-pandemic scenario. The study suggests that changes in building operation, maintenance, and organizational culture can help reduce the basal energy consumption. Implementing energy efficiency measures and understanding the primary factors that influence building energy use are essential for achieving sustainable energy transitions.
-
-## Year of publication
-
-2021
-
-## Title of the article
-
-Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil
-
-## List of risks in an article
-
-* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
-* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
-* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
-* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
-* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
-
-## DOI of the article
-
-10.1016/j.scs.2021.102823
-
 ## Benefits listed in this article
 
 * [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
@@ -33,13 +9,9 @@ Addressing the impact of COVID-19 lockdown on energy use in municipal buildings:
 * [More accurate energy billing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1347.md)
 * [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1348.md)
 
-## This article points to following mitigation
+## Short summary of the article
 
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
-* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
-* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
-* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
-* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
+This study examined the impact of the COVID-19 lockdown on the energy consumption of municipal buildings in Florianópolis, Brazil. The analysis focused on administrative buildings, elementary schools, and nursery schools, which experienced a significant reduction in energy use during the lockdown. However, the study found that these buildings still consumed a considerable amount of energy, suggesting a portion of energy use not directly related to occupant presence. The analysis also identified a basal energy use intensity in these buildings, representing the minimum energy required to maintain minimal operation. The study identified the main causes of remaining energy consumption, including stand-by loads, vital loads, and sporadic activity of staff. The findings highlight the need for strategies to reduce energy wastage in buildings and promote energy efficiency in the post-pandemic scenario. The study suggests that changes in building operation, maintenance, and organizational culture can help reduce the basal energy consumption. Implementing energy efficiency measures and understanding the primary factors that influence building energy use are essential for achieving sustainable energy transitions.
 
 ## Summary of the article
 
@@ -52,4 +24,32 @@ During the COVID-19 pandemic, many buildings were not being used but still used 
 * [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_344.md)
 * [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 * [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## List of risks in an article
+
+* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
+* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
+* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
+* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
+
+## This article points to following mitigation
+
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
+* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_703.md)
+* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
+* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
+
+## Title of the article
+
+Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil
+
+## Year of publication
+
+2021
+
+## DOI of the article
+
+10.1016/j.scs.2021.102823
 

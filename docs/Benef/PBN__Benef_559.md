@@ -2,14 +2,6 @@
 
 # __Reduced overcrowding__
 
-## Stakeholders benefitting from this Benefit
-
-* [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
-
-## Name of the Benefit
-
-Real-time information allows passengers to avoid crowded buses/trains, reducing the risk of virus transmission and improving comfort.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased perception of safety, encourages more passengers to use public transport](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_611.md)
@@ -19,4 +11,12 @@ Real-time information allows passengers to avoid crowded buses/trains, reducing 
 
 * [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 * [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+
+## Name of the Benefit
+
+Real-time information allows passengers to avoid crowded buses/trains, reducing the risk of virus transmission and improving comfort.
+
+## Stakeholders benefitting from this Benefit
+
+* [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
 

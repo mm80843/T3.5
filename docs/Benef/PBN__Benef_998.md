@@ -2,14 +2,6 @@
 
 # __Pathogen inactivation__
 
-## Stakeholders benefitting from this Benefit
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Name of the Benefit
-
-UVGI damages the DNA/RNA of pathogens, rendering them harmless and preventing reproduction.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from increased demand and desirability of buildings with UV-based technologies, leading to higher asset value and potential premium rental rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1105.md)
@@ -19,4 +11,12 @@ UVGI damages the DNA/RNA of pathogens, rendering them harmless and preventing re
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## Name of the Benefit
+
+UVGI damages the DNA/RNA of pathogens, rendering them harmless and preventing reproduction.
+
+## Stakeholders benefitting from this Benefit
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

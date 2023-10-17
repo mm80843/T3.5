@@ -2,10 +2,6 @@
 
 # __population__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
@@ -23,4 +19,8 @@
 * [Effective pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_578.md)
 * [Faster vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_580.md)
 * [Improved epidemic monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_582.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
 

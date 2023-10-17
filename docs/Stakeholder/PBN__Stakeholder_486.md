@@ -2,13 +2,13 @@
 
 # __public transit users__
 
-## This Stakeholder is identified by the following QID
-
-* [Q178512](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q178512.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased safety and confidence in using public transit](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1248.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q178512](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q178512.md)
 
 ## Risk affecting this stakeholder
 

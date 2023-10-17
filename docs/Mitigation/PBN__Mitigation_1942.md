@@ -2,18 +2,18 @@
 
 # __Mental and psychological treatment__
 
-## Property: has_MitigationPrinciple
-
-Helps in managing psychological disturbances
-
 ## Property: has_MitigationSource
 
 * [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Helps in managing psychological disturbances
+
 ## This Mitigation is enabled by the following technologies
 
 * [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

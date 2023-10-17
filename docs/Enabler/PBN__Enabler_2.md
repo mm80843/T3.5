@@ -2,11 +2,15 @@
 
 # __Data Analytics__
 
+## Property: has_BP_EnablerTitle
+
+enabler_003
+
 ## Property: has_TechEquivalent
 
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Indoor Environmental Quality (IEQ) monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
@@ -20,8 +24,4 @@
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 * [Drinking Water Safety - Biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking Water Safety - Restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_003
 

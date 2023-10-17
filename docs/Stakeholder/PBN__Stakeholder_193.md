@@ -23,9 +23,12 @@
 * [Prediction of infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1090.md)
 * [Enhanced response times and data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1091.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+* [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -43,10 +46,7 @@
 * [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
 * [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
-* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

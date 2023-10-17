@@ -2,18 +2,6 @@
 
 # __Mental health impact__
 
-## Mitigations of this risk
-
-* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1613.md)
-* [Access to mental health resources and support, counseling services, psychological well-being programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2601.md)
-* [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
 ## Name of the risk
 
 Increased rates of anxiety, depression, and other mental health conditions
@@ -21,6 +9,16 @@ Increased rates of anxiety, depression, and other mental health conditions
 ## Description of the risk
 
 Psychological distress and mental health disorders due to isolation, fear, and uncertainty
+
+## Mitigations of this risk
+
+* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1613.md)
+* [Access to mental health resources and support, counseling services, psychological well-being programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2601.md)
+* [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2613.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -36,24 +34,6 @@ Psychological distress and mental health disorders due to isolation, fear, and u
 * [mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_694.md)
 * [social workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_695.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [The City Under COVID‐19: Podcasting As Digital Methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
-* [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -68,4 +48,24 @@ Psychological distress and mental health disorders due to isolation, fear, and u
 * [web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
 * [tele-counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1429.md)
 * [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [The City Under COVID‐19: Podcasting As Digital Methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
+* [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 

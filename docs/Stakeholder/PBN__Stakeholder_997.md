@@ -2,14 +2,6 @@
 
 # __urban populations__
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
-
 ## Risk affecting this stakeholder
 
 * [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
@@ -17,4 +9,12 @@
 * [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1544.md)
 * [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
 * [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 

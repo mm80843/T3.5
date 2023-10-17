@@ -2,15 +2,6 @@
 
 # __Reduced number of infected people__
 
-## Stakeholders benefitting from this Benefit
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
-
-## Name of the Benefit
-
-By adjusting occupant presence, the risk of viral transmission can be minimized
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health, reduced spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_913.md)
@@ -18,4 +9,13 @@ By adjusting occupant presence, the risk of viral transmission can be minimized
 ## Articles mentionning this Benefit
 
 * [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## Name of the Benefit
+
+By adjusting occupant presence, the risk of viral transmission can be minimized
+
+## Stakeholders benefitting from this Benefit
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 

@@ -2,10 +2,6 @@
 
 # __healthcare organizations__
 
-## This Stakeholder is identified by the following QID
-
-* [Q4287745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4287745.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
@@ -14,41 +10,6 @@
 * [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
 * [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
 * [Secure data storage and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1092.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Risk affecting this stakeholder
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
-* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
-* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
-* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
-* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
-* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
-* [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
-* [Exchange process (deal between university hospitals)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1473.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
-* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
-* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
-* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2079.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
-* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
-* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2098.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -150,4 +111,43 @@
 * [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
 * [Shortages of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2396.md)
 * [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4287745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4287745.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Risk affecting this stakeholder
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
+* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
+* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
+* [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
+* [Exchange process (deal between university hospitals)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1473.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
+* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
+* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2079.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
+* [Scalability and QoS provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2095.md)
+* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2098.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

@@ -2,10 +2,6 @@
 
 # __workers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
@@ -40,9 +36,13 @@
 * [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1059.md)
 * [Job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1180.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -83,7 +83,7 @@
 * [Increase in unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2230.md)
 * [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2268.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
+* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
 

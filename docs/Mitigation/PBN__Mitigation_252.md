@@ -2,13 +2,16 @@
 
 # __Surfacide UV-C Disinfection System__
 
-## Property: has_MitigationPrinciple
-
-Utilizes UV-C radiation emitted by multiple emitters to disinfect a whole room, with disinfection cycle time calculated based on room size
-
 ## Property: has_MitigationSource
 
 * [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Utilizes UV-C radiation emitted by multiple emitters to disinfect a whole room, with disinfection cycle time calculated based on room size
 
 ## This Mitigation is enabled by the following technologies
 
@@ -16,7 +19,4 @@ Utilizes UV-C radiation emitted by multiple emitters to disinfect a whole room, 
 * [touch screen control tablet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3095.md)
 * [motion sensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3096.md)
 * [laser](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3097.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

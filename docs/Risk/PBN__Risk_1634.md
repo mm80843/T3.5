@@ -2,14 +2,6 @@
 
 # __Increased annoyance from bird noise during lockdown__
 
-## Mitigations of this risk
-
-* [Implement measures to reduce bird noise such as bird deterrent devices or planting vegetation to create natural sound barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2178.md)
-
-## People affected by this risk
-
-* [individuals staying at home during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1058.md)
-
 ## Name of the risk
 
 Reduced mental well-being and increased irritation for individuals staying at home during lockdown
@@ -17,6 +9,14 @@ Reduced mental well-being and increased irritation for individuals staying at ho
 ## Description of the risk
 
 Increase in annoyance and discomfort due to increased bird noise during the lockdown period compared to before the lockdown
+
+## Mitigations of this risk
+
+* [Implement measures to reduce bird noise such as bird deterrent devices or planting vegetation to create natural sound barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2178.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -27,22 +27,6 @@ Increase in annoyance and discomfort due to increased bird noise during the lock
 * [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -51,4 +35,20 @@ Increase in annoyance and discomfort due to increased bird noise during the lock
 
 * [bird deterrent devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_964.md)
 * [landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
+
+## People affected by this risk
+
+* [individuals staying at home during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1058.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 

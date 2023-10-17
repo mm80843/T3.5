@@ -2,10 +2,6 @@
 
 # __residents of informal settlements__
 
-## This Stakeholder is identified by the following QID
-
-* [Q486972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q486972.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_161.md)
@@ -14,9 +10,9 @@
 * [Improved access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_164.md)
 * [Reduced stigma and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_165.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Residential Characteristics](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_110.md)
+* [Q486972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q486972.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -28,4 +24,8 @@
 * [Health System Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
 * [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
 * [Systemic Vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2352.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residential Characteristics](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_110.md)
 

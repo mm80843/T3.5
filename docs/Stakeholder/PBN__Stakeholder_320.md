@@ -2,11 +2,11 @@
 
 # __suppliers and subcontractors__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Increased supply stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_785.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
 

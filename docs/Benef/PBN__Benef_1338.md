@@ -2,14 +2,6 @@
 
 # __Killing or inhibition of germs__
 
-## Stakeholders benefitting from this Benefit
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Name of the Benefit
-
-Antimicrobial paint prevents the growth and spread
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved hygiene and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1504.md)
@@ -17,4 +9,12 @@ Antimicrobial paint prevents the growth and spread
 ## Articles mentionning this Benefit
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+
+## Name of the Benefit
+
+Antimicrobial paint prevents the growth and spread
+
+## Stakeholders benefitting from this Benefit
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

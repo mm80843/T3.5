@@ -2,14 +2,6 @@
 
 # __Ineffective use of personal protective equipment__
 
-## Mitigations of this risk
-
-* [Proper training and enforcement of the use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2836.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-
 ## Name of the risk
 
 Increased risk of infection for healthcare workers
@@ -17,6 +9,14 @@ Increased risk of infection for healthcare workers
 ## Description of the risk
 
 Improper use of personal protective equipment can result in the spread of SARS-CoV-2 from patients to healthcare workers.
+
+## Mitigations of this risk
+
+* [Proper training and enforcement of the use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2836.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,20 @@ Improper use of personal protective equipment can result in the spread of SARS-C
 * [healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_543.md)
 * [hospital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1473.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,11 +49,4 @@ Improper use of personal protective equipment can result in the spread of SARS-C
 ## Articles mentionning the risk
 
 * [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

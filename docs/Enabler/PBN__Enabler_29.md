@@ -2,11 +2,11 @@
 
 # __Energy Management__
 
-## Property: has_TechEquivalent
-
-* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4554.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_030
+
+## Property: has_TechEquivalent
+
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4554.md)
 

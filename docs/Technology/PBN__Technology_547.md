@@ -2,11 +2,6 @@
 
 # __crowd management technology__
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
 ## Risks linked to this technology
 
 * [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
@@ -21,4 +16,9 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

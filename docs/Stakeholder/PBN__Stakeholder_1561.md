@@ -2,14 +2,14 @@
 
 # __publishers__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
 

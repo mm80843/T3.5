@@ -2,14 +2,6 @@
 
 # __Non-compliance with face mask rules__
 
-## Mitigations of this risk
-
-* [Public awareness campaigns, strict enforcement of mask-wearing rules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2554.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Increased risk of virus transmission and potential spread of COVID-19
@@ -18,6 +10,14 @@ Increased risk of virus transmission and potential spread of COVID-19
 
 People not wearing face masks in public places
 
+## Mitigations of this risk
+
+* [Public awareness campaigns, strict enforcement of mask-wearing rules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2554.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
@@ -25,22 +25,6 @@ People not wearing face masks in public places
 ## Stakeholders who can mitigate this risk
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
-
-## Articles mentionning the risk
-
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
 ## Property: has_RiskGBN
 
@@ -51,4 +35,20 @@ People not wearing face masks in public places
 * [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
 * [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Property: has_RiskISO_Impact
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Articles mentionning the risk
+
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 

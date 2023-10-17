@@ -2,14 +2,6 @@
 
 # __Variability of virus stability on different surfaces__
 
-## Mitigations of this risk
-
-* [Proper cleaning and disinfection of high-touch surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2960.md)
-
-## People affected by this risk
-
-* [individuals in contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1522.md)
-
 ## Name of the risk
 
 Variations in the survival of the virus on different materials may affect transmission rates.
@@ -17,6 +9,14 @@ Variations in the survival of the virus on different materials may affect transm
 ## Description of the risk
 
 The stability of SARS-CoV-2 varies on different surfaces, with longer viability on stainless steel and plastic.
+
+## Mitigations of this risk
+
+* [Proper cleaning and disinfection of high-touch surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2960.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,21 @@ The stability of SARS-CoV-2 varies on different surfaces, with longer viability 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [individuals in contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1522.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ The stability of SARS-CoV-2 varies on different surfaces, with longer viability 
 ## Articles mentionning the risk
 
 * [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

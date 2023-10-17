@@ -2,16 +2,6 @@
 
 # __Complexity of wastewater matrix__
 
-## Mitigations of this risk
-
-* [Standardization of PCR platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
-* [Standardization of PCR protocols, optimization of sample handling and concentration methods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1599.md)
-
-## People affected by this risk
-
-* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
-* [researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_691.md)
-
 ## Name of the risk
 
 Difficulties in detecting and quantifying the virus accurately in wastewater samples.
@@ -19,6 +9,15 @@ Difficulties in detecting and quantifying the virus accurately in wastewater sam
 ## Description of the risk
 
 Complexity of the wastewater matrix can hinder the detection of SARS-CoV-2 in wastewater using PCR methods.
+
+## Mitigations of this risk
+
+* [Standardization of PCR platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
+* [Standardization of PCR protocols, optimization of sample handling and concentration methods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1599.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -30,13 +29,21 @@ Complexity of the wastewater matrix can hinder the detection of SARS-CoV-2 in wa
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 * [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
+* [researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_691.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -45,11 +52,4 @@ Complexity of the wastewater matrix can hinder the detection of SARS-CoV-2 in wa
 ## Articles mentionning the risk
 
 * [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

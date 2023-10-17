@@ -2,15 +2,15 @@
 
 # __private sector__
 
-## This Stakeholder is identified by the following QID
-
-* [Q591763](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q591763.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Cost savings through coating existing parts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_78.md)
 * [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_166.md)
 * [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_168.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q591763](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q591763.md)
 
 ## Risks that can be mitigated by this stakeholder
 

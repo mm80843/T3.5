@@ -2,15 +2,6 @@
 
 # __Reduced bias in estimation__
 
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-
-## Name of the Benefit
-
-Uses Kalman filter to reduce bias caused by error accumulation
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Provides more accurate and reliable occupancy estimation, leading to improved building operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_137.md)
@@ -18,4 +9,13 @@ Uses Kalman filter to reduce bias caused by error accumulation
 ## Articles mentionning this Benefit
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## Name of the Benefit
+
+Uses Kalman filter to reduce bias caused by error accumulation
+
+## Stakeholders benefitting from this Benefit
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 

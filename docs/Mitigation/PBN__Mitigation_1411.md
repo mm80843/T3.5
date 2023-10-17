@@ -2,18 +2,18 @@
 
 # __Disinfectant fogging systems__
 
-## Property: has_MitigationPrinciple
-
-Disperse fine particles of liquid disinfectant to decontaminate surfaces and air in a room or building
-
 ## Property: has_MitigationSource
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Disperse fine particles of liquid disinfectant to decontaminate surfaces and air in a room or building
+
 ## This Mitigation is enabled by the following technologies
 
 * [fogging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3857.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

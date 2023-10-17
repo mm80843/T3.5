@@ -2,14 +2,6 @@
 
 # __Infrastructure challenges__
 
-## Mitigations of this risk
-
-* [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2531.md)
-
-## People affected by this risk
-
-* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
-
 ## Name of the risk
 
 Physical strain and increased risk
@@ -17,6 +9,14 @@ Physical strain and increased risk
 ## Description of the risk
 
 Broken lifts, overcrowding due to broken lifts
+
+## Mitigations of this risk
+
+* [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2531.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -26,22 +26,6 @@ Broken lifts, overcrowding due to broken lifts
 
 * [housing authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1301.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -50,4 +34,20 @@ Broken lifts, overcrowding due to broken lifts
 
 * [lift monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
 * [regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1325.md)
+
+## People affected by this risk
+
+* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

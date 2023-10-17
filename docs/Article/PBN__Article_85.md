@@ -2,17 +2,21 @@
 
 # __COVID-19: Lessons for an Urban(izing) World__
 
+## Benefits listed in this article
+
+* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_421.md)
+* [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
+* [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
+* [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
+* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
+
 ## Short summary of the article
 
 The COVID-19 pandemic has brought about significant changes to cities and raised questions about how to manage urban life during and after a crisis. This commentary highlights the need to learn from past urban governance experiences and the potential value of urban experimentation in times of crisis. While COVID-19 may not be a completely unique event, it has resulted in global changes and sparked discussions about the lasting impact on urban resilience and sustainability. Lessons from previous public-health emergencies, such as SARS, H1N1, Ebola, and Zika, have highlighted the importance of global and urban governance. The pandemic has emphasized the complexities of contemporary urbanism, with densely populated cities facing challenges in controlling infection. It also exposes inequalities in access to sanitation and housing, both in the Global South and globally. However, cities like New York and Hong Kong have effectively managed high-rise density and social distancing measures, providing examples of potential solutions. The crisis also presents an opportunity for forced experimentation and long-term transformative measures in urban governance, including leveraging crisis-information repositories and health-check apps to drive risk-literate urban citizenry. However, it is crucial to consider the potential for such advancements to further exacerbate urban inequalities. Mutual aid groups and local authorities' responses to at-risk groups exemplify the importance of community building and understanding informal governance. City governments are facing significant challenges and limited powers, but temporary measures taken during the pandemic can provide valuable insights for reform. The pandemic has also led to changes in digital practices, promoting teleworking, web-based community building, and virtual service delivery. These changes present opportunities to rethink and redesign cities, but it remains to be seen if these lessons will be heeded.
 
-## Year of publication
+## Summary of the article
 
-2020
-
-## Title of the article
-
-COVID-19: Lessons for an Urban(izing) World
+The COVID-19 crisis is changing the way we think about cities and how we live in them. This is not the first time we've had a public health emergency like this, but it is unique in its global impact. Managing epidemics in cities is challenging because we have a lot of people living close together, and our cities are connected to other cities around the world. The way we design and plan our cities can make a difference in how we manage pandemics. COVID-19 is giving us an opportunity to learn and make positive changes to our cities, but we need to act now before it's too late.
 
 ## List of risks in an article
 
@@ -21,18 +25,6 @@ COVID-19: Lessons for an Urban(izing) World
 * [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
 * [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
 * [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
-
-## DOI of the article
-
-10.1016/j.oneear.2020.04.004
-
-## Benefits listed in this article
-
-* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_421.md)
-* [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
-* [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
-* [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
-* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
 
 ## This article points to following mitigation
 
@@ -55,7 +47,15 @@ COVID-19: Lessons for an Urban(izing) World
 * [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
 * [Rethinking, replanning, redesigning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_34.md)
 
-## Summary of the article
+## Title of the article
 
-The COVID-19 crisis is changing the way we think about cities and how we live in them. This is not the first time we've had a public health emergency like this, but it is unique in its global impact. Managing epidemics in cities is challenging because we have a lot of people living close together, and our cities are connected to other cities around the world. The way we design and plan our cities can make a difference in how we manage pandemics. COVID-19 is giving us an opportunity to learn and make positive changes to our cities, but we need to act now before it's too late.
+COVID-19: Lessons for an Urban(izing) World
+
+## Year of publication
+
+2020
+
+## DOI of the article
+
+10.1016/j.oneear.2020.04.004
 

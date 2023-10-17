@@ -32,8 +32,10 @@
 * [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1270.md)
 * [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1271.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
+* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -205,8 +207,6 @@
 * [Long turnaround time for COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2402.md)
 * [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
-* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 

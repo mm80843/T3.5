@@ -2,11 +2,6 @@
 
 # __self-cleaning surfaces__
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## Risks linked to this technology
 
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
@@ -19,4 +14,9 @@
 
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
 * [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 

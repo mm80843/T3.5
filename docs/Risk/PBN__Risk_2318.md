@@ -2,16 +2,6 @@
 
 # __High number of flights__
 
-## Mitigations of this risk
-
-* [Strengthen border control measures and screening procedures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3012.md)
-
-## People affected by this risk
-
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1543.md)
-* [travelers to/from china](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1544.md)
-
 ## Name of the risk
 
 Increased likelihood of imported cases.
@@ -19,6 +9,14 @@ Increased likelihood of imported cases.
 ## Description of the risk
 
 Large number of flights between China and Taiwan increases the risk of disease importation.
+
+## Mitigations of this risk
+
+* [Strengthen border control measures and screening procedures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3012.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +26,22 @@ Large number of flights between China and Taiwan increases the risk of disease i
 
 * [taiwanese government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1545.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1543.md)
+* [travelers to/from china](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1544.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,11 +50,4 @@ Large number of flights between China and Taiwan increases the risk of disease i
 ## Articles mentionning the risk
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
 

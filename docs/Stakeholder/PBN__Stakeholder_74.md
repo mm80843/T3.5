@@ -2,13 +2,6 @@
 
 # __designers__
 
-## Risk affecting this stakeholder
-
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
-* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
-* [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)
@@ -52,4 +45,11 @@
 * [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
 * [Inconvenience and cost of mask filters in smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
 * [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
+* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
+* [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
 

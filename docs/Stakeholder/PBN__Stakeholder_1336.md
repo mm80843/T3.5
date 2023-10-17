@@ -2,14 +2,14 @@
 
 # __professional organizations__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Misinformation and communication gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
 

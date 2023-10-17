@@ -2,10 +2,6 @@
 
 # __users__
 
-## This Stakeholder is identified by the following QID
-
-* [Q11252131](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11252131.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
@@ -16,4 +12,8 @@
 * [Flexible lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1078.md)
 * [Versatile interior design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1079.md)
 * [Temporary adaptations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1080.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q11252131](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11252131.md)
 

@@ -2,18 +2,18 @@
 
 # __Proactive case finding__
 
-## Property: has_MitigationPrinciple
-
-Seeks out patients with severe respiratory symptoms who tested negative for influenza and retests them for COVID-19
-
 ## Property: has_MitigationSource
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Seeks out patients with severe respiratory symptoms who tested negative for influenza and retests them for COVID-19
+
 ## This Mitigation is enabled by the following technologies
 
 * [national health insurance (nhi) database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4409.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

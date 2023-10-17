@@ -2,10 +2,6 @@
 
 # __students__
 
-## This Stakeholder is identified by the following QID
-
-* [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
@@ -19,9 +15,9 @@
 * [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
 * [Online learning and virtual classes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1161.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
+* [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -49,4 +45,8 @@
 * [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2253.md)
 * [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
 

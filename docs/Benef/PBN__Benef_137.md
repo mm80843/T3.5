@@ -2,15 +2,6 @@
 
 # __Improved estimation accuracy with constraints handling__
 
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-
-## Name of the Benefit
-
-Applies Kalman filter algorithm to handle measurement uncertainties
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduces measurement errors and improves accuracy of people flow estimation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_136.md)
@@ -18,4 +9,13 @@ Applies Kalman filter algorithm to handle measurement uncertainties
 ## Articles mentionning this Benefit
 
 * [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## Name of the Benefit
+
+Applies Kalman filter algorithm to handle measurement uncertainties
+
+## Stakeholders benefitting from this Benefit
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 

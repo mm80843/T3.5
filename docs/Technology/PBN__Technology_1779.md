@@ -2,10 +2,6 @@
 
 # __adjustable area ratio__
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## This Technology enables the following mitigations
 
 * [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2144.md)
@@ -21,4 +17,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

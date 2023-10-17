@@ -2,11 +2,6 @@
 
 # __temperature screening__
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## This Technology enables the following mitigations
 
 * [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
@@ -26,4 +21,9 @@
 
 * [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
 * [Surveillance and Occupancy Tracking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_146.md)
+
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

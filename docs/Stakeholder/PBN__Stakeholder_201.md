@@ -2,17 +2,13 @@
 
 # __gated community residents__
 
-## This Stakeholder is identified by the following QID
-
-* [Q75848](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q75848.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Q75848](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q75848.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -21,4 +17,8 @@
 ## Risk affecting this stakeholder
 
 * [Inadequate visitor access control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1106.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 

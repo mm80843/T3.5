@@ -2,14 +2,6 @@
 
 # __Reduction in pollutant concentrations__
 
-## Stakeholders benefitting from this Benefit
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
-## Name of the Benefit
-
-Decrease in NO2 and PM2.5 concentrations, leading to improved air quality and reduced health risks.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in air quality improvement measures can benefit from increased property values and improved public health, leading to increased demand for real estate and potential financial returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1276.md)
@@ -17,4 +9,12 @@ Decrease in NO2 and PM2.5 concentrations, leading to improved air quality and re
 ## Articles mentionning this Benefit
 
 * [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+
+## Name of the Benefit
+
+Decrease in NO2 and PM2.5 concentrations, leading to improved air quality and reduced health risks.
+
+## Stakeholders benefitting from this Benefit
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 

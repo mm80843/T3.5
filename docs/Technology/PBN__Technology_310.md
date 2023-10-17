@@ -2,10 +2,6 @@
 
 # __air filtration technologies__
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## Risks linked to this technology
 
 * [Contagious transmission of pathogens in public settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1227.md)
@@ -17,4 +13,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

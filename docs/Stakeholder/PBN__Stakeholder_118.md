@@ -2,10 +2,6 @@
 
 # __visitors__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
@@ -15,6 +11,10 @@
 * [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
 * [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
 * [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
 
 ## Risk affecting this stakeholder
 

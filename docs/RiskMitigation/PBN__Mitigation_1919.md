@@ -2,18 +2,18 @@
 
 # __Use of Face Masks and 50% Social Isolation__
 
-## Property: has_MitigationPrinciple
-
-Combine the usage of face masks with partial social isolation, where 50% of the population fulfills the isolation requirements while the other 50% does not.
-
 ## Property: has_MitigationSource
 
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Combine the usage of face masks with partial social isolation, where 50% of the population fulfills the isolation requirements while the other 50% does not.
+
 ## This Mitigation is enabled by the following technologies
 
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

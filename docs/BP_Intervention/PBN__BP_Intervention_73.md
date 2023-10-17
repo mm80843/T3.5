@@ -2,11 +2,11 @@
 
 # __Support recovery of sectors via remote work__
 
-## Property: has_BP_InterventionKey
-
-MC2
-
 ## Property: has_BP_InterventionTitle
 
 Support recovery of sectors via remote work
+
+## Property: has_BP_InterventionKey
+
+MC2
 

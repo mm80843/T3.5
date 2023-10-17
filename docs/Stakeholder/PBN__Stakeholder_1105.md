@@ -2,21 +2,6 @@
 
 # __building management__
 
-## This Stakeholder is identified by the following QID
-
-* [Q4387888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4387888.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Risk affecting this stakeholder
-
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
@@ -54,4 +39,19 @@
 * [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
 * [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 * [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q4387888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4387888.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Risk affecting this stakeholder
+
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

@@ -2,14 +2,6 @@
 
 # __Improved access to care__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Name of the Benefit
-
-Increased access to healthcare services, remote consultations
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved patient experience, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_993.md)
@@ -17,4 +9,12 @@ Increased access to healthcare services, remote consultations
 ## Articles mentionning this Benefit
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Name of the Benefit
+
+Increased access to healthcare services, remote consultations
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

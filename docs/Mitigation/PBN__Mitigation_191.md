@@ -2,10 +2,6 @@
 
 # __Disinfection__
 
-## Property: has_MitigationPrinciple
-
-Killing or inactivating viruses or bacteria on surfaces to prevent transmission
-
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
@@ -15,6 +11,16 @@ Killing or inactivating viruses or bacteria on surfaces to prevent transmission
 * [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 * [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_165.md)
 
+## Risks possibly mitigated by this Mitigation
+
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+* [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
+
+## Property: has_MitigationPrinciple
+
+Killing or inactivating viruses or bacteria on surfaces to prevent transmission
+
 ## This Mitigation is enabled by the following technologies
 
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
@@ -23,10 +29,4 @@ Killing or inactivating viruses or bacteria on surfaces to prevent transmission
 * [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
 * [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
 * [cleaning and disinfecting agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4343.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
-* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
-* [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
 

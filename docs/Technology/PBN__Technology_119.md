@@ -2,11 +2,6 @@
 
 # __soundproofing materials__
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
 ## This Technology enables the following mitigations
 
 * [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
@@ -29,4 +24,9 @@
 
 * [Acoustic Solutions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_81.md)
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 

@@ -2,13 +2,13 @@
 
 # __underserved communities__
 
-## This Stakeholder is identified by the following QID
-
-* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved access to information and communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1035.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q177634](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177634.md)
 
 ## Risk affecting this stakeholder
 

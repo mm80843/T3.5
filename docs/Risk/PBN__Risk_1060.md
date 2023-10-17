@@ -2,15 +2,6 @@
 
 # __Improper architectural designs__
 
-## Mitigations of this risk
-
-* [Improve education and training for architects on energy-efficient design principles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1499.md)
-
-## People affected by this risk
-
-* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [builders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_585.md)
-
 ## Name of the risk
 
 Higher energy consumption, increased costs, and potential discomfort for occupants.
@@ -18,6 +9,13 @@ Higher energy consumption, increased costs, and potential discomfort for occupan
 ## Description of the risk
 
 Architects in Kuwait may not be applying energy conservation principles leading to inefficient building designs.
+
+## Mitigations of this risk
+
+* [Improve education and training for architects on energy-efficient design principles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1499.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -30,21 +28,6 @@ Architects in Kuwait may not be applying energy conservation principles leading 
 * [ministry of electricity and water (mew)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_584.md)
 * [architectural associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_586.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -53,4 +36,21 @@ Architects in Kuwait may not be applying energy conservation principles leading 
 
 * [energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+
+## People affected by this risk
+
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [builders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_585.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 

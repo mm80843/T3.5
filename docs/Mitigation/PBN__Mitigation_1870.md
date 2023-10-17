@@ -2,13 +2,16 @@
 
 # __Preventive Measures__
 
-## Property: has_MitigationPrinciple
-
-Minimize physical contact and ensure social distancing. Use surveillance systems to detect and alert non-compliance.
-
 ## Property: has_MitigationSource
 
 * [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Minimize physical contact and ensure social distancing. Use surveillance systems to detect and alert non-compliance.
 
 ## This Mitigation is enabled by the following technologies
 
@@ -16,7 +19,4 @@ Minimize physical contact and ensure social distancing. Use surveillance systems
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 * [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

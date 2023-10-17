@@ -2,14 +2,6 @@
 
 # __Reduced pathogen risk__
 
-## Stakeholders benefitting from this Benefit
-
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-
-## Name of the Benefit
-
-Effective air filtration systems can eliminate viruses and reduce the risk of airborne transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in air filtration systems can enhance the property’s value and create a healthier living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_247.md)
@@ -17,4 +9,12 @@ Effective air filtration systems can eliminate viruses and reduce the risk of ai
 ## Articles mentionning this Benefit
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Name of the Benefit
+
+Effective air filtration systems can eliminate viruses and reduce the risk of airborne transmission
+
+## Stakeholders benefitting from this Benefit
+
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 

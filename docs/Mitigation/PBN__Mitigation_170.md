@@ -2,10 +2,6 @@
 
 # __Ventilation__
 
-## Property: has_MitigationPrinciple
-
-Adequate air exchange to dilute and remove infectious particles from indoor environments.
-
 ## Property: has_MitigationSource
 
 * [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
@@ -22,6 +18,22 @@ Adequate air exchange to dilute and remove infectious particles from indoor envi
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
 * [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
+* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
+* [Improving air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2549.md)
+* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
+* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2766.md)
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3407.md)
+
+## Property: has_MitigationPrinciple
+
+Adequate air exchange to dilute and remove infectious particles from indoor environments.
+
 ## This Mitigation is enabled by the following technologies
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
@@ -36,16 +48,4 @@ Adequate air exchange to dilute and remove infectious particles from indoor envi
 * [adequate airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
 * [air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3303.md)
 * [adequate ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4204.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1555.md)
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
-* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
-* [Contamination, transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
-* [Improving air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2549.md)
-* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2714.md)
-* [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2766.md)
-* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3407.md)
 

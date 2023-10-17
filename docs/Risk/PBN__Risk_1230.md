@@ -2,15 +2,6 @@
 
 # __Comparability of far-UVC light with conventional germicidal UV light__
 
-## Mitigations of this risk
-
-* [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals in environments where uv light disinfection is employed](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_743.md)
-
 ## Name of the risk
 
 Differences in effectiveness and safety of far-UVC light compared to conventional UV light
@@ -18,6 +9,14 @@ Differences in effectiveness and safety of far-UVC light compared to conventiona
 ## Description of the risk
 
 Comparing the efficacy and safety of far-UVC light with conventional germicidal UV light
+
+## Mitigations of this risk
+
+* [Conduct further research and studies to compare the two types of UV light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1681.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +27,6 @@ Comparing the efficacy and safety of far-UVC light with conventional germicidal 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +35,21 @@ Comparing the efficacy and safety of far-UVC light with conventional germicidal 
 
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_314.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals in environments where uv light disinfection is employed](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_743.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 

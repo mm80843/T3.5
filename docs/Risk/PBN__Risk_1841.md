@@ -2,14 +2,6 @@
 
 # __Trade-offs between efficiency and stability__
 
-## Mitigations of this risk
-
-* [Promote policies that strike a balance between efficiency gains and resilience to shocks in GVCs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2427.md)
-
-## People affected by this risk
-
-* [governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1246.md)
-
 ## Name of the risk
 
 Potential improvements in stability may be outweighed by significant decreases in economic activity and income levels.
@@ -17,6 +9,13 @@ Potential improvements in stability may be outweighed by significant decreases i
 ## Description of the risk
 
 Localizing GVCs may lead to stability gains but at the cost of economic efficiency and reduced GDP.
+
+## Mitigations of this risk
+
+* [Promote policies that strike a balance between efficiency gains and resilience to shocks in GVCs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2427.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -27,12 +26,21 @@ Localizing GVCs may lead to stability gains but at the cost of economic efficien
 
 * [governments and businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1248.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [policy analysis and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1203.md)
+
+## People affected by this risk
+
+* [governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1246.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -41,12 +49,4 @@ Localizing GVCs may lead to stability gains but at the cost of economic efficien
 ## Articles mentionning the risk
 
 * [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [policy analysis and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1203.md)
 

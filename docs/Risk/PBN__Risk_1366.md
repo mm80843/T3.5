@@ -2,16 +2,6 @@
 
 # __Patient overcrowding__
 
-## Mitigations of this risk
-
-* [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
 ## Name of the risk
 
 Increased risk of TB transmission and outbreaks in healthcare facilities
@@ -19,6 +9,14 @@ Increased risk of TB transmission and outbreaks in healthcare facilities
 ## Description of the risk
 
 High occupancy rates in healthcare facilities, leading to increased risk of TB transmission
+
+## Mitigations of this risk
+
+* [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -29,13 +27,22 @@ High occupancy rates in healthcare facilities, leading to increased risk of TB t
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -44,11 +51,4 @@ High occupancy rates in healthcare facilities, leading to increased risk of TB t
 ## Articles mentionning the risk
 
 * [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
 

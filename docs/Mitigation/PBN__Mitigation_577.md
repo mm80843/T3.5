@@ -2,10 +2,6 @@
 
 # __Lockdown__
 
-## Property: has_MitigationPrinciple
-
-Restrict movement and interaction within a defined geographic area to limit the spread of the virus
-
 ## Property: has_MitigationSource
 
 * [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
@@ -19,9 +15,6 @@ Restrict movement and interaction within a defined geographic area to limit the 
 * [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
@@ -31,4 +24,11 @@ Restrict movement and interaction within a defined geographic area to limit the 
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 * [Transmission, Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2678.md)
 * [Economic impact, mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
+
+## Property: has_MitigationPrinciple
+
+Restrict movement and interaction within a defined geographic area to limit the spread of the virus
+
+## This Mitigation is enabled by the following technologies
+
 

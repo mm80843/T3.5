@@ -6,16 +6,16 @@
 
 * [Q76330429](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q76330429.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
+* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
-* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 

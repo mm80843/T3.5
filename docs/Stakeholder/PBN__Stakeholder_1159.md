@@ -2,12 +2,12 @@
 
 # __testing laboratories__
 
-## Risk affecting this stakeholder
-
-* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
 * [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
+
+## Risk affecting this stakeholder
+
+* [Variability in virus RNA recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
 

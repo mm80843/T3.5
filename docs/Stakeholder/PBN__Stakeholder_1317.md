@@ -6,16 +6,16 @@
 
 * [Q83873577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q83873577.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
+* [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
+* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
 

@@ -2,17 +2,6 @@
 
 # __Ineffective air filtration__
 
-## Mitigations of this risk
-
-* [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1811.md)
-* [Using high-efficiency air filters (such as MERV-13 or HEPA filters), regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2388.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [workers in workplaces with inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_839.md)
-* [individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1208.md)
-
 ## Name of the risk
 
 Retention and recirculation of virus particles in the air, increased risk of infection
@@ -20,6 +9,15 @@ Retention and recirculation of virus particles in the air, increased risk of inf
 ## Description of the risk
 
 Inadequate filtration of airborne particles, including virus particles, in ventilation systems
+
+## Mitigations of this risk
+
+* [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1811.md)
+* [Using high-efficiency air filters (such as MERV-13 or HEPA filters), regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2388.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -33,13 +31,23 @@ Inadequate filtration of airborne particles, including virus particles, in venti
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [facilities management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_658.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [workers in workplaces with inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_839.md)
+* [individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1208.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -49,12 +57,4 @@ Inadequate filtration of airborne particles, including virus particles, in venti
 
 * [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

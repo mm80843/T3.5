@@ -2,10 +2,6 @@
 
 # __public transport users__
 
-## This Stakeholder is identified by the following QID
-
-* [Q7257647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7257647.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_554.md)
@@ -13,6 +9,10 @@
 * [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_555.md)
 * [Improved cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_557.md)
 * [Enhanced social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_558.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q7257647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7257647.md)
 
 ## Risk affecting this stakeholder
 

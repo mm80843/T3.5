@@ -11,29 +11,6 @@
 * [Accurate detection of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1211.md)
 * [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Risk affecting this stakeholder
-
-* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
-* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
-* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
-* [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
-* [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
-* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
-* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
-* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1915.md)
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
-* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
-* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
@@ -100,4 +77,27 @@
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
 * [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2356.md)
 * [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2357.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Risk affecting this stakeholder
+
+* [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+* [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
+* [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
+* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
+* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1915.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
+* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
+* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
 

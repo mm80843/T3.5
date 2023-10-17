@@ -2,15 +2,6 @@
 
 # __Lack of patient monitoring system__
 
-## Mitigations of this risk
-
-* [Implement a patient monitoring system with video surveillance and vital sign monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2189.md)
-
-## People affected by this risk
-
-* [health care workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_408.md)
-* [patients in aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1063.md)
-
 ## Name of the risk
 
 Difficult access for medical personnel and compromised patient care
@@ -18,6 +9,14 @@ Difficult access for medical personnel and compromised patient care
 ## Description of the risk
 
 Inadequate patient monitoring system in AIIRs
+
+## Mitigations of this risk
+
+* [Implement a patient monitoring system with video surveillance and vital sign monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2189.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,13 +27,22 @@ Inadequate patient monitoring system in AIIRs
 * [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
 * [hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_799.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [health care workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_408.md)
+* [patients in aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1063.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -43,12 +51,4 @@ Inadequate patient monitoring system in AIIRs
 ## Articles mentionning the risk
 
 * [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

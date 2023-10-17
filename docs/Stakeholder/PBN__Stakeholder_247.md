@@ -2,16 +2,13 @@
 
 # __private organizations__
 
-## This Stakeholder is identified by the following QID
-
-* [Q1589009](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1589009.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Real-time detection of social distancing violations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_585.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q1589009](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1589009.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -20,4 +17,7 @@
 ## Risk affecting this stakeholder
 
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

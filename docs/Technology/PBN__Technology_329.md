@@ -2,10 +2,6 @@
 
 # __access control measures__
 
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
 ## Risks linked to this technology
 
 * [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
@@ -18,4 +14,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
+
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

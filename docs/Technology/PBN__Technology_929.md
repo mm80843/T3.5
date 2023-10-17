@@ -2,10 +2,6 @@
 
 # __advanced supply chain management systems__
 
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## Risks linked to this technology
 
 * [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
@@ -16,4 +12,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

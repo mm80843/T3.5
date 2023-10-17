@@ -2,16 +2,6 @@
 
 # __Lack of public trust__
 
-## Mitigations of this risk
-
-* [Transparent and standardized WBE protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1023.md)
-* [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1797.md)
-
-## People affected by this risk
-
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-
 ## Name of the risk
 
 Inaccurate beliefs, conspiracy theories, politicization, non-compliance with preventive measures
@@ -19,6 +9,15 @@ Inaccurate beliefs, conspiracy theories, politicization, non-compliance with pre
 ## Description of the risk
 
 Public distrust and anxiety due to perceived shortage of infection data
+
+## Mitigations of this risk
+
+* [Transparent and standardized WBE protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1023.md)
+* [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1797.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -30,13 +29,22 @@ Public distrust and anxiety due to perceived shortage of infection data
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)
 
+## Property: has_RiskGBN
+
+
+## Technologies linked to the risk
+
+* [public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
+* [communication methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_465.md)
+
+## People affected by this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -45,12 +53,4 @@ Public distrust and anxiety due to perceived shortage of infection data
 ## Articles mentionning the risk
 
 * [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
-
-## Property: has_RiskGBN
-
-
-## Technologies linked to the risk
-
-* [public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
-* [communication methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_465.md)
 

@@ -2,14 +2,6 @@
 
 # __Transportation challenges for construction workers__
 
-## Mitigations of this risk
-
-* [Developing alternative transportation options and ensuring safe access to construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2093.md)
-
-## People affected by this risk
-
-* [construction workers in cp](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1005.md)
-
 ## Name of the risk
 
 Limited access to essential services and infrastructure, potential job losses for construction workers.
@@ -17,6 +9,13 @@ Limited access to essential services and infrastructure, potential job losses fo
 ## Description of the risk
 
 Decreased demand for public transportation and reduced travel have affected construction workers' ability to access construction sites.
+
+## Mitigations of this risk
+
+* [Developing alternative transportation options and ensuring safe access to construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2093.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -30,12 +29,21 @@ Decreased demand for public transportation and reduced travel have affected cons
 * [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
 * [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [construction workers in cp](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1005.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
-
-## Property: has_RiskHealth
-
 
 ## Property: has_RiskISO_Impact
 
@@ -44,12 +52,4 @@ Decreased demand for public transportation and reduced travel have affected cons
 ## Articles mentionning the risk
 
 * [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

@@ -2,15 +2,6 @@
 
 # __Shift in public priorities__
 
-## Mitigations of this risk
-
-* [Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2148.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-
 ## Name of the risk
 
 Shift in political will and funding for sustainable energy projects
@@ -18,6 +9,14 @@ Shift in political will and funding for sustainable energy projects
 ## Description of the risk
 
 Change in public focus and support for sustainable energy transition
+
+## Mitigations of this risk
+
+* [Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2148.md)
+
+## Property: has_RiskHealth
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
 
 ## Property: has_RiskType
 
@@ -27,22 +26,6 @@ Change in public focus and support for sustainable energy transition
 
 * [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
-
-## Property: has_RiskISO_Impact
-
-* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
-
-## Articles mentionning the risk
-
-* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -51,4 +34,21 @@ Change in public focus and support for sustainable energy transition
 
 * [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
+
+## Articles mentionning the risk
+
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 

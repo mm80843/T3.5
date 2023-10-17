@@ -2,14 +2,14 @@
 
 # __campus police officers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q361593](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q361593.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Minimized contact and exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_264.md)
 * [Sense of purpose and meaning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_265.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q361593](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q361593.md)
 
 ## Risk affecting this stakeholder
 

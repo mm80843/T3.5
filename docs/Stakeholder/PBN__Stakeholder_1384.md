@@ -2,14 +2,14 @@
 
 # __clinical laboratories__
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
 

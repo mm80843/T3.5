@@ -2,11 +2,11 @@
 
 # __Greywater management__
 
-## Property: has_BP_InterventionKey
-
-PW4
-
 ## Property: has_BP_InterventionTitle
 
 Greywater management
+
+## Property: has_BP_InterventionKey
+
+PW4
 

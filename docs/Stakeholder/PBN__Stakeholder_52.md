@@ -2,10 +2,6 @@
 
 # __public__
 
-## This Stakeholder is identified by the following QID
-
-* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
@@ -48,6 +44,10 @@
 * [Improved Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1339.md)
 * [Reliable Information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1340.md)
 * [Increased Trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1341.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
 
 ## Risk affecting this stakeholder
 

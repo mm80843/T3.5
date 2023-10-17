@@ -2,27 +2,9 @@
 
 # __government authorities__
 
-## This Stakeholder is identified by the following QID
-
-* [Q327333](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327333.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_732.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
-* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -52,4 +34,22 @@
 * [Lack of public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2182.md)
 * [Low Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2275.md)
 * [Lack of Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2278.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q327333](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327333.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 

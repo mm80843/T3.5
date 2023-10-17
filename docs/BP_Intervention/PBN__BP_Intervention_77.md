@@ -2,11 +2,11 @@
 
 # __Facilitate transparent communication__
 
-## Property: has_BP_InterventionKey
-
-MI2
-
 ## Property: has_BP_InterventionTitle
 
 Facilitate transparent communication
+
+## Property: has_BP_InterventionKey
+
+MI2
 

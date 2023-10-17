@@ -2,16 +2,6 @@
 
 # __Gender-based violence__
 
-## Mitigations of this risk
-
-* [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2470.md)
-
-## People affected by this risk
-
-* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
-* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
-* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
-
 ## Name of the risk
 
 Increased rates of domestic violence and threat to women's safety and well-being.
@@ -19,6 +9,14 @@ Increased rates of domestic violence and threat to women's safety and well-being
 ## Description of the risk
 
 Lockdown measures and economic stress increase cases of domestic violence.
+
+## Mitigations of this risk
+
+* [Enhance support services for victims, raise awareness, and strengthen legal and policy frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2470.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -30,22 +28,6 @@ Lockdown measures and economic stress increase cases of domestic violence.
 * [law enforcement agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
 * [women’s rights organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1269.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Articles mentionning the risk
-
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -55,4 +37,22 @@ Lockdown measures and economic stress increase cases of domestic violence.
 * [hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
 * [online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
 * [digital reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
+
+## People affected by this risk
+
+* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Articles mentionning the risk
+
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
 

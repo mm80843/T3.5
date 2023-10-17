@@ -2,10 +2,6 @@
 
 # __surgical trainees__
 
-## This Stakeholder is identified by the following QID
-
-* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_48.md)
@@ -14,6 +10,10 @@
 * [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_51.md)
 * [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_52.md)
 * [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_53.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
 
 ## Risk affecting this stakeholder
 

@@ -2,17 +2,13 @@
 
 # __social media users__
 
-## This Stakeholder is identified by the following QID
-
-* [Q3220391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3220391.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
+* [Q3220391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3220391.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -26,4 +22,8 @@
 * [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
 * [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 * [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
 

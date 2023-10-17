@@ -2,13 +2,6 @@
 
 # __government bodies__
 
-## Risk affecting this stakeholder
-
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
-* [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1560.md)
-* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
-* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)
@@ -31,4 +24,11 @@
 * [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
 * [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
 * [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
+
+## Risk affecting this stakeholder
+
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
+* [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1560.md)
+* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
+* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
 

@@ -2,18 +2,18 @@
 
 # __Surge Capacity Planning__
 
-## Property: has_MitigationPrinciple
-
-Establishing systems to manage and align policies to meet the surge in demand in hospitals.
-
 ## Property: has_MitigationSource
 
 * [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Capacity Overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2669.md)
+
+## Property: has_MitigationPrinciple
+
+Establishing systems to manage and align policies to meet the surge in demand in hospitals.
+
+## This Mitigation is enabled by the following technologies
+
 

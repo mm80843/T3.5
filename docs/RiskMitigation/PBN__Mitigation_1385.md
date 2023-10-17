@@ -2,17 +2,17 @@
 
 # __Restrictions of movement__
 
-## Property: has_MitigationPrinciple
-
-Limits the movement of individuals, reducing the chances of spreading the disease to different areas
-
 ## Property: has_MitigationSource
 
 * [Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
 
-## This Mitigation is enabled by the following technologies
-
-
 ## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Limits the movement of individuals, reducing the chances of spreading the disease to different areas
+
+## This Mitigation is enabled by the following technologies
 
 

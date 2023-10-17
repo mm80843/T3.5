@@ -2,15 +2,6 @@
 
 # __Dilution of contaminants__
 
-## Stakeholders benefitting from this Benefit
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
-
-## Name of the Benefit
-
-Dilution of room air with clean, disinfected air reduces the concentration of airborne pathogens, decreasing the risk of infection.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementation of total volume air distribution systems can contribute to a healthier environment, reduced transmission of diseases, and improved public health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1302.md)
@@ -18,4 +9,13 @@ Dilution of room air with clean, disinfected air reduces the concentration of ai
 ## Articles mentionning this Benefit
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## Name of the Benefit
+
+Dilution of room air with clean, disinfected air reduces the concentration of airborne pathogens, decreasing the risk of infection.
+
+## Stakeholders benefitting from this Benefit
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 

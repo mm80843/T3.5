@@ -8,11 +8,11 @@
 * [Q7569](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7569.md)
 * [Q55786729](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55786729.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
 

@@ -2,14 +2,6 @@
 
 # __Improved Indoor Air Quality__
 
-## Stakeholders benefitting from this Benefit
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Name of the Benefit
-
-Increasing ventilation rates improves the air quality indoors, reducing the concentration of infectious particles and improving overall health and well-being.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in ventilation and filtration systems can lead to healthier indoor environments, reducing the risk of infection and improving occupant well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_584.md)
@@ -20,4 +12,12 @@ Increasing ventilation rates improves the air quality indoors, reducing the conc
 
 * [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
 * [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
+
+## Name of the Benefit
+
+Increasing ventilation rates improves the air quality indoors, reducing the concentration of infectious particles and improving overall health and well-being.
+
+## Stakeholders benefitting from this Benefit
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 

@@ -6,18 +6,6 @@
 
 * [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_619.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
@@ -34,4 +22,16 @@
 * [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
 * [Lack of biosecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1698.md)
 * [Inadequate ventilation in hospital settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1778.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Risk affecting this stakeholder
+
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
 

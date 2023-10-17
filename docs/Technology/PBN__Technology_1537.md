@@ -2,10 +2,6 @@
 
 # __social networks__
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology enables the following mitigations
 
 * [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
@@ -22,4 +18,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
+
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

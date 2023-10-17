@@ -2,10 +2,6 @@
 
 # __real-time occupancy tracking__
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## Risks linked to this technology
 
 * [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Smart City and Occupancy Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_150.md)
+
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

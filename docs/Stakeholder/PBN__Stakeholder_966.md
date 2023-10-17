@@ -2,13 +2,13 @@
 
 # __contact tracers__
 
+## Risks that can be mitigated by this stakeholder
+
+* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
+
 ## This Stakeholder is identified by the following QID
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -18,7 +18,7 @@
 
 * [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
+* [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 

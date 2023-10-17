@@ -2,11 +2,11 @@
 
 # __Social activities / facilitatie social interactions__
 
-## Property: has_BP_InterventionKey
-
-HM3
-
 ## Property: has_BP_InterventionTitle
 
 Social activities / facilitatie social interactions
+
+## Property: has_BP_InterventionKey
+
+HM3
 

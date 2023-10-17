@@ -2,11 +2,11 @@
 
 # __Touchless technologies__
 
-## Property: has_BP_InterventionKey
-
-PS2
-
 ## Property: has_BP_InterventionTitle
 
 Touchless technologies
+
+## Property: has_BP_InterventionKey
+
+PS2
 

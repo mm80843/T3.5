@@ -2,18 +2,6 @@
 
 # __regulatory authorities__
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
-## Risk affecting this stakeholder
-
-* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
@@ -26,4 +14,16 @@
 * [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
 * [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
 * [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## Risk affecting this stakeholder
+
+* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
 

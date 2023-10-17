@@ -2,6 +2,14 @@
 
 # __Surface transmission__
 
+## Name of the risk
+
+Increased risk of infection transmission through surface contact.
+
+## Description of the risk
+
+COVID-19 can spread through contaminated surfaces, leading to potential infection when individuals touch their face after touching contaminated surfaces.
+
 ## Mitigations of this risk
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
@@ -13,19 +21,9 @@
 * [Touch-free Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1612.md)
 * [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
-
-## Name of the risk
-
-Increased risk of infection transmission through surface contact.
-
-## Description of the risk
-
-COVID-19 can spread through contaminated surfaces, leading to potential infection when individuals touch their face after touching contaminated surfaces.
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -37,22 +35,6 @@ COVID-19 can spread through contaminated surfaces, leading to potential infectio
 * [office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1289.md)
 * [janitorial staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_848.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -62,4 +44,22 @@ COVID-19 can spread through contaminated surfaces, leading to potential infectio
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
 * [regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
 * [touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1291.md)
+
+## People affected by this risk
+
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 

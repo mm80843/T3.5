@@ -2,15 +2,15 @@
 
 # __Visualization__
 
+## Property: has_BP_EnablerTitle
+
+enabler_004
+
 ## Property: has_TechEquivalent
 
 * [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
 
-## This Technology belongs to this TechSubgroup
+## Thees blueprints use this enabler
 
 * [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
-
-## Property: has_BP_EnablerTitle
-
-enabler_004
 

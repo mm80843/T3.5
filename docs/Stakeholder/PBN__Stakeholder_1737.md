@@ -7,12 +7,12 @@
 * [Q5500950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5500950.md)
 * [Q215279](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q215279.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
 

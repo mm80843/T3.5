@@ -2,14 +2,6 @@
 
 # __Reliable Information__
 
-## Stakeholders benefitting from this Benefit
-
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-
-## Name of the Benefit
-
-Utilizing peer-reviewed journals and official institutions' websites can ensure the provision of reliable information on coronavirus prevention.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from collaborating with reputable organizations by increasing the trust and credibility of their platforms, attracting more users and advertisers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1507.md)
@@ -18,4 +10,12 @@ Utilizing peer-reviewed journals and official institutions' websites can ensure 
 ## Articles mentionning this Benefit
 
 * [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
+
+## Name of the Benefit
+
+Utilizing peer-reviewed journals and official institutions' websites can ensure the provision of reliable information on coronavirus prevention.
+
+## Stakeholders benefitting from this Benefit
+
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 

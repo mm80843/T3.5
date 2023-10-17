@@ -2,14 +2,6 @@
 
 # __Reduced emissions__
 
-## Stakeholders benefitting from this Benefit
-
-* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
-
-## Name of the Benefit
-
-Plants remove VOCs from the air, reducing emissions to the environment
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved environmental sustainability and reputation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_392.md)
@@ -17,4 +9,12 @@ Plants remove VOCs from the air, reducing emissions to the environment
 ## Articles mentionning this Benefit
 
 * [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
+
+## Name of the Benefit
+
+Plants remove VOCs from the air, reducing emissions to the environment
+
+## Stakeholders benefitting from this Benefit
+
+* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
 

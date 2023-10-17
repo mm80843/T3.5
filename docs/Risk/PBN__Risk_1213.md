@@ -2,14 +2,6 @@
 
 # __Homogeneous mixing assumptions in epidemic models__
 
-## Mitigations of this risk
-
-* [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)
-
-## People affected by this risk
-
-* [population of cities with heterogeneous mixing patterns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_729.md)
-
 ## Name of the risk
 
 Inaccurate prediction of epidemic size and timing
@@ -17,6 +9,14 @@ Inaccurate prediction of epidemic size and timing
 ## Description of the risk
 
 Assumptions of homogeneous mixing underestimate epidemic size and timing
+
+## Mitigations of this risk
+
+* [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,21 @@ Assumptions of homogeneous mixing underestimate epidemic size and timing
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_298.md)
+
+## People affected by this risk
+
+* [population of cities with heterogeneous mixing patterns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_729.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ Assumptions of homogeneous mixing underestimate epidemic size and timing
 ## Articles mentionning the risk
 
 * [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_298.md)
 

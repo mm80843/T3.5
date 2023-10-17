@@ -2,14 +2,6 @@
 
 # __Inactivation of human coronaviruses__
 
-## Stakeholders benefitting from this Benefit
-
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-
-## Name of the Benefit
-
-Far-UVC light efficiently kills aerosolized human coronaviruses, reducing the transmission of pathogens in occupied public settings.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementation of far-UVC light in public places would reduce the risk of airborne transmission of coronaviruses, including COVID-19, improving public health and safety.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_982.md)
@@ -17,4 +9,12 @@ Far-UVC light efficiently kills aerosolized human coronaviruses, reducing the tr
 ## Articles mentionning this Benefit
 
 * [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
+
+## Name of the Benefit
+
+Far-UVC light efficiently kills aerosolized human coronaviruses, reducing the transmission of pathogens in occupied public settings.
+
+## Stakeholders benefitting from this Benefit
+
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 

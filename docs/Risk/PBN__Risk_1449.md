@@ -2,14 +2,6 @@
 
 # __Cost and practicability of clinical testing and WBE__
 
-## Mitigations of this risk
-
-* [Implement WBE surveillance as a cost-effective and rapid tool for population health assessment and monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1961.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
 ## Name of the risk
 
 Clinical testing is costly and impractical for population-wide testing, causing delays in assessing infection status.
@@ -17,6 +9,14 @@ Clinical testing is costly and impractical for population-wide testing, causing 
 ## Description of the risk
 
 Clinical testing of individuals for COVID-19 is expensive and slow, while wastewater-based epidemiology (WBE) offers a rapid and cost-effective alternative.
+
+## Mitigations of this risk
+
+* [Implement WBE surveillance as a cost-effective and rapid tool for population health assessment and monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1961.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -27,13 +27,21 @@ Clinical testing of individuals for COVID-19 is expensive and slow, while wastew
 * [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Technologies linked to the risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -42,12 +50,4 @@ Clinical testing of individuals for COVID-19 is expensive and slow, while wastew
 ## Articles mentionning the risk
 
 * [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

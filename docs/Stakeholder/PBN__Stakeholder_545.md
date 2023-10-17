@@ -2,13 +2,13 @@
 
 # __wildlife conservation organizations__
 
+## Risks that can be mitigated by this stakeholder
+
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
+
 ## This Stakeholder is identified by the following QID
 
 * [Q2118246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2118246.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -18,7 +18,7 @@
 
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
+* [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
 

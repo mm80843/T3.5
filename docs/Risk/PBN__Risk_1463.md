@@ -2,16 +2,6 @@
 
 # __Impacts on public transit__
 
-## Mitigations of this risk
-
-* [Implement physical distancing measures, increased frequency of cleaning and disinfection, and revised operational procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1980.md)
-
-## People affected by this risk
-
-* [operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_330.md)
-* [transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_947.md)
-* [public transit users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_486.md)
-
 ## Name of the risk
 
 Shifts in transportation preferences and decreased demand for public transit
@@ -19,6 +9,14 @@ Shifts in transportation preferences and decreased demand for public transit
 ## Description of the risk
 
 Potential changes in public transit usage and operations post-pandemic
+
+## Mitigations of this risk
+
+* [Implement physical distancing measures, increased frequency of cleaning and disinfection, and revised operational procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1980.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +27,6 @@ Potential changes in public transit usage and operations post-pandemic
 * [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
 * [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -53,4 +35,22 @@ Potential changes in public transit usage and operations post-pandemic
 
 * [enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_730.md)
 * [improved communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_731.md)
+
+## People affected by this risk
+
+* [operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_330.md)
+* [transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_947.md)
+* [public transit users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_486.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 

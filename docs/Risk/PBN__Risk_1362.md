@@ -2,15 +2,6 @@
 
 # __Limited access to actionable evidence__
 
-## Mitigations of this risk
-
-* [Develop rapid response services to deliver relevant and high-quality evidence in a timely manner, leverage multiple dissemination channels tailored to different audiences, and expand the search for evidence beyond conventional sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1858.md)
-
-## People affected by this risk
-
-* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
-* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
-
 ## Name of the risk
 
 Decision-making may be based on outdated or incomplete information, leading to ineffective or inappropriate policies and practices
@@ -18,6 +9,14 @@ Decision-making may be based on outdated or incomplete information, leading to i
 ## Description of the risk
 
 Decision-makers and practitioners may not have access to timely and actionable evidence to guide their response to public health crises
+
+## Mitigations of this risk
+
+* [Develop rapid response services to deliver relevant and high-quality evidence in a timely manner, leverage multiple dissemination channels tailored to different audiences, and expand the search for evidence beyond conventional sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1858.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +28,6 @@ Decision-makers and practitioners may not have access to timely and actionable e
 * [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
 * [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_878.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Articles mentionning the risk
-
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -54,4 +37,21 @@ Decision-makers and practitioners may not have access to timely and actionable e
 * [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 * [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
 * [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
+
+## People affected by this risk
+
+* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Articles mentionning the risk
+
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

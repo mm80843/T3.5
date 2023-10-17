@@ -2,14 +2,6 @@
 
 # __Increased annoyance from neighbour noise in flats during lockdown__
 
-## Mitigations of this risk
-
-* [Improve sound insulation in flats and promote respectful neighbor behavior through community engagement during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2179.md)
-
-## People affected by this risk
-
-* [individuals living in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1060.md)
-
 ## Name of the risk
 
 Reduced mental well-being and increased irritation for individuals living in flats during lockdown
@@ -17,6 +9,14 @@ Reduced mental well-being and increased irritation for individuals living in fla
 ## Description of the risk
 
 Increased annoyance and disruption of daily activities from neighbour noise sources in flats during the lockdown period compared to before the lockdown
+
+## Mitigations of this risk
+
+* [Improve sound insulation in flats and promote respectful neighbor behavior through community engagement during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2179.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +28,6 @@ Increased annoyance and disruption of daily activities from neighbour noise sour
 * [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 * [tenants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_281.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +36,20 @@ Increased annoyance and disruption of daily activities from neighbour noise sour
 
 * [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
 * [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
+
+## People affected by this risk
+
+* [individuals living in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1060.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 

@@ -2,19 +2,6 @@
 
 # __Improved mental health__
 
-## Stakeholders benefitting from this Benefit
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
-* [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
-
-## Name of the Benefit
-
-Window designs that allow for interesting views and spaces of retreat promote resident well-being and reduce stress.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in the expansion of urban green spaces can expect increased property values as people prioritize living near green spaces for improved mental health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_476.md)
@@ -33,4 +20,17 @@ Window designs that allow for interesting views and spaces of retreat promote re
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 * [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+
+## Name of the Benefit
+
+Window designs that allow for interesting views and spaces of retreat promote resident well-being and reduce stress.
+
+## Stakeholders benefitting from this Benefit
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+* [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
 

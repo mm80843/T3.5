@@ -2,6 +2,14 @@
 
 # __Poor Indoor Air Quality__
 
+## Name of the risk
+
+Increased risk of respiratory symptoms, impaired cognitive function, reduced productivity, and increased sick leave.
+
+## Description of the risk
+
+Contaminants in indoor air from outdoor and indoor sources can lead to respiratory symptoms, allergies, and other health issues.
+
 ## Mitigations of this risk
 
 * [Natural Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
@@ -14,18 +22,9 @@
 * [Filtering Indoor Air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
 * [Adequate Air Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1788.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [especially those with respiratory conditions or allergies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_650.md)
-
-## Name of the risk
-
-Increased risk of respiratory symptoms, impaired cognitive function, reduced productivity, and increased sick leave.
-
-## Description of the risk
-
-Contaminants in indoor air from outdoor and indoor sources can lead to respiratory symptoms, allergies, and other health issues.
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -37,22 +36,6 @@ Contaminants in indoor air from outdoor and indoor sources can lead to respirato
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -62,4 +45,21 @@ Contaminants in indoor air from outdoor and indoor sources can lead to respirato
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
 * [regular maintenance of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_193.md)
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [especially those with respiratory conditions or allergies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_650.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 

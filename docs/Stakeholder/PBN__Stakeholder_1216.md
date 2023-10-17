@@ -6,15 +6,15 @@
 
 * [Q1495452](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1495452.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Hospitality and Tourism](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_32.md)
+* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
+* [Hospitality and Tourism](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_32.md)
 

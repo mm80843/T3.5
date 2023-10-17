@@ -2,14 +2,6 @@
 
 # __Enhanced preparation for outbreak__
 
-## Stakeholders benefitting from this Benefit
-
-* [healthcare policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_516.md)
-
-## Name of the Benefit
-
-Modeling studies of viral activity to guide preparedness efforts
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Better allocation of resources and response planning](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1477.md)
@@ -17,4 +9,12 @@ Modeling studies of viral activity to guide preparedness efforts
 ## Articles mentionning this Benefit
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Name of the Benefit
+
+Modeling studies of viral activity to guide preparedness efforts
+
+## Stakeholders benefitting from this Benefit
+
+* [healthcare policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_516.md)
 

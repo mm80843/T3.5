@@ -2,18 +2,18 @@
 
 # __Human movement analysis__
 
-## Property: has_MitigationPrinciple
-
-Understand connectivity between high-risk areas, design appropriate elimination strategies, avoid resurgence in post-elimination settings
-
 ## Property: has_MitigationSource
 
 * [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Understand connectivity between high-risk areas, design appropriate elimination strategies, avoid resurgence in post-elimination settings
+
 ## This Mitigation is enabled by the following technologies
 
 * [mobile phone cdrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4224.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

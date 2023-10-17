@@ -2,14 +2,6 @@
 
 # __Access to accurate and up-to-date COVID-19 data__
 
-## Stakeholders benefitting from this Benefit
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
-## Name of the Benefit
-
-Users can access reliable and real-time COVID-19 data, including case numbers, news, and hospital information.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved situational awareness, informed decision-making, increased demand for the mobile application.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1275.md)
@@ -17,4 +9,12 @@ Users can access reliable and real-time COVID-19 data, including case numbers, n
 ## Articles mentionning this Benefit
 
 * [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
+
+## Name of the Benefit
+
+Users can access reliable and real-time COVID-19 data, including case numbers, news, and hospital information.
+
+## Stakeholders benefitting from this Benefit
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 

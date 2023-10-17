@@ -2,20 +2,20 @@
 
 # __Adaptation of healthcare facilities__
 
-## Property: has_MitigationPrinciple
-
-Convert wards into infectious disease and isolation wards, ensure proper containment spaces and ventilation to cater for high numbers of infectious patients
-
 ## Property: has_MitigationSource
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+
+## Property: has_MitigationPrinciple
+
+Convert wards into infectious disease and isolation wards, ensure proper containment spaces and ventilation to cater for high numbers of infectious patients
 
 ## This Mitigation is enabled by the following technologies
 
 * [containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4191.md)
 * [compartmentalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4192.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 

@@ -84,8 +84,21 @@
 * [Reduction of airborne viruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1337.md)
 * [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1338.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
+* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
+* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
+* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
+* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
+* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+* [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
+* [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
+* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
+* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -129,19 +142,6 @@
 * [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1894.md)
 * [Lack of passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1895.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
-* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
-* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
-* [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
-* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
-* [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
-* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
-* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
-* [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
-* [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
-* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
-* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
 

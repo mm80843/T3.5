@@ -2,19 +2,19 @@
 
 # __Travel-related Measures__
 
-## Property: has_MitigationPrinciple
-
-Implementing travel restrictions and quarantine measures to limit the spread of contagious diseases
-
 ## Property: has_MitigationSource
 
 * [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Implementing travel restrictions and quarantine measures to limit the spread of contagious diseases
 
 ## This Mitigation is enabled by the following technologies
 
 * [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

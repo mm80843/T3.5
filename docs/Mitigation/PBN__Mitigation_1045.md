@@ -2,19 +2,19 @@
 
 # __Humidification__
 
-## Property: has_MitigationPrinciple
-
-Increasing indoor humidity to reduce infectivity of aerosolized virus
-
 ## Property: has_MitigationSource
 
 * [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 
-## This Mitigation is enabled by the following technologies
-
-* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
-
 ## Risks possibly mitigated by this Mitigation
 
 * [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2880.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing indoor humidity to reduce infectivity of aerosolized virus
+
+## This Mitigation is enabled by the following technologies
+
+* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
 

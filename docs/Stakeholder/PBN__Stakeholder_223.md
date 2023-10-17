@@ -2,14 +2,14 @@
 
 # __developing countries__
 
-## This Stakeholder is identified by the following QID
-
-* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_528.md)
 * [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q177323](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177323.md)
 
 ## Risk affecting this stakeholder
 

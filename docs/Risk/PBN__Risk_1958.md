@@ -2,14 +2,6 @@
 
 # __Lack of self-sufficient spaces__
 
-## Mitigations of this risk
-
-* [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
-
-## People affected by this risk
-
-* [occupants of living units](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1310.md)
-
 ## Name of the risk
 
 Increased risk of physical and mental health issues, lack of safety and security
@@ -17,6 +9,15 @@ Increased risk of physical and mental health issues, lack of safety and security
 ## Description of the risk
 
 Designing units for living that do not prioritize self-sufficiency and safety can lead to occupants being at risk physically and mentally
+
+## Mitigations of this risk
+
+* [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -28,14 +29,21 @@ Designing units for living that do not prioritize self-sufficiency and safety ca
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Technologies linked to the risk
+
+* [design processes that prioritize self-sufficiency and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1372.md)
+
+## People affected by this risk
+
+* [occupants of living units](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1310.md)
+
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskISO_Impact
 
@@ -44,12 +52,4 @@ Designing units for living that do not prioritize self-sufficiency and safety ca
 ## Articles mentionning the risk
 
 * [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Technologies linked to the risk
-
-* [design processes that prioritize self-sufficiency and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1372.md)
 

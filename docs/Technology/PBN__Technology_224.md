@@ -2,10 +2,6 @@
 
 # __online resources__
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## Risks linked to this technology
 
 * [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
@@ -20,4 +16,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

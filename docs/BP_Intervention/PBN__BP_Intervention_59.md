@@ -2,11 +2,11 @@
 
 # __Shift controls (occupancy control of total users)__
 
-## Property: has_BP_InterventionKey
-
-HJ3
-
 ## Property: has_BP_InterventionTitle
 
 Shift controls (occupancy control of total users)
+
+## Property: has_BP_InterventionKey
+
+HJ3
 

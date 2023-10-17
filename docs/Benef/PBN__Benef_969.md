@@ -2,14 +2,6 @@
 
 # __Rapid inactivation of SARS-CoV-2__
 
-## Stakeholders benefitting from this Benefit
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-
-## Name of the Benefit
-
-The coating reduces the infective titer of SARS-CoV-2 by 99.9% within 1 hour, reducing the risk of transmission.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing the coating would lead to improved public health outcomes, reduced fear of touching objects, and potentially a boost in economic activity due to increased confidence in public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1066.md)
@@ -17,4 +9,12 @@ The coating reduces the infective titer of SARS-CoV-2 by 99.9% within 1 hour, re
 ## Articles mentionning this Benefit
 
 * [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+
+## Name of the Benefit
+
+The coating reduces the infective titer of SARS-CoV-2 by 99.9% within 1 hour, reducing the risk of transmission.
+
+## Stakeholders benefitting from this Benefit
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 

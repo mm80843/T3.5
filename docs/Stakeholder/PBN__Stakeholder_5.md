@@ -2,14 +2,14 @@
 
 # __laboratories__
 
-## This Stakeholder is identified by the following QID
-
-* [Q483242](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483242.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced accuracy of quantification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_6.md)
 * [Improved quantification capability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_7.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q483242](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q483242.md)
 
 ## Risks that can be mitigated by this stakeholder
 

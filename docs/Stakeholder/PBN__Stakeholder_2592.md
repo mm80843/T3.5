@@ -6,11 +6,11 @@
 
 * [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Exposure to Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Exposure to Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_33.md)
 

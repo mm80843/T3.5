@@ -2,11 +2,11 @@
 
 # __Social distancing__
 
-## Property: has_BP_InterventionKey
-
-HU1
-
 ## Property: has_BP_InterventionTitle
 
 Social distancing
+
+## Property: has_BP_InterventionKey
+
+HU1
 

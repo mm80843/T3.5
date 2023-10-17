@@ -6,15 +6,15 @@
 
 * [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 

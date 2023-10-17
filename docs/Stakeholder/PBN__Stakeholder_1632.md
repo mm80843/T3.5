@@ -6,11 +6,11 @@
 
 * [Q2385804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2385804.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Educational Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Educational Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_14.md)
 

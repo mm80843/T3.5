@@ -2,14 +2,6 @@
 
 # __Reduced risk of reinfection__
 
-## Stakeholders benefitting from this Benefit
-
-* [unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_463.md)
-
-## Name of the Benefit
-
-Increasing vaccination coverage reduces the risk of reinfection, contributing to overall public health and preventing strain on healthcare systems
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in vaccination campaigns to increase coverage, leading to improved public health outcomes and potential government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1324.md)
@@ -17,4 +9,12 @@ Increasing vaccination coverage reduces the risk of reinfection, contributing to
 ## Articles mentionning this Benefit
 
 * [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+
+## Name of the Benefit
+
+Increasing vaccination coverage reduces the risk of reinfection, contributing to overall public health and preventing strain on healthcare systems
+
+## Stakeholders benefitting from this Benefit
+
+* [unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_463.md)
 

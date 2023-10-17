@@ -2,15 +2,6 @@
 
 # __Risk of mental health issues during and after a pandemic__
 
-## Mitigations of this risk
-
-* [Provision of mental health support services, remote counseling, awareness campaigns, and community support programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2772.md)
-
-## People affected by this risk
-
-* [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
-* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
-
 ## Name of the risk
 
 Increased mental health conditions, interpersonal conflicts, strain on support services.
@@ -18,6 +9,14 @@ Increased mental health conditions, interpersonal conflicts, strain on support s
 ## Description of the risk
 
 The pandemic and associated measures, such as stay-at-home orders, can lead to increased levels of stress, domestic violence, and deteriorating mental health.
+
+## Mitigations of this risk
+
+* [Provision of mental health support services, remote counseling, awareness campaigns, and community support programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2772.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +28,6 @@ The pandemic and associated measures, such as stay-at-home orders, can lead to i
 * [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
 * [community support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1425.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -53,4 +36,21 @@ The pandemic and associated measures, such as stay-at-home orders, can lead to i
 
 * [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
 * [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
+
+## People affected by this risk
+
+* [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

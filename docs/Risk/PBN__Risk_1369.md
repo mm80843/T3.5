@@ -2,17 +2,6 @@
 
 # __Digital exclusion__
 
-## Mitigations of this risk
-
-* [Expand internet connectivity and digital infrastructure, provide access to digital devices and educational resources, and promote digital literacy and inclusion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1865.md)
-
-## People affected by this risk
-
-* [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
-* [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
-* [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
-* [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
-
 ## Name of the risk
 
 Limited access to information, services, and resources, exacerbating existing inequalities and hindering effective response efforts.
@@ -20,6 +9,14 @@ Limited access to information, services, and resources, exacerbating existing in
 ## Description of the risk
 
 Inadequate access to digital tools and technologies, leading to limited participation in digital strategies and unequal distribution of resources and support during the pandemic.
+
+## Mitigations of this risk
+
+* [Expand internet connectivity and digital infrastructure, provide access to digital devices and educational resources, and promote digital literacy and inclusion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1865.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskType
 
@@ -29,22 +26,6 @@ Inadequate access to digital tools and technologies, leading to limited particip
 
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
-
-## Articles mentionning the risk
-
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
 ## Property: has_RiskGBN
 
@@ -56,4 +37,23 @@ Inadequate access to digital tools and technologies, leading to limited particip
 * [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
 * [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
 * [digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
+
+## People affected by this risk
+
+* [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
+* [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
+* [elderly population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_615.md)
+* [rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_879.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Articles mentionning the risk
+
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 

@@ -2,11 +2,11 @@
 
 # __Face and voice recognition__
 
-## Property: has_TechEquivalent
-
-* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_029
+
+## Property: has_TechEquivalent
+
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4553.md)
 

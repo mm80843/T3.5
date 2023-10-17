@@ -2,31 +2,9 @@
 
 # __manufacturers__
 
-## This Stakeholder is identified by the following QID
-
-* [Q42855995](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42855995.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_37.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Risk affecting this stakeholder
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
-* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1133.md)
-* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
-* [Risk of ineffective anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
-* [Lack of standardized tests and protocols for UVGI efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1758.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -55,4 +33,26 @@
 * [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
 * [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
 * [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q42855995](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42855995.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Risk affecting this stakeholder
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
+* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1133.md)
+* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
+* [Risk of ineffective anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+* [Lack of standardized tests and protocols for UVGI efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1758.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
 

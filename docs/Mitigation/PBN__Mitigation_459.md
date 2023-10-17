@@ -2,10 +2,6 @@
 
 # __Remote Work__
 
-## Property: has_MitigationPrinciple
-
-Allow individuals to work from home and minimize contact with others in the workplace.
-
 ## Property: has_MitigationSource
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
@@ -14,6 +10,17 @@ Allow individuals to work from home and minimize contact with others in the work
 * [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 * [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
 * [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
+* [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
+* [Contagion transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3241.md)
+
+## Property: has_MitigationPrinciple
+
+Allow individuals to work from home and minimize contact with others in the workplace.
 
 ## This Mitigation is enabled by the following technologies
 
@@ -24,11 +31,4 @@ Allow individuals to work from home and minimize contact with others in the work
 * [internet)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3466.md)
 * [remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
 * [technology for telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4035.md)
-
-## Risks possibly mitigated by this Mitigation
-
-* [Job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
-* [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
-* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3073.md)
-* [Contagion transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3241.md)
 

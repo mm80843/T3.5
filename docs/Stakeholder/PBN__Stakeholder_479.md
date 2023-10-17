@@ -2,10 +2,6 @@
 
 # __data analysts__
 
-## This Stakeholder is identified by the following QID
-
-* [Q29169143](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29169143.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1234.md)
@@ -13,9 +9,18 @@
 * [Consistent modeling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1236.md)
 * [Improved logical](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1238.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
+* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
+* [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q29169143](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29169143.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -28,12 +33,7 @@
 * [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 * [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
-* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
-* [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
+* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
 

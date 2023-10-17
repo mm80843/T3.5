@@ -2,10 +2,6 @@
 
 # __data analytics__
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## This Technology enables the following mitigations
 
 * [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2344.md)
@@ -44,4 +40,8 @@
 
 * [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
 * [Supply Chain and Risk Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_9.md)
+
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

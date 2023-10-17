@@ -2,18 +2,6 @@
 
 # __Early detection__
 
-## Stakeholders benefitting from this Benefit
-
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
-* [public health sector/government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_397.md)
-
-## Name of the Benefit
-
-Early warning system for outbreaks
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Early detection helps public health authorities implement timely interventions and prevent the spread of the virus, reducing healthcare burden and economic impact.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_0.md)
@@ -29,4 +17,16 @@ Early warning system for outbreaks
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 * [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
 * [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+
+## Name of the Benefit
+
+Early warning system for outbreaks
+
+## Stakeholders benefitting from this Benefit
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
+* [public health sector/government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_397.md)
 

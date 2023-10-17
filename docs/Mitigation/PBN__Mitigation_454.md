@@ -2,20 +2,20 @@
 
 # __Exercising on treadmills and stationary bikes__
 
-## Property: has_MitigationPrinciple
-
-Performing aerobic exercises using exercise equipment to improve cardiovascular fitness.
-
 ## Property: has_MitigationSource
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Performing aerobic exercises using exercise equipment to improve cardiovascular fitness.
 
 ## This Mitigation is enabled by the following technologies
 
 * [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
 * [stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3242.md)
 * [heart rate monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

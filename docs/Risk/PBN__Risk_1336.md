@@ -2,15 +2,6 @@
 
 # __Data capture challenges__
 
-## Mitigations of this risk
-
-* [Establish standardized data collection protocols, promote data sharing, address structural and cultural barriers to data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1830.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-
 ## Name of the risk
 
 Limited data availability and hindered research progress.
@@ -18,6 +9,13 @@ Limited data availability and hindered research progress.
 ## Description of the risk
 
 Challenges with data capture, non-standardized data collection, and data sharing barriers, leading to data gaps and attenuated research opportunities.
+
+## Mitigations of this risk
+
+* [Establish standardized data collection protocols, promote data sharing, address structural and cultural barriers to data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1830.md)
+
+## Property: has_RiskHealth
+
 
 ## Property: has_RiskType
 
@@ -30,21 +28,6 @@ Challenges with data capture, non-standardized data collection, and data sharing
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
-
-## Property: has_RiskHealth
-
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
@@ -54,4 +37,21 @@ Challenges with data capture, non-standardized data collection, and data sharing
 * [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 * [interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_513.md)
 * [data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 

@@ -2,6 +2,14 @@
 
 # __Inadequate ventilation__
 
+## Name of the risk
+
+Higher risk of airborne virus transmission among occupants.
+
+## Description of the risk
+
+Insufficient outdoor air ventilation in buildings, reducing air dilution and increasing the concentration of airborne viruses.
+
 ## Mitigations of this risk
 
 * [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_993.md)
@@ -23,35 +31,9 @@
 * [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
 * [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-* [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
-* [public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
-* [individuals in poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_671.md)
-* [commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_672.md)
-* [workers in poorly ventilated work environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_836.md)
-* [occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_846.md)
-* [especially in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_964.md)
-* [individuals in poorly ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1207.md)
-* [visitors in poorly ventilated indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1292.md)
-* [especially in enclosed spaces with limited fresh air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1591.md)
-
-## Name of the risk
-
-Higher risk of airborne virus transmission among occupants.
-
-## Description of the risk
-
-Insufficient outdoor air ventilation in buildings, reducing air dilution and increasing the concentration of airborne viruses.
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -77,34 +59,6 @@ Insufficient outdoor air ventilation in buildings, reducing air dilution and inc
 * [facility owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
 * [hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1164.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Articles mentionning the risk
-
-* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
-* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
-* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
-* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
-* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
-* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
-* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -125,4 +79,50 @@ Insufficient outdoor air ventilation in buildings, reducing air dilution and inc
 * [automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1354.md)
 * [air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
 * [hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1831.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
+* [public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
+* [individuals in poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_671.md)
+* [commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_672.md)
+* [workers in poorly ventilated work environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_836.md)
+* [occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_846.md)
+* [especially in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_964.md)
+* [individuals in poorly ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1207.md)
+* [visitors in poorly ventilated indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1292.md)
+* [especially in enclosed spaces with limited fresh air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1591.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Articles mentionning the risk
+
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
+* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
+* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
+* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 

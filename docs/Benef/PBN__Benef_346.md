@@ -2,14 +2,6 @@
 
 # __Clean indoor air and prevention of virus spread__
 
-## Stakeholders benefitting from this Benefit
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Name of the Benefit
-
-Reduced risk of virus transmission indoors
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and safety of occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_369.md)
@@ -17,4 +9,12 @@ Reduced risk of virus transmission indoors
 ## Articles mentionning this Benefit
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Name of the Benefit
+
+Reduced risk of virus transmission indoors
+
+## Stakeholders benefitting from this Benefit
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

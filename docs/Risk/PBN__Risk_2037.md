@@ -2,14 +2,6 @@
 
 # __Water and sanitation__
 
-## Mitigations of this risk
-
-* [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2666.md)
-
-## People affected by this risk
-
-* [communities without access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1366.md)
-
 ## Name of the risk
 
 Increases health risks, hampers hygiene practices and disease prevention.
@@ -17,6 +9,14 @@ Increases health risks, hampers hygiene practices and disease prevention.
 ## Description of the risk
 
 Lack of access to clean water and sanitation systems, especially in developing countries.
+
+## Mitigations of this risk
+
+* [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2666.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskType
 
@@ -28,22 +28,6 @@ Lack of access to clean water and sanitation systems, especially in developing c
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
 * [water and sanitation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1367.md)
 
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
@@ -52,4 +36,20 @@ Lack of access to clean water and sanitation systems, especially in developing c
 
 * [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1510.md)
+
+## People affected by this risk
+
+* [communities without access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1366.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

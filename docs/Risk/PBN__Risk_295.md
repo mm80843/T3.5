@@ -2,6 +2,14 @@
 
 # __nan__
 
+## Name of the risk
+
+nan
+
+## Description of the risk
+
+nan
+
 ## Mitigations of this risk
 
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
@@ -988,16 +996,8 @@
 * [Ratification of environmental commitments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2457.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## People affected by this risk
+## Property: has_RiskHealth
 
-
-## Name of the risk
-
-nan
-
-## Description of the risk
-
-nan
 
 ## Property: has_RiskType
 
@@ -1005,10 +1005,16 @@ nan
 ## Stakeholders who can mitigate this risk
 
 
+## Property: has_RiskGBN
+
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+
 ## Property: has_RiskISO_Purpose
-
-
-## Property: has_RiskHealth
 
 
 ## Property: has_RiskISO_Impact
@@ -1019,10 +1025,4 @@ nan
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 * [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Property: has_RiskGBN
-
-
-## Technologies linked to the risk
-
 

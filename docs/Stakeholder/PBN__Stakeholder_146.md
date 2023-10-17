@@ -11,9 +11,6 @@
 * [Cost reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_983.md)
 * [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -30,4 +27,7 @@
 * [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
 * [Disruption of energy supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2112.md)
 * [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2231.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

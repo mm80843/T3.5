@@ -2,11 +2,6 @@
 
 # __community engagement__
 
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology enables the following mitigations
 
 * [Governance of urban space to improve access to neighborhood resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1539.md)
@@ -31,4 +26,9 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

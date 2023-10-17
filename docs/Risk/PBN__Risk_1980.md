@@ -2,15 +2,6 @@
 
 # __Spread of COVID-19 in healthcare__
 
-## Mitigations of this risk
-
-* [Implementation of infection prevention and control measures, screening and testing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2594.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
 ## Name of the risk
 
 Increases burden on healthcare system, risk of infection to patients and healthcare workers.
@@ -19,6 +10,14 @@ Increases burden on healthcare system, risk of infection to patients and healthc
 
 Highly infective disease spreading rapidly in healthcare settings.
 
+## Mitigations of this risk
+
+* [Implementation of infection prevention and control measures, screening and testing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2594.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
 ## Property: has_RiskType
 
 * [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
@@ -26,22 +25,6 @@ Highly infective disease spreading rapidly in healthcare settings.
 ## Stakeholders who can mitigate this risk
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Articles mentionning the risk
-
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
 ## Property: has_RiskGBN
 
@@ -52,4 +35,21 @@ Highly infective disease spreading rapidly in healthcare settings.
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 * [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 * [sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1418.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Articles mentionning the risk
+
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 

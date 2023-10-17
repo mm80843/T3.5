@@ -2,15 +2,6 @@
 
 # __Estimating prevalence of infections in the population__
 
-## Stakeholders benefitting from this Benefit
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
-
-## Name of the Benefit
-
-Provides an estimate of the number of infected individuals in a catchment area using wastewater data, improving understanding of community spread
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Better understanding of disease burden, improved resource allocation, targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1099.md)
@@ -18,4 +9,13 @@ Provides an estimate of the number of infected individuals in a catchment area u
 ## Articles mentionning this Benefit
 
 * [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+
+## Name of the Benefit
+
+Provides an estimate of the number of infected individuals in a catchment area using wastewater data, improving understanding of community spread
+
+## Stakeholders benefitting from this Benefit
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 

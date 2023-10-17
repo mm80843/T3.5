@@ -2,20 +2,20 @@
 
 # __Dilution__
 
-## Property: has_MitigationPrinciple
-
-Supplying clean air to the room to decrease the risk of infections and reduce the concentration of contaminants through increased air change rates
-
 ## Property: has_MitigationSource
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationPrinciple
+
+Supplying clean air to the room to decrease the risk of infections and reduce the concentration of contaminants through increased air change rates
 
 ## This Mitigation is enabled by the following technologies
 
 * [natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
 * [mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
 * [and hybrid ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3106.md)
-
-## Risks possibly mitigated by this Mitigation
-
 

@@ -2,10 +2,6 @@
 
 # __medical staff__
 
-## This Stakeholder is identified by the following QID
-
-* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_157.md)
@@ -15,6 +11,14 @@
 * [Enhanced training effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1115.md)
 * [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
 * [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
 
 ## Risk affecting this stakeholder
 
@@ -32,8 +36,4 @@
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2374.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
 

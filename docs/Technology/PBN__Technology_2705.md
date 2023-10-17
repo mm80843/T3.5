@@ -2,10 +2,6 @@
 
 # __UV-C light disinfection systems__
 
-## This Technology belongs to this TechGroup
-
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-
 ## This Technology is identified by the following QID
 
 * [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
@@ -13,4 +9,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+
+## This Technology belongs to this TechGroup
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 

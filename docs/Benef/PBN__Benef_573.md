@@ -2,14 +2,6 @@
 
 # __Ensuring sufficient site labor__
 
-## Stakeholders benefitting from this Benefit
-
-* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
-
-## Name of the Benefit
-
-Restriction on laborers affects productivity levels, work progress is delayed, and contractors are exposed to liquidated and ascertained damages.
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Ensuring sufficient site labor will help to prevent productivity loss and delays in construction projects, allowing contractors to meet project deadlines and avoid financial penalties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_626.md)
@@ -17,4 +9,12 @@ Restriction on laborers affects productivity levels, work progress is delayed, a
 ## Articles mentionning this Benefit
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+
+## Name of the Benefit
+
+Restriction on laborers affects productivity levels, work progress is delayed, and contractors are exposed to liquidated and ascertained damages.
+
+## Stakeholders benefitting from this Benefit
+
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 

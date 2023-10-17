@@ -2,11 +2,11 @@
 
 # __attending surgeons__
 
-## Risk affecting this stakeholder
-
-* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
-
 ## Risks that can be mitigated by this stakeholder
 
 * [Patient Rapport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
+
+## Risk affecting this stakeholder
+
+* [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
 

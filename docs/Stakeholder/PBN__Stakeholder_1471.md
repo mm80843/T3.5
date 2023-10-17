@@ -2,11 +2,11 @@
 
 # __mobile phone network providers__
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
 * [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
 

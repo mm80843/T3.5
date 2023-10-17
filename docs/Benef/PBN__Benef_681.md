@@ -2,15 +2,6 @@
 
 # __Protection of healthcare workers__
 
-## Stakeholders benefitting from this Benefit
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_441.md)
-
-## Name of the Benefit
-
-Hand hygiene can protect healthcare workers from acquiring the virus, reducing the risk of transmission
-
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved employee safety and well-being, reduced risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_729.md)
@@ -20,4 +11,13 @@ Hand hygiene can protect healthcare workers from acquiring the virus, reducing t
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+
+## Name of the Benefit
+
+Hand hygiene can protect healthcare workers from acquiring the virus, reducing the risk of transmission
+
+## Stakeholders benefitting from this Benefit
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_441.md)
 

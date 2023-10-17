@@ -2,17 +2,13 @@
 
 # __socially disadvantaged groups__
 
-## This Stakeholder is identified by the following QID
-
-* [Q106394435](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q106394435.md)
-
 ## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_418.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+* [Q106394435](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q106394435.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
@@ -21,4 +17,8 @@
 ## Risk affecting this stakeholder
 
 * [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 

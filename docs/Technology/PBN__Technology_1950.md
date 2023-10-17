@@ -2,10 +2,6 @@
 
 # __genetic manipulation of mosquitoes__
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## Risks linked to this technology
 
 * [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
@@ -17,4 +13,8 @@
 ## This Technology belongs to this TechSubgroup
 
 * [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

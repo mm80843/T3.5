@@ -2,11 +2,11 @@
 
 # __Use of smart/innovative air quality controls technology__
 
-## Property: has_BP_InterventionKey
-
-PA1
-
 ## Property: has_BP_InterventionTitle
 
 Use of smart/innovative air quality controls technology
+
+## Property: has_BP_InterventionKey
+
+PA1
 
