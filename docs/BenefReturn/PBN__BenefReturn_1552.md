@@ -2,3 +2,7 @@
 
 # __Investing in credit guarantee schemes can lead to reduced credit risks and potential losses for banks, improving their financial stability and profitability.__
 
+## This return can be realized by these benefits
+
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+

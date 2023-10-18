@@ -6,7 +6,7 @@
 
 Regular disinfection of shared tools and equipment reduces the chance of virus transmission through contact
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in containment space design improves the safety and well-being of occupants, potentially increasing the value of the property.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_292.md)
 * [Investment in disinfection measures can prevent the spread of COVID-19 on construction sites, maintaining productivity and reducing the risk of outbreaks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1182.md)
@@ -21,4 +21,9 @@ Regular disinfection of shared tools and equipment reduces the chance of virus t
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [occupants of the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_140.md)
 * [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
+
+## Risks which can benefit from this action
+
+* [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_269.md)
+* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1062.md)
 

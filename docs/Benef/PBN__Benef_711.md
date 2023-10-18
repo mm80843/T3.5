@@ -6,7 +6,7 @@
 
 Reduces the risk of infection for vulnerable employees
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved employee well-being and retention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_763.md)
 
@@ -17,4 +17,8 @@ Reduces the risk of infection for vulnerable employees
 ## Stakeholders benefitting from this Benefit
 
 * [existing workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_294.md)
+
+## Risks which can benefit from this action
+
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
 

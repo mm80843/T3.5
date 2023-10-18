@@ -6,7 +6,7 @@
 
 Robots can perform medical procedures, monitor patients, deliver supplies, and disinfect spaces, reducing the need for direct contact between healthcare workers and patients
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in robotic systems can improve healthcare efficiency, reduce infection risk for healthcare workers, and enhance the reputation and asset value of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_429.md)
 
@@ -17,4 +17,8 @@ Robots can perform medical procedures, monitor patients, deliver supplies, and d
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
 

@@ -2,3 +2,7 @@
 
 # __Private investors investing in environmental measures would see improved asset value by creating a safer and healthier work environment.__
 
+## This return can be realized by these benefits
+
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+

@@ -2,3 +2,7 @@
 
 # __Increased trust in government and improved decision-making processes.__
 
+## This return can be realized by these benefits
+
+* [Improved transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_873.md)
+

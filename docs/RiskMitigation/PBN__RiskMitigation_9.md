@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_304.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Occupancy sensing setback thermostat](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1254.md)
 * [Adopt common data models such as Phenopackets or OHDSI standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2548.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Quantitative assessment of occupant exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_13.md)
 * [Flexible modeling assumptions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_14.md)

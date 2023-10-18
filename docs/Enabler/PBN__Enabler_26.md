@@ -8,7 +8,7 @@ enabler_027
 
 ## Category to which it belongs
 
-* [Microbe-destroying layer.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_86.md)
+* [Microbe-destroying layer.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_76.md)
 
 ## Closest similar item
 

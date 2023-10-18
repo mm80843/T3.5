@@ -55,3 +55,14 @@ Effects of non-pharmaceutical interventions against COVID-19 on the incidence of
 * [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1388.md)
 * [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1389.md)
 
+## This article mentions these technologies
+
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+* [hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
+* [sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
+* [social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_529.md)
+* [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+

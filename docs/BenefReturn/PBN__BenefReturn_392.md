@@ -2,3 +2,7 @@
 
 # __Improved environmental sustainability and reputation__
 
+## This return can be realized by these benefits
+
+* [Reduced emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_364.md)
+

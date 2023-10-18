@@ -6,7 +6,7 @@
 
 Guide design of elimination strategies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [More efficient use of resources and tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_413.md)
 
@@ -18,4 +18,8 @@ Guide design of elimination strategies
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+
+## Risks which can benefit from this action
+
+* [CDR data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_388.md)
 

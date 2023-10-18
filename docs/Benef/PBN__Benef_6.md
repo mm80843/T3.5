@@ -6,7 +6,7 @@
 
 Developing better controls can improve the accuracy of quantifying SARS-CoV-2 in sewage samples, providing more reliable data for epidemiological surveillance
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in control development can benefit from increased demand for control materials and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_6.md)
 
@@ -18,4 +18,8 @@ Developing better controls can improve the accuracy of quantifying SARS-CoV-2 in
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
+
+## Risks which can benefit from this action
+
+* [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2.md)
 

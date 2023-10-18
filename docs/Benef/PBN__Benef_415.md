@@ -6,7 +6,7 @@
 
 Implementing regular health monitoring measures, such as temperature checks and symptom screenings, allows for early detection of COVID-19 cases and appropriate intervention.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in worker health monitoring reduces the risk of COVID-19 outbreaks, minimizes project disruptions, and improves overall project performance and completion time.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_445.md)
 
@@ -17,4 +17,8 @@ Implementing regular health monitoring measures, such as temperature checks and 
 ## Stakeholders benefitting from this Benefit
 
 * [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
+## Risks which can benefit from this action
+
+* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_419.md)
 

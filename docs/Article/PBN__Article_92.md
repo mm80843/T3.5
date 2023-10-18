@@ -57,3 +57,6 @@ Management of the COVID-19 pandemic: challenges, practices, and organizational s
 * [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
 * [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
 
+## This article mentions these technologies
+
+

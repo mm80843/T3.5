@@ -6,7 +6,7 @@
 
 Moderate physical exercise has been shown to improve immunity and provide immune protection, reducing the risk of severe COVID-19 infection and related health complications.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for fitness programs and services that promote moderate physical exercise as a preventive measure for individuals with immunosuppression and chronic inflammation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1312.md)
 
@@ -17,4 +17,8 @@ Moderate physical exercise has been shown to improve immunity and provide immune
 ## Stakeholders benefitting from this Benefit
 
 * [individuals with immunosuppression and chronic low-grade inflammation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_459.md)
+
+## Risks which can benefit from this action
+
+* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1178.md)
 

@@ -6,7 +6,7 @@
 
 Improved ventilation systems help dilute and remove aerosols containing the virus, lowering the risk of airborne transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased asset value and demand for spaces with improved ventilation systems, as they are perceived as safer and lower risk.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_94.md)
 
@@ -17,4 +17,8 @@ Improved ventilation systems help dilute and remove aerosols containing the viru
 ## Stakeholders benefitting from this Benefit
 
 * [building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
+
+## Risks which can benefit from this action
+
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
 

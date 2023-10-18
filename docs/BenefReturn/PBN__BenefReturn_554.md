@@ -2,3 +2,7 @@
 
 # __Private investors investing in ventilation improvements can benefit from increased asset value of buildings, increased occupancy rates, and enhanced reputation for prioritizing public health and safety__
 
+## This return can be realized by these benefits
+
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+

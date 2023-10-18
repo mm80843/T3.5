@@ -6,7 +6,7 @@
 
 Results in a significant impact on reducing transmission rates and controlling the spread of the virus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit by investing in a comprehensive approach to reduce transmission as it would contribute to a healthier population, decreased healthcare demand, and potentially provide economic stability by preventing a prolonged epidemic and the associated economic disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_435.md)
 
@@ -17,4 +17,8 @@ Results in a significant impact on reducing transmission rates and controlling t
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
 

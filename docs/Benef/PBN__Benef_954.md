@@ -6,7 +6,7 @@
 
 Wearables can track the time it takes for heart rate to return to baseline after SARS-CoV-2 infection, helping map the course of disease and identify cases of long COVID.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for wearables and data analysis services for disease mapping and identifying long COVID cases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1048.md)
 
@@ -18,4 +18,8 @@ Wearables can track the time it takes for heart rate to return to baseline after
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring heart rate recovery after contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_947.md)
 

@@ -63,3 +63,13 @@ A Continuously Active Antimicrobial Coating effective against Human Coronavirus 
 * [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_860.md)
 * [Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_861.md)
 
+## This article mentions these technologies
+
+* [self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_788.md)
+* [antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_789.md)
+* [advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_792.md)
+* [surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
+* [advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+* [advanced liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_790.md)
+

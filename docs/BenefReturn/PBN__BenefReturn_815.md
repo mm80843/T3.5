@@ -2,3 +2,7 @@
 
 # __Private investors benefit from reduced transmission rates, a healthier workforce, and improved productivity.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission among co-workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_750.md)
+

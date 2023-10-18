@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2148.md)
 * [Explore cost-effective solutions and funding options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2374.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
 

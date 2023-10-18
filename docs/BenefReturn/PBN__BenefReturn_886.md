@@ -2,3 +2,7 @@
 
 # __Implementing upper-room UVGI can increase the safety of building occupants, enhancing the value of the building and attracting tenants/occupants.__
 
+## This return can be realized by these benefits
+
+* [Disinfection of aerosolized viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_817.md)
+

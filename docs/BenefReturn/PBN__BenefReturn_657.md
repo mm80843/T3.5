@@ -2,3 +2,7 @@
 
 # __Improved indoor air quality, reduced risk of airborne transmission__
 
+## This return can be realized by these benefits
+
+* [Reduced concentration of airborne virus particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_609.md)
+

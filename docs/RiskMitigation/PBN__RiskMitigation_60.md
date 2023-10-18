@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_762.md)
 * [Clearly defining force majeure clauses, renegotiating contracts, alternative dispute resolution methods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2454.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_67.md)
 

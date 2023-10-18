@@ -57,3 +57,19 @@ How loneliness is talked about in social media during COVID-19 pandemic: Text mi
 * [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
 * [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1015.md)
 
+## This article mentions these technologies
+
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
+* [social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
+* [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
+* [research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
+* [validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
+* [translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
+* [interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_901.md)
+* [multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
+* [comparative data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_904.md)
+

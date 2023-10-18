@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_340.md)
+* [Promote environmentally-friendly waste management, sanitation, and maintenance practices, including rodent control, decontamination, and segregation of waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Prioritize urbanization patterns that reduce wildlife urban interfaces and regulate animal rearing practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2814.md)
 * [Animal surveillance, strict hygiene practices in animal handling, and control measures at farms and live markets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2068.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced rat populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_91.md)
 

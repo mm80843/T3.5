@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
+* [Promote understanding and knowledge sharing through educational campaigns, dissemination of accurate information, and public awareness initiatives.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Raise awareness, promote inclusivity and diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2530.md)
 * [Promoting reliable sources, facilitating information sharing, engaging with the public through social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2103.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Increased resilience and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_21.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Secure decentralized digital technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_306.md)
+* [Secure decentralized digital technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_299.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_171.md)
 * [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_172.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)

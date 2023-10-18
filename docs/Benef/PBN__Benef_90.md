@@ -6,7 +6,7 @@
 
 Predators such as fish and birds feed on mosquito larvae, reducing tick populations and the spread of tick-borne diseases
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in increasing the number of aquatic predators can reduce the risk of tick-borne diseases for residents and improve public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_87.md)
 
@@ -18,4 +18,8 @@ Predators such as fish and birds feed on mosquito larvae, reducing tick populati
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Increase number of aquatic predators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_77.md)
 

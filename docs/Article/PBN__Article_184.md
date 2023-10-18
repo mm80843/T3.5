@@ -47,3 +47,21 @@ Coronavirus questions that will not go away: interrogating urban and socio-spati
 * [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1809.md)
 * [Avoidance of gatherings with friends and family](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1812.md)
 
+## This article mentions these technologies
+
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
+* [emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+* [testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1260.md)
+* [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
+* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [remote work options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
+* [public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1499.md)
+* [building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
+* [mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1496.md)
+

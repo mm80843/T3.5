@@ -58,3 +58,17 @@ Analysis of COVID-19 Concerns Raised by the Construction Workforce and Developme
 * [Hygiene and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
 * [Management of Deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_291.md)
+* [monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_289.md)
+* [clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_290.md)
+* [regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_287.md)
+* [clear cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_295.md)
+* [increased provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_292.md)
+* [education on the importance of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_288.md)
+* [regular restocking of sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_293.md)
+* [use of industry-approved disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_294.md)
+

@@ -6,7 +6,7 @@
 
 Reduced risk of virus spread through waste
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and safety of occupants and waste management efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_370.md)
 
@@ -17,4 +17,8 @@ Reduced risk of virus spread through waste
 ## Stakeholders benefitting from this Benefit
 
 * [occupants and waste management services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_168.md)
+
+## Risks which can benefit from this action
+
+* [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_349.md)
 

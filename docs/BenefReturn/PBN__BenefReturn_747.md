@@ -2,3 +2,7 @@
 
 # __Higher asset value due to improved community stability and social cohesion__
 
+## This return can be realized by these benefits
+
+* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_701.md)
+

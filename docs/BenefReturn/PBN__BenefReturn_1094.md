@@ -2,3 +2,7 @@
 
 # __Investing in vaccine development leads to profit generation and contributes to public health improvements.__
 
+## This return can be realized by these benefits
+
+* [Disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_915.md)
+

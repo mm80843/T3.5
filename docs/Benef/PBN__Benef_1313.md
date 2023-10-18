@@ -6,7 +6,7 @@
 
 Unobstructed views of nature and the sky improve mood, focus, and satisfaction, and aid in recovery from illness.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improve occupant well-being and satisfaction, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1483.md)
 
@@ -17,4 +17,8 @@ Unobstructed views of nature and the sky improve mood, focus, and satisfaction, 
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1332.md)
 

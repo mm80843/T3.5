@@ -2,3 +2,7 @@
 
 # __Private investors investing in adaptive design measures can create more desirable and healthier built environments, increasing asset value.__
 
+## This return can be realized by these benefits
+
+* [Increased natural light in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_759.md)
+

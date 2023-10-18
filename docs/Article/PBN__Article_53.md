@@ -50,3 +50,19 @@ Reframe how to serve your community in the midst of a pandemic
 * [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2049.md)
 * [Patrol separately](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
 
+## This article mentions these technologies
+
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+* [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
+* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
+* [online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1663.md)
+* [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1664.md)
+* [regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1668.md)
+* [safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
+* [easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1671.md)
+* [safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
+* [mindfulness and stress reduction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
+* [regular interactions with students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1666.md)
+* [safety workshops and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1670.md)
+

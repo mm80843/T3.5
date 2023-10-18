@@ -51,3 +51,8 @@ The importance of vector control for the control and elimination of vector-borne
 * [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2394.md)
 * [Eave tubes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2395.md)
 
+## This article mentions these technologies
+
+* [genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
+* [development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
+

@@ -6,7 +6,7 @@
 
 Lower risk of exposure due to reduced number of people in the building
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract tenants by offering safer working environments, increasing leasing demand and rental income](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_975.md)
 
@@ -17,4 +17,8 @@ Lower risk of exposure due to reduced number of people in the building
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_891.md)
 

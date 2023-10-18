@@ -6,7 +6,7 @@
 
 Remote access to mental health services can improve access and reduce barriers
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental well-being and increased access to care](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_56.md)
 
@@ -17,4 +17,8 @@ Remote access to mental health services can improve access and reduce barriers
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
 

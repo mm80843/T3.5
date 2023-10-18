@@ -46,3 +46,15 @@ Urban Community Sustainable Development Patterns under the Influence of COVID-19
 * [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2334.md)
 * [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2335.md)
 
+## This article mentions these technologies
+
+* [antivirus software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1920.md)
+* [classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1917.md)
+* [offer workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1916.md)
+* [geographic information systems (gis) can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
+* [improve broadband availability and invest in digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1914.md)
+* [use firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1919.md)
+* [provide guidelines and resources for residents to engage in both virtual and physical community activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1915.md)
+* [online learning resources to enhance residents’ digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1918.md)
+* [encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1921.md)
+

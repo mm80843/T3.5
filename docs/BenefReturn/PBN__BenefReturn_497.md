@@ -2,3 +2,7 @@
 
 # __Improves access to care, reduces the risk of infection, and maintains continuity of care for patients.__
 
+## This return can be realized by these benefits
+
+* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_461.md)
+

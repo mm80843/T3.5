@@ -2,3 +2,7 @@
 
 # __Improved social and economic opportunities for residents, improved community cohesion__
 
+## This return can be realized by these benefits
+
+* [Reduced stigma and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_165.md)
+

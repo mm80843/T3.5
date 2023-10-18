@@ -6,7 +6,7 @@
 
 Quarantine and social distancing measures have been shown to effectively reduce the spread of SARS-CoV-2, leading to a decrease in the number of cases and a lower burden on healthcare systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in these measures can benefit from a healthier population, reduced healthcare costs, and a more stable economy, as the spread of diseases is mitigated and potential lockdown measures are minimized.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_33.md)
 * [Private investors investing in effective mitigation measures can contribute to reducing the transmission rate of the disease, protecting their investments in the built environment from the impact of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_842.md)
@@ -22,4 +22,10 @@ Quarantine and social distancing measures have been shown to effectively reduce 
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Quarantining cities and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_25.md)
+* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_893.md)
+* [Mitigation Function](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_771.md)
 

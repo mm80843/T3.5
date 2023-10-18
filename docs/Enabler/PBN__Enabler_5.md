@@ -8,7 +8,7 @@ enabler_006
 
 ## Category to which it belongs
 
-* [Internet-connected devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)
+* [Internet-connected devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)
 
 ## Closest similar item
 

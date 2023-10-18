@@ -50,3 +50,22 @@ El impacto del teletrabajo en tiempos del COVID-19
 * [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1710.md)
 * [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1709.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
+* [flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1406.md)
+* [ergonomic furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
+* [ergonomic chairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1399.md)
+* [adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
+* [communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
+* [virtual team-building activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1403.md)
+* [monitor risers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1401.md)
+* [time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
+* [time tracking software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1408.md)
+* [wrist supports](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1400.md)
+* [etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
+

@@ -6,7 +6,7 @@
 
 Allows for continued house viewings while adhering to social distancing guidelines, reduces the risk of exposure to the virus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Continued business operations, reduced risk for real estate professionals and clients](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_733.md)
 
@@ -18,4 +18,8 @@ Allows for continued house viewings while adhering to social distancing guidelin
 
 * [real estate agents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_284.md)
 * [home buyers/sellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_285.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of virtual house tours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_678.md)
 

@@ -36,7 +36,6 @@ Urban nature in a time of crisis: recreational use of green space increases duri
 * [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
 * [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2289.md)
 * [mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2292.md)
-* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
 * [Impact of reduced](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2291.md)
 
@@ -47,4 +46,12 @@ Urban nature in a time of crisis: recreational use of green space increases duri
 * [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
 * [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
 * [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2284.md)
+
+## This article mentions these technologies
+
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+* [improved sanitation and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1870.md)
+* [expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1875.md)
+* [platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
+* [suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1865.md)
 

@@ -6,7 +6,7 @@
 
 Government, as the client, to revise the contract to aid the contractor in claiming losses.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [By revising the contract to accommodate losses caused by the pandemic, contractors can protect their financial interests and ensure fair compensation for the impact on their operations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_627.md)
 
@@ -17,4 +17,8 @@ Government, as the client, to revise the contract to aid the contractor in claim
 ## Stakeholders benefitting from this Benefit
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Risks which can benefit from this action
+
+* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
 

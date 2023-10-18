@@ -6,7 +6,7 @@
 
 Reduced risk of virus transmission, improved access to transportation options
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased usage and revenue for shared mobility companies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1400.md)
 
@@ -17,4 +17,8 @@ Reduced risk of virus transmission, improved access to transportation options
 ## Stakeholders benefitting from this Benefit
 
 * [users of shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_485.md)
+
+## Risks which can benefit from this action
+
+* [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1261.md)
 

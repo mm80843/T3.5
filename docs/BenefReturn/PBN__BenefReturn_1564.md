@@ -2,3 +2,7 @@
 
 # __Protection of privacy rights, increased trust in smart city technologies__
 
+## This return can be realized by these benefits
+
+* [Ensured privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1377.md)
+

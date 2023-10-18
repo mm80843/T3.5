@@ -6,7 +6,7 @@
 
 Upgrading filters to a higher grade, such as MERV-13, increases their efficiency in removing particulates, including virus particles, from the air, reducing the risk of transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from implementing this measure by providing a safer indoor environment, reducing the risk of infection, and enhancing tenant satisfaction and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_209.md)
 
@@ -17,4 +17,8 @@ Upgrading filters to a higher grade, such as MERV-13, increases their efficiency
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_188.md)
 

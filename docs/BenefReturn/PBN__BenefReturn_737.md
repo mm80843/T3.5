@@ -2,3 +2,7 @@
 
 # __Improved public health outcomes, reduced transmission, better resource allocation__
 
+## This return can be realized by these benefits
+
+* [Improved equity in testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_689.md)
+

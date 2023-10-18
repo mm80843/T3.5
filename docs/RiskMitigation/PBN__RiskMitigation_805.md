@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
+* [Promote efficient and sustainable water practices, enhance infrastructure, and ensure access to clean water and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement IoT technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_201.md)
 * [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
 

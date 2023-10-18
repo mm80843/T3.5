@@ -6,7 +6,7 @@
 
 Offsite construction can help solve issues of labour shortages, low productivity, and social distancing, leading to increased productivity.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved project performance, reduced schedule variance, increased asset value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_395.md)
 * [Implementing telecommuting can lead to higher profitability for companies due to increased productivity and output from employees.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_570.md)
@@ -30,4 +30,11 @@ Offsite construction can help solve issues of labour shortages, low productivity
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
 * [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+
+## Risks which can benefit from this action
+
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
+* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_534.md)
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1012.md)
+* [Value engineering with lean construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_369.md)
 

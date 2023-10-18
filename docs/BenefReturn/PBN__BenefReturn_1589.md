@@ -2,3 +2,7 @@
 
 # __Improved treatment success rates, reduced risk of virus transmission__
 
+## This return can be realized by these benefits
+
+* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
+

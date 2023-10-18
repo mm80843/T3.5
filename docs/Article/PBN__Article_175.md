@@ -53,3 +53,24 @@ The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisatio
 * [Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1911.md)
 * [Ventilation Improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1913.md)
 
+## This article mentions these technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1504.md)
+* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
+* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
+* [healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1554.md)
+* [mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
+* [risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
+* [border control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1549.md)
+* [digital platforms for trade monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1551.md)
+* [urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
+* [personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
+

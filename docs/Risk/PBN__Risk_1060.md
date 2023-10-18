@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
+* [Challenges in building industry include lack of understanding, high costs, inadequate preparedness, and slow adoption of new technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
@@ -23,18 +23,18 @@
 
 Architects in Kuwait may not be applying energy conservation principles leading to inefficient building designs.
 
-## Property: has_RiskGBN
+## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Type of the risk
 
 
-## Property: has_RiskISO_Impact
+## Type of impact of the risk (according to ISO37100)
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskISO_Purpose
+## Type of purpose of the risk (according to ISO37100)
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 

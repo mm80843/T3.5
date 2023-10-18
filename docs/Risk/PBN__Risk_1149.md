@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
+* [The challenges include inadequate testing capacity, slow identification of cases, limited evidence, and variability in PCR methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
@@ -23,19 +23,19 @@
 
 PCR methods used for SARS-CoV-2 detection in wastewater may have limitations in terms of sensitivity and accuracy, especially in complex wastewater matrices.
 
-## Property: has_RiskGBN
+## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Type of the risk
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Impact
+## Type of impact of the risk (according to ISO37100)
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Property: has_RiskISO_Purpose
+## Type of purpose of the risk (according to ISO37100)
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_8.md)
 

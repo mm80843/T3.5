@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
+* [Promote sustainable development through infrastructure investments, training, diversification, financial support, and government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement countercyclical policies, support job creation in growing industries, and provide reemployment assistance and training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2631.md)
 * [Implement wealth redistribution measures, provide social safety nets, invest in education and training opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1952.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Job creation and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_292.md)
 

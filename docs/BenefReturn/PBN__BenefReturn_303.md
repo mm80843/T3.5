@@ -2,3 +2,8 @@
 
 # __Private investors benefit from a stable and growing economy, leading to increased investment opportunities and higher returns.__
 
+## This return can be realized by these benefits
+
+* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_285.md)
+* [Job creation and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_292.md)
+

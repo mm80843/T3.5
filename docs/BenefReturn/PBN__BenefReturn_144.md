@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from the improved accuracy of information, which can lead to increased trust, credibility, and user engagement with their platforms or services.__
 
+## This return can be realized by these benefits
+
+* [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
+

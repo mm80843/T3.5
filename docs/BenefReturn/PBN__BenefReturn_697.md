@@ -2,3 +2,7 @@
 
 # __Private investors in critical infrastructure benefit from increased asset value as their infrastructure is able to withstand and continue functioning during black swan events.__
 
+## This return can be realized by these benefits
+
+* [Improved continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_647.md)
+

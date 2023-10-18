@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from implementing these policies by reducing the spread of the disease, which can lead to a decrease in the burden on healthcare systems, lower healthcare costs, and a potential increase in economic stability and productivity.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

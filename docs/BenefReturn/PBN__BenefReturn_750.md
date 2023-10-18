@@ -2,3 +2,7 @@
 
 # __Ineffective in controlling the spread__
 
+## This return can be realized by these benefits
+
+* [Ineffective policy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_703.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
+* [Restricted availability of various resources, services, and data creates inequalities and obstacles in accessing them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
@@ -23,19 +23,19 @@
 
 Closure of shelters and limited availability of support services due to lockdown measures restricts access to safety and assistance for victims of intimate partner violence
 
-## Property: has_RiskGBN
+## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Type of the risk
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskISO_Impact
+## Type of impact of the risk (according to ISO37100)
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Property: has_RiskISO_Purpose
+## Type of purpose of the risk (according to ISO37100)
 
 * [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
 

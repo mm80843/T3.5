@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
+* [The toll of mental health harms, health harming behaviors, and the psychological impact of quarantine, fear, and anxiety has increased, affecting various populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_85.md)
 
 ## Closest similar item
 
@@ -23,18 +23,18 @@
 
 Exposure to greenspace is associated with improved mental health
 
-## Property: has_RiskGBN
+## Is the risk affecting GBN scales
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Type of the risk
 
 * [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
-## Property: has_RiskISO_Impact
+## Type of impact of the risk (according to ISO37100)
 
 
-## Property: has_RiskISO_Purpose
+## Type of purpose of the risk (according to ISO37100)
 
 
 ## Mitigations of this risk

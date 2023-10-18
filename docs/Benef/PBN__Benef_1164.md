@@ -6,7 +6,7 @@
 
 Facilitates remote monitoring of individuals in quarantine, ensures compliance, and provides support
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves containment measures, reduces transmission risk, and supports effective quarantine management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1295.md)
 
@@ -18,4 +18,8 @@ Facilitates remote monitoring of individuals in quarantine, ensures compliance, 
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1163.md)
 

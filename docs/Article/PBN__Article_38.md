@@ -64,3 +64,20 @@ Ten questions concerning occupant health in buildings during normal operations a
 * [Integration of IoT and AI Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
 * [Green and Sustainable Design Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
+* [insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [glare-reducing fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_196.md)
+* [adjustable lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_197.md)
+* [filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
+* [regular maintenance of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_193.md)
+* [adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
+* [individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
+* [partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_199.md)
+* [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
+

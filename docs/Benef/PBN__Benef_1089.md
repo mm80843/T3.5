@@ -6,7 +6,7 @@
 
 By reducing inter-personal contact, robots and drones minimize the risk of infection transmission to both medical professionals and patients.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in robots and drones can protect the health and safety of medical professionals, reduce the spread of COVID-19 in healthcare settings, and improve patient trust and satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1218.md)
 
@@ -18,4 +18,8 @@ By reducing inter-personal contact, robots and drones minimize the risk of infec
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+
+## Risks which can benefit from this action
+
+* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1099.md)
 

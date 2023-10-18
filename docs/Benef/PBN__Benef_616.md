@@ -6,7 +6,7 @@
 
 Lower risk of exposure to virus-laden microdroplets
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of infection, improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_658.md)
 
@@ -17,4 +17,7 @@ Lower risk of exposure to virus-laden microdroplets
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
 

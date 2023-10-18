@@ -6,7 +6,7 @@
 
 Access to nutritious food and reduced risk of undernutrition
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased health and well-being, improved economic productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1190.md)
 
@@ -18,4 +18,8 @@ Access to nutritious food and reduced risk of undernutrition
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Risks which can benefit from this action
+
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1070.md)
 

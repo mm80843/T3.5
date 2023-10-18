@@ -2,3 +2,7 @@
 
 # __Private investors investing in pandemic-resilient office building requirements can benefit from improved worker safety, reduced absenteeism, and increased productivity, leading to higher employee satisfaction, business continuity, and potential financial gains.__
 
+## This return can be realized by these benefits
+
+* [Ensure the sustainability of workplaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_607.md)
+

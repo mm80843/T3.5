@@ -2,3 +2,7 @@
 
 # __More innovative and effective treatment strategies and vaccines__
 
+## This return can be realized by these benefits
+
+* [Enhanced research effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)
+

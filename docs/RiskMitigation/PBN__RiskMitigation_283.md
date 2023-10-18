@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Promote collaboration and regionalization of educational teleconferences and resource sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1749.md)
 * [Develop alternative learning methods and strategies to reach children in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1496.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Continued access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_287.md)
 

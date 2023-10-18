@@ -31,7 +31,6 @@ COVID-19 and regional solutions for mitigating the risk of SME finance in select
 * [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
 * [Benefit title](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1364.md)
-* [--------------------](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1365.md)
 
 ## List of risks in an article
 
@@ -48,4 +47,12 @@ COVID-19 and regional solutions for mitigating the risk of SME finance in select
 * [Increasing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2081.md)
 * [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2082.md)
 * [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
+
+## This article mentions these technologies
+
+* [digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_217.md)
+* [online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1681.md)
+* [financial literacy and inclusion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1680.md)
+* [risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
+* [credit guarantee schemes (cgss)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1678.md)
 

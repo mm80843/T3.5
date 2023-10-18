@@ -2,3 +2,7 @@
 
 # __Improved public health response, reduced transmission, better control of outbreaks__
 
+## This return can be realized by these benefits
+
+* [Early warning of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_991.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
+* [Healthcare systems overwhelmed with limited resources, shortage of personnel, and inadequate infrastructure face challenges in providing accessible and quality care.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_91.md)
 
 ## Closest similar item
 
@@ -23,19 +23,19 @@
 
 High occupancy rates in healthcare facilities, leading to increased risk of TB transmission
 
-## Property: has_RiskGBN
+## Is the risk affecting GBN scales
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Type of the risk
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskISO_Impact
+## Type of impact of the risk (according to ISO37100)
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskISO_Purpose
+## Type of purpose of the risk (according to ISO37100)
 
 * [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
 

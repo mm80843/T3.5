@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2951.md)
 * [Diversify suppliers, build buffer stock, local production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1530.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Increased supply stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_785.md)
 

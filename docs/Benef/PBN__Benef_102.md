@@ -6,7 +6,7 @@
 
 Increased efficiency and coverage of temperature screening, linked to hospital information systems for monitoring
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_100.md)
 
@@ -18,4 +18,8 @@ Increased efficiency and coverage of temperature screening, linked to hospital i
 
 * [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+
+## Risks which can benefit from this action
+
+* [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_88.md)
 

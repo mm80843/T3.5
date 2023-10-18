@@ -6,7 +6,7 @@
 
 Wearables can track the effects of vaccination on the body, leading to personalized dosing strategies and better management of vaccine efficacy.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for wearables and data analysis services for vaccine monitoring and individualized dosing.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1047.md)
 
@@ -18,4 +18,8 @@ Wearables can track the effects of vaccination on the body, leading to personali
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring the effects of vaccination on the body using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_946.md)
 

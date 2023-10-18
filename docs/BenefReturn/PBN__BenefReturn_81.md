@@ -2,3 +2,7 @@
 
 # __Private investors in suburban landscape design would benefit from improved public health and the associated economic benefits of reduced healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_82.md)
+

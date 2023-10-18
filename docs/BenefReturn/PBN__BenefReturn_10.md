@@ -2,3 +2,7 @@
 
 # __Improved well-being and protection for victims and potential reduction in harm__
 
+## This return can be realized by these benefits
+
+* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
+

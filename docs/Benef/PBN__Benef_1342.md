@@ -6,7 +6,7 @@
 
 Proper cleaning and sanitization of surfaces can reduce the risk of transmission of SARS-CoV-2, protecting individuals from infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in hand washing facilities and education would see improved asset value by reducing the spread of disease in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1511.md)
 * [Private investors investing in sanitation services and supplies would see improved asset value by reducing the spread of disease in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1512.md)
@@ -18,4 +18,9 @@ Proper cleaning and sanitization of surfaces can reduce the risk of transmission
 ## Stakeholders benefitting from this Benefit
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
+* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1365.md)
 

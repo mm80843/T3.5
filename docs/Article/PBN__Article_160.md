@@ -45,3 +45,16 @@ Continuous IEQ monitoring system: Context and development
 * [IEQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1580.md)
 * [SAMBA](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1581.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
+* [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
+* [smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
+* [smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1254.md)
+* [energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1256.md)
+* [lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
+* [uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1253.md)
+* [personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1255.md)
+

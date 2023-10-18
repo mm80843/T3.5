@@ -74,3 +74,22 @@ The impact of COVID-19 outbreak on United Kingdom infrastructure sector
 * [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_899.md)
 * [Business return plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
 
+## This article mentions these technologies
+
+* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+* [supply chain management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
+* [financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+* [virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
+* [access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_329.md)
+* [video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
+* [video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_811.md)
+* [communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_810.md)
+* [online recruitment platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_813.md)
+* [online induction platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
+* [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
+* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
+

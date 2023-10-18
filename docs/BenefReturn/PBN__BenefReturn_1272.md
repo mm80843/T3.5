@@ -2,3 +2,7 @@
 
 # __Improved public health, reduced transmission rates, increased demand for the mobile application.__
 
+## This return can be realized by these benefits
+
+* [Increased awareness of COVID-19 risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1139.md)
+

@@ -6,7 +6,7 @@
 
 WBS can detect emerging local hotspots, allowing for empirical deployment of testing centers and targeted interventions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing WBS can lead to early detection and mitigation of disease outbreaks, reducing the spread and impact of the disease.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1350.md)
 
@@ -17,4 +17,8 @@ WBS can detect emerging local hotspots, allowing for empirical deployment of tes
 ## Stakeholders benefitting from this Benefit
 
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 

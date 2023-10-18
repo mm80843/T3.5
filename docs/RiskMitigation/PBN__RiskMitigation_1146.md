@@ -2,7 +2,7 @@
 
 # __Testing and validation of the expert system’s performance and accuracy__
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reliable and accurate early detection of COVID-19 risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1143.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The digital realm where individuals connect and share publicly, utilizing blockchain technology for social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_241.md)
+* [The digital realm where individuals connect and share publicly, utilizing blockchain technology for social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
 
 ## Closest similar item
 

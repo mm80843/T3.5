@@ -2,3 +2,7 @@
 
 # __Private investors can develop and offer cybersecurity solutions, increasing the value of their investment as healthcare facilities and users of healthcare technologies prioritize security and data protection.__
 
+## This return can be realized by these benefits
+
+* [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_40.md)
+

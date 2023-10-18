@@ -2,3 +2,7 @@
 
 # __Investment in cloud, edge, and fog computing infrastructure can enhance research capabilities, accelerate knowledge generation, and improve healthcare outcomes__
 
+## This return can be realized by these benefits
+
+* [Data storage and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_487.md)
+

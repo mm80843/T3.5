@@ -2,3 +2,7 @@
 
 # __Investing in self-health evaluation reduces the risk of COVID-19 outbreaks in the offshore workplace, protecting workers and ensuring business continuity.__
 
+## This return can be realized by these benefits
+
+* [Early detection of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_498.md)
+

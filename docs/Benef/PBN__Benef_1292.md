@@ -6,7 +6,7 @@
 
 Measures to promote occupant well-being and mental health, such as access to natural light, views, and greenery, can improve overall health, immunity, and resilience to infectious diseases.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved tenant satisfaction, higher productivity, and reduced healthcare costs due to improved well-being and mental health of building occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1459.md)
 
@@ -17,4 +17,8 @@ Measures to promote occupant well-being and mental health, such as access to nat
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of measures to promote occupant well-being and mental health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1312.md)
 

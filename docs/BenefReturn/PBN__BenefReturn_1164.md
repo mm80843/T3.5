@@ -2,3 +2,7 @@
 
 # __Private investors can benefit by investing in projects that implement digital and ICT tools for retail and neighborhood services, as it can lead to improved profitability and competitiveness in the retail sector.__
 
+## This return can be realized by these benefits
+
+* [Improved performance and customer experience in retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1043.md)
+

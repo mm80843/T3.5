@@ -2,3 +2,8 @@
 
 # __Improved public health outcomes, reduced healthcare costs__
 
+## This return can be realized by these benefits
+
+* [Enhanced community health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_900.md)
+* [Enhanced risk monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_905.md)
+

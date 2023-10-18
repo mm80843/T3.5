@@ -2,3 +2,7 @@
 
 # __Improved patient care leads to better health outcomes and potentially reduced healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Improved patient care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1390.md)
+

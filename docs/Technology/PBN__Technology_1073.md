@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
+* [A range of community-centered initiatives, programs, and strategies foster participation, collaboration, and social support for diverse groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 * [community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2954.md)
 * [community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1303.md)
+
+## This technology is mentioned by
+
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 
 ## This Technology enables the following mitigations
 

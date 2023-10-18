@@ -6,7 +6,7 @@
 
 Implementation of protocols ensures confidentiality and reduces the risk of breaches, enhancing trust between providers and clients
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved trust and reputation, leading to increased demand for telepsychiatry services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1378.md)
 
@@ -18,4 +18,8 @@ Implementation of protocols ensures confidentiality and reduces the risk of brea
 
 * [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
 * [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of confidentiality and risk management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1238.md)
 

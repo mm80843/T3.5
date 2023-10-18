@@ -6,7 +6,7 @@
 
 Air filtration devices effectively remove airborne SARS-CoV-2, reducing the risk of hospital-acquired infections.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in air filtration devices as it would improve patient safety and reduce healthcare costs associated with hospital-acquired infections.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1251.md)
 
@@ -18,4 +18,8 @@ Air filtration devices effectively remove airborne SARS-CoV-2, reducing the risk
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 

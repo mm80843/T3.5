@@ -6,7 +6,7 @@
 
 Modular construction enables fast and efficient
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Rapid response to pandemics and emergencies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1505.md)
 
@@ -18,4 +18,8 @@ Modular construction enables fast and efficient
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare workers,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_522.md)
+
+## Risks which can benefit from this action
+
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
 

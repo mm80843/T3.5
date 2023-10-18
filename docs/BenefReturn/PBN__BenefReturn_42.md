@@ -2,3 +2,7 @@
 
 # __Private investors can invest in 5G infrastructure, IoT device manufacturing, and spectrum sharing initiatives, contributing to expanded 5G coverage and connectivity.__
 
+## This return can be realized by these benefits
+
+* [Expanded 5G coverage and connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_42.md)
+

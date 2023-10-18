@@ -6,7 +6,7 @@
 
 Implementing measures such as droplet and contact transmission control, as well as appropriate disinfection, reduces the transmission of diseases and prevents the spread of infections
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in containment strategies can benefit from reduced economic disruptions and increased stability in affected areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_835.md)
 * [Private investors in healthcare institutions would benefit from improved public trust, increased patient demand, and reduced financial burden from potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1026.md)
@@ -21,4 +21,9 @@ Implementing measures such as droplet and contact transmission control, as well 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of containment strategies (quarantine)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_758.md)
+* [Reducing transmission routes of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_930.md)
 

@@ -47,3 +47,16 @@ The socio-economic determinants of COVID-19: A spatial analysis of German county
 * [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_599.md)
 * [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
 
+## This article mentions these technologies
+
+* [use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
+* [use of telemedicine for remote care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_560.md)
+* [implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_562.md)
+* [use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_558.md)
+* [use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
+* [implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
+* [implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
+* [use of digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_561.md)
+* [use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_563.md)
+* [implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
+

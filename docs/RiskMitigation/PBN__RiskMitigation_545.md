@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Optimize HVAC system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)
 * [Improve HVAC systems and thermal insulation to achieve a balance between supply and demand.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1913.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_533.md)
 

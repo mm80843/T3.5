@@ -6,7 +6,7 @@
 
 Social distancing measures for at-risk groups reduce their risk of severe outcomes from COVID-19 infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing social distancing measures for at-risk groups can help protect vulnerable populations and potentially reduce healthcare costs associated with severe cases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_360.md)
 
@@ -17,4 +17,8 @@ Social distancing measures for at-risk groups reduce their risk of severe outcom
 ## Stakeholders benefitting from this Benefit
 
 * [at-risk populations (e.g. elderly)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_163.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing of at-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_338.md)
 

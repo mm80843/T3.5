@@ -6,7 +6,7 @@
 
 NPI measures can lead to improved mental well-being by reducing transmission rates and providing a safer environment, resulting in lower incidence of mental diseases and domestic violence.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investments in mental health facilities and services, leading to increased demand and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_141.md)
 
@@ -17,4 +17,8 @@ NPI measures can lead to improved mental well-being by reducing transmission rat
 ## Stakeholders benefitting from this Benefit
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

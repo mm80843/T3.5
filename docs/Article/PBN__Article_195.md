@@ -56,3 +56,16 @@ Wearable technology and COVID-19
 * [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
 * [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_336.md)
 
+## This article mentions these technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
+* [ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
+* [governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_321.md)
+* [cost reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
+* [improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
+* [data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_316.md)
+* [government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_319.md)
+* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
+* [communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+

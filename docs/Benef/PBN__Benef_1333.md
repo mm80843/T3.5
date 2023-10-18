@@ -6,7 +6,7 @@
 
 Air filtration systems remove pollutants from the air
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and well-being of occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1503.md)
 
@@ -17,4 +17,8 @@ Air filtration systems remove pollutants from the air
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1355.md)
 

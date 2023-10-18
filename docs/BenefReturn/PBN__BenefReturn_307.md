@@ -2,3 +2,8 @@
 
 # __Private investors benefit from a more stable and equitable society, reducing social unrest and creating a conducive investment environment.__
 
+## This return can be realized by these benefits
+
+* [Poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_288.md)
+* [Reduced inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_293.md)
+

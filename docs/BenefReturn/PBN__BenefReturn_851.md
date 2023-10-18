@@ -2,3 +2,7 @@
 
 # __Positive global reputation, strengthened position in global climate negotiations, economic opportunities in green transition__
 
+## This return can be realized by these benefits
+
+* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
+

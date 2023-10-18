@@ -2,3 +2,7 @@
 
 # __Allows for targeted interventions, contact tracing, and efficient allocation of resources, improving control measures__
 
+## This return can be realized by these benefits
+
+* [Monitoring and tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1155.md)
+

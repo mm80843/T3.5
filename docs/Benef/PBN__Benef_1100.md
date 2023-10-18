@@ -6,7 +6,7 @@
 
 Increased investment in smart city infrastructure, adoption of 5G and 6G networks, increased penetration of teleworking and telemedicine, enhanced utilization of big data analytics
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better response to future pandemics, improved efficiency and productivity, enhanced well-being and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1229.md)
 
@@ -17,4 +17,8 @@ Increased investment in smart city infrastructure, adoption of 5G and 6G network
 ## Stakeholders benefitting from this Benefit
 
 * [society as a whole](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_437.md)
+
+## Risks which can benefit from this action
+
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1110.md)
 

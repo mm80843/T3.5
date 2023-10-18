@@ -6,7 +6,7 @@
 
 Rapid deployment of new healthcare applications and services can improve healthcare delivery, automate tasks, and provide up-to-date information to healthcare professionals and patients.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can develop and offer innovative healthcare applications and services, attracting healthcare providers and patients as customers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_36.md)
 
@@ -18,4 +18,8 @@ Rapid deployment of new healthcare applications and services can improve healthc
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_28.md)
 

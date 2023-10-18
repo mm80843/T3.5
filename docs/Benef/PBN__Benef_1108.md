@@ -6,7 +6,7 @@
 
 Collaboration between medical and data science professionals enhances data quality and management.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances the quality and reliability of research outcomes; facilitates data interpretation and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1240.md)
 
@@ -17,4 +17,8 @@ Collaboration between medical and data science professionals enhances data quali
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1119.md)
 

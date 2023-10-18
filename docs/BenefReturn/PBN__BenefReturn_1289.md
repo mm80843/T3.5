@@ -2,3 +2,7 @@
 
 # __Enhances public understanding, reduces panic, and promotes adherence to preventive measures__
 
+## This return can be realized by these benefits
+
+* [Combating misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1157.md)
+

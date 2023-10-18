@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_302.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [COVID-19 tracking apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1164.md)
 * [Continued research and development of drugs for the treatment of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3066.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Rapid and inexpensive tracking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1212.md)
 

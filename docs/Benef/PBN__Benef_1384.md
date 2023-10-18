@@ -6,7 +6,7 @@
 
 Using surveillance data to identify and discourage activities such as hoarding
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Public order maintenance, discouragement of undesirable behavior](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1571.md)
 
@@ -18,4 +18,8 @@ Using surveillance data to identify and discourage activities such as hoarding
 
 * [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
 * [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
+
+## Risks which can benefit from this action
+
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1410.md)
 

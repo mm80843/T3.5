@@ -6,7 +6,7 @@
 
 Ability to vaccinate a large number of people efficiently, reducing wait times and increasing access to vaccinations.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved patient satisfaction and public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_219.md)
 
@@ -17,4 +17,8 @@ Ability to vaccinate a large number of people efficiently, reducing wait times a
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare providers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_120.md)
+
+## Risks which can benefit from this action
+
+* [Design and implement mass vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_198.md)
 

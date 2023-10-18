@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_935.md)
 * [Stay updated on laws and regulations, implement appropriate compliance measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2787.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Prevent community transmission and protect national economies by maintaining open and safe workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_604.md)
 

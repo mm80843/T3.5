@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Strategic approaches that promote adaptability and durability in the field of design.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)
+* [Strategic approaches that promote adaptability and durability in the field of design.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Closest similar item
 

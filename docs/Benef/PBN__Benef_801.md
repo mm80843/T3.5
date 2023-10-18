@@ -6,7 +6,7 @@
 
 SAMBA provides a standardised and efficient method of gathering IEQ data, reducing the costs and time associated with measurement protocols
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing the SAMBA system reduces operational costs and improves efficiency, enhancing the return on investment for building owners.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_870.md)
 
@@ -17,4 +17,8 @@ SAMBA provides a standardised and efficient method of gathering IEQ data, reduci
 ## Stakeholders benefitting from this Benefit
 
 * [building owners or portfolio managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_324.md)
+
+## Risks which can benefit from this action
+
+* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
 

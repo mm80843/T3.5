@@ -2,3 +2,7 @@
 
 # __Reduced burden on healthcare system and improved patient outcomes__
 
+## This return can be realized by these benefits
+
+* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1309.md)
+

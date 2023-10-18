@@ -2,3 +2,7 @@
 
 # __Private investors benefit from healthier populations, reduced healthcare costs, and increased economic stability.__
 
+## This return can be realized by these benefits
+
+* [Public health improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1228.md)
+

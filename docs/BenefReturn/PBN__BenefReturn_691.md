@@ -2,3 +2,7 @@
 
 # __Remote healthcare reduces virus exposure, maintains healthcare access, and prevents further spread, improving public health outcomes__
 
+## This return can be realized by these benefits
+
+* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_642.md)
+

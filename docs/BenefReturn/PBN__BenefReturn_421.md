@@ -2,3 +2,7 @@
 
 # __Investing in recruitment and relocation of healthcare personnel can enhance the hospital’s capabilities, improve patient outcomes, and potentially attract more patients.__
 
+## This return can be realized by these benefits
+
+* [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
+

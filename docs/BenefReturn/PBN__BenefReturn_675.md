@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from a skilled and adaptable workforce, reduced unemployment rates, and potential investment opportunities in emerging sectors.__
 
+## This return can be realized by these benefits
+
+* [Improved labour market outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_632.md)
+

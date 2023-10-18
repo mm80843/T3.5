@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Connected technology for medical facilities, as well as applications and services for mobile healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_23.md)
+* [Connected technology for medical facilities, as well as applications and services for mobile healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Improved access to public space, reduced disparities, enhanced social inclusion
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved quality of life, reduced social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1403.md)
 
@@ -24,4 +24,8 @@ Improved access to public space, reduced disparities, enhanced social inclusion
 * [low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_490.md)
 * [racial minorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_488.md)
 * [homeless](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_469.md)
+
+## Risks which can benefit from this action
+
+* [Incorporating the needs of vulnerable groups in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1264.md)
 

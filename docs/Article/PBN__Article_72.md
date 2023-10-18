@@ -50,3 +50,16 @@ Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model
 * [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_750.md)
 * [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 
+## This article mentions these technologies
+
+* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
+* [budgeting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_691.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [quality control tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_692.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [process optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_694.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
+* [lean construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_693.md)
+* [health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
+

@@ -6,7 +6,7 @@
 
 Allowing patients to authorize access to their medical records improves their control over personal data and ensures privacy and autonomy.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased patient satisfaction and trust in healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_425.md)
 
@@ -17,4 +17,8 @@ Allowing patients to authorize access to their medical records improves their co
 ## Stakeholders benefitting from this Benefit
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_400.md)
 

@@ -6,7 +6,7 @@
 
 Continuous collection and processing of large volumes of data from each person can enhance individualized decision-making, leading to more accurate predictions about infected individuals.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit from investing in the development of data processing technologies and infrastructure, as it would be in high demand by healthcare agencies, leading to potential profit and asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1585.md)
 
@@ -17,4 +17,8 @@ Continuous collection and processing of large volumes of data from each person c
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_543.md)
+
+## Risks which can benefit from this action
+
+* [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1427.md)
 

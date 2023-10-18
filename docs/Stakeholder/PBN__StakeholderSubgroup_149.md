@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [People who receive regular updates or have access to certain content, usually by subscribing to a service or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_288.md)
+* [People who receive regular updates or have access to certain content, usually by subscribing to a service or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_281.md)
 
 ## Closest similar item
 

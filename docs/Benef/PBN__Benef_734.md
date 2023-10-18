@@ -6,7 +6,7 @@
 
 Non-pharmaceutical interventions stabilize the economy by reducing the spread of the virus and allowing businesses to operate more normally.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a stable economic environment, which increases the value of their assets and investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_792.md)
 
@@ -18,4 +18,8 @@ Non-pharmaceutical interventions stabilize the economy by reducing the spread of
 
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
 

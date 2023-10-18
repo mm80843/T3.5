@@ -6,7 +6,7 @@
 
 WBS can detect the presence of pathogens and estimate population prevalence without invasive individual testing, helping inform the deployment of testing centers and interventions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing WBS can provide accurate data on population prevalence, allowing for more targeted interventions and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1348.md)
 
@@ -18,4 +18,8 @@ WBS can detect the presence of pathogens and estimate population prevalence with
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 

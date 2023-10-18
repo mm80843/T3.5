@@ -6,7 +6,7 @@
 
 Wuhan travel ban delayed arrival of COVID-19 in other cities by 2.91 days
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementation of travel restrictions reduces the risk of transmission, protecting the population and preventing further spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1056.md)
 
@@ -17,4 +17,8 @@ Wuhan travel ban delayed arrival of COVID-19 in other cities by 2.91 days
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 

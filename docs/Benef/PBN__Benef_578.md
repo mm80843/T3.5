@@ -6,7 +6,7 @@
 
 Improved ability to track and control the spread of the virus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in the deployment of latest technologies by reducing the economic impact of the pandemic and preventing healthcare system overload.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_631.md)
 
@@ -18,4 +18,8 @@ Improved ability to track and control the spread of the virus
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Deploying latest technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_584.md)
 

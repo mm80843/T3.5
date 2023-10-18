@@ -6,7 +6,7 @@
 
 Significant reduction in
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in traffic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1330.md)
 
@@ -17,4 +17,8 @@ Significant reduction in
 ## Stakeholders benefitting from this Benefit
 
 * [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+
+## Risks which can benefit from this action
+
+* [Traffic restriction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1191.md)
 

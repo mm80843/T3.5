@@ -55,3 +55,10 @@ Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability
 * [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2365.md)
 * [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2367.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
+* [ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1932.md)
+* [infectivity tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1934.md)
+

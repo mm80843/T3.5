@@ -6,7 +6,7 @@
 
 Implementing the SAMBA system demonstrates commitment to sustainability and improved IEQ, differentiating the property from competitors and attracting tenants seeking high-quality spaces
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in the SAMBA system enhances the reputation of the property and attracts high-quality tenants, increasing property value and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_872.md)
 
@@ -17,4 +17,8 @@ Implementing the SAMBA system demonstrates commitment to sustainability and impr
 ## Stakeholders benefitting from this Benefit
 
 * [commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)
+
+## Risks which can benefit from this action
+
+* [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ensuring cleanliness and preventing the spread of germs through standardized procedures and practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_303.md)
+* [Ensuring cleanliness and preventing the spread of germs through standardized procedures and practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_296.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_141.md)
 * [proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_142.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
 * [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)

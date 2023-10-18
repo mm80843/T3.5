@@ -2,3 +2,7 @@
 
 # __Private investors benefit from a more inclusive and diverse workforce, enhancing productivity and innovation in various industries.__
 
+## This return can be realized by these benefits
+
+* [Gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_290.md)
+

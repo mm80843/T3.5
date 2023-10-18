@@ -6,7 +6,7 @@
 
 Stringency measures can effectively reduce transmission and lower the infection rate, leading to a decrease in the number of infections.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in stringency measures can contribute to reducing the risk of infections and the associated economic costs, thus protecting their investments in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_840.md)
 
@@ -17,4 +17,8 @@ Stringency measures can effectively reduce transmission and lower the infection 
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Stringency Index](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_769.md)
 

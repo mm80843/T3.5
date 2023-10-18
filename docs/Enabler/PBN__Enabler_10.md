@@ -8,7 +8,7 @@ enabler_011
 
 ## Category to which it belongs
 
-* [Navigational system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_70.md)
+* [Navigational system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_60.md)
 
 ## Closest similar item
 

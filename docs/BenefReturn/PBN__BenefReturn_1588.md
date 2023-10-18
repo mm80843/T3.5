@@ -2,3 +2,7 @@
 
 # __Improved safety and health outcomes, reduced risk of infection__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+

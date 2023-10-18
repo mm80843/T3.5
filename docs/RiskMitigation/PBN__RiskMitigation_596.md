@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_304.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Virtual reality-based therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2740.md)
 * [Using wearables to manage symptoms and identify overexertion in individuals with long COVID](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Thrombotic complications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_594.md)
 

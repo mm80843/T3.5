@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
+* [Enhancing air quality through effective air filtration, ventilation, and pollution reduction strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_188.md)
 * [Using high-efficiency air filters (such as MERV-13 or HEPA filters), regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2388.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduces risk of contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_775.md)
 * [Reduces risk of spreading other infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_776.md)

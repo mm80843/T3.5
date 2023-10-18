@@ -2,3 +2,7 @@
 
 # __Private investors investing in this measure would benefit from reduced liability and risk, improved safety ratings, and increased asset attractiveness.__
 
+## This return can be realized by these benefits
+
+* [Minimized disease transmission through shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_331.md)
+

@@ -6,7 +6,7 @@
 
 Increased access to accurate and timely information for non-Taiwanese citizens
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in multilingual communication can improve public understanding, enhance trust, and facilitate compliance with public health measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_107.md)
 
@@ -18,4 +18,8 @@ Increased access to accurate and timely information for non-Taiwanese citizens
 
 * [non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_71.md)
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risks which can benefit from this action
+
+* [Communication in multiple languages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_95.md)
 

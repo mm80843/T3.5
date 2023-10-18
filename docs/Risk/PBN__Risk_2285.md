@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
+* [The spread of diseases through various methods, including contact, droplets, and contaminated surfaces, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
@@ -23,17 +23,17 @@
 
 diseases in the built environment
 
-## Property: has_RiskGBN
+## Is the risk affecting GBN scales
 
 
-## Property: has_RiskHealth
+## Type of the risk
 
 
-## Property: has_RiskISO_Impact
+## Type of impact of the risk (according to ISO37100)
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Property: has_RiskISO_Purpose
+## Type of purpose of the risk (according to ISO37100)
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
 

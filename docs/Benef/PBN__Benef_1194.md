@@ -6,7 +6,7 @@
 
 Continuously active antimicrobial coating shows efficacy against coronavirus, reducing its spread
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced business disruptions, improved public health, increased asset value through reputation and tenant retention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1329.md)
 
@@ -19,4 +19,8 @@ Continuously active antimicrobial coating shows efficacy against coronavirus, re
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [commercial facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_466.md)
+
+## Risks which can benefit from this action
+
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
 

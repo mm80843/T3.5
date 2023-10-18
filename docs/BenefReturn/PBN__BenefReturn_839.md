@@ -2,3 +2,7 @@
 
 # __Economic recovery and decreased social and economic impact of the pandemic__
 
+## This return can be realized by these benefits
+
+* [Improved adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_771.md)
+

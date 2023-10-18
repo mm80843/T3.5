@@ -48,3 +48,6 @@ What our response to the COVID-19 pandemic tells us of our capacity to respond t
 * [Permanent Transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_686.md)
 * [Tailored Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_687.md)
 
+## This article mentions these technologies
+
+

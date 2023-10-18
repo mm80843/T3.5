@@ -51,3 +51,13 @@ Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide
 * [Cancer surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_592.md)
 * [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [mobile healthcare clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_543.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [geographic information systems (gis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_541.md)
+* [spatial analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_542.md)
+* [transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+

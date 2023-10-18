@@ -6,7 +6,7 @@
 
 VR allows for practice with complex cases and creates an analogous environment for better learning and handling of COVID-19 cases
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved skills and ability to handle COVID-19 cases, leading to better patient outcomes and reduced errors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1247.md)
 
@@ -17,4 +17,8 @@ VR allows for practice with complex cases and creates an analogous environment f
 ## Stakeholders benefitting from this Benefit
 
 * [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+
+## Risks which can benefit from this action
+
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1126.md)
 

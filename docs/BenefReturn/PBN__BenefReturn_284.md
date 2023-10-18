@@ -2,3 +2,7 @@
 
 # __Investing in such studies can lead to the development of more effective prevention and control strategies, benefiting public health and potentially reducing healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Enhanced understanding of virus transmission mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_272.md)
+

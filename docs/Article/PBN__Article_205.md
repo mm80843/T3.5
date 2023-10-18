@@ -46,3 +46,11 @@ First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A 
 * [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
 * [Robust RT-qPCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
 
+## This article mentions these technologies
+
+* [improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
+* [improved virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_59.md)
+* [monte carlo simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_60.md)
+* [proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
+* [ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_62.md)
+

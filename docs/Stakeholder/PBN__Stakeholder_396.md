@@ -4,18 +4,13 @@
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
-* [----------------------](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1002.md)
 
 ## Category to which it belongs
 
-* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
-* [------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1548.md)
-* [---------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1524.md)
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
-* [------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1017.md)
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [eu](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_318.md)
 * [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)

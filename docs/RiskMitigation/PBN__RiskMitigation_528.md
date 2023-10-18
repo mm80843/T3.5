@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
 * [Implementing social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_284.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
 

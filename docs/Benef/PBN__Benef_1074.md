@@ -6,7 +6,7 @@
 
 Allows for implementation of measures such as improved ventilation and sanitation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of disease transmission, increased user satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1200.md)
 
@@ -18,4 +18,8 @@ Allows for implementation of measures such as improved ventilation and sanitatio
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+
+## Risks which can benefit from this action
+
+* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
 

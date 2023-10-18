@@ -6,7 +6,7 @@
 
 Ensures stability of employment, reduces anxiety and financial stress
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Provides stability and increases job satisfaction, leading to increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1315.md)
 
@@ -17,4 +17,8 @@ Ensures stability of employment, reduces anxiety and financial stress
 ## Stakeholders benefitting from this Benefit
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+
+## Risks which can benefit from this action
+
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
 

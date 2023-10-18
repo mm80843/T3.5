@@ -6,7 +6,7 @@
 
 Reduction in air pollutants from private vehicles, leading to improved air quality and reduced risk of COVID-19 transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from increased demand for public transportation and associated infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_198.md)
 
@@ -17,4 +17,8 @@ Reduction in air pollutants from private vehicles, leading to improved air quali
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_176.md)
 

@@ -6,7 +6,7 @@
 
 Spending time in domestic gardens during COVID-19 lockdown is associated with better self-reported sleep quality among older adults.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in the development and maintenance of domestic gardens can benefit from increased asset value due to improved sleep quality outcomes of older adults.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1320.md)
 
@@ -17,4 +17,8 @@ Spending time in domestic gardens during COVID-19 lockdown is associated with be
 ## Stakeholders benefitting from this Benefit
 
 * [older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_461.md)
+
+## Risks which can benefit from this action
+
+* [Spending time in domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1184.md)
 

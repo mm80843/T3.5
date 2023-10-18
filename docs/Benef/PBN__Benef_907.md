@@ -6,7 +6,7 @@
 
 Seamless coordination of care, improved care transitions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced patient experience, improved health outcomes, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_992.md)
 
@@ -18,4 +18,8 @@ Seamless coordination of care, improved care transitions
 
 * [elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_336.md)
 * [people with multimorbidity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_359.md)
+
+## Risks which can benefit from this action
+
+* [Integration of primary, hospital, long term, and social care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_905.md)
 

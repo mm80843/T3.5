@@ -6,7 +6,7 @@
 
 Measuring indoor humidity can help establish the relationship between indoor and outdoor environmental conditions, aiding in the interpretation of epidemiological studies on influenza incidence.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in indoor humidity measurements can contribute to more accurate assessments of the impact of environmental conditions on influenza transmission, informing public health strategies and interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_285.md)
 
@@ -17,4 +17,8 @@ Measuring indoor humidity can help establish the relationship between indoor and
 ## Stakeholders benefitting from this Benefit
 
 * [researchers/public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_138.md)
+
+## Risks which can benefit from this action
+
+* [Indoor humidity measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_262.md)
 

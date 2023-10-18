@@ -49,3 +49,15 @@ Persistence of coronaviruses on inanimate surfaces and their inactivation with b
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
 * [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_934.md)
 
+## This article mentions these technologies
+
+* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+* [hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
+* [biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
+* [hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_857.md)
+* [education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_858.md)
+* [alcohols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_851.md)
+* [ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_853.md)
+* [glutardialdehyde](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
+* [alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_856.md)
+

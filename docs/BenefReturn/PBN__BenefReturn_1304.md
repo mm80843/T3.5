@@ -2,3 +2,7 @@
 
 # __Improved response to infectious diseases, better outbreak management, increased public trust in reporting systems.__
 
+## This return can be realized by these benefits
+
+* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
+

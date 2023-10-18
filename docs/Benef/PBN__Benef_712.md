@@ -6,7 +6,7 @@
 
 Enables remote onboarding and training of new staff members
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduction in recruitment and induction costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_764.md)
 
@@ -17,4 +17,8 @@ Enables remote onboarding and training of new staff members
 ## Stakeholders benefitting from this Benefit
 
 * [new staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_295.md)
+
+## Risks which can benefit from this action
+
+* [Virtual induction and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_709.md)
 

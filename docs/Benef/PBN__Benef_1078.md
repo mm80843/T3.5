@@ -6,7 +6,7 @@
 
 Allows for customization of lighting levels based on different uses and requirements
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased energy efficiency, improved user experience](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1204.md)
 
@@ -18,4 +18,8 @@ Allows for customization of lighting levels based on different uses and requirem
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+
+## Risks which can benefit from this action
+
+* [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1085.md)
 

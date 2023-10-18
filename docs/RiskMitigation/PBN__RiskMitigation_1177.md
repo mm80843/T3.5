@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3027.md)
 * [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_426.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improvement in mood disorders](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1177.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Indoor environment control solutions, involving monitoring and improving air quality, filtration, purification, HVAC, and waste management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_43.md)
+* [Indoor environment control solutions, involving monitoring and improving air quality, filtration, purification, HVAC, and waste management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_33.md)
 
 ## Closest similar item
 

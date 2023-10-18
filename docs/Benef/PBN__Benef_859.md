@@ -6,7 +6,7 @@
 
 Avoidance of ineffective or harmful treatments, ensuring patient safety and well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced healthcare costs, improved patient outcomes, potential economic benefits from avoiding unnecessary treatments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_936.md)
 
@@ -18,4 +18,8 @@ Avoidance of ineffective or harmful treatments, ensuring patient safety and well
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Stringent evaluation of preprints](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_855.md)
 

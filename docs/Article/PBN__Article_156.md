@@ -54,3 +54,17 @@ Borders and Catastrophe: lessons from COVID-19 for the European Green Deal
 * [Creation of rescEU stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
 * [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1004.md)
 
+## This article mentions these technologies
+
+* [fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
+* [improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
+* [public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
+* [targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
+* [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
+* [standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
+* [improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_886.md)
+* [improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_887.md)
+* [economic diversification strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
+* [increased production and stockpiling of medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_888.md)
+* [targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_893.md)
+

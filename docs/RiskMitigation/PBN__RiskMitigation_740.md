@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
 * [Collect and analyze data on human movement patterns using mobile phone call data records and other sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_559.md)
 

@@ -2,3 +2,7 @@
 
 # __Implementing social distancing measures can help prevent the spread of COVID-19, protecting the population and potentially reducing healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

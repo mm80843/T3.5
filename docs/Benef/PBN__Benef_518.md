@@ -6,7 +6,7 @@
 
 Stronger collaboration between government and residents fosters a sense of empowerment and active participation in decision-making processes.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased community resilience and cohesion, leading to improved social outcomes and potential long-term value appreciation for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_567.md)
 
@@ -17,4 +17,8 @@ Stronger collaboration between government and residents fosters a sense of empow
 ## Stakeholders benefitting from this Benefit
 
 * [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+
+## Risks which can benefit from this action
+
+* [Robust government support and partnership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_531.md)
 

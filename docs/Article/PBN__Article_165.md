@@ -46,3 +46,16 @@ Questioning the use of the balcony in apartments during the COVID-19 pandemic pr
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
 * [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
 
+## This article mentions these technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
+* [smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
+* [mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
+* [automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
+* [digital supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_210.md)
+

@@ -6,7 +6,7 @@
 
 WBE surveillance can provide additional data on the prevalence of COVID-19 cases, including both symptomatic and asymptomatic individuals.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Accurate estimation of cases can inform public health strategies and resource allocation, attracting more funding and collaboration opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_964.md)
 
@@ -18,4 +18,8 @@ WBE surveillance can provide additional data on the prevalence of COVID-19 cases
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Risks which can benefit from this action
+
+* [WBE surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
 

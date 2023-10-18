@@ -6,7 +6,7 @@
 
 Search and browse interfaces provide efficient access to the knowledge stored in OpenKG-COVID19, enabling users to quickly locate and understand relevant information about COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from time-saving access to up-to-date information, allowing for faster decision-making and potentially reducing information asymmetry.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_131.md)
 
@@ -18,4 +18,8 @@ Search and browse interfaces provide efficient access to the knowledge stored in
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Search and browse interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_113.md)
 

@@ -6,7 +6,7 @@
 
 Good planning leads to sustainable development, ensuring economic stability and growth.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a stable and growing economy, leading to increased investment opportunities and higher returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_303.md)
 
@@ -17,4 +17,8 @@ Good planning leads to sustainable development, ensuring economic stability and 
 ## Stakeholders benefitting from this Benefit
 
 * [all economic actors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_144.md)
+
+## Risks which can benefit from this action
+
+* [Strengthening planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_280.md)
 

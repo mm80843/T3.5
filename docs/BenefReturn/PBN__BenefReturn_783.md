@@ -2,3 +2,7 @@
 
 # __Maintain business operations and support local commerce__
 
+## This return can be realized by these benefits
+
+* [Transposition of open markets to a virtual environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_729.md)
+

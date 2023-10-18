@@ -6,7 +6,7 @@
 
 Color and design elements make signs more noticeable and eye-catching, increasing their impact and effectiveness
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Eye-catching signs are more likely to grab customers’ attention, increasing their awareness of and engagement with social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_868.md)
 
@@ -18,4 +18,8 @@ Color and design elements make signs more noticeable and eye-catching, increasin
 
 * [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
 * [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
+
+## Risks which can benefit from this action
+
+* [Use of color and design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_796.md)
 

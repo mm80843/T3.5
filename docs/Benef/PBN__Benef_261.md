@@ -6,7 +6,7 @@
 
 Designing spaces with diverse human occupancy can encourage the colonization of a diverse range of microbial taxa, contributing to a more balanced and resilient indoor microbiome.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in designing spaces with diverse human occupancy can create a healthier and more sustainable indoor environment, improving the reputation and value of the building.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_273.md)
 
@@ -17,4 +17,8 @@ Designing spaces with diverse human occupancy can encourage the colonization of 
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 

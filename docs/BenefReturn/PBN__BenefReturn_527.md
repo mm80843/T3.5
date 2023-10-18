@@ -2,3 +2,7 @@
 
 # __Investment in wearable technology for contact tracing can help control outbreaks, minimize economic disruption, and protect public health__
 
+## This return can be realized by these benefits
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_484.md)
+

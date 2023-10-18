@@ -2,3 +2,7 @@
 
 # __Effective response to the pandemic, reduced transmission, and improved healthcare services__
 
+## This return can be realized by these benefits
+
+* [Efficient management of Covid-19 crisis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_160.md)
+

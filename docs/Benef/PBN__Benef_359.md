@@ -6,7 +6,7 @@
 
 Providing safe water, sanitation, and hygienic conditions can prevent the transmission of COVID-19 and other infectious diseases, protecting the health of individuals and communities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by investing in improving water, sanitation, and hygiene infrastructure, as it would increase the desirability and value of properties in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_386.md)
 
@@ -18,4 +18,8 @@ Providing safe water, sanitation, and hygienic conditions can prevent the transm
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [workers handling human waste and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_174.md)
+
+## Risks which can benefit from this action
+
+* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
 

@@ -8,7 +8,7 @@ enabler_023
 
 ## Category to which it belongs
 
-* [Immersive digital experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)
+* [Immersive digital experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_72.md)
 
 ## Closest similar item
 

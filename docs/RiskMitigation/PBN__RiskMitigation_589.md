@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -18,7 +18,7 @@
 * [Implement crowd control measures, promote social distancing in crowded areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2473.md)
 * [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Real-time detection of social distancing violations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_585.md)
 * [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_586.md)

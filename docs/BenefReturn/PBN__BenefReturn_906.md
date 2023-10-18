@@ -2,3 +2,7 @@
 
 # __Enhanced provider well-being, reduced burnout, and improved patient care, leading to increased work satisfaction and retention__
 
+## This return can be realized by these benefits
+
+* [Improved provider well-being and performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_834.md)
+

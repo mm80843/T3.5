@@ -6,7 +6,7 @@
 
 WBE can provide early warnings for community-wide emergence, resurgence, and elimination of Covid-19, helping to control the spread and allocate healthcare resources more effectively.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in WBE can benefit from improved public health outcomes, reduced economic damage, and potential financial returns from the implementation of WBE technologies and systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1139.md)
 
@@ -19,4 +19,8 @@ WBE can provide early warnings for community-wide emergence, resurgence, and eli
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1021.md)
 

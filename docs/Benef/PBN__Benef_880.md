@@ -6,7 +6,7 @@
 
 Combining PCR methods with biomarker measurements will provide a more comprehensive understanding of virus transmission and detection in wastewater.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Comprehensive analysis will lead to better insights and more accurate data, increasing the value of research findings and attracting more funding and collaboration opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_961.md)
 
@@ -17,4 +17,8 @@ Combining PCR methods with biomarker measurements will provide a more comprehens
 ## Stakeholders benefitting from this Benefit
 
 * [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
+
+## Risks which can benefit from this action
+
+* [Combination of PCR methods and biomarker measurements (ELISA, MS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_879.md)
 

@@ -2,3 +2,7 @@
 
 # __Upholding democratic principles, ensuring political stability, maintaining public trust in institutions__
 
+## This return can be realized by these benefits
+
+* [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_781.md)
+

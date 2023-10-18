@@ -6,7 +6,7 @@
 
 Preventing misinformation and miscommunication of medical data builds trust in the healthcare system and increases public confidence in the information provided.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced reputation and credibility for healthcare organizations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_423.md)
 
@@ -18,4 +18,8 @@ Preventing misinformation and miscommunication of medical data builds trust in t
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+
+## Risks which can benefit from this action
+
+* [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_398.md)
 

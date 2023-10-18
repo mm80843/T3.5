@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_307.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3397.md)
 * [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_866.md)
 * [Increase in public knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1046.md)

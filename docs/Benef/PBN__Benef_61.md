@@ -6,7 +6,7 @@
 
 Development of efficient bioinformatics tools enables the integration and analysis of heterogeneous data, improving effectiveness in discovering effective measures against coronaviruses.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the improved efficiency in data analysis, leading to faster and more accurate identification of effective measures against coronaviruses, potentially resulting in valuable products or treatments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_61.md)
 
@@ -18,4 +18,8 @@ Development of efficient bioinformatics tools enables the integration and analys
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+
+## Risks which can benefit from this action
+
+* [Development of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_54.md)
 

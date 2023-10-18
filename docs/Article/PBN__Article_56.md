@@ -59,3 +59,21 @@ RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR 
 * [Zoned Air Conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
 * [Redundant Wet Cells](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2017.md)
 
+## This article mentions these technologies
+
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
+* [digital mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1634.md)
+* [developing new ppe technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1630.md)
+* [automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1633.md)
+* [blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1632.md)
+* [improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1629.md)
+* [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
+* [uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
+* [scaling up production capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1628.md)
+* [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [public health communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1635.md)
+* [improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1631.md)
+

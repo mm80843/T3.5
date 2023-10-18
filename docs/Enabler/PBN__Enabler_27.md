@@ -8,7 +8,7 @@ enabler_028
 
 ## Category to which it belongs
 
-* [Building information modeling (BIM) facilitates the development and construction of designs through specialized software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_87.md)
+* [Building information modeling (BIM) facilitates the development and construction of designs through specialized software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_77.md)
 
 ## Closest similar item
 

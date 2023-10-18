@@ -6,7 +6,7 @@
 
 Improves resilience and sustainability of the supply chain, reduces dependency on overseas suppliers
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced supply chain resilience, reduced risk of disruption](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_732.md)
 
@@ -18,4 +18,8 @@ Improves resilience and sustainability of the supply chain, reduces dependency o
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
+
+## Risks which can benefit from this action
+
+* [Increased investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_677.md)
 

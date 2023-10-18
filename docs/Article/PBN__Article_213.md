@@ -61,3 +61,15 @@ Wastewater surveillance for population-wide Covid-19: The present and future
 * [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_511.md)
 * [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
 
+## This article mentions these technologies
+
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
+* [communication methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_465.md)
+* [standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
+* [standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_466.md)
+* [research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
+* [open-source platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
+* [development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_464.md)
+

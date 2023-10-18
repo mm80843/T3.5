@@ -6,7 +6,7 @@
 
 Maximizes utilization of parking area, reduces need for additional expansion
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased efficiency in car parking development, potential for additional revenue from increased capacity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1211.md)
 
@@ -17,4 +17,8 @@ Maximizes utilization of parking area, reduces need for additional expansion
 ## Stakeholders benefitting from this Benefit
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Risks which can benefit from this action
+
+* [Research and study on implementation of smart car parking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1092.md)
 

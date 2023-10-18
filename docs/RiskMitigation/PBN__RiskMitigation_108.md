@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Regular maintenance and calibration of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2003.md)
 * [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2531.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Indoor environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_125.md)
 

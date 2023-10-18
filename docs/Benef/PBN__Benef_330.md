@@ -6,7 +6,7 @@
 
 By transforming underused public places into spaces for essential uses, such as food distribution or temporary healthcare services, the support for essential sectors is enhanced. This ensures continuity of critical services and contributes to overall resilience.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from potential rental income or leasing agreements with essential sector organizations, leading to increased revenue and asset utilization.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_347.md)
 
@@ -18,4 +18,8 @@ By transforming underused public places into spaces for essential uses, such as 
 
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [essential sector workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_154.md)
+
+## Risks which can benefit from this action
+
+* [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_326.md)
 

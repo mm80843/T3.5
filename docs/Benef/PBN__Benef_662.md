@@ -6,7 +6,7 @@
 
 AI-powered chatbots and visual sensors can assist in remote patient monitoring, reducing the burden on clinicians and improving patient management in resource-limited settings.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare facilities would benefit from reduced workload on clinicians and improved patient management, leading to increased efficiency and potentially improved patient outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_708.md)
 
@@ -18,4 +18,8 @@ AI-powered chatbots and visual sensors can assist in remote patient monitoring, 
 
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [AI for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
 

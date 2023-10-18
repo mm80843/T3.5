@@ -6,7 +6,7 @@
 
 Providing sufficient PPE reduces the risk of infection among workers, ensuring their safety and enabling them to continue working
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in PPE demonstrates a commitment to worker safety, improving morale and reducing absenteeism.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1181.md)
 
@@ -18,4 +18,8 @@ Providing sufficient PPE reduces the risk of infection among workers, ensuring t
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
+
+## Risks which can benefit from this action
+
+* [Providing additional personal protective equipment (PPE) to workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1061.md)
 

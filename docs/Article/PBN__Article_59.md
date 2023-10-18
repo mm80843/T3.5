@@ -63,3 +63,19 @@ Revisiting the built environment: 10 potential development changes and paradigm 
 * [Push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
 * [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_424.md)
 
+## This article mentions these technologies
+
+* [urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_373.md)
+* [construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_374.md)
+* [off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
+* [modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_376.md)
+* [innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
+* [acoustic materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_378.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_380.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_381.md)
+* [interior designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_382.md)
+* [urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_383.md)
+* [planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_384.md)
+* [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
+

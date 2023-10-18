@@ -6,7 +6,7 @@
 
 Ensured delivery and tracking of medications
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved patient convenience and adherence to treatment plans.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1482.md)
 
@@ -17,4 +17,8 @@ Ensured delivery and tracking of medications
 ## Stakeholders benefitting from this Benefit
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Blockchain medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1331.md)
 

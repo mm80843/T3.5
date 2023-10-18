@@ -2,3 +2,7 @@
 
 # __Improved comfort and quality of life, increased attractiveness of residential buildings__
 
+## This return can be realized by these benefits
+
+* [Improved control and management of the home environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_349.md)
+

@@ -2,3 +2,7 @@
 
 # __Private investors investing in data quality improvement can contribute to more informed decision making, ultimately protecting the value of their investments in the built environment.__
 
+## This return can be realized by these benefits
+
+* [Accurate assessment of situation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_774.md)
+

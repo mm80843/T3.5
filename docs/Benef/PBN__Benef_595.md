@@ -6,7 +6,7 @@
 
 Identification of risk factors for infection
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Asset value increase from improved risk assessment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_646.md)
 
@@ -17,4 +17,8 @@ Identification of risk factors for infection
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Blood types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_597.md)
 

@@ -6,7 +6,7 @@
 
 Increased testing in deprived areas helps allocate resources to areas with higher need
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Optimized resource utilization, improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_739.md)
 
@@ -18,4 +18,8 @@ Increased testing in deprived areas helps allocate resources to areas with highe
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+
+## Risks which can benefit from this action
+
+* [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_683.md)
 

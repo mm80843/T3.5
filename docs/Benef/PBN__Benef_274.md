@@ -6,7 +6,7 @@
 
 Studying the effects of droplet evaporation and chemistry on virus viability can provide insights into key factors influencing virus survival and transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in research on droplet physics and chemistry can contribute to the development of more targeted prevention and control measures, potentially reducing the economic burden of influenza outbreaks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_286.md)
 
@@ -17,4 +17,8 @@ Studying the effects of droplet evaporation and chemistry on virus viability can
 ## Stakeholders benefitting from this Benefit
 
 * [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
+
+## Risks which can benefit from this action
+
+* [Investigating droplet physics and chemistry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_263.md)
 

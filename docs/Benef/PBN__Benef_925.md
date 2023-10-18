@@ -6,7 +6,7 @@
 
 Acknowledging diverse levels of risk tolerance and providing understandable explanations would lead to improved risk perception among the public, promoting responsible behaviors and adherence to risk management guidelines.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved risk perception by experiencing fewer disruptions in business operations and reduced financial losses due to public adherence to risk management guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1014.md)
 
@@ -17,4 +17,8 @@ Acknowledging diverse levels of risk tolerance and providing understandable expl
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
 

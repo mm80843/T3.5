@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promoting holistic health and happiness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_301.md)
+* [Promoting holistic health and happiness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_294.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [mhealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_121.md)
 * [stress management](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_122.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_992.md)
 * [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)

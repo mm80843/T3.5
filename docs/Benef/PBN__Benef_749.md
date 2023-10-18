@@ -6,7 +6,7 @@
 
 Restricting unnecessary movement and mingling of people in shops and public gatherings reduces the spread of the virus.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from reduced transmission rates and a healthier population, leading to a more stable economy and potential increase in asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_814.md)
 
@@ -17,4 +17,8 @@ Restricting unnecessary movement and mingling of people in shops and public gath
 ## Stakeholders benefitting from this Benefit
 
 * [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+
+## Risks which can benefit from this action
+
+* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_744.md)
 

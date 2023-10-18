@@ -47,3 +47,17 @@ Designing a Multi-Agent Occupant Simulation System to Support Facility Planning 
 * [Large-Scale & Longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1104.md)
 * [Context-Responsive Behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+* [cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_883.md)
+* [occupancy limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_967.md)
+* [information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
+* [handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_667.md)
+* [physical distancing markers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
+

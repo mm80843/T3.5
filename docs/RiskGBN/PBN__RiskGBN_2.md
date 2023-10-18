@@ -2,7 +2,7 @@
 
 # __nan__
 
-## Property: has_GBNRisk
+## Risks affecting (or not) GBNs
 
 * [and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2293.md)
 * [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)

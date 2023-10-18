@@ -2,3 +2,7 @@
 
 # __Improved public health, reduced spread of COVID-19__
 
+## This return can be realized by these benefits
+
+* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_839.md)
+

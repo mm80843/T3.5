@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_356.md)
 * [Mapping access to nutritious food and equitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_355.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Food and nutrition security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_289.md)
 

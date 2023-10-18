@@ -6,7 +6,7 @@
 
 Provides detailed information on the impact of social distancing measures at a building level
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Supports evidence-based decision-making and targeted interventions in building design and management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_15.md)
 
@@ -18,4 +18,8 @@ Provides detailed information on the impact of social distancing measures at a b
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+
+## Risks which can benefit from this action
+
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

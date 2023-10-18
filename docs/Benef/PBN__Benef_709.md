@@ -6,7 +6,7 @@
 
 Allows employees to work remotely during lockdown
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved employee morale and productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_761.md)
 
@@ -17,4 +17,8 @@ Allows employees to work remotely during lockdown
 ## Stakeholders benefitting from this Benefit
 
 * [management team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_292.md)
+
+## Risks which can benefit from this action
+
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
 

@@ -2,3 +2,7 @@
 
 # __Increased energy efficiency, improved user experience__
 
+## This return can be realized by these benefits
+
+* [Flexible lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1078.md)
+

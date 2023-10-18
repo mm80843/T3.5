@@ -2,3 +2,7 @@
 
 # __Private investors can develop and offer wearable devices, IoT devices, and contact tracing applications, attracting customers such as healthcare facilities and individuals in self-isolation.__
 
+## This return can be realized by these benefits
+
+* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_38.md)
+

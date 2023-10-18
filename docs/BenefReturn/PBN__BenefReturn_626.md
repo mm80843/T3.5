@@ -2,3 +2,7 @@
 
 # __Ensuring sufficient site labor will help to prevent productivity loss and delays in construction projects, allowing contractors to meet project deadlines and avoid financial penalties.__
 
+## This return can be realized by these benefits
+
+* [Ensuring sufficient site labor](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_573.md)
+

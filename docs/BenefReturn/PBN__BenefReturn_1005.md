@@ -2,3 +2,7 @@
 
 # __Time and cost savings, improved accuracy in space planning and design.__
 
+## This return can be realized by these benefits
+
+* [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_916.md)
+

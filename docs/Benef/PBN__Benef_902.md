@@ -6,7 +6,7 @@
 
 Better management of healthcare needs, improved quality of care
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better health outcomes, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_988.md)
 
@@ -18,4 +18,8 @@ Better management of healthcare needs, improved quality of care
 
 * [elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_336.md)
 * [people with multimorbidity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_359.md)
+
+## Risks which can benefit from this action
+
+* [Integration of person-centered care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_900.md)
 

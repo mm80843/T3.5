@@ -47,3 +47,10 @@ The effect of human mobility and control measures on the COVID-19 epidemic in Ch
 * [Local Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1019.md)
 * [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
 
+## This article mentions these technologies
+
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_907.md)
+* [travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
+

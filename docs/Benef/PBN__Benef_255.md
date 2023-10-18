@@ -6,7 +6,7 @@
 
 Availability of local services ensures a sustainable and independent supply of food during emergencies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Providing self-dependent services can enhance tenant satisfaction and create a more sustainable living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_267.md)
 
@@ -17,4 +17,8 @@ Availability of local services ensures a sustainable and independent supply of f
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
 

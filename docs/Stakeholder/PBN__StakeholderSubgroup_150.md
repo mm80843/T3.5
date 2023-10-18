@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Technology and resources for accessing and managing digital information and providing technical assistance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_278.md)
+* [Technology and resources for accessing and managing digital information and providing technical assistance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_271.md)
 
 ## Closest similar item
 

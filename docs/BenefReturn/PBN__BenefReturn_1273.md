@@ -2,3 +2,8 @@
 
 # __Improved public health, increased users’ trust and satisfaction, increased demand for the mobile application.__
 
+## This return can be realized by these benefits
+
+* [Access to updated and comprehensive mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1140.md)
+* [Reliable and accurate early detection of COVID-19 risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1143.md)
+

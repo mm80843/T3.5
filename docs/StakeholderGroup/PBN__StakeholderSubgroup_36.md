@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Information dissemination and news organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_286.md)
+* [Information dissemination and news organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_279.md)
 
 ## Closest similar item
 

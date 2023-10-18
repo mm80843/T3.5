@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
+* [Promote flexibility and resilience in supply chains through diversification, local production, and proactive strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Regular communication with suppliers, alternative sourcing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2706.md)
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_306.md)
 

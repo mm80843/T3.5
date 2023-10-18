@@ -6,7 +6,7 @@
 
 Enhanced productivity and communication, increased access to services
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved comfort, productivity, and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_374.md)
 
@@ -17,4 +17,8 @@ Enhanced productivity and communication, increased access to services
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_353.md)
 

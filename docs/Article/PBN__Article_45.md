@@ -51,3 +51,17 @@ Review and comparison of HVAC operation guidelines in different countries during
 * [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_729.md)
 * [Implement UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
 
+## This article mentions these technologies
+
+* [in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_683.md)
+* [use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_685.md)
+* [use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
+* [installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
+* [improved design and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_676.md)
+* [implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_680.md)
+* [correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_678.md)
+* [use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_679.md)
+* [proper operation and maintenance of heat recovery systems in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_686.md)
+* [such as merv-13](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_682.md)
+* [continuous operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_684.md)
+

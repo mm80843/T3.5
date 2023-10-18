@@ -2,3 +2,7 @@
 
 # __Preservation of jobs and businesses, economic stability__
 
+## This return can be realized by these benefits
+
+* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
+

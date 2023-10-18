@@ -288,3 +288,11 @@
 * [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2887.md)
 * [pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1725.md)
 
+## URL to wikidata object
+
+https://www.wikidata.org/wiki/nan
+
+## Description of the QID
+
+nan
+

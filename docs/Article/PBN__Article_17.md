@@ -46,3 +46,15 @@ Vector-borne disease, climate change and urban design
 * [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
 * [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1514.md)
 
+## This article mentions these technologies
+
+* [emergency management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
+* [green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
+* [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
+* [urban design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
+* [health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
+* [geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1214.md)
+* [integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
+

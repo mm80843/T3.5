@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Establish robust data collection and analysis systems, enhance data sharing and collaboration among countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2009.md)
 * [Promote data sharing initiatives and create integrated platforms and open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2321.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Enhanced data availability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_514.md)
 * [Increased collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1009.md)

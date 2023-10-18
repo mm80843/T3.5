@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare facilities would benefit from improved testing efficiency and reduced costs associated with testing.__
 
+## This return can be realized by these benefits
+
+* [Improved testing efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_659.md)
+

@@ -6,7 +6,7 @@
 
 Enables representation and sharing of data
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved data analysis and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1381.md)
 
@@ -18,4 +18,8 @@ Enables representation and sharing of data
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
+
+## Risks which can benefit from this action
+
+* [Re-use ontological terms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1240.md)
 

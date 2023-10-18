@@ -6,7 +6,7 @@
 
 Voluntary home quarantine reduces the burden on emergency healthcare system
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Decreased stress on the system allows for better care for infected patients and reduces strain on resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_605.md)
 
@@ -17,4 +17,8 @@ Voluntary home quarantine reduces the burden on emergency healthcare system
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+
+## Risks which can benefit from this action
+
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)
 

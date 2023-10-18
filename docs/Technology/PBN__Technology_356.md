@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
+* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4539.md)
 * [appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4355.md)
 * [microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
+
+## This technology is mentioned by
+
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 
 ## This Technology enables the following mitigations
 

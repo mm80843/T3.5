@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Health and wellness encompassing physical and mental health, lifestyle choices, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_29.md)
+* [Health and wellness encompassing physical and mental health, lifestyle choices, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_19.md)
 
 ## Closest similar item
 

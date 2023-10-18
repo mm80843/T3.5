@@ -6,7 +6,7 @@
 
 Infrared thermal imaging enables quick and contactless fever detection and screening, reducing the risk of virus transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in infrared thermal imaging technology can improve safety measures in public spaces, enhancing the reputation and asset value of buildings and facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_428.md)
 
@@ -19,4 +19,8 @@ Infrared thermal imaging enables quick and contactless fever detection and scree
 * [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
 * [public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_189.md)
 * [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
+
+## Risks which can benefit from this action
+
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_403.md)
 

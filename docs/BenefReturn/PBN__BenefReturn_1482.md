@@ -2,3 +2,7 @@
 
 # __Improved patient convenience and adherence to treatment plans.__
 
+## This return can be realized by these benefits
+
+* [Timely and accurate medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1312.md)
+

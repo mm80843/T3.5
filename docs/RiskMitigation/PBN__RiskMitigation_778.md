@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
+* [Facilitating adaptive and resilient strategies, integrating risk management, optimizing resource allocation, and improving crisis response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Strengthen urban governance structures, improve data collection and analysis, involve communities in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1455.md)
 * [Ensure temporary measures are proportionate and temporary, protect civil liberties, and promote democratic governance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2956.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_781.md)
 

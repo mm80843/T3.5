@@ -6,7 +6,7 @@
 
 Urban green spaces, especially those located near historical and cultural heritage sites, offered a high-level aesthetic experience and promoted a sense of identity.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in the development of urban green spaces as it can enhance the overall aesthetic appeal and identity of an area, thereby increasing the desirability and value of properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1090.md)
 
@@ -17,4 +17,8 @@ Urban green spaces, especially those located near historical and cultural herita
 ## Stakeholders benefitting from this Benefit
 
 * [residents of kraków](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_392.md)
+
+## Risks which can benefit from this action
+
+* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
 

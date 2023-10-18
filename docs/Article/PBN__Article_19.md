@@ -56,3 +56,17 @@ Effectiveness of non-pharmaceutical public health interventions against COVID-19
 * [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_839.md)
 * [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
 
+## This article mentions these technologies
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [transparent peer-review and publishing processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_785.md)
+* [mobile testing units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_784.md)
+* [open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_786.md)
+* [real-time data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
+* [early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
+* [rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_782.md)
+* [behavioral change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
+* [testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_783.md)
+

@@ -46,3 +46,13 @@ Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based e
 * [Temperature adjustment in WBE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
 * [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
+* [surveillance planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_708.md)
+* [environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
+* [improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
+* [temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_706.md)
+* [adjusting decay kinetics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
+

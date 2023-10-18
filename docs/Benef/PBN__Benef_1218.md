@@ -6,7 +6,7 @@
 
 Positive environmental surface testing can inform the need for employee testing
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Early identification of potential workplace transmission, reduced risk of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1365.md)
 
@@ -18,4 +18,8 @@ Positive environmental surface testing can inform the need for employee testing
 
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1223.md)
 

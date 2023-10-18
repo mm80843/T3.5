@@ -48,3 +48,15 @@ The impact of COVID-19 and strategies for mitigation and suppression in low- and
 * [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2299.md)
 * [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2300.md)
 
+## This article mentions these technologies
+
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+* [business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1886.md)
+* [vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1885.md)
+* [online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
+

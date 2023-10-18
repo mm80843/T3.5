@@ -6,7 +6,7 @@
 
 Studying the effect of RH on UV susceptibility of pathogenic viral aerosols is important for designing effective UV disinfection systems and optimizing environmental conditions for viral inactivation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved design and optimization of UV disinfection systems, increased effectiveness in inactivating viral aerosols, and improved public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_469.md)
 
@@ -18,4 +18,8 @@ Studying the effect of RH on UV susceptibility of pathogenic viral aerosols is i
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
+
+## Risks which can benefit from this action
+
+* [Study of the effect of RH on UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_451.md)
 

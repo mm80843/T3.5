@@ -2,3 +2,7 @@
 
 # __Improved healthcare infrastructure can attract more healthcare professionals and enhance access to healthcare services.__
 
+## This return can be realized by these benefits
+
+* [Increased medical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_741.md)
+

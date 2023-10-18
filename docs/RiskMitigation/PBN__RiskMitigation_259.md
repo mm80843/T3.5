@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
+* [Optimize indoor environments, regulate temperature and humidity, control air quality, and extend HVAC system operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Control indoor humidity levels, increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1708.md)
 * [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved influenza incidence predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_270.md)
 

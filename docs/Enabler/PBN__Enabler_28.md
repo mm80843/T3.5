@@ -8,7 +8,7 @@ enabler_029
 
 ## Category to which it belongs
 
-* [Biometric identification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_88.md)
+* [Biometric identification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 

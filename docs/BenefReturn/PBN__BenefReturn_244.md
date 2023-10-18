@@ -2,3 +2,7 @@
 
 # __Having outdoor spaces can increase the property’s value and attract tenants seeking a better quality of life.__
 
+## This return can be realized by these benefits
+
+* [Improved mental state](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_233.md)
+

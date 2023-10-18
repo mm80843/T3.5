@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_302.md)
 
 ## Closest similar item
 
@@ -19,10 +19,10 @@
 * [Implement infection control measures, promote hygiene practices, and enforce social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1815.md)
 * [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1511.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
-* [Slowed growth rate of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_504.md)
 * [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
+* [Slowed growth rate of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_504.md)
 * [Averted/Delayed infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_505.md)
 * [Improved public perception and confidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_506.md)
 * [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_507.md)

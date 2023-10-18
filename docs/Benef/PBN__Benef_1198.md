@@ -6,7 +6,7 @@
 
 Travel restrictions on Wuhan and other cities in China resulted in a decline in the number of cases imported from Wuhan to other provinces
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in travel restrictions can benefit from decreased transmission and faster containment of the virus, leading to improved public health and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1338.md)
 
@@ -17,4 +17,8 @@ Travel restrictions on Wuhan and other cities in China resulted in a decline in 
 ## Stakeholders benefitting from this Benefit
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Travel Restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1194.md)
 

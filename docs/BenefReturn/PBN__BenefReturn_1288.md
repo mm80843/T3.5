@@ -2,3 +2,7 @@
 
 # __Improves data-driven public health response, leading to more targeted interventions and resource allocation__
 
+## This return can be realized by these benefits
+
+* [Surveillance and data administration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1156.md)
+

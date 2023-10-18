@@ -2,3 +2,7 @@
 
 # __Investing in designing restrooms with low network centrality can improve the hygiene and safety of the building, making it more desirable for tenants and increasing its value.__
 
+## This return can be realized by these benefits
+
+* [Reduction of microbial transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_259.md)
+

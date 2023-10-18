@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
 * [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1031.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
 

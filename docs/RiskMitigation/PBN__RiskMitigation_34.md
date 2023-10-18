@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Provide reliable and constant ICT connections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2888.md)
 * [Implement network slicing, utilize virtual NFs and MEC, deploy full beamforming technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2744.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Expanded 5G coverage and connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_42.md)
 

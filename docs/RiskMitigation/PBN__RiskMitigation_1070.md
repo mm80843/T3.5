@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
+* [Enhance local self-sufficiency in shopping, recreation, and food production, while promoting sustainable practices and supporting resilient economies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_341.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_156.md)
 * [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1065.md)
 

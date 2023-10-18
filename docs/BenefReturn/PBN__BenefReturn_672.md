@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from increased consumer spending power, improved social stability, and potential investment opportunities in sectors catering to the needs of vulnerable groups.__
 
+## This return can be realized by these benefits
+
+* [Reduced poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_629.md)
+

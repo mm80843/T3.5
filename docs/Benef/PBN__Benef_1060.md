@@ -6,7 +6,7 @@
 
 Diversifying income streams helps reduce reliance on a single source of funding.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [This helps ensure financial stability and long-term sustainability for conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1185.md)
 
@@ -18,4 +18,8 @@ Diversifying income streams helps reduce reliance on a single source of funding.
 
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+
+## Risks which can benefit from this action
+
+* [Diversifying income streams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1065.md)
 

@@ -6,7 +6,7 @@
 
 Branded signs reflect the retailer's identity and image, reinforcing brand recognition and loyalty
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reinforcing brand image can lead to increased customer trust and preference, resulting in improved customer engagement and potential increase in sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_867.md)
 
@@ -18,4 +18,8 @@ Branded signs reflect the retailer's identity and image, reinforcing brand recog
 
 * [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
 * [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
+
+## Risks which can benefit from this action
+
+* [Use of branded signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_795.md)
 

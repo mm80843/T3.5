@@ -6,7 +6,7 @@
 
 Access to psychosocial services through telemedicine
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved quality of life and overall well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_11.md)
 * [Private investors would indirectly benefit from improved mental health outcomes, as it contributes to a more stable and productive workforce.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_684.md)
@@ -24,4 +24,10 @@ Access to psychosocial services through telemedicine
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_267.md)
 * [individuals and communities affected by pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_341.md)
+
+## Risks which can benefit from this action
+
+* [Access to mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_7.md)
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_828.md)
+* [Address socioeconomic factors (e.g. income, education)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_631.md)
 

@@ -2,3 +2,7 @@
 
 # __Better decision-making and strategic planning to mitigate the impacts and stimulate the economy__
 
+## This return can be realized by these benefits
+
+* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_560.md)
+

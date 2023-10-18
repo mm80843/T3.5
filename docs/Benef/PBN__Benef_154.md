@@ -6,7 +6,7 @@
 
 Green construction practices, such as energy-efficient infrastructure and circular architecture, result in lower energy consumption and reduced operating costs for building owners. Tenants also benefit from lower utility bills.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from long-term cost savings on energy expenses and improved energy efficiency ratings, attracting environmentally-conscious occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_155.md)
 * [Private investors can attract tenants and higher rental income by investing in green construction practices. Additionally, energy-efficient buildings have higher asset value and are more resilient to future energy price volatility.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_725.md)
@@ -22,4 +22,9 @@ Green construction practices, such as energy-efficient infrastructure and circul
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [tenants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_281.md)
+
+## Risks which can benefit from this action
+
+* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_136.md)
+* [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_670.md)
 

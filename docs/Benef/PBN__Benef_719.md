@@ -6,7 +6,7 @@
 
 Regular cleaning and disinfection of surfaces prevents virus transmission through touch
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased confidence in public spaces, reduced risk of infection, and improved overall public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_773.md)
 
@@ -18,4 +18,8 @@ Regular cleaning and disinfection of surfaces prevents virus transmission throug
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_718.md)
 

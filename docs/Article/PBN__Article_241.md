@@ -44,3 +44,7 @@ How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?
 * [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
 * [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_368.md)
 
+## This article mentions these technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+

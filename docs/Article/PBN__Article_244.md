@@ -58,3 +58,23 @@ Home garden use during COVID-19: Associations with physical and mental wellbeing
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
 * [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_108.md)
 
+## This article mentions these technologies
+
+* [video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
+* [helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_423.md)
+* [social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
+* [virtual classes and workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
+* [natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
+* [video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
+* [air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
+* [financial aid apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_429.md)
+* [online tutorials and guides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_418.md)
+* [signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_417.md)
+* [mobile apps to book time slots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_415.md)
+* [drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_416.md)
+* [online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
+* [social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
+* [online community forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_427.md)
+* [job search platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
+* [online financial education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_431.md)
+

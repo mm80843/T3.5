@@ -6,7 +6,7 @@
 
 Testing and contact tracing can identify asymptomatic individuals and prevent further transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced spread of infection and improved overall public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_775.md)
 
@@ -18,4 +18,8 @@ Testing and contact tracing can identify asymptomatic individuals and prevent fu
 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_720.md)
 

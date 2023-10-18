@@ -6,7 +6,7 @@
 
 Tracking key items such as protective equipment and medicine to ensure availability
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased efficiency in managing medical resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1567.md)
 
@@ -18,4 +18,8 @@ Tracking key items such as protective equipment and medicine to ensure availabil
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+
+## Risks which can benefit from this action
+
+* [Logistical tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1412.md)
 

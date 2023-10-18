@@ -6,7 +6,7 @@
 
 Strengthening healthcare systems ensures that people have access to essential healthcare services during the pandemic, improving overall health outcomes.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a healthier population, which can lead to increased productivity and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_794.md)
 
@@ -18,4 +18,8 @@ Strengthening healthcare systems ensures that people have access to essential he
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_725.md)
 

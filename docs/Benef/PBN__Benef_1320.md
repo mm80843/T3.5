@@ -6,7 +6,7 @@
 
 Standardized communication protocols allow for better sharing of information and integrated view of urban dynamics, leading to more effective management decisions in containing outbreaks and safeguarding the social and economic integrity of cities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced urban management decisions improve the resilience and safety of cities, attracting investment and promoting economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1492.md)
 
@@ -18,4 +18,8 @@ Standardized communication protocols allow for better sharing of information and
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [urban managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_518.md)
+
+## Risks which can benefit from this action
+
+* [Standardization of communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1341.md)
 

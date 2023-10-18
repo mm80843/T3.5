@@ -51,3 +51,24 @@ Digital Twin of COVID-19 Mass Vaccination Centers
 * [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1621.md)
 * [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1619.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
+* [advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
+* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+* [community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1303.md)
+* [encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
+* [public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
+* [social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1297.md)
+* [crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
+* [appointment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1295.md)
+* [regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1305.md)
+* [temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
+* [cybersecurity training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1306.md)
+* [secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1304.md)
+* [queue management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1296.md)
+* [cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
+* [ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1299.md)
+* [vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
+

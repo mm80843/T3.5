@@ -6,7 +6,7 @@
 
 in the field of epidemiology.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [integration across different datasets](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1390.md)
 
@@ -16,4 +16,8 @@ in the field of epidemiology.
 
 ## Stakeholders benefitting from this Benefit
 
+
+## Risks which can benefit from this action
+
+* [BFO backbone structure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1249.md)
 

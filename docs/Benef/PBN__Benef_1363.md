@@ -6,7 +6,7 @@
 
 Non-contact interaction activities, such as online administrative services, reduce the need for physical facilities and streamline service delivery processes, improving operational efficiency for service providers.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing non-contact interaction measures can improve the efficiency of service delivery, reducing costs and resource requirements for service providers and creating potential cost savings for private investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1548.md)
 
@@ -17,4 +17,8 @@ Non-contact interaction activities, such as online administrative services, redu
 ## Stakeholders benefitting from this Benefit
 
 * [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+
+## Risks which can benefit from this action
+
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1396.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
+* [Efforts include RNA monitoring, occupant exposure modeling, targeted messages, adoption of principles, copper coating, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_304.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
 * [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_368.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [reasoning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1239.md)
 

@@ -6,7 +6,7 @@
 
 The integration of virtual space and physical space in community planning creates composite community spaces that are adaptable to changing circumstances, improving the resilience of communities in the face of public health emergencies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental well-being and ability to handle future crises](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_57.md)
 * [Private investors can strengthen the resilience of their buildings and communities, attracting long-term tenants and contributing to the overall value and desirability of the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1543.md)
@@ -24,4 +24,10 @@ The integration of virtual space and physical space in community planning create
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+
+## Risks which can benefit from this action
+
+* [Implement community-based strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_50.md)
+* [Sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1395.md)
+* [Composite space service facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1397.md)
 

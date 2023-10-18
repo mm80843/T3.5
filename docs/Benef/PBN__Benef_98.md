@@ -6,7 +6,7 @@
 
 Use of hygienic measures such as frequent handwashing, wearing masks, gloves, and gowns can reduce the transmission of respiratory viruses, including SARS, by 55% to 91%.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in hygienic measures can reduce the transmission of respiratory viruses, prevent epidemics, and minimize social and economic consequences, leading to improved public health outcomes and potentially increased asset value for healthcare facilities and public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_97.md)
 
@@ -17,4 +17,8 @@ Use of hygienic measures such as frequent handwashing, wearing masks, gloves, an
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_85.md)
 

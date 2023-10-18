@@ -6,7 +6,7 @@
 
 Empowering individuals to make responsible travel choices can lead to reduced congestion, improved air quality, and a sense of personal satisfaction for contributing to a sustainable future.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in responsible travel initiatives can benefit from improved public perception, increased customer loyalty, and potential collaborations with government and non-profit organizations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_813.md)
 
@@ -17,4 +17,8 @@ Empowering individuals to make responsible travel choices can lead to reduced co
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Promotion of responsible travel behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_743.md)
 

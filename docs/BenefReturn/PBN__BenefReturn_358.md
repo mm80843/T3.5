@@ -2,3 +2,7 @@
 
 # __Implementing case isolation measures can help contain the virus and potentially prevent overwhelming healthcare systems.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

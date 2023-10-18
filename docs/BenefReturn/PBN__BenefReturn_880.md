@@ -2,3 +2,9 @@
 
 # __Increased efficiency, cost savings, improved resource management__
 
+## This return can be realized by these benefits
+
+* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_810.md)
+* [Optimization of water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_811.md)
+* [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
+

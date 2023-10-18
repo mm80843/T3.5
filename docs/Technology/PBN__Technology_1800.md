@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
+* [Maximizing economic efficiency while promoting financial stability through innovative strategies, investments, and partnerships at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_945.md)
 * [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
 * [investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1473.md)
+
+## This technology is mentioned by
+
+* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
 
 ## Risks linked to this technology
 

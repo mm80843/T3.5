@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Proactive measures to monitor, trace, and manage potential exposure and transmission of infectious diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_148.md)
+* [Proactive measures to monitor, trace, and manage potential exposure and transmission of infectious diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 

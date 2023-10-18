@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
 * [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved building performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_800.md)
 * [Streamlined measurement protocol](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_801.md)

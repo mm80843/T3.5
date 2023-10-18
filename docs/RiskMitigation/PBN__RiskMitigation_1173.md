@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
 * [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1171.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
 

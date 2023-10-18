@@ -6,7 +6,7 @@
 
 Hand hygiene can protect healthcare workers from acquiring the virus, reducing the risk of transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved employee safety and well-being, reduced risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_729.md)
 * [Private investors investing in hand hygiene products (e.g. alcohol-based hand rubs) would benefit from improved asset value (e.g. increased demand for hand hygiene products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1256.md)
@@ -20,4 +20,9 @@ Hand hygiene can protect healthcare workers from acquiring the virus, reducing t
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_441.md)
+
+## Risks which can benefit from this action
+
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1132.md)
+* [Early deployment of viral testing for asymptomatic and frontline healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_674.md)
 

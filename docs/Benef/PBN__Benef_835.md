@@ -6,7 +6,7 @@
 
 The combined use of WBE and clinical testing can save billions of dollars by reducing the cost and time associated with individual testing of the entire population.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from reduced labor costs, leading to higher profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_908.md)
 * [Investing in the combination of WBE and clinical testing would result in significant cost savings for governments and healthcare systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1354.md)
@@ -21,4 +21,9 @@ The combined use of WBE and clinical testing can save billions of dollars by red
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+
+## Risks which can benefit from this action
+
+* [Combined use of WBE followed by clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1206.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_833.md)
 

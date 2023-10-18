@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from improved reputation and marketability of properties in areas with well-managed green spaces.__
 
+## This return can be realized by these benefits
+
+* [Enhanced citizen ownership](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1296.md)
+

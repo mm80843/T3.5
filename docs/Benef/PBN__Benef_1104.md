@@ -6,7 +6,7 @@
 
 Wastewater monitoring can provide early detection of the presence or re-emergence of SARS-CoV-2 in communities, allowing for timely response and decision-making to prevent further spread of COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in wastewater monitoring by providing data-based insights to public health officials and facility operators, enabling informed decision-making and potentially reducing the economic impact of lockdown measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1236.md)
 
@@ -18,4 +18,8 @@ Wastewater monitoring can provide early detection of the presence or re-emergenc
 
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 * [facility operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_439.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
 

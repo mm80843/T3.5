@@ -6,7 +6,7 @@
 
 Balanced workload and reduced pressure to meet deadlines
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased worker productivity and satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_229.md)
 
@@ -17,4 +17,8 @@ Balanced workload and reduced pressure to meet deadlines
 ## Stakeholders benefitting from this Benefit
 
 * [field workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_130.md)
+
+## Risks which can benefit from this action
+
+* [Implementing flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_206.md)
 

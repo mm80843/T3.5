@@ -8,7 +8,7 @@ enabler_021
 
 ## Category to which it belongs
 
-* [Interconnected digital platforms for online social interactions and communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
+* [Interconnected digital platforms for online social interactions and communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 

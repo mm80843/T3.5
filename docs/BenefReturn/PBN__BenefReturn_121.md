@@ -2,3 +2,7 @@
 
 # __Investing in the simulation system allows for a comprehensive understanding of virus transmission patterns and risks, guiding decision-making processes to minimize transmission, improve safety, and optimize building design and operations.__
 
+## This return can be realized by these benefits
+
+* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
+

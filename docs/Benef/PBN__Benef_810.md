@@ -6,7 +6,7 @@
 
 Knowledge management and BIM can enhance decision-making and planning
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased efficiency, cost savings, improved resource management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_880.md)
 * [Improved resource management, cost savings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_885.md)
@@ -21,4 +21,9 @@ Knowledge management and BIM can enhance decision-making and planning
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
+## Risks which can benefit from this action
+
+* [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
+* [Knowledge management and BIM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_812.md)
 

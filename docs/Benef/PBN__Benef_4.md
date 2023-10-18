@@ -6,7 +6,7 @@
 
 WBE, combined with phylogenetic analyses, helps identify the genetic profile of SARS-CoV-2 obtained from wastewater samples, providing insights into the strains circulating in a specific region.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Genetic profiling helps researchers track the spread and evolution of the virus, identify potential sources of transmission, and inform the development of vaccines and treatments, benefiting global public health and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_4.md)
 
@@ -17,4 +17,8 @@ WBE, combined with phylogenetic analyses, helps identify the genetic profile of 
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
 

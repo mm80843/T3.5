@@ -6,7 +6,7 @@
 
 Promoting positive attitudes towards COVID-19 prevention measures and government regulations
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit from investing in attitude change interventions through increased asset value of properties in areas with residents who have positive attitudes, as they are more likely to comply with prevention measures and contribute to reducing the spread of the disease.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_950.md)
 
@@ -17,4 +17,8 @@ Promoting positive attitudes towards COVID-19 prevention measures and government
 ## Stakeholders benefitting from this Benefit
 
 * [indonesian residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_350.md)
+
+## Risks which can benefit from this action
+
+* [Attitude Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_868.md)
 

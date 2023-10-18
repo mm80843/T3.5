@@ -6,7 +6,7 @@
 
 Engaging communities in control policies increases support and participation, leading to more effective disease prevention and control
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a healthier and more cooperative community, which can lead to increased property values and a safer environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_715.md)
 
@@ -18,4 +18,8 @@ Engaging communities in control policies increases support and participation, le
 
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_277.md)
+
+## Risks which can benefit from this action
+
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
 

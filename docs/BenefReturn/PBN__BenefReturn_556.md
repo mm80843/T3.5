@@ -2,3 +2,7 @@
 
 # __Private investors investing in high-efficiency filters can benefit from improved occupant health and safety, increased tenant satisfaction, and reduced risk of liability and legal issues__
 
+## This return can be realized by these benefits
+
+* [Reduction in airborne virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_509.md)
+

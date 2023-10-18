@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
+* [Technological advancements encompass a wide range of innovations, such as blockchain, touchless, renewable energy, and communication technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [data filtering and processing nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
 * [nan promotion of outdoor nan nan activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1874.md)
 * [nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3991.md)
+
+## This technology is mentioned by
+
+* [singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_301.md)
 
 ## Risks linked to this technology
 

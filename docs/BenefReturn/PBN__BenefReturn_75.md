@@ -2,3 +2,7 @@
 
 # __Enables effective control and management of data, enhancing the efficiency and effectiveness of the smart and safe city concepts__
 
+## This return can be realized by these benefits
+
+* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
+

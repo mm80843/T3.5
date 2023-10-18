@@ -6,7 +6,7 @@
 
 Prioritizing access for delivery to ensure availability of goods in short supply
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Smooth flow of goods, reduced disruptions in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1570.md)
 
@@ -18,4 +18,8 @@ Prioritizing access for delivery to ensure availability of goods in short supply
 
 * [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
 * [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
+
+## Risks which can benefit from this action
+
+* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
 

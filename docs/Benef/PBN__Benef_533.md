@@ -6,7 +6,7 @@
 
 Increasing ventilation rates improves the air quality indoors, reducing the concentration of infectious particles and improving overall health and well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in ventilation and filtration systems can lead to healthier indoor environments, reducing the risk of infection and improving occupant well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_584.md)
 * [Investing in HVAC retrofits can increase the value and functionality of existing buildings, attracting tenants and ensuring healthier indoor environments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_585.md)
@@ -20,4 +20,10 @@ Increasing ventilation rates improves the air quality indoors, reducing the conc
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of proper ventilation and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_544.md)
+* [Retrofitting HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_545.md)
+* [Enhanced ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1308.md)
 

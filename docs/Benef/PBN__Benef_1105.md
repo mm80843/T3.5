@@ -6,7 +6,7 @@
 
 Federated data analysis enables analysis of sensitive data without directly sharing individual-level information.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved accuracy and efficiency in analyzing data, leading to more robust research outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1237.md)
 
@@ -17,4 +17,8 @@ Federated data analysis enables analysis of sensitive data without directly shar
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1116.md)
 

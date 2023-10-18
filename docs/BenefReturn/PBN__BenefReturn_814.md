@@ -2,3 +2,7 @@
 
 # __Private investors benefit from reduced transmission rates and a healthier population, leading to a more stable economy and potential increase in asset values.__
 
+## This return can be realized by these benefits
+
+* [Reduction in community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_749.md)
+

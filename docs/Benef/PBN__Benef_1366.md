@@ -6,7 +6,7 @@
 
 Enables effective remote work and increases productivity and efficiency
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased productivity and efficiency, leading to potential cost savings and improved project outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1553.md)
 
@@ -17,4 +17,8 @@ Enables effective remote work and increases productivity and efficiency
 ## Stakeholders benefitting from this Benefit
 
 * [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1401.md)
 

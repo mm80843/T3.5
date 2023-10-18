@@ -6,7 +6,7 @@
 
 Antiviral coatings can provide long-lasting protection against virus transmission on frequently touched surfaces, reducing the risk of infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for and sales of long-lasting antiviral coatings, leading to potential profit and market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1009.md)
 
@@ -20,4 +20,8 @@ Antiviral coatings can provide long-lasting protection against virus transmissio
 * [public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_367.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
+
+## Risks which can benefit from this action
+
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_920.md)
 

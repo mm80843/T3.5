@@ -6,7 +6,7 @@
 
 Improved disease surveillance and evidence for public-health decisions through better data
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved decision-making and more accurate research findings for public-health policies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1121.md)
 
@@ -17,4 +17,8 @@ Improved disease surveillance and evidence for public-health decisions through b
 ## Stakeholders benefitting from this Benefit
 
 * [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+
+## Risks which can benefit from this action
+
+* [Improved data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1005.md)
 

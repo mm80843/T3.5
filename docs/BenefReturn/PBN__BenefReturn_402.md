@@ -2,3 +2,7 @@
 
 # __Investing in non-pharmaceutical interventions can help protect public health and prevent the need for costly healthcare interventions.__
 
+## This return can be realized by these benefits
+
+* [Higher levels of protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_375.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_323.md)
+* [Ensuring equitable access, promoting flexible work, implementing safety measures, and providing support for remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_317.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_936.md)
 * [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3125.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Ensuring sufficient site labor](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_573.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Architectural engineering disciplines and regulations related to constructing and designing residential and commercial buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_45.md)
+* [Architectural engineering disciplines and regulations related to constructing and designing residential and commercial buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_35.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Use of smart robots, AI-enabled diagnostic systems, telemedicine platforms for remote consultations and monitoring
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Higher healthcare capacity, reduced waiting times, improved patient care, reduced exposure to infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1227.md)
 
@@ -18,4 +18,8 @@ Use of smart robots, AI-enabled diagnostic systems, telemedicine platforms for r
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
+
+## Risks which can benefit from this action
+
+* [Providing support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1108.md)
 

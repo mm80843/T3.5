@@ -2,3 +2,7 @@
 
 # __Private investors in WBE implementation would benefit from accurate and reliable data, enabling public health agencies to make informed decisions and implement targeted interventions.__
 
+## This return can be realized by these benefits
+
+* [Accurate detection of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1211.md)
+

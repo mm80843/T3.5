@@ -53,3 +53,16 @@ The effect of a redesigned floor plan, occupant density and the quality of indoo
 * [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
 * [Adequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_366.md)
+* [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
+* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
+* [crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1480.md)
+* [touchless faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
+* [hands-free fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1479.md)
+

@@ -60,3 +60,12 @@ Decision Making within the Built Environment as a Strategy for Mitigating the Ri
 * [Regional and global information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1487.md)
 * [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
 
+## This article mentions these technologies
+
+* [such as regular cleaning and repairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1197.md)
+* [geographic information system (gis) mapping technology can be used to identify potential sites with open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1193.md)
+* [building design software and modeling tools can be used to optimize opening design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1194.md)
+* [investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1195.md)
+* [use of drainage design and maintenance techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1196.md)
+* [develop waste management strategies that prioritize recycling and upcycling of construction and demolition waste](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1198.md)
+

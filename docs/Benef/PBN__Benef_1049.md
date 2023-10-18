@@ -6,7 +6,7 @@
 
 Increasing concern for being bitten can significantly reduce the total number of infections in a mosquito-borne disease outbreak.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in public health messaging and campaigns focused on increasing the concern for being bitten, as it can lead to increased demand for personal protective measures and potential market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1170.md)
 
@@ -17,4 +17,8 @@ Increasing concern for being bitten can significantly reduce the total number of
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Increasing concern for being bitten](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1051.md)
 

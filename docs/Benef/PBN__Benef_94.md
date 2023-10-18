@@ -6,7 +6,7 @@
 
 Cardboard has higher virus viability, reducing its use can help reduce the risk of transmission through contact with contaminated surfaces
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased asset value and demand for spaces that are perceived as safe and low risk.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_91.md)
 * [Private investors can benefit from increased asset value and demand for spaces with copper and stainless steel surfaces, as they are perceived as safer and lower risk.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_92.md)
@@ -19,4 +19,10 @@ Cardboard has higher virus viability, reducing its use can help reduce the risk 
 ## Stakeholders benefitting from this Benefit
 
 * [building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
+
+## Risks which can benefit from this action
+
+* [Increased use of copper and stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_82.md)
+* [Regular disinfection of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_81.md)
+* [Reduced use of cardboard surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_83.md)
 

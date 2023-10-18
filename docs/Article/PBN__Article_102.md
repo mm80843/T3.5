@@ -59,3 +59,21 @@ Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workpl
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2038.md)
 * [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2039.md)
 
+## This article mentions these technologies
+
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
+* [isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1656.md)
+* [training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
+* [online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
+* [monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
+* [medical assessment equipment and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1654.md)
+* [self-assessment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1658.md)
+

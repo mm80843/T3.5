@@ -6,7 +6,7 @@
 
 Enables early detection and intervention, reducing transmission and preventing further spread to other regions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduces the risk of widespread outbreaks and containment efforts, leading to improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1282.md)
 
@@ -18,4 +18,8 @@ Enables early detection and intervention, reducing transmission and preventing f
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1149.md)
 

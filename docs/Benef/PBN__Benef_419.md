@@ -6,7 +6,7 @@
 
 Greened facades and access to greened roofs can compensate for a lack of outdoor recreation during lockdowns, promoting emotional well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased property value for buildings with green retrofit and demand for green spaces within buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_449.md)
 
@@ -18,4 +18,8 @@ Greened facades and access to greened roofs can compensate for a lack of outdoor
 
 * [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
 * [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
+
+## Risks which can benefit from this action
+
+* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
 

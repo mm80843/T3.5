@@ -59,3 +59,23 @@ The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities a
 * [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
 * [Scalability and QoS provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
 
+## This article mentions these technologies
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1581.md)
+* [purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
+* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1589.md)
+* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
+* [standardization and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1590.md)
+* [user-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1588.md)
+* [software-defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1580.md)
+* [network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
+* [virtual nfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1583.md)
+* [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
+* [full beamforming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
+* [l5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
+

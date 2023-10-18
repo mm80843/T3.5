@@ -48,3 +48,10 @@ COVID-19 and Living space challenge. Well-being and Public Health recommendation
 * [Water consumption and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
 * [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
 
+## This article mentions these technologies
+
+* [housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_456.md)
+* [building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
+* [urban planning and design strategies for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
+* [infrastructure development and plumbing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_458.md)
+

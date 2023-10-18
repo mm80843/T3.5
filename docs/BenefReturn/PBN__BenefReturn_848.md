@@ -2,3 +2,7 @@
 
 # __Improved crisis management, more effective decision making, faster and comprehensive actions__
 
+## This return can be realized by these benefits
+
+* [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_779.md)
+

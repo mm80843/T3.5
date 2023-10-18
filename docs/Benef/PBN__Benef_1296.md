@@ -6,7 +6,7 @@
 
 Increased sense of ownership, pride, and responsibility towards green areas, leading to better maintenance and management
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved reputation and marketability of properties in areas with well-managed green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1463.md)
 
@@ -17,4 +17,8 @@ Increased sense of ownership, pride, and responsibility towards green areas, lea
 ## Stakeholders benefitting from this Benefit
 
 * [all residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_512.md)
+
+## Risks which can benefit from this action
+
+* [Facilitate citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1316.md)
 

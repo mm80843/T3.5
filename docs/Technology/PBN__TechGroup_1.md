@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Digital platforms enabling online communication, networking, and content sharing, revolutionizing global connectivity and information dissemination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_293.md)
+* [Digital platforms enabling online communication, networking, and content sharing, revolutionizing global connectivity and information dissemination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_286.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)

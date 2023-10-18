@@ -6,7 +6,7 @@
 
 The use of environmental-friendly sustainable disinfection technologies can effectively disinfect hospitals, reducing the risk of healthcare workers and patients getting infected with COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in sustainable disinfection technologies as it can contribute to the safety of hospitals, reducing the risk of infection and improving the value of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1440.md)
 
@@ -19,4 +19,8 @@ The use of environmental-friendly sustainable disinfection technologies can effe
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
 * [medical doctors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_501.md)
+
+## Risks which can benefit from this action
+
+* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1295.md)
 

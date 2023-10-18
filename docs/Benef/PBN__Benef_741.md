@@ -6,7 +6,7 @@
 
 Increased capacity to handle emergency cases and provide medical services
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved healthcare infrastructure can attract more healthcare professionals and enhance access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_804.md)
 
@@ -18,4 +18,8 @@ Increased capacity to handle emergency cases and provide medical services
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
 

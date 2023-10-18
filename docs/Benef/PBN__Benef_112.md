@@ -6,7 +6,7 @@
 
 Improved identification and monitoring of high-risk individuals through data integration
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in data analytics can enhance contact tracing efforts, facilitate rapid responses, and control outbreaks effectively.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_111.md)
 
@@ -18,4 +18,8 @@ Improved identification and monitoring of high-risk individuals through data int
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Risks which can benefit from this action
+
+* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
 

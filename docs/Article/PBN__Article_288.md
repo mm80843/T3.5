@@ -62,3 +62,17 @@ There have been several outbreaks of diseases caused by coronaviruses in the pas
 * [Spatial configuration promoting social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
 * [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
 
+## This article mentions these technologies
+
+* [advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_496.md)
+* [implementation of flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_499.md)
+* [use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_497.md)
+* [use of bleach solutions or alcohol-based cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_500.md)
+* [use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_501.md)
+* [use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
+* [rearrangement of furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_498.md)
+* [increased outside air fractions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_502.md)
+* [higher air exchange rates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_503.md)
+* [use of soap and hot water for handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_504.md)
+* [regular cleaning of high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_506.md)
+

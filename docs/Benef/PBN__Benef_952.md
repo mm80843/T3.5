@@ -6,7 +6,7 @@
 
 Changes in heart rate variability can signal the presence of COVID-19 several days in advance of diagnosis, allowing for early isolation and treatment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for smartwatches and data analysis services for early detection of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1046.md)
 
@@ -18,4 +18,8 @@ Changes in heart rate variability can signal the presence of COVID-19 several da
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Changes in heart rate variability captured by smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_945.md)
 

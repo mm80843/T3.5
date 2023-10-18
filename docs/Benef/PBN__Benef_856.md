@@ -6,7 +6,7 @@
 
 Self-dependent services and urban farming in residential complexes ensure access to necessary goods during lockdowns.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract residents who prioritize self-sufficiency and resilience, potentially increasing the property’s desirability and value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_933.md)
 
@@ -17,4 +17,8 @@ Self-dependent services and urban farming in residential complexes ensure access
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_852.md)
 

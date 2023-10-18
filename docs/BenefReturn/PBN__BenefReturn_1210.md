@@ -2,3 +2,7 @@
 
 # __Increased longevity of buildings, reduced need for future renovations__
 
+## This return can be realized by these benefits
+
+* [Adaptive design approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1083.md)
+

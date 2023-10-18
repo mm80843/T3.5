@@ -6,7 +6,7 @@
 
 Individuals in deprived areas have equitable access to COVID-19 testing, reducing disparities
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health outcomes, reduced transmission, better resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_737.md)
 
@@ -17,4 +17,8 @@ Individuals in deprived areas have equitable access to COVID-19 testing, reducin
 ## Stakeholders benefitting from this Benefit
 
 * [individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
+
+## Risks which can benefit from this action
+
+* [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_682.md)
 

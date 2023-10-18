@@ -2,3 +2,7 @@
 
 # __Implementing high-efficiency air filters can provide a safer work environment, preventing the spread of COVID-19 among workers. This can contribute to improved employee health, increased productivity, and potentially reduced healthcare costs for employers.__
 
+## This return can be realized by these benefits
+
+* [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_371.md)
+

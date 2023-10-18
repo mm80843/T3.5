@@ -8,7 +8,7 @@ enabler_001
 
 ## Category to which it belongs
 
-* [Next-generation cellular network technology providing faster speeds and lower latency for data transmission.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_60.md)
+* [Next-generation cellular network technology providing faster speeds and lower latency for data transmission.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)
 
 ## Closest similar item
 

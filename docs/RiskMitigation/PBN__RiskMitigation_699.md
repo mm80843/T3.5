@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_697.md)
 * [Adequate disinfection of masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1930.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Optimal compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_706.md)
 

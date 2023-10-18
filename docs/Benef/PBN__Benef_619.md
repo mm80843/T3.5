@@ -6,7 +6,7 @@
 
 Design flexibility allows healthcare infrastructure to adapt to changing demands without the need for physical changes, improving the efficiency and effectiveness of healthcare delivery.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in design flexibility by creating healthcare infrastructure that can easily adapt to future changes in demand, increasing the asset value and attracting more tenants or users.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_661.md)
 
@@ -18,4 +18,8 @@ Design flexibility allows healthcare infrastructure to adapt to changing demands
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
+
+## Risks which can benefit from this action
+
+* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_612.md)
 

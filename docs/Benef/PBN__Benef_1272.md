@@ -6,7 +6,7 @@
 
 Developing new projects can create employment opportunities for construction workers and improve the quality of transportation infrastructure, benefiting the public
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in innovative projects can boost economic activity and create jobs, contributing to the recovery and resilience of the construction sector and providing long-term benefits to the public.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1433.md)
 
@@ -18,4 +18,8 @@ Developing new projects can create employment opportunities for construction wor
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
+## Risks which can benefit from this action
+
+* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1288.md)
 

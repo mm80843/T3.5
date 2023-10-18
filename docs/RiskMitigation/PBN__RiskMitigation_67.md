@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
+* [Promote standardized data collection, ontology-based representation, and enhanced data sharing to improve decision-making processes and data quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2779.md)
 * [Clear urban policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_279.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
 

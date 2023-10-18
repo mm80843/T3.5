@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Creating a comfortable and healthy indoor environment through control of environmental factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_40.md)
+* [Creating a comfortable and healthy indoor environment through control of environmental factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_30.md)
 
 ## Closest similar item
 

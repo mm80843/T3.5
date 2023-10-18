@@ -38,7 +38,6 @@ When the fourth water and digital revolution encountered COVID-19
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
 * [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
 * [Enhanced treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1001.md)
-* [----------------------](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1002.md)
 * [Reduction in leaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1003.md)
 * [Prevention of clogs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1004.md)
 * [Additional revenue](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1005.md)
@@ -72,4 +71,18 @@ When the fourth water and digital revolution encountered COVID-19
 * [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
 * [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1634.md)
 * [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1635.md)
+
+## This article mentions these technologies
+
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
+* [remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
+* [ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+* [digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
+* [data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
+* [data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
+* [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+* [smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1313.md)
+* [laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1320.md)
 

@@ -2,3 +2,7 @@
 
 # __Private investors benefit from improved asset value and tenant satisfaction due to reduced risk of disease transmission and improved hygiene standards.__
 
+## This return can be realized by these benefits
+
+* [Reduction of Surface Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1289.md)
+

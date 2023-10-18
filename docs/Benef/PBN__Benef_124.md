@@ -6,7 +6,7 @@
 
 Proper training and guidance on hygiene practices reduce the risk of infection transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing training protocols increases occupant safety, reduces absenteeism, and maintains business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_123.md)
 
@@ -17,4 +17,8 @@ Proper training and guidance on hygiene practices reduce the risk of infection t
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
+
+## Risks which can benefit from this action
+
+* [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_107.md)
 

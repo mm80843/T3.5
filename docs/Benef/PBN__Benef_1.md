@@ -6,7 +6,7 @@
 
 WBE provides insights into the degree of infection spread in a population, helping regional health authorities estimate the state of infection in a specific region more accurately.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Accurate estimation helps in resource allocation, planning targeted interventions, and making informed decisions to control the spread of the virus, reducing the impact on public health and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1.md)
 
@@ -17,4 +17,8 @@ WBE provides insights into the degree of infection spread in a population, helpi
 ## Stakeholders benefitting from this Benefit
 
 * [regional health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
 

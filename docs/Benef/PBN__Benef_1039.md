@@ -6,7 +6,7 @@
 
 Increased investment in research and development boosts innovation and technological capacity, enabling the development of new solutions, products, and services to address current and future challenges.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in research and development can benefit from increased demand for innovative solutions and technologies, as well as potential intellectual property rights and commercialization opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1160.md)
 
@@ -19,4 +19,8 @@ Increased investment in research and development boosts innovation and technolog
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+
+## Risks which can benefit from this action
+
+* [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
 

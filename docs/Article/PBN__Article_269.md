@@ -46,3 +46,8 @@ Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection 
 * [Fixation of cells with formalin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_259.md)
 * [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_260.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [sterile glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_255.md)
+

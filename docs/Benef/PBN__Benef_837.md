@@ -6,7 +6,7 @@
 
 Proactive cost control measures can help prevent cost overruns and improve the financial performance of construction projects.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved financial performance and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_910.md)
 
@@ -18,4 +18,8 @@ Proactive cost control measures can help prevent cost overruns and improve the f
 
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 * [project owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_346.md)
+
+## Risks which can benefit from this action
+
+* [Proactive cost control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_835.md)
 

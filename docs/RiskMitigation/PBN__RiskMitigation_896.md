@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_961.md)
 * [Creating new space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_357.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduction in sedentary behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_896.md)
 

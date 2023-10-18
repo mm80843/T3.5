@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
+* [Enhancing healthcare infrastructure, increasing capacity, and ensuring access to medical resources and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1379.md)
 * [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_470.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_195.md)
 

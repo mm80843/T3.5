@@ -6,7 +6,7 @@
 
 Integrated management platforms and observatories facilitate data sharing, communication, and coordination among different stakeholders
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [More efficient and effective response, better resource allocation, enhanced cooperation and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1225.md)
 
@@ -21,4 +21,8 @@ Integrated management platforms and observatories facilitate data sharing, commu
 * [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
 * [civil society stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_436.md)
 * [urban authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_434.md)
+
+## Risks which can benefit from this action
+
+* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1106.md)
 

@@ -8,7 +8,7 @@ enabler_019
 
 ## Category to which it belongs
 
-* [Additive manufacturing technology that creates three-dimensional objects by layering materials based on digital designs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_78.md)
+* [Additive manufacturing technology that creates three-dimensional objects by layering materials based on digital designs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Mobile apps enable contact tracing, remote monitoring of symptoms, and dissemination of COVID-19 information, empowering individuals and authorities to track and control the spread of the virus.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in mobile apps can enhance public health surveillance, support early detection and intervention, and promote public awareness and compliance, contributing to effective pandemic control.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1222.md)
 
@@ -18,4 +18,8 @@ Mobile apps enable contact tracing, remote monitoring of symptoms, and dissemina
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
 

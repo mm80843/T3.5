@@ -6,7 +6,7 @@
 
 Scenario planning can help supply chain professionals anticipate potential disruptions and develop proactive strategies to mitigate their impacts.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from reduced losses and disruptions, improved resource allocation, and better risk management, leading to increased asset value and long-term sustainability of the supply chain.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_20.md)
 
@@ -17,4 +17,8 @@ Scenario planning can help supply chain professionals anticipate potential disru
 ## Stakeholders benefitting from this Benefit
 
 * [supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
+
+## Risks which can benefit from this action
+
+* [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_12.md)
 

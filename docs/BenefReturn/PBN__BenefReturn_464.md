@@ -2,3 +2,7 @@
 
 # __Investing in mass testing can lead to early detection and treatment, reducing the burden on healthcare systems and minimizing the impact of the pandemic.__
 
+## This return can be realized by these benefits
+
+* [Early diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_429.md)
+

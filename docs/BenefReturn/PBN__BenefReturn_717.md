@@ -2,3 +2,7 @@
 
 # __Private investors benefit from a healthier and safer environment, leading to increased property values and demand for housing.__
 
+## This return can be realized by these benefits
+
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_79.md)
+

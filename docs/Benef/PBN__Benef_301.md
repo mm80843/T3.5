@@ -6,7 +6,7 @@
 
 Community-level planning and design strategies promote social cohesion, active living, and access to amenities, improving public health and fostering a sense of community.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Stronger communities attract residents, businesses, and investment, leading to increased property values and economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_319.md)
 
@@ -18,4 +18,8 @@ Community-level planning and design strategies promote social cohesion, active l
 
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_298.md)
 

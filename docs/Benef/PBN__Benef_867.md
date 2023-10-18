@@ -6,7 +6,7 @@
 
 Vaccine development and distribution efforts lead to immunization and prevention of future outbreaks
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in pharmaceuticals and healthcare would benefit from increased demand for vaccines and related products](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_948.md)
 
@@ -17,4 +17,8 @@ Vaccine development and distribution efforts lead to immunization and prevention
 ## Stakeholders benefitting from this Benefit
 
 * [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+
+## Risks which can benefit from this action
+
+* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_866.md)
 

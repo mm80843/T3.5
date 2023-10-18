@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Technological tools and resources for creating, organizing, and utilizing information within the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_33.md)
+* [Technological tools and resources for creating, organizing, and utilizing information within the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_23.md)
 
 ## Closest similar item
 

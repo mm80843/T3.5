@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
+* [Implementing a comprehensive package of measures to ensure the smooth functioning and safety of essential services and activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_376.md)
 * [Ensure access to and proper use of appropriate PPE for all employees](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2041.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduction in COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1220.md)
 

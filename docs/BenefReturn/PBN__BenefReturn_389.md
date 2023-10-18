@@ -2,3 +2,7 @@
 
 # __Private investors can benefit indirectly by supporting the implementation of wastewater surveillance systems in areas with poor sanitation, contributing to improved public health outcomes and stability in those regions.__
 
+## This return can be realized by these benefits
+
+* [Informative data in areas with scarce data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_362.md)
+

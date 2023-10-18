@@ -6,7 +6,7 @@
 
 Green elements mitigate urban climate, reduce heat waves, increase humidity, and promote physical activity and well-being, reducing diseases and improving mental health.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in green elements can improve the overall health and well-being of residents, leading to increased property value and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_873.md)
 
@@ -17,4 +17,8 @@ Green elements mitigate urban climate, reduce heat waves, increase humidity, and
 ## Stakeholders benefitting from this Benefit
 
 * [all age groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_327.md)
+
+## Risks which can benefit from this action
+
+* [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_799.md)
 

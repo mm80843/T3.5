@@ -6,7 +6,7 @@
 
 Using innovation and creativity to adapt to changing customer behavior and needs can lead to the identification of new business opportunities and revenue streams.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in innovation and creativity allows businesses to stay relevant and competitive in the market, attract customers, and increase the value of their assets.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1042.md)
 
@@ -18,4 +18,8 @@ Using innovation and creativity to adapt to changing customer behavior and needs
 
 * [smes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_370.md)
 * [small businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_371.md)
+
+## Risks which can benefit from this action
+
+* [Innovation and creativity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_942.md)
 

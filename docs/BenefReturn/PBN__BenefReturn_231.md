@@ -2,3 +2,7 @@
 
 # __Reduced absenteeism and improved employee resilience__
 
+## This return can be realized by these benefits
+
+* [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
+

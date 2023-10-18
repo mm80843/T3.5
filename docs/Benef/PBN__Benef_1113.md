@@ -6,7 +6,7 @@
 
 Aligning pseudonymization conversions with cohort studies' characteristics improves privacy protection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances privacy protection while preserving the scientific value of data, ensuring compliance with regulations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1245.md)
 
@@ -17,4 +17,8 @@ Aligning pseudonymization conversions with cohort studies' characteristics impro
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Alignment to longitudinal characteristics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1124.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Advancements in medical solutions, such as immunization, treatment, and technological innovations, are explored and monitored.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)
+* [Advancements in medical solutions, such as immunization, treatment, and technological innovations, are explored and monitored.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_47.md)
 
 ## Closest similar item
 

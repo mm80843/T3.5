@@ -2,3 +2,7 @@
 
 # __Investing in insecticide-treated bed nets can lead to a significant reduction in the risk of vector-borne diseases, improving the health and well-being of individuals and potentially increasing productivity.__
 
+## This return can be realized by these benefits
+
+* [Reduction in mosquito-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_336.md)
+

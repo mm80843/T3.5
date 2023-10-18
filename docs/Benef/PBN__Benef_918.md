@@ -6,7 +6,7 @@
 
 Graphene-based coatings can provide an additional layer of protection against virus transmission, complementing existing treatment options and improving patient outcomes.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for graphene-based coatings in healthcare settings, leading to potential profit and market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1007.md)
 
@@ -18,4 +18,8 @@ Graphene-based coatings can provide an additional layer of protection against vi
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_918.md)
 

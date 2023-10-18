@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_302.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Research and development of antiviral technologies that are effective against a wider range of viruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2038.md)
 * [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2037.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
 

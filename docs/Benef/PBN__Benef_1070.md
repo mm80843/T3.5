@@ -6,7 +6,7 @@
 
 Improved indoor air quality reduces employee sick leave and increases productivity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from reduced costs of sick leave and improved productivity, leading to improved asset value of the building](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1196.md)
 
@@ -18,4 +18,8 @@ Improved indoor air quality reduces employee sick leave and increases productivi
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1078.md)
 

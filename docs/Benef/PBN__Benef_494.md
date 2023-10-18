@@ -6,7 +6,7 @@
 
 Containment measures can reduce the spread of the virus and minimize the impact of the pandemic, leading to lower infection rates and fewer deaths
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in companies providing containment solutions (e.g., disinfection services, remote monitoring systems) can benefit from increased demand for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_537.md)
 
@@ -17,4 +17,8 @@ Containment measures can reduce the spread of the virus and minimize the impact 
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_507.md)
 

@@ -48,3 +48,12 @@ Building occupancy estimation with people flow modeling in AnyLogic
 * [Video cameras and beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
 * [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1132.md)
 
+## This article mentions these technologies
+
+* [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
+* [anylogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_987.md)
+* [sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_990.md)
+* [historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
+* [kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_991.md)
+

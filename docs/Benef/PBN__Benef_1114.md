@@ -6,7 +6,7 @@
 
 Alternative funding formats incentivize collaboration, coordination, and data sharing.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Promotes efficient delivery of evidence and knowledge, ensures inclusivity, and facilitates policy decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1246.md)
 
@@ -17,4 +17,8 @@ Alternative funding formats incentivize collaboration, coordination, and data sh
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Alternative funding formats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1125.md)
 

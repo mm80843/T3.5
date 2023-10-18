@@ -2,3 +2,7 @@
 
 # __By protecting themselves against potential issues and risks, construction companies can safeguard their financial stability, improve project outcomes, and secure future business opportunities__
 
+## This return can be realized by these benefits
+
+* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_380.md)
+

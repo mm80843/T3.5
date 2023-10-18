@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_337.md)
+* [Maximizing vaccine efficacy and ensuring equitable access through research, development, distribution, and targeted outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_334.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Develop predictive models using SIR and vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_200.md)
 * [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2759.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1187.md)
 

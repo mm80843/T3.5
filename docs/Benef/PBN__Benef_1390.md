@@ -6,7 +6,7 @@
 
 IoT enables effective reachability to patients, allowing for better care and monitoring during quarantine.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved patient care leads to better health outcomes and potentially reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1577.md)
 
@@ -17,4 +17,8 @@ IoT enables effective reachability to patients, allowing for better care and mon
 ## Stakeholders benefitting from this Benefit
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
 

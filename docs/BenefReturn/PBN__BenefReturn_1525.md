@@ -2,3 +2,7 @@
 
 # __Income stability, job security, and reduced economic hardship for immigrants__
 
+## This return can be realized by these benefits
+
+* [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
+

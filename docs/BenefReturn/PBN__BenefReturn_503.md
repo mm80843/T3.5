@@ -2,3 +2,7 @@
 
 # __Higher tenant demand and retention due to the ability to accommodate different needs.__
 
+## This return can be realized by these benefits
+
+* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_467.md)
+

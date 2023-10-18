@@ -8,7 +8,7 @@ enabler_013
 
 ## Category to which it belongs
 
-* [Capturing visual data through surveillance systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_72.md)
+* [Capturing visual data through surveillance systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_62.md)
 
 ## Closest similar item
 

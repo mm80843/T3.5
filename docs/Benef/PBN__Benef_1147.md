@@ -6,7 +6,7 @@
 
 Effective management of waste, leading to reduced environmental pollution and health risks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in waste management infrastructure can benefit from increased demand for waste disposal services and potential financial returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1279.md)
 
@@ -17,4 +17,8 @@ Effective management of waste, leading to reduced environmental pollution and he
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1147.md)
 

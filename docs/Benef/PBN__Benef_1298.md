@@ -6,7 +6,7 @@
 
 Implementation of measures to ensure safe and equal access to green areas during the pandemic, leading to better preparedness for future crises
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased property values and demand for housing in areas with resilient green infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1465.md)
 
@@ -17,4 +17,8 @@ Implementation of measures to ensure safe and equal access to green areas during
 ## Stakeholders benefitting from this Benefit
 
 * [all residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_512.md)
+
+## Risks which can benefit from this action
+
+* [Adapt green area management to "new normal" lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1318.md)
 

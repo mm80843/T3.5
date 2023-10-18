@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Building inhabitants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_264.md)
+* [Building inhabitants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_257.md)
 
 ## Closest similar item
 

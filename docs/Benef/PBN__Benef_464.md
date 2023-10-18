@@ -6,7 +6,7 @@
 
 Improved air circulation reduces the risk of infection transmission in the building, creating a healthier indoor environment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased asset value due to improved indoor air quality and occupant health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_500.md)
 
@@ -18,4 +18,8 @@ Improved air circulation reduces the risk of infection transmission in the build
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 

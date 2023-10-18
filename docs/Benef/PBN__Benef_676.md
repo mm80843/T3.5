@@ -6,7 +6,7 @@
 
 Developing and planning resilient transport infrastructure can limit the spread of respiratory viruses in urban areas, reducing the risk of pandemics.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in these infrastructure projects as they would enhance the connectivity and accessibility of their properties, improving their market value and attracting businesses and residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_723.md)
 
@@ -17,4 +17,8 @@ Developing and planning resilient transport infrastructure can limit the spread 
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_668.md)
 

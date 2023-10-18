@@ -2,3 +2,7 @@
 
 # __Improved decision-making leads to more effective policies, better health outcomes, and increased public trust__
 
+## This return can be realized by these benefits
+
+* [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_538.md)
+

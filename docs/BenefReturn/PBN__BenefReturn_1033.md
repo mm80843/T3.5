@@ -2,3 +2,7 @@
 
 # __Improved testing efficiency, increased accessibility to testing__
 
+## This return can be realized by these benefits
+
+* [Quick, non-invasive testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_943.md)
+

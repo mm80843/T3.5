@@ -6,7 +6,7 @@
 
 Facilitates remote learning and educational activities during lockdowns and social distancing measures
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Ensures continuity of education, reduces learning disruptions, and promotes skill development](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1293.md)
 
@@ -18,4 +18,8 @@ Facilitates remote learning and educational activities during lockdowns and soci
 
 * [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+
+## Risks which can benefit from this action
+
+* [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1160.md)
 

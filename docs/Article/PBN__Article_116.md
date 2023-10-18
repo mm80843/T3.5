@@ -57,3 +57,18 @@ Emerging Technologies to Combat the COVID-19 Pandemic
 * [Industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2251.md)
 * [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2252.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
+* [remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
+* [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
+* [ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1850.md)
+

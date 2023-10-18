@@ -2,3 +2,7 @@
 
 # __Private investors can invest in vaccination campaigns to increase coverage, leading to improved public health outcomes and potential government partnerships.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1188.md)
+

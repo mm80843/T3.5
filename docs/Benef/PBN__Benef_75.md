@@ -6,7 +6,7 @@
 
 Copper-coated surfaces inactivate COVID-19 virus within hours, reducing the risk of transmission through surface contact.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in copper coating technology as it improves the value and safety of public spaces, reducing the risk of liability and potential shutdowns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_76.md)
 
@@ -17,4 +17,8 @@ Copper-coated surfaces inactivate COVID-19 virus within hours, reducing the risk
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
 

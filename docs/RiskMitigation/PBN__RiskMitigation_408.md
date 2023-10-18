@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -18,7 +18,7 @@
 * [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1611.md)
 * [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1821.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced morbidity and mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_405.md)
 

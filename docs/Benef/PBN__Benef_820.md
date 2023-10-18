@@ -6,7 +6,7 @@
 
 Offers a lasting legacy and deeper understanding of urban science developments by integrating quantitative data with analysis of behavior change
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in research and analysis of behavior change can contribute to advancements in urban science and inform future policy interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_890.md)
 
@@ -18,4 +18,8 @@ Offers a lasting legacy and deeper understanding of urban science developments b
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Risks which can benefit from this action
+
+* [Analysis of root causes of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_816.md)
 

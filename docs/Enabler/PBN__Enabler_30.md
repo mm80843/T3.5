@@ -8,7 +8,7 @@ enabler_031
 
 ## Category to which it belongs
 
-* [Design that incorporates and seeks to nourish our connection with nature.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_90.md)
+* [Design that incorporates and seeks to nourish our connection with nature.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
 
 ## Closest similar item
 

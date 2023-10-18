@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
 * [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2701.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
 

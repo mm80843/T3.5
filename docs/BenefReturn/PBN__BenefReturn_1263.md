@@ -2,3 +2,7 @@
 
 # __Increased occupant satisfaction and productivity due to improved comfort levels.__
 
+## This return can be realized by these benefits
+
+* [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_320.md)
+

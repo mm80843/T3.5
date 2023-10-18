@@ -2,3 +2,7 @@
 
 # __Increased operational efficiency and reduced labor costs__
 
+## This return can be realized by these benefits
+
+* [Speed up testing process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_103.md)
+

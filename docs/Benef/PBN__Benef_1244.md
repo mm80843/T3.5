@@ -6,7 +6,7 @@
 
 Ability to quickly adapt to emergencies, improved community health and safety
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased property value, increased sense of security](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1397.md)
 
@@ -18,4 +18,8 @@ Ability to quickly adapt to emergencies, improved community health and safety
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [emergency responders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_484.md)
+
+## Risks which can benefit from this action
+
+* [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1258.md)
 

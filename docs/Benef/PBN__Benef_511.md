@@ -6,7 +6,7 @@
 
 Ultraviolet germicidal irradiation (UVGI) devices can disinfect air and surfaces, reducing the concentration of airborne viruses and the risk of transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in UVGI devices can benefit from improved occupant health and safety, enhanced reputation for prioritizing public health, and reduced absenteeism and healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_558.md)
 
@@ -17,4 +17,8 @@ Ultraviolet germicidal irradiation (UVGI) devices can disinfect air and surfaces
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
 

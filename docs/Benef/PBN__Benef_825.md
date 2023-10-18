@@ -6,7 +6,7 @@
 
 Designing balconies to be multifunctional and adaptable can increase their usability and allow them to serve multiple purposes, such as dining, working, or gardening.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in larger and more versatile balconies can improve the functionality of apartments and make them more desirable to potential buyers or renters.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_895.md)
 
@@ -17,4 +17,8 @@ Designing balconies to be multifunctional and adaptable can increase their usabi
 ## Stakeholders benefitting from this Benefit
 
 * [apartment owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_334.md)
+
+## Risks which can benefit from this action
+
+* [Balcony size and functionality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_821.md)
 

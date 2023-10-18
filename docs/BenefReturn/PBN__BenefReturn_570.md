@@ -2,3 +2,7 @@
 
 # __Implementing telecommuting can lead to higher profitability for companies due to increased productivity and output from employees.__
 
+## This return can be realized by these benefits
+
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
+

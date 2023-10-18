@@ -55,3 +55,16 @@ Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of
 * [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
 * [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_187.md)
+* [smart ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_186.md)
+* [led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
+* [glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_189.md)
+* [white noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
+

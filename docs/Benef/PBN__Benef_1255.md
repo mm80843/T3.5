@@ -6,7 +6,7 @@
 
 Green roofs can act as natural greywater treatment systems, helping to remove water pollutants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in green roofs can contribute to water management and support sustainable water practices, benefiting municipalities and water authorities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1410.md)
 
@@ -18,4 +18,7 @@ Green roofs can act as natural greywater treatment systems, helping to remove wa
 
 * [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
 * [water authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_494.md)
+
+## Risks which can benefit from this action
+
 

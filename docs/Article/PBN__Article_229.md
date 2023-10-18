@@ -47,3 +47,6 @@ The COVID-19 pandemic: Considerations for the waste and wastewater services sect
 * [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1440.md)
 * [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
 
+## This article mentions these technologies
+
+

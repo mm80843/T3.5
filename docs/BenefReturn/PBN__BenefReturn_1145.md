@@ -2,3 +2,7 @@
 
 # __Reduced energy costs and improved sustainability.__
 
+## This return can be realized by these benefits
+
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
+

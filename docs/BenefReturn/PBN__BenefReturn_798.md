@@ -2,3 +2,7 @@
 
 # __Private investors in various sectors of the economy can benefit from reduced economic disruption and financial losses associated with epidemic resurgence during winter.__
 
+## This return can be realized by these benefits
+
+* [Reduction in epidemic resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_739.md)
+

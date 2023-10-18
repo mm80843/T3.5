@@ -2,3 +2,7 @@
 
 # __Private investors could benefit by investing in measures that reduce household transmissions as it would contribute to overall reduction in transmission rates, leading to fewer infections and lower mortality rates.__
 
+## This return can be realized by these benefits
+
+* [Reduced transmission within households](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_404.md)
+

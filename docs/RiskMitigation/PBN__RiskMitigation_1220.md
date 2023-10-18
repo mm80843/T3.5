@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
+* [Promote equitable, sustainable, and inclusive urban planning to enhance living conditions, mitigate overcrowding, and reduce disparities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Redesign and allocate more space for street open spaces in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2582.md)
 * [Medium density housing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_703.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1215.md)
 

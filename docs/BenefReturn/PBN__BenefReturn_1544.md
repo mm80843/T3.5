@@ -2,3 +2,7 @@
 
 # __Implementing non-contact interaction measures can improve the convenience and accessibility of community services, enhancing the overall satisfaction and quality of life for residents.__
 
+## This return can be realized by these benefits
+
+* [Increased convenience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1360.md)
+

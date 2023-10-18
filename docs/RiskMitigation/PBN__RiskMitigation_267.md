@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Regular maintenance and inspection of ventilation systems, proper design and installation of ventilation systems, and use of high-efficiency air filters.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2309.md)
 * [Hand hygiene and respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_717.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
 

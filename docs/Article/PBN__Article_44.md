@@ -46,3 +46,13 @@ Nurture to nature via COVID-19, a self-regenerating environmental strategy of en
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1553.md)
 * [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
 
+## This article mentions these technologies
+
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
+* [noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1239.md)
+* [renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
+* [research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
+* [reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1238.md)
+

@@ -6,7 +6,7 @@
 
 Increases confidence and stability in the construction industry, leading to improved project performance
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved project performance and reduced financial risks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1555.md)
 
@@ -18,4 +18,8 @@ Increases confidence and stability in the construction industry, leading to impr
 
 * [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
 * [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+
+## Risks which can benefit from this action
+
+* [Reduction in perceived impact over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1403.md)
 

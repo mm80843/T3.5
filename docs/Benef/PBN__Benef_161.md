@@ -6,7 +6,7 @@
 
 Improved hygiene practices and reduced risk of waterborne diseases
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health outcomes and reduced healthcare costs for residents, improved quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_163.md)
 
@@ -17,4 +17,8 @@ Improved hygiene practices and reduced risk of waterborne diseases
 ## Stakeholders benefitting from this Benefit
 
 * [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
+
+## Risks which can benefit from this action
+
+* [Scaling up provision of water and safe sanitation in settlements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_144.md)
 

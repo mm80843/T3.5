@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Conduct research to understand the tissue tropism and pathogenesis of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3062.md)
 * [Quantification of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Mapping disease progression and identifying long COVID cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_954.md)
 

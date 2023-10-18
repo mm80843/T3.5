@@ -6,7 +6,7 @@
 
 Prioritizing patients based on severity during admissions logistics
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Optimal use of hospital resources, improved patient outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1568.md)
 
@@ -18,4 +18,8 @@ Prioritizing patients based on severity during admissions logistics
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1413.md)
 

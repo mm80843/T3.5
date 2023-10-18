@@ -6,7 +6,7 @@
 
 Increased capacity for critical care treatment
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in healthcare infrastructure by improving asset value and attracting more patients.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_629.md)
 
@@ -18,4 +18,8 @@ Increased capacity for critical care treatment
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Increase investment in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_582.md)
 

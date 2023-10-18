@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_303.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Using wearables to manage symptoms and identify overexertion in individuals with long COVID](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
 * [Regular calibration and verification of wearable devices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1682.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Early detection of SARS-CoV-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_952.md)
 

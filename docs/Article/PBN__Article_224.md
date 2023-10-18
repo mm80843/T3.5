@@ -72,3 +72,15 @@ Building Transformation for Precautionary Measures against COVID-19 Pandemic: Ca
 * [Stay Home when Sick](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1971.md)
 * [Smart Rotary Car Parking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
 
+## This article mentions these technologies
+
+* [design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
+* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
+* [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
+* [economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1600.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [expert guidance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1602.md)
+

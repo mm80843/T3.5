@@ -2,3 +2,7 @@
 
 # __Investing in strengthening public health systems and crisis management can improve the resilience of healthcare systems, reduce healthcare costs, and protect the reputation and value of healthcare institutions.__
 
+## This return can be realized by these benefits
+
+* [Enhanced crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_974.md)
+

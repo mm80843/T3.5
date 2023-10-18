@@ -2,3 +2,7 @@
 
 # __Investing in credit guarantee schemes can lead to increased profits and economic growth through the support and expansion of SMEs.__
 
+## This return can be realized by these benefits
+
+* [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
+

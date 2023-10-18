@@ -71,3 +71,21 @@ Psychological Effects of Home Confinement and Social Distancing Derived from COV
 * [Teleconferencing and Virtual Meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1738.md)
 * [Physical Barriers (e.g., Plexiglass)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
 
+## This article mentions these technologies
+
+* [fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1437.md)
+* [financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1440.md)
+* [job retention and creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1441.md)
+* [community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
+* [online support groups and forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1444.md)
+* [mental health apps for self-care and stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1435.md)
+* [online mental health resources and support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1436.md)
+* [public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1438.md)
+* [virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1443.md)
+* [financial education resources and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1442.md)
+* [online mental health resources and self-help tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
+* [online training and support for mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1448.md)
+* [telehealth platforms for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1434.md)
+* [telehealth platforms and software for virtual therapy and counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1446.md)
+* [collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1439.md)
+

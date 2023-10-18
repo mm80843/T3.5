@@ -6,7 +6,7 @@
 
 AI technologies can analyze large amounts of data to track and predict the spread of COVID-19, providing valuable information for decision-making and resource allocation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in AI technologies can improve the effectiveness of public health responses, leading to better control of the pandemic and reduced economic losses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_482.md)
 
@@ -18,4 +18,8 @@ AI technologies can analyze large amounts of data to track and predict the sprea
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
 

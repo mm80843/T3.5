@@ -6,7 +6,7 @@
 
 Directing recovery funds towards sustainable development initiatives promotes economic, social, and environmental well-being, and helps achieve the SDGs.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in sustainable technologies, organic farming, low-carbon transportation, and recyclable materials would benefit from increased investment opportunities and market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_27.md)
 
@@ -19,4 +19,8 @@ Directing recovery funds towards sustainable development initiatives promotes ec
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [the environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_25.md)
+
+## Risks which can benefit from this action
+
+* [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_19.md)
 

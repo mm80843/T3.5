@@ -2,3 +2,7 @@
 
 # __Improved community resilience can lead to reduced economic impacts during crises, increased community well-being, and enhanced property values for private investors in the area.__
 
+## This return can be realized by these benefits
+
+* [Improved community resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1300.md)
+

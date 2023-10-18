@@ -6,7 +6,7 @@
 
 Helps identify individuals who came in contact with infected persons for testing and tracing
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enables prompt isolation and testing, reducing further transmission and facilitating containment efforts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1286.md)
 
@@ -18,4 +18,8 @@ Helps identify individuals who came in contact with infected persons for testing
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Wi-Fi-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1153.md)
 

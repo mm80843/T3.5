@@ -6,7 +6,7 @@
 
 Sustainable methods protect and regenerate ecological resources, ensuring long-term food security.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased demand for sustainable and organic food, leading to higher profits and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_304.md)
 
@@ -18,4 +18,8 @@ Sustainable methods protect and regenerate ecological resources, ensuring long-t
 
 * [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
 * [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+
+## Risks which can benefit from this action
+
+* [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_281.md)
 

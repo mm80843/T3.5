@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Knowledge assets for learning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_295.md)
+* [Knowledge assets for learning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_288.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_63.md)
 * [training resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_64.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1190.md)

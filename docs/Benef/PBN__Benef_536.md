@@ -6,7 +6,7 @@
 
 Monitoring energy demands at a large scale allows for adaptive design of buildings, optimizing energy efficiency and occupant comfort.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in continuous energy demand monitoring and adaptive design can lead to cost savings, increased energy efficiency, and improved tenant satisfaction, enhancing the value of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_588.md)
 
@@ -18,4 +18,8 @@ Monitoring energy demands at a large scale allows for adaptive design of buildin
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [energy consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_226.md)
+
+## Risks which can benefit from this action
+
+* [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_548.md)
 

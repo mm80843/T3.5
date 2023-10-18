@@ -6,7 +6,7 @@
 
 Allows for a more proactive and effective response to pandemic-related challenges
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from reduced disruptions and potential cost savings due to better preparation and response to pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1554.md)
 
@@ -18,4 +18,8 @@ Allows for a more proactive and effective response to pandemic-related challenge
 
 * [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
 * [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+
+## Risks which can benefit from this action
+
+* [Increase in preparedness level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)
 

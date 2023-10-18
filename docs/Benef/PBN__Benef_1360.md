@@ -6,7 +6,7 @@
 
 Non-contact interaction activities provide convenience for residents in accessing community services, such as online teaching, online medical services, and online administrative services.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing non-contact interaction measures can improve the convenience and accessibility of community services, enhancing the overall satisfaction and quality of life for residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1544.md)
 
@@ -17,4 +17,8 @@ Non-contact interaction activities provide convenience for residents in accessin
 ## Stakeholders benefitting from this Benefit
 
 * [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+
+## Risks which can benefit from this action
+
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1396.md)
 

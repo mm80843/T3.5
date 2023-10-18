@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Laboratory professionals specializing in the study and analysis of living organisms and their processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_297.md)
+* [Laboratory professionals specializing in the study and analysis of living organisms and their processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_290.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_82.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_83.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Reduce negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1213.md)
 * [Enhance core capacities, improve risk communication, engage communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1609.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
 

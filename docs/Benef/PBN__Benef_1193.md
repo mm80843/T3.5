@@ -6,7 +6,7 @@
 
 Continuously active antimicrobial coating reduces the spread of hospital acquired infections in clinical settings
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced healthcare costs, improved patient outcomes, increased asset value through reputation and patient satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1328.md)
 
@@ -18,4 +18,8 @@ Continuously active antimicrobial coating reduces the spread of hospital acquire
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+
+## Risks which can benefit from this action
+
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
 

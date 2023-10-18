@@ -6,7 +6,7 @@
 
 Provides safer and more spacious living conditions, reducing overcrowding and lowering the risk of transmission within households.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in the development of affordable housing with resilient design in low-income communities, contributing to community well-being and potentially attracting residents seeking safer and more comfortable living spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_31.md)
 
@@ -17,4 +17,8 @@ Provides safer and more spacious living conditions, reducing overcrowding and lo
 ## Stakeholders benefitting from this Benefit
 
 * [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
+
+## Risks which can benefit from this action
+
+* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
 

@@ -2,3 +2,7 @@
 
 # __Improved mental and physical health can lead to increased resident satisfaction, productivity, and reduced healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_889.md)
+

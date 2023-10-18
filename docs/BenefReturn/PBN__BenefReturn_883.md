@@ -2,3 +2,7 @@
 
 # __Faster containment of outbreaks, reduced spread of COVID-19__
 
+## This return can be realized by these benefits
+
+* [Containment of COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_815.md)
+

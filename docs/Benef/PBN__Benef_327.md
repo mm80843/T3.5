@@ -6,7 +6,7 @@
 
 Allocating checkpoints in public places allows for effective monitoring of mobility and safety checks, such as temperature checks and registration. This ensures compliance with preventive measures and contributes to a safer environment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from increased safety and reduced liability, leading to improved asset value and attractiveness.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_344.md)
 
@@ -18,4 +18,8 @@ Allocating checkpoints in public places allows for effective monitoring of mobil
 
 * [public place users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_153.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
 

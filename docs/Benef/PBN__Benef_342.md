@@ -6,7 +6,7 @@
 
 Mechanical ventilation systems can effectively dilute and remove infectious particles in room air, reducing the risk of transmission and improving indoor air quality.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract tenants and enhance the value of their properties by providing a healthy and safe indoor environment with efficient mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_363.md)
 
@@ -17,4 +17,8 @@ Mechanical ventilation systems can effectively dilute and remove infectious part
 ## Stakeholders benefitting from this Benefit
 
 * [occupants in the room](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_164.md)
+
+## Risks which can benefit from this action
+
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_341.md)
 

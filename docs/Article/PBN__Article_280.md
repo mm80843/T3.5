@@ -51,3 +51,9 @@ On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Dat
 * [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
 * [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
 
+## This article mentions these technologies
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+

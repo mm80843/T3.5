@@ -6,7 +6,7 @@
 
 Biophilic design promotes contact with nature which has been proven to improve physical and mental health and well-being of building occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from creating healthier living environments that can attract tenants and increase property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_471.md)
 * [Private investors investing in the design and development of green spaces can benefit from increased property values, as well as attracting more potential tenants or buyers who value access to green areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_757.md)
@@ -23,4 +23,10 @@ Biophilic design promotes contact with nature which has been proven to improve p
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+
+## Risks which can benefit from this action
+
+* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
+* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_452.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
 

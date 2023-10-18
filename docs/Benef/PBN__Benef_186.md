@@ -6,7 +6,7 @@
 
 Access to green space positively affects physical activity, healthier habits and behaviours, and improved health outcomes
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health outcomes can lead to reduced healthcare costs and increased property values in communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_191.md)
 
@@ -17,4 +17,8 @@ Access to green space positively affects physical activity, healthier habits and
 ## Stakeholders benefitting from this Benefit
 
 * [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
+
+## Risks which can benefit from this action
+
+* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
 

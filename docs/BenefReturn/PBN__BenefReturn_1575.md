@@ -2,3 +2,7 @@
 
 # __Early response to health emergencies, improved public health and safety__
 
+## This return can be realized by these benefits
+
+* [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
+

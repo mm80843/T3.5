@@ -6,7 +6,7 @@
 
 Air filtration devices provide a safer built environment by removing airborne pathogens, improving the overall safety and quality of care in hospitals.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in air filtration devices as it would attract more patients, enhance the hospital’s reputation, and increase the value of the hospital as an asset.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1254.md)
 
@@ -18,4 +18,8 @@ Air filtration devices provide a safer built environment by removing airborne pa
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 

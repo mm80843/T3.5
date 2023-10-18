@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
+* [Accelerate the shift to digitalization by embracing emerging technologies and implementing innovative solutions across various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
 
 ## Closest similar item
 
@@ -19,12 +19,12 @@
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
 * [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
+* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_724.md)
+* [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_732.md)
 * [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_723.md)
 * [Incentives to the local economy through digital means](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_728.md)
-* [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_732.md)
-* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_724.md)
 
 ## Risks possibly mitigated by this Mitigation
 

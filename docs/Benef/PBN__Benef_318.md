@@ -6,7 +6,7 @@
 
 Regular maintenance ensures effectiveness of UVGI systems
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased lifespan of UV lamps and improved disinfection efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_335.md)
 
@@ -17,4 +17,8 @@ Regular maintenance ensures effectiveness of UVGI systems
 ## Stakeholders benefitting from this Benefit
 
 * [maintenance personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_151.md)
+
+## Risks which can benefit from this action
+
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_317.md)
 

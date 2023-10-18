@@ -2,3 +2,7 @@
 
 # __Investing in divestment from fossil fuels improves financial resilience and supports sustainable energy investment opportunities.__
 
+## This return can be realized by these benefits
+
+* [Financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_67.md)
+

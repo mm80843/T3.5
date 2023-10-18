@@ -2,3 +2,7 @@
 
 # __Identification of immunized patients can inform vaccination strategies and public health planning, attracting more funding and collaboration opportunities.__
 
+## This return can be realized by these benefits
+
+* [Identification of immunized patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_882.md)
+

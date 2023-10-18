@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_307.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement public health measures, such as social distancing and proper hygiene protocols, invest in healthcare infrastructure and resources, and promote vaccination and disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2632.md)
 * [Strengthening surveillance and control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Bolstering European early warning for disease events](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1017.md)
 

@@ -6,7 +6,7 @@
 
 nan
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 
 ## Articles mentionning this Benefit
@@ -14,5 +14,8 @@ nan
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Stakeholders benefitting from this Benefit
+
+
+## Risks which can benefit from this action
 
 

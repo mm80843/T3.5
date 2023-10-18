@@ -6,7 +6,7 @@
 
 Safeguard privacy and protect civil rights from potential abuses from surveillance technologies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced trust and satisfaction among citizens, leading to improved social cohesion and political stability, which in turn can attract investment and improve asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1344.md)
 
@@ -17,4 +17,8 @@ Safeguard privacy and protect civil rights from potential abuses from surveillan
 ## Stakeholders benefitting from this Benefit
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+
+## Risks which can benefit from this action
+
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1201.md)
 

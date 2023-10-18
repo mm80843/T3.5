@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhancements for the air quality within enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_307.md)
+* [Enhancements for the air quality within enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_300.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_180.md)
 * [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_181.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)

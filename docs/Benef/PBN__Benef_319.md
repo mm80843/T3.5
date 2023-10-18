@@ -6,7 +6,7 @@
 
 Further research needed on efficacy of UVGI systems
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved understanding and optimization of UVGI systems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_336.md)
 
@@ -17,4 +17,8 @@ Further research needed on efficacy of UVGI systems
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
 

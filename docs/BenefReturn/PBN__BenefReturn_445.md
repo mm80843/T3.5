@@ -2,3 +2,7 @@
 
 # __Investing in worker health monitoring reduces the risk of COVID-19 outbreaks, minimizes project disruptions, and improves overall project performance and completion time.__
 
+## This return can be realized by these benefits
+
+* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_415.md)
+

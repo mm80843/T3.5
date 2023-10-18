@@ -2,3 +2,7 @@
 
 # __Social and political stability create favorable conditions for economic growth and investment.__
 
+## This return can be realized by these benefits
+
+* [Social and political stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_531.md)
+

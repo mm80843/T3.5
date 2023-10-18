@@ -6,7 +6,7 @@
 
 Harmonization of technical standards and regulations
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Easier access to alternative suppliers, improved flexibility in procurement](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_326.md)
 
@@ -18,4 +18,8 @@ Harmonization of technical standards and regulations
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Reduce heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_305.md)
 

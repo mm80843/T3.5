@@ -6,7 +6,7 @@
 
 Decrease in human interference and disturbance, allowing wildlife to thrive and maintain biodiversity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in measures to reduce human interference and protect wildlife can contribute to biodiversity conservation and potential asset value improvement in areas with protected wildlife habitats](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_207.md)
 
@@ -17,4 +17,8 @@ Decrease in human interference and disturbance, allowing wildlife to thrive and 
 ## Stakeholders benefitting from this Benefit
 
 * [wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_117.md)
+
+## Risks which can benefit from this action
+
+* [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_186.md)
 

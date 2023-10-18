@@ -2,3 +2,7 @@
 
 # __Implementing contact tracing and monitoring technology can help public health agencies effectively manage and control the spread of contagious diseases, protecting the population and minimizing economic disruptions.__
 
+## This return can be realized by these benefits
+
+* [Early detection and containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_526.md)
+

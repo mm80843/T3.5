@@ -6,7 +6,7 @@
 
 Advanced analytics can improve pandemic prediction and decision-making
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better preparedness, faster response to future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_881.md)
 
@@ -19,4 +19,8 @@ Advanced analytics can improve pandemic prediction and decision-making
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+
+## Risks which can benefit from this action
+
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_808.md)
 

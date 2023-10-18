@@ -6,7 +6,7 @@
 
 Enables remote consultations, monitoring, and support for patients, reducing the need for physical visits
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves access to healthcare, reduces exposure risk, and supports ongoing medical care during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1290.md)
 
@@ -18,4 +18,8 @@ Enables remote consultations, monitoring, and support for patients, reducing the
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Mobile technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1161.md)
 

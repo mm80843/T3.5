@@ -6,7 +6,7 @@
 
 Raising public awareness towards energy conservation can lead to changes in occupant behavior and reduction in energy consumption in residential buildings.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from reduced energy costs for homeowners and increased demand for energy-efficient buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1392.md)
 * [Private investors can benefit from increased demand for energy-efficient buildings and reduced energy costs for homeowners.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1393.md)
@@ -19,4 +19,9 @@ Raising public awareness towards energy conservation can lead to changes in occu
 
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
+
+## Risks which can benefit from this action
+
+* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1251.md)
+* [Increasing public awareness towards energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1252.md)
 

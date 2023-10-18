@@ -4,15 +4,10 @@
 
 ## Category to which it belongs
 
-* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
-* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_536.md)
-* [--------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1577.md)
-* [-------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_986.md)
 * [AQ2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 * [COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_538.md)
@@ -21,5 +16,4 @@
 
 ## Mitigations of this risk
 
-* [----------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_998.md)
 

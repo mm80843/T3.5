@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from reduced labor costs, leading to higher profitability.__
 
+## This return can be realized by these benefits
+
+* [Cost savings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_835.md)
+

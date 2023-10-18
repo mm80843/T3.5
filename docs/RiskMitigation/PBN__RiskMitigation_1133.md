@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
@@ -19,11 +19,11 @@
 * [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
-* [Improved occupant comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1126.md)
-* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
+* [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
+* [Improved occupant comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1126.md)
 * [Disease prevention and control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1127.md)
 
 ## Risks possibly mitigated by this Mitigation

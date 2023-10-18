@@ -64,3 +64,7 @@ Exploring the Potential of Artificial Intelligence and Machine Learning to Comba
 * [Cross-population train/test-based AI models for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1404.md)
 * [AI-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+

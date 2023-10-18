@@ -6,7 +6,7 @@
 
 Income redistribution helps reduce inequality, providing support to low-skilled workers who may be disproportionately affected by automation, leading to improved social stability and cohesion.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a more stable and harmonious society, creating favorable investment conditions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_523.md)
 
@@ -17,4 +17,8 @@ Income redistribution helps reduce inequality, providing support to low-skilled 
 ## Stakeholders benefitting from this Benefit
 
 * [low-skilled workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_212.md)
+
+## Risks which can benefit from this action
+
+* [Income Redistribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_495.md)
 

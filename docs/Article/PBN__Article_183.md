@@ -64,3 +64,18 @@ From Viral City to Smart City: Learning from Pandemic Experiences
 * [Better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1802.md)
 * [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
 
+## This article mentions these technologies
+
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
+* [policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+* [health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_475.md)
+* [electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
+* [support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
+* [care coordination tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1490.md)
+* [workforce management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1491.md)
+

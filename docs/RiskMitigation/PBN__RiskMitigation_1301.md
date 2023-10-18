@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_326.md)
+* [Designing affordable, adaptable, and sustainable housing with improved building environments and optimized spatial layouts, while incorporating flexible and human-centric design elements and considering health, safety, and environmental parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_320.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Water circulation and aeration, mosquito control measures, public education on mosquito prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2224.md)
 * [Implement measures to reduce bird noise such as bird deterrent devices or planting vegetation to create natural sound barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2178.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced risk of mosquito-borne infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1283.md)
 

@@ -6,7 +6,7 @@
 
 Expanding search beyond traditional sources addresses challenges of scarcity and scientific uncertainties, informing policy response
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Informed decision-making in absence of gold standard evidence, improved response to evolving knowledge, and enhanced decision-making under uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_599.md)
 
@@ -18,4 +18,8 @@ Expanding search beyond traditional sources addresses challenges of scarcity and
 
 * [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Risks which can benefit from this action
+
+* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_559.md)
 

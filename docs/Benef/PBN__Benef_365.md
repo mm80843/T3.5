@@ -6,7 +6,7 @@
 
 Plants enhance the visual appeal of indoor spaces, improving tenant satisfaction and attracting potential renters or buyers
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased property value and occupancy rates](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_393.md)
 
@@ -17,4 +17,7 @@ Plants enhance the visual appeal of indoor spaces, improving tenant satisfaction
 ## Stakeholders benefitting from this Benefit
 
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+
+## Risks which can benefit from this action
+
 

@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare facilities would benefit from early outbreak prediction, leading to more timely and effective response measures, potentially reducing the impact on healthcare systems and the economy.__
 
+## This return can be realized by these benefits
+
+* [Early outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_665.md)
+

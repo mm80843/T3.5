@@ -6,7 +6,7 @@
 
 Inspiring other nations to pursue climate action, promoting green recovery, supporting global climate goals
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Positive global reputation, strengthened position in global climate negotiations, economic opportunities in green transition](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_851.md)
 
@@ -19,4 +19,8 @@ Inspiring other nations to pursue climate action, promoting green recovery, supp
 * [global community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_259.md)
 * [eu](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_318.md)
 * [third countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_319.md)
+
+## Risks which can benefit from this action
+
+* [Leadership by example and ambition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_779.md)
 

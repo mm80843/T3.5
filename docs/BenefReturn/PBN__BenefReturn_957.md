@@ -2,3 +2,7 @@
 
 # __Improved performance and efficiency in urban governance, enhanced city resilience.__
 
+## This return can be realized by these benefits
+
+* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_876.md)
+

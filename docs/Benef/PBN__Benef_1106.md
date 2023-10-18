@@ -6,7 +6,7 @@
 
 Alignment between international data protection legislation and GDPR reduces barriers to sharing data.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Simplifies data sharing processes, saves time and resources, and promotes international collaborations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1238.md)
 
@@ -17,4 +17,8 @@ Alignment between international data protection legislation and GDPR reduces bar
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Alignment of data protection laws](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1117.md)
 

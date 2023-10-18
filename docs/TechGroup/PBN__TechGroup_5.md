@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ensuring the confidentiality and protection of personal information in the digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
+* [Ensuring the confidentiality and protection of personal information in the digital age.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_298.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_161.md)
 * [data policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_162.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)

@@ -6,7 +6,7 @@
 
 Non-contact interaction activities, such as virtual meetings and online shopping, reduce the risk of virus transmission and help maintain social distancing measures in community settings.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing non-contact interaction measures can contribute to a safer environment for community residents, reducing the risk of contagious diseases and ensuring public health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1546.md)
 
@@ -17,4 +17,8 @@ Non-contact interaction activities, such as virtual meetings and online shopping
 ## Stakeholders benefitting from this Benefit
 
 * [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+
+## Risks which can benefit from this action
+
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1396.md)
 

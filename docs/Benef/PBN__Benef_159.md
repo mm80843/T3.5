@@ -6,7 +6,7 @@
 
 Extends medical facilities to remote locations and improves access to healthcare services
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health outcomes and patient satisfaction in remote areas](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_161.md)
 
@@ -17,4 +17,8 @@ Extends medical facilities to remote locations and improves access to healthcare
 ## Stakeholders benefitting from this Benefit
 
 * [orthopaedic patients in remote areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_94.md)
+
+## Risks which can benefit from this action
+
+* [IoT in healthcare (IoMT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_142.md)
 

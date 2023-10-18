@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_302.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Control the virus outbreak and promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2114.md)
 * [Improve data collection and analysis, enhance understanding of the virus and its transmission, validate models with real-world data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2013.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1219.md)
 

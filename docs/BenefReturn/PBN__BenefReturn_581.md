@@ -2,3 +2,7 @@
 
 # __Gender equality leads to greater economic empowerment of women, increased productivity, and positive impacts on economic growth.__
 
+## This return can be realized by these benefits
+
+* [Gender equality in the workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_530.md)
+

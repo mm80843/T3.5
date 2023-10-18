@@ -2,3 +2,7 @@
 
 # __Investing in accurate estimations of infections can provide policymakers and health authorities with better information for decision-making and resource allocation, leading to more effective control measures and targeted interventions.__
 
+## This return can be realized by these benefits
+
+* [Estimation of true number of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_827.md)
+

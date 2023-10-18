@@ -6,7 +6,7 @@
 
 Integration of smart city technologies enables sharing of information between users and accredited health professionals, leading to the development of more resilient protocols and policies in managing public health emergencies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved cross-disciplinary protocols enhance public health emergency management and response, reducing the impact of outbreaks and protecting the well-being of communities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1494.md)
 
@@ -18,4 +18,8 @@ Integration of smart city technologies enables sharing of information between us
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1343.md)
 

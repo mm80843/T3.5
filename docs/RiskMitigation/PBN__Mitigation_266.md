@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enforcing strict regulations to separate and monitor individuals, ensuring public safety during a period of isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Enforcing strict regulations to separate and monitor individuals, ensuring public safety during a period of isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 

@@ -2,3 +2,7 @@
 
 # __Increases efficiency in data integration, improves data comparability, and facilitates collaboration.__
 
+## This return can be realized by these benefits
+
+* [Standardized data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1107.md)
+

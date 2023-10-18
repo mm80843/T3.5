@@ -2,3 +2,7 @@
 
 # __Increased usage of interior spaces, improved public health outcomes__
 
+## This return can be realized by these benefits
+
+* [Increased safety and flexibility in interior spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1249.md)
+

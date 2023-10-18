@@ -8,7 +8,7 @@ enabler_033
 
 ## Category to which it belongs
 
-* [Medical screening tools for identifying and diagnosing various illnesses and medical conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_92.md)
+* [Medical screening tools for identifying and diagnosing various illnesses and medical conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 

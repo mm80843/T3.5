@@ -66,3 +66,17 @@ COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Op
 * [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
 * [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1096.md)
 
+## This article mentions these technologies
+
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [mobile banking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_956.md)
+* [microfinance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_957.md)
+* [cash transfer programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_958.md)
+* [financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_636.md)
+* [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
+* [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
+* [portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_955.md)
+* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
+

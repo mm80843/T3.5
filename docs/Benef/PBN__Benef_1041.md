@@ -6,7 +6,7 @@
 
 Addressing disparities and reducing inequalities can improve social cohesion, increase access to resources and opportunities, and promote a more equitable society.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by investing in projects that promote social and spatial equality, as it can lead to increased stability and potential for economic growth in disadvantaged communities and social groups.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1162.md)
 
@@ -17,4 +17,8 @@ Addressing disparities and reducing inequalities can improve social cohesion, in
 ## Stakeholders benefitting from this Benefit
 
 * [disadvantaged communities and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_415.md)
+
+## Risks which can benefit from this action
+
+* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1044.md)
 

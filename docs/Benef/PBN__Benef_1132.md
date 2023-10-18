@@ -6,7 +6,7 @@
 
 Slowing down the spread of the virus can reduce the burden on health systems and prevent healthcare system overload.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in social distancing measures can benefit from the improved asset value of healthcare facilities and reduced strain on healthcare resources, leading to potential cost savings and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1264.md)
 
@@ -17,4 +17,8 @@ Slowing down the spread of the virus can reduce the burden on health systems and
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 

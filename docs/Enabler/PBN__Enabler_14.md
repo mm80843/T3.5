@@ -8,7 +8,7 @@ enabler_015
 
 ## Category to which it belongs
 
-* [Automated machines that can perform tasks autonomously.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_74.md)
+* [Automated machines that can perform tasks autonomously.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)
 
 ## Closest similar item
 

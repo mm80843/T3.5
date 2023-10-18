@@ -70,3 +70,19 @@ Indoor Air Quality: Rethinking rules of building design strategies in post-pande
 * [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
 * [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1112.md)
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
+* [regular maintenance and inspection of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1113.md)
+* [airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1118.md)
+* [high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1115.md)
+* [electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
+* [use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
+* [building design strategies focused on ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
+

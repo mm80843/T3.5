@@ -6,7 +6,7 @@
 
 A flexible and adaptable design allows for easy modifications to meet changing needs and lifestyles, ensuring the longevity and relevance of the building in the face of future infectious disease outbreaks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from long-term returns on investment by attracting a wider range of potential tenants or buyers, who value the adaptability and versatility of the building.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1475.md)
 
@@ -18,4 +18,8 @@ A flexible and adaptable design allows for easy modifications to meet changing n
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [future residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_514.md)
+
+## Risks which can benefit from this action
+
+* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1324.md)
 

@@ -6,7 +6,7 @@
 
 UBPI addresses stress and prevents psychological distress, potentially reducing the risk of developing mental health disorders
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved mental health of healthcare providers, leading to increased productivity and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1377.md)
 
@@ -17,4 +17,8 @@ UBPI addresses stress and prevents psychological distress, potentially reducing 
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 

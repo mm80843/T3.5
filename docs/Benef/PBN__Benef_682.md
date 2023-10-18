@@ -6,7 +6,7 @@
 
 Utilizes technology to minimize person-to-person transmission, remote consultations, and monitoring, and enables efficient delivery of medical supplies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased efficiency and safety in healthcare delivery, reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_730.md)
 
@@ -18,4 +18,8 @@ Utilizes technology to minimize person-to-person transmission, remote consultati
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_675.md)
 

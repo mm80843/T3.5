@@ -46,3 +46,16 @@ Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a
 * [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
 * [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2198.md)
 
+## This article mentions these technologies
+
+* [web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
+* [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
+* [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [verbal communication techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
+* [task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1818.md)
+* [secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1813.md)
+* [active listening skills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1815.md)
+

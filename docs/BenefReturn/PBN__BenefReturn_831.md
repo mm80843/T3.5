@@ -2,3 +2,7 @@
 
 # __Private investors investing in social distancing measures can benefit from increased property values and demand for properties in areas that prioritize public health.__
 
+## This return can be realized by these benefits
+
+* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+

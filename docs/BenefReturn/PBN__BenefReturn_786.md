@@ -2,3 +2,7 @@
 
 # __Ensure compliance with social distancing measures__
 
+## This return can be realized by these benefits
+
+* [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_732.md)
+

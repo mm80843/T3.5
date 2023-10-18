@@ -2,3 +2,7 @@
 
 # __Decreased transmission rate, improved public health and safety__
 
+## This return can be realized by these benefits
+
+* [Reduction in virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1371.md)
+

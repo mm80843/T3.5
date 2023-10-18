@@ -6,7 +6,7 @@
 
 Big data analytics and AI enable accurate prediction of demand for healthcare resources, ensuring efficient allocation and management.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in healthcare systems and infrastructure can benefit from improved efficiency and cost savings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_540.md)
 * [Private investors can benefit from improved resource allocation, reducing wastage and maximizing efficiency in healthcare systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_560.md)
@@ -21,4 +21,9 @@ Big data analytics and AI enable accurate prediction of demand for healthcare re
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [Collaborative approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_524.md)
+* [Rational allocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_509.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Technological advancements focused on improving and enhancing urban areas and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_300.md)
+* [Technological advancements focused on improving and enhancing urban areas and infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_293.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_111.md)
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_112.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)

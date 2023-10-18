@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
+* [Strengthen collaborations, implement behavioral change, deploy social robots, and promote sustainable content consumption for community-based strategies, holistic research, and positive media representation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Develop strategies to manage and filter information, promote digital literacy skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2152.md)
 * [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_532.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1036.md)
 

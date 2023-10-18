@@ -2,7 +2,7 @@
 
 # __No__
 
-## Property: has_GBNRisk
+## Risks affecting (or not) GBNs
 
 * [Spread of SARS-CoV-2 through droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1242.md)
 * [Undetected SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1050.md)

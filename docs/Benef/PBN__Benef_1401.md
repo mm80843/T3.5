@@ -6,7 +6,7 @@
 
 Digital transformation technologies can eliminate the need for lockdowns and prevent economic shrinkage during the pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Preservation of jobs and businesses, economic stability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1590.md)
 
@@ -19,4 +19,8 @@ Digital transformation technologies can eliminate the need for lockdowns and pre
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1432.md)
 

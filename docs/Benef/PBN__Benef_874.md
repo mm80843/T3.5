@@ -6,7 +6,7 @@
 
 Emerging technologies can strengthen the government's problem-solving capacity by involving different stakeholders and improving coordination in disaster management.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved efficiency and effectiveness in disaster management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_955.md)
 
@@ -18,4 +18,8 @@ Emerging technologies can strengthen the government's problem-solving capacity b
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [public administrations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_353.md)
+
+## Risks which can benefit from this action
+
+* [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_873.md)
 

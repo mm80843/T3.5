@@ -6,7 +6,7 @@
 
 A well-planned SOP to control workforce at the project sites.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [By having a well-planned SOP, contractors can effectively manage their workforce and ensure compliance with safety guidelines, minimizing disruptions and productivity loss.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_623.md)
 
@@ -17,4 +17,8 @@ A well-planned SOP to control workforce at the project sites.
 ## Stakeholders benefitting from this Benefit
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Risks which can benefit from this action
+
+* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_578.md)
 

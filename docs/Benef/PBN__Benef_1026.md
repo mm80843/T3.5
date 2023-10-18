@@ -6,7 +6,7 @@
 
 UV-C germicidal irradiation reduces airborne pathogens, increasing overall indoor air quality and promoting better health for occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased occupant productivity and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1147.md)
 
@@ -17,4 +17,8 @@ UV-C germicidal irradiation reduces airborne pathogens, increasing overall indoo
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1029.md)
 

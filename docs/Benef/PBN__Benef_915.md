@@ -6,7 +6,7 @@
 
 Developing vaccines for infectious diseases prevents illness and reduces healthcare burden, leading to improved public health and economic stability.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced safety, reduced healthcare-associated infections, improved patient outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1004.md)
 * [Investing in vaccine development leads to profit generation and contributes to public health improvements.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1094.md)
@@ -21,4 +21,9 @@ Developing vaccines for infectious diseases prevents illness and reduces healthc
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
+
+## Risks which can benefit from this action
+
+* [Vaccines development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_984.md)
+* [Air ventilation control system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_915.md)
 

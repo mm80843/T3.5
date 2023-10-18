@@ -6,7 +6,7 @@
 
 Use existing resources efficiently and provide targeted support for pandemic mitigation efforts
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Cost savings, improved effectiveness in pandemic response, and reduced strain on public resources, leading to economic resilience and investor confidence.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1346.md)
 
@@ -18,4 +18,8 @@ Use existing resources efficiently and provide targeted support for pandemic mit
 
 * [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+
+## Risks which can benefit from this action
+
+* [Subaltern technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
 

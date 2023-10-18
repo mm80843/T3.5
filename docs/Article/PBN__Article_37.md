@@ -46,3 +46,14 @@ First detection of SARS-CoV-2 in untreated wastewaters in Italy
 * [Nested PCR assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
 * [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1082.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_951.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [development of standardized protocols and assays for sars-cov-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_949.md)
+* [wastewater-based epidemiology (wbe) methods and pcr testing can be used for the detection of sars-cov-2 in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_947.md)
+* [development and optimization of more sensitive and specific assays for sars-cov-2 detection in sewage samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_950.md)
+* [increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_948.md)
+* [adherence to biosafety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_952.md)
+

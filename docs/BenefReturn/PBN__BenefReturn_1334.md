@@ -2,3 +2,7 @@
 
 # __Investing in sound insulation__
 
+## This return can be realized by these benefits
+
+* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1196.md)
+

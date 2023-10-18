@@ -6,7 +6,7 @@
 
 Using IoT devices to monitor and prioritize maintenance of essential services
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Uninterrupted provision of critical services, improved public safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1572.md)
 
@@ -18,4 +18,8 @@ Using IoT devices to monitor and prioritize maintenance of essential services
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+
+## Risks which can benefit from this action
+
+* [IoT monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1416.md)
 

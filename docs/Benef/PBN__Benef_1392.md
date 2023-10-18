@@ -6,7 +6,7 @@
 
 Smartphone apps enable effective contact tracing and identification of clusters, aiding in virus containment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved contact tracing helps control the spread of the virus and potentially reduces the duration of lockdown measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1580.md)
 
@@ -18,4 +18,8 @@ Smartphone apps enable effective contact tracing and identification of clusters,
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [civilians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_542.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
 

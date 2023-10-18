@@ -6,7 +6,7 @@
 
 NPI measures can help mitigate the negative economic effects of the pandemic by controlling the spread of the virus, reducing the need for repeated lockdowns and enabling economic stability and recovery.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from a stable economic environment, leading to increased investment opportunities and potential returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_142.md)
 
@@ -17,4 +17,8 @@ NPI measures can help mitigate the negative economic effects of the pandemic by 
 ## Stakeholders benefitting from this Benefit
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

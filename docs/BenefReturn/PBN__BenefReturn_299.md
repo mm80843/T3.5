@@ -2,3 +2,7 @@
 
 # __Private investors investing in building improvements would benefit by providing a safer environment for building occupants, reducing the risk of COVID-19 transmission and its impact on the built environment, thus improving asset values.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

@@ -2,3 +2,7 @@
 
 # __Private investors investing in social distancing measures would benefit from reduced financial losses and business disruptions associated with COVID-19 outbreaks.__
 
+## This return can be realized by these benefits
+
+* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_634.md)
+

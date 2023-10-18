@@ -2,3 +2,7 @@
 
 # __Investing in properties located in areas with natural outdoor environments can improve individuals’ psychological well-being, leading to better mental health and overall quality of life.__
 
+## This return can be realized by these benefits
+
+* [Psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_740.md)
+

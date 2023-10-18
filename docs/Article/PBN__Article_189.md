@@ -47,3 +47,16 @@ Mental health economics: A prospective study on psychological flourishing and as
 * [Strengthen Social Safety Nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1836.md)
 * [Implement Policies for Paid Sick Leave](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1837.md)
 
+## This article mentions these technologies
+
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
+* [such as mental health apps and online interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1515.md)
+* [health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1516.md)
+* [well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1514.md)
+* [telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1247.md)
+* [workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1517.md)
+

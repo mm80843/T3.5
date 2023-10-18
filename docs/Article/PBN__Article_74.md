@@ -57,3 +57,16 @@ The impacts of knowledge, risk perception, emotion and information on citizensâ€
 * [Information Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
 * [Trust in Official Governmental Media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1466.md)
 
+## This article mentions these technologies
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
+* [counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
+* [mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)
+* [press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [official websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
+

@@ -6,7 +6,7 @@
 
 Financial support helps improve the liquidity of construction companies, allowing them to meet their financial obligations and continue their operations.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved asset value and return on their investment in construction companies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_852.md)
 
@@ -17,4 +17,8 @@ Financial support helps improve the liquidity of construction companies, allowin
 ## Stakeholders benefitting from this Benefit
 
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+
+## Risks which can benefit from this action
+
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
 

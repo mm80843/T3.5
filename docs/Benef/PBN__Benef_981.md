@@ -6,7 +6,7 @@
 
 and congestion
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [businesses and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1080.md)
 
@@ -17,4 +17,8 @@ and congestion
 ## Stakeholders benefitting from this Benefit
 
 * [tourism industry,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_386.md)
+
+## Risks which can benefit from this action
+
+* [service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
 

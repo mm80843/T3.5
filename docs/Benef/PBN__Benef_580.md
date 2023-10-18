@@ -6,7 +6,7 @@
 
 Accelerated production of vaccines
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in molecular technologies by participating in the production and distribution of vaccines and contributing to public health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_633.md)
 
@@ -18,4 +18,8 @@ Accelerated production of vaccines
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
+
+## Risks which can benefit from this action
+
+* [Utilization of molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_586.md)
 

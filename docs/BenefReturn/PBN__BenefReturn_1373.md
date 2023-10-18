@@ -2,3 +2,7 @@
 
 # __Private investors benefit from increased demand for climate-friendly investments and improved long-term asset value.__
 
+## This return can be realized by these benefits
+
+* [Increased public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_912.md)
+

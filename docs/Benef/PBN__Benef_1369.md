@@ -6,7 +6,7 @@
 
 Provides work-life balance and greater job satisfaction
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved employee satisfaction and retention, leading to increased productivity and reduced recruitment and training costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1556.md)
 
@@ -17,4 +17,8 @@ Provides work-life balance and greater job satisfaction
 ## Stakeholders benefitting from this Benefit
 
 * [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+
+## Risks which can benefit from this action
+
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1404.md)
 

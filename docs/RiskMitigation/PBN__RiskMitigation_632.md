@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_306.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Provide information and support, monitor mental health and stress reactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2497.md)
 * [Provide strategies to alleviate travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1659.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Enhanced coping skills](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_637.md)
 

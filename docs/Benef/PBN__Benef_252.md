@@ -6,7 +6,7 @@
 
 Adjustability of indoor space allows residents to customize their living environment according to their needs
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased indoor space adjustability can enhance tenant satisfaction and create a more personalized living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_264.md)
 
@@ -17,4 +17,8 @@ Adjustability of indoor space allows residents to customize their living environ
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_241.md)
 

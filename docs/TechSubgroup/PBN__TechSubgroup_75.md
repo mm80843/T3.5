@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Air circulation and conditioning technologies for maintaining a healthy indoor climate and optimizing ventilation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_46.md)
+* [Air circulation and conditioning technologies for maintaining a healthy indoor climate and optimizing ventilation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_36.md)
 
 ## Closest similar item
 

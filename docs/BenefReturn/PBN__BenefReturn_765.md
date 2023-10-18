@@ -2,3 +2,7 @@
 
 # __Minimizes disruption and delays in material deliveries__
 
+## This return can be realized by these benefits
+
+* [Supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_713.md)
+

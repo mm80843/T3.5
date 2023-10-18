@@ -2,3 +2,7 @@
 
 # __Improved public trust, informed decision-making, and greater effectiveness of interventions__
 
+## This return can be realized by these benefits
+
+* [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_541.md)
+

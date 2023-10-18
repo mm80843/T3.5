@@ -6,7 +6,7 @@
 
 Tracking patient numbers and balancing hospital loads to prevent overwhelming
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved healthcare services, better patient care](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1566.md)
 
@@ -18,4 +18,8 @@ Tracking patient numbers and balancing hospital loads to prevent overwhelming
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
 

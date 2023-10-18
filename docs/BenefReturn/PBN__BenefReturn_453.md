@@ -2,3 +2,7 @@
 
 # __Private investors in community building initiatives can benefit from improved social stability and reduced social inequality, potentially leading to improved asset values and financial returns.__
 
+## This return can be realized by these benefits
+
+* [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
+

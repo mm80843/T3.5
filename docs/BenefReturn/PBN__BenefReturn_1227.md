@@ -2,3 +2,7 @@
 
 # __Higher healthcare capacity, reduced waiting times, improved patient care, reduced exposure to infections__
 
+## This return can be realized by these benefits
+
+* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1098.md)
+

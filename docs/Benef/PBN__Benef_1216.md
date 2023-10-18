@@ -6,7 +6,7 @@
 
 Providing support and resources for individuals working from home can improve their working performance and overall well-being
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in supporting individuals working from home can lead to increased productivity and satisfaction, potentially attracting more tenants and increasing property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1363.md)
 
@@ -17,4 +17,8 @@ Providing support and resources for individuals working from home can improve th
 ## Stakeholders benefitting from this Benefit
 
 * [individuals working from home](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_475.md)
+
+## Risks which can benefit from this action
+
+* [Support for working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1221.md)
 

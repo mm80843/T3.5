@@ -6,7 +6,7 @@
 
 Separate toilets for infected individuals prevent the spread of viruses within the household
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Offering separate toilets for infected individuals can enhance tenant satisfaction and create a safer living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_254.md)
 
@@ -17,4 +17,8 @@ Separate toilets for infected individuals prevent the spread of viruses within t
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Availability of separate toilets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_231.md)
 

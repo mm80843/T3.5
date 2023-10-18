@@ -6,7 +6,7 @@
 
 Promoting media literacy and critical thinking skills improves the ability to discern accurate information from misinformation, reducing the spread of false information and enhancing informed decision-making.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in media literacy programs and platforms can benefit from increased demand and improved asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1157.md)
 
@@ -18,4 +18,8 @@ Promoting media literacy and critical thinking skills improves the ability to di
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Promote media literacy and critical thinking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1039.md)
 

@@ -6,7 +6,7 @@
 
 Virtual tax assistance simplifies tax processes for healthcare facilities
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improve service efficiency and reduce burden on taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_787.md)
 * [Streamline administrative processes and improve efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_791.md)
@@ -19,4 +19,7 @@ Virtual tax assistance simplifies tax processes for healthcare facilities
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_303.md)
+
+## Risks which can benefit from this action
+
 

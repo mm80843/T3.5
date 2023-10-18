@@ -6,7 +6,7 @@
 
 Provides mental health support, counseling, and guidance remotely
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Supports mental well-being, reduces stress, and enhances coping mechanisms during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1294.md)
 
@@ -18,4 +18,8 @@ Provides mental health support, counseling, and guidance remotely
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Mobile technology in counseling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1162.md)
 

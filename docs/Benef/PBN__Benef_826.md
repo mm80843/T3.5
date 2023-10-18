@@ -6,7 +6,7 @@
 
 Making improvements to balconies during the pandemic, such as adding seating arrangements, tables, or planters, can create a more inviting and enjoyable outdoor space.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in balcony improvements can enhance the overall aesthetic appeal of apartments and make them more attractive to potential buyers or renters.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_896.md)
 
@@ -17,4 +17,8 @@ Making improvements to balconies during the pandemic, such as adding seating arr
 ## Stakeholders benefitting from this Benefit
 
 * [apartment owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_334.md)
+
+## Risks which can benefit from this action
+
+* [Balcony improvements during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_822.md)
 

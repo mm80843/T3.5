@@ -2,3 +2,7 @@
 
 # __Private investors investing in adaptive design measures can attract tenants and occupants who value access to open spaces, improving occupancy rates and asset value.__
 
+## This return can be realized by these benefits
+
+* [Open relaxation spaces in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_761.md)
+

@@ -2,3 +2,7 @@
 
 # __Private investors investing in PPE manufacturing or distribution would see improved asset value by providing essential protective equipment to individuals in the built environment.__
 
+## This return can be realized by these benefits
+
+* [Protection of individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1343.md)
+

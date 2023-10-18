@@ -6,7 +6,7 @@
 
 Transposition of services to digital platforms improves access to healthcare information
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improve service delivery and enhance citizen experience](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_784.md)
 * [Enhance public awareness and provide timely information](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_790.md)
@@ -18,4 +18,7 @@ Transposition of services to digital platforms improves access to healthcare inf
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
 

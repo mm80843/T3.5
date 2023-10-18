@@ -2,3 +2,7 @@
 
 # __Increased use of evidence in decision-making, improved public trust, and reinforced role as a trusted reference center__
 
+## This return can be realized by these benefits
+
+* [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_545.md)
+

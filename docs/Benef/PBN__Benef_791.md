@@ -6,7 +6,7 @@
 
 Adapting organizational structures and processes to navigate disruption
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced ability to respond to changing circumstances and seize opportunities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_859.md)
 
@@ -17,4 +17,8 @@ Adapting organizational structures and processes to navigate disruption
 ## Stakeholders benefitting from this Benefit
 
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+
+## Risks which can benefit from this action
+
+* [Organizational adaptability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_787.md)
 

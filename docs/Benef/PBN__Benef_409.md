@@ -6,7 +6,7 @@
 
 Implementing risk prevention measures and promoting small-scale tourism can help reduce the negative environmental and social impacts of tourism
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by investing in sustainable practices and infrastructure, enhancing the long-term value of tourism investments and minimizing reputational risks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_438.md)
 
@@ -17,4 +17,8 @@ Implementing risk prevention measures and promoting small-scale tourism can help
 ## Stakeholders benefitting from this Benefit
 
 * [tourism providers and destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_195.md)
+
+## Risks which can benefit from this action
+
+* [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
 

@@ -6,7 +6,7 @@
 
 Proper use of PPE, including facemasks, respirators, face shields, goggles, gloves, and gowns, can provide workers with enhanced protection against COVID-19 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing the use of PPE can create a safer work environment, reducing the risk of COVID-19 transmission among workers and potentially decreasing the number of sick days taken. This can contribute to improved employee health, increased productivity, and potentially reduced healthcare costs for employers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_401.md)
 
@@ -18,4 +18,8 @@ Proper use of PPE, including facemasks, respirators, face shields, goggles, glov
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_376.md)
 

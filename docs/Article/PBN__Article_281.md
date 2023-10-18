@@ -62,3 +62,18 @@ A comprehensive review on indoor air quality monitoring systems for enhanced pub
 * [Use of Non-Toxic Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1789.md)
 * [Use of Low-VOC Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1014.md)
+* [access to modern energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
+* [clean cooking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1482.md)
+* [clean cookstoves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1483.md)
+* [improved biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1484.md)
+* [reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
+

@@ -2,3 +2,7 @@
 
 # __Private investors can develop and implement 5G-based supply chain management solutions, increasing the value of their investment as healthcare facilities and manufacturers benefit from improved efficiency.__
 
+## This return can be realized by these benefits
+
+* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_37.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Organizational units within a governing body.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_275.md)
+* [Organizational units within a governing body.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_268.md)
 
 ## Closest similar item
 

@@ -2,3 +2,7 @@
 
 # __Reduced risk of infectious disease transmission leads to healthier occupants, reducing healthcare costs and improving the asset value of the property.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_612.md)
+

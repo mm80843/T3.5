@@ -6,7 +6,7 @@
 
 Environmental management, such as habitat modification or manipulation, can reduce suitable aquatic habitats for vector breeding, leading to a reduction in vector populations.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing environmental management measures can reduce the risk of vector-borne diseases, create a safer and healthier environment for communities, and potentially increase the value of the surrounding built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_354.md)
 
@@ -17,4 +17,8 @@ Environmental management, such as habitat modification or manipulation, can redu
 ## Stakeholders benefitting from this Benefit
 
 * [population at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_157.md)
+
+## Risks which can benefit from this action
+
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_333.md)
 

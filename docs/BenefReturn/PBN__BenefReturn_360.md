@@ -2,3 +2,7 @@
 
 # __Implementing social distancing measures for at-risk groups can help protect vulnerable populations and potentially reduce healthcare costs associated with severe cases.__
 
+## This return can be realized by these benefits
+
+* [Reduction in severe outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_340.md)
+

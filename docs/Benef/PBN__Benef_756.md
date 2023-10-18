@@ -6,7 +6,7 @@
 
 Increasing reliance on digital technology for education, commerce, and entertainment allows for continued service delivery and reduced physical contact during pandemics.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased demand for technology and online services, potential cost savings in physical infrastructure, and improved business resilience.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_823.md)
 
@@ -17,4 +17,8 @@ Increasing reliance on digital technology for education, commerce, and entertain
 ## Stakeholders benefitting from this Benefit
 
 * [businesses and consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_311.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_751.md)
 

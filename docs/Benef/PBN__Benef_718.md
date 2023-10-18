@@ -6,7 +6,7 @@
 
 Facilitates transparent and effective communication
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Builds trust and maintains positive relationships](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_771.md)
 
@@ -17,4 +17,8 @@ Facilitates transparent and effective communication
 ## Stakeholders benefitting from this Benefit
 
 * [stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)
+
+## Risks which can benefit from this action
+
+* [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_716.md)
 

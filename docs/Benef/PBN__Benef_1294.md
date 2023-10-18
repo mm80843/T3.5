@@ -6,7 +6,7 @@
 
 Increased affordability and access to green areas for low-income citizens
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in green areas can attract more visitors and increase revenue through other means, such as concessions or events.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1461.md)
 
@@ -17,4 +17,8 @@ Increased affordability and access to green areas for low-income citizens
 ## Stakeholders benefitting from this Benefit
 
 * [low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
+
+## Risks which can benefit from this action
+
+* [Reduce entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1314.md)
 

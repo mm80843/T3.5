@@ -6,7 +6,7 @@
 
 Coordinated efforts and timely implementation of preventive measures can lead to more effective decision-making and mitigate the impact of the pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in improved communication and coordination can benefit from a more stable and predictable market environment, leading to reduced economic risks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1266.md)
 
@@ -19,4 +19,8 @@ Coordinated efforts and timely implementation of preventive measures can lead to
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [academia](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_442.md)
+
+## Risks which can benefit from this action
+
+* [Improve coordination between researchers, academia, and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1136.md)
 

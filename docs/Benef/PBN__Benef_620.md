@@ -6,7 +6,7 @@
 
 Adequate ventilation systems in makeshift hospitals reduce the risk of airborne transmission of infectious diseases, improving infection control and protecting the health of patients and healthcare providers.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in adequate ventilation systems by creating safer healthcare environments, attracting more patients and healthcare providers, and potentially reducing the risk of legal liabilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_662.md)
 
@@ -18,4 +18,8 @@ Adequate ventilation systems in makeshift hospitals reduce the risk of airborne 
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
 

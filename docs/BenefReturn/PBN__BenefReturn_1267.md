@@ -2,3 +2,7 @@
 
 # __Private investors investing in healthcare services and support for vulnerable populations can benefit from improved social stability, reduced healthcare costs, and potential economic growth through inclusivity and social responsibility.__
 
+## This return can be realized by these benefits
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+

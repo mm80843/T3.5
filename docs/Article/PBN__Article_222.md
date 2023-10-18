@@ -46,3 +46,16 @@ COVID-19 pandemic and mitigation strategies: implications for maternal and child
 * [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
 * [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
 
+## This article mentions these technologies
+
+* [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
+* [agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
+* [food production and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_70.md)
+* [financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
+* [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
+* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)
+

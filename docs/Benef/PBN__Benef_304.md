@@ -6,7 +6,7 @@
 
 Ensuring essential goods reach their destinations quickly
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Timely availability of essential goods, reduced disruptions in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_322.md)
 
@@ -18,4 +18,8 @@ Ensuring essential goods reach their destinations quickly
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_301.md)
 

@@ -2,3 +2,7 @@
 
 # __Reducing health inequalities can improve social cohesion, enhance quality of life, and potentially increase property values in less affluent neighborhoods, making it a beneficial investment.__
 
+## This return can be realized by these benefits
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+

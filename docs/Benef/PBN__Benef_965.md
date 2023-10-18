@@ -6,7 +6,7 @@
 
 By recognizing the importance of UGS during the pandemic and appreciating them as calm and natural landscapes, citizens may develop a stronger connection and appreciation for nature, leading to improved well-being and quality of life.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in the enhancement of UGS and promoting the integration of nature into the city’s landscape can benefit from increased demand for properties in areas with accessible and well-maintained UGS, leading to potential asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1062.md)
 
@@ -17,4 +17,8 @@ By recognizing the importance of UGS during the pandemic and appreciating them a
 ## Stakeholders benefitting from this Benefit
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+
+## Risks which can benefit from this action
+
+* [Rethinking the city’s landscape and role of UGS in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_960.md)
 

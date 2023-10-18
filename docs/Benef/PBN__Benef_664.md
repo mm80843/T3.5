@@ -6,7 +6,7 @@
 
 AI-based tools can help reduce healthcare inequalities in LMIC by improving access to diagnosis, treatment, and preventive measures, leading to more equitable healthcare outcomes.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare facilities in LMIC would benefit from improved access to healthcare services for marginalized populations, potentially increasing patient numbers and revenue.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_710.md)
 
@@ -18,4 +18,8 @@ AI-based tools can help reduce healthcare inequalities in LMIC by improving acce
 
 * [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [AI for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
 

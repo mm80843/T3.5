@@ -54,3 +54,15 @@ Green in times of COVID-19: urban green space relevance during the COVID-19 pand
 * [Integration of social interaction and secluded relaxation in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1208.md)
 * [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1209.md)
 
+## This article mentions these technologies
+
+* [closed streets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1040.md)
+* [geographic information systems (gis) can help identify areas with low ugs access and guide planning efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1034.md)
+* [urban greening technologies such as vertical gardens and rooftop gardens can increase ugs density in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1035.md)
+* [accessible paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1036.md)
+* [ramps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1037.md)
+* [facilities in ugs can improve accessibility for people with disabilities. public transportation options can improve access for those without personal vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1038.md)
+* [temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1039.md)
+* [or vacant lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1041.md)
+* [use digital management systems to track maintenance tasks and ensure timely completion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1042.md)
+

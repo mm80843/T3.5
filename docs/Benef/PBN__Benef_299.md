@@ -6,7 +6,7 @@
 
 Spatial planning strategies that prioritize hygiene, accessibility, and emergency management enhance public health and safety during pandemics and other emergencies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved emergency response and public health contribute to stable and resilient communities, attracting investments and increasing property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_317.md)
 
@@ -18,4 +18,8 @@ Spatial planning strategies that prioritize hygiene, accessibility, and emergenc
 
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_296.md)
 

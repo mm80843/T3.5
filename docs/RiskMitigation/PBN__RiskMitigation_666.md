@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_314.md)
+* [Promote public health through policy implementation, strengthened systems, health literacy, and targeted interventions for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_307.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
 * [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Effective prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_672.md)
 * [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1358.md)

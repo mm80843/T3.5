@@ -6,7 +6,7 @@
 
 Anticipating and forecasting disease outbreaks can help initiate swift public health responses and reduce the impact of epidemics.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health outcomes and reduced economic costs from disease outbreaks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1136.md)
 
@@ -18,4 +18,8 @@ Anticipating and forecasting disease outbreaks can help initiate swift public he
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [public health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_404.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1018.md)
 

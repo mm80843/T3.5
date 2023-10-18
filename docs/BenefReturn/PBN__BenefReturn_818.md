@@ -2,3 +2,7 @@
 
 # __Private investors benefit from reduced transmission rates, improved safety and security, and a healthier and more confident population.__
 
+## This return can be realized by these benefits
+
+* [Insulation of private sphere from communal sphere](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_753.md)
+

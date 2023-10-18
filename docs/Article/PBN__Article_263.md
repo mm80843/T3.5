@@ -50,3 +50,14 @@ Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronaviru
 * [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_724.md)
 * [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
 
+## This article mentions these technologies
+
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [isolation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_675.md)
+* [automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
+* [disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
+* [disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
+

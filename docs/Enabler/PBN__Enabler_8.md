@@ -8,7 +8,7 @@ enabler_009
 
 ## Category to which it belongs
 
-* [Artificial intelligence and machine learning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_68.md)
+* [Artificial intelligence and machine learning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)
 
 ## Closest similar item
 

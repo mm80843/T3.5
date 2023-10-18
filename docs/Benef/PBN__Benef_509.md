@@ -6,7 +6,7 @@
 
 High-efficiency air filters, such as MERV-13 or HEPA filters, can effectively capture airborne viruses, reducing the risk of transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in high-efficiency filters can benefit from improved occupant health and safety, increased tenant satisfaction, and reduced risk of liability and legal issues](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_556.md)
 
@@ -17,4 +17,8 @@ High-efficiency air filters, such as MERV-13 or HEPA filters, can effectively ca
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Use of proper filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_519.md)
 

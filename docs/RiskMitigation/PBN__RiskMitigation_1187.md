@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
+* [Promote comprehensive testing and tracing, prioritize vulnerable populations, reduce diagnosis-to-surgery time, recognize stress symptoms, and improve testing accuracy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_344.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Behavior Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_869.md)
 * [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1189.md)
 

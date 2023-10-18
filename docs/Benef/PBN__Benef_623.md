@@ -6,7 +6,7 @@
 
 Government stimulus packages that target energy infrastructure can lead to the development and deployment of renewable energy technologies, improving energy efficiency and grid resilience
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased market demand for renewable energy technologies, leading to business growth and investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_666.md)
 
@@ -18,4 +18,8 @@ Government stimulus packages that target energy infrastructure can lead to the d
 
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
+
+## Risks which can benefit from this action
+
+* [Government stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_617.md)
 

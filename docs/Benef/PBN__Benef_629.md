@@ -6,7 +6,7 @@
 
 Strengthening social security measures will provide income support to vulnerable groups, reduce poverty and inequality, and improve social cohesion.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased consumer spending power, improved social stability, and potential investment opportunities in sectors catering to the needs of vulnerable groups.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_672.md)
 
@@ -18,4 +18,8 @@ Strengthening social security measures will provide income support to vulnerable
 
 * [vulnerable groups (low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_257.md)
 * [temporary migrants)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_258.md)
+
+## Risks which can benefit from this action
+
+* [Enhanced social security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_623.md)
 

@@ -6,7 +6,7 @@
 
 Increased water movement and aeration can reduce mosquito breeding in urban bodies of water, decreasing the risk of mosquito-borne diseases
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in water movement and aeration can improve public health outcomes by reducing the risk of mosquito-borne diseases for residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_89.md)
 
@@ -18,4 +18,8 @@ Increased water movement and aeration can reduce mosquito breeding in urban bodi
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_79.md)
 

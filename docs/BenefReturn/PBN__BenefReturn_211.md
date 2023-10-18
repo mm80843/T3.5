@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from implementing this measure by providing additional protection in high-risk areas, increasing tenant confidence and satisfaction, and reducing the risk of outbreaks or closures due to infections.__
 
+## This return can be realized by these benefits
+
+* [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_205.md)
+

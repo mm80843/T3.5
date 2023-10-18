@@ -68,3 +68,10 @@ Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future d
 * [Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_235.md)
 * [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
+* [extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_240.md)
+* [mass production processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_241.md)
+

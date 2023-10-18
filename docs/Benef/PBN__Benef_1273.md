@@ -6,7 +6,7 @@
 
 Adequate planning and long-term solutions can ensure the financial stability and sustainability of transportation agencies, preventing the negative impact on infrastructure projects and operations
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in adequate planning and long-term solutions can protect the financial stability and sustainability of transportation agencies, ensuring the continued operation and maintenance of infrastructure and services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1434.md)
 
@@ -17,4 +17,8 @@ Adequate planning and long-term solutions can ensure the financial stability and
 ## Stakeholders benefitting from this Benefit
 
 * [state and federal transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_500.md)
+
+## Risks which can benefit from this action
+
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
 

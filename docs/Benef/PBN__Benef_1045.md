@@ -6,7 +6,7 @@
 
 Personal protection measures can significantly reduce the total number of infections in a mosquito-borne disease outbreak.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in the production and distribution of personal protective measures, as it can lead to a reduction in disease burden and potential health and economic losses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1166.md)
 
@@ -17,4 +17,8 @@ Personal protection measures can significantly reduce the total number of infect
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1048.md)
 

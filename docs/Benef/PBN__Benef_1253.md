@@ -6,7 +6,7 @@
 
 Green roofs protect the building envelope from extreme weather conditions, increasing its durability and lifespan.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Building owners investing in green roofs can save maintenance and repair costs and increase the value of their properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1408.md)
 
@@ -17,4 +17,7 @@ Green roofs protect the building envelope from extreme weather conditions, incre
 ## Stakeholders benefitting from this Benefit
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Risks which can benefit from this action
+
 

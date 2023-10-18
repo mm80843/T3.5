@@ -6,7 +6,7 @@
 
 Reduces stress levels and improves well-being
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from a positive and inclusive campus culture, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_278.md)
 
@@ -19,4 +19,8 @@ Reduces stress levels and improves well-being
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 * [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+
+## Risks which can benefit from this action
+
+* [Practice patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_255.md)
 

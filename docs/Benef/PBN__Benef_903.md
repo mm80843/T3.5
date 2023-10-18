@@ -6,7 +6,7 @@
 
 Increased job satisfaction, reduced burnout
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved healthcare service delivery, reduced turnover rates](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_989.md)
 
@@ -17,4 +17,8 @@ Increased job satisfaction, reduced burnout
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_901.md)
 

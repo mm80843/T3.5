@@ -2,3 +2,7 @@
 
 # __Private investors investing in pooled-sample analysis technologies can benefit from increased demand for testing services, potential contracts with healthcare systems, and financial returns from the implementation of these technologies.__
 
+## This return can be realized by these benefits
+
+* [Increased testing capacity and throughput](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1019.md)
+

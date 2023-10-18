@@ -2,3 +2,7 @@
 
 # __Preserves lives, reduces healthcare burden__
 
+## This return can be realized by these benefits
+
+* [Controlling infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_702.md)
+

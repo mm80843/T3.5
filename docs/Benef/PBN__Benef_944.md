@@ -6,7 +6,7 @@
 
 Wearable technology can accurately monitor symptoms, reducing reliance on self-reporting
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved accuracy in identifying symptomatic individuals, better disease control](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1034.md)
 
@@ -18,4 +18,8 @@ Wearable technology can accurately monitor symptoms, reducing reliance on self-r
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
 

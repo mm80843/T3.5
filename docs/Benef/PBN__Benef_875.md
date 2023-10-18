@@ -6,7 +6,7 @@
 
 Implementing ETs in governance models allows for more open, collaborative, and participative decision-making processes, involving citizens and stakeholders in solving societal challenges.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased citizen engagement, improved decision-making, and higher public value creation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_956.md)
 
@@ -18,4 +18,8 @@ Implementing ETs in governance models allows for more open, collaborative, and p
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [public administrations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_353.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of ETs-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
 

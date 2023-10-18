@@ -6,7 +6,7 @@
 
 Restricting occupancy and spacing equipment allows for physical distancing among members, reducing the risk of COVID-19 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in member safety improves member retention and satisfaction, attracting new members and enhancing the overall reputation of the health club.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_693.md)
 
@@ -17,4 +17,8 @@ Restricting occupancy and spacing equipment allows for physical distancing among
 ## Stakeholders benefitting from this Benefit
 
 * [health club members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_272.md)
+
+## Risks which can benefit from this action
+
+* [Restricting occupancy and spacing equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_640.md)
 

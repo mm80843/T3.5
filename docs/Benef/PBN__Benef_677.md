@@ -6,7 +6,7 @@
 
 Circular economy promotes the use of renewable energy, minimizes waste, and reduces the consumption of hazardous materials, leading to a more sustainable built environment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in circular economy initiatives as it aligns with environmental regulations and improves the image and reputation of their projects, attracting environmentally conscious clients and investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_724.md)
 
@@ -18,4 +18,8 @@ Circular economy promotes the use of renewable energy, minimizes waste, and redu
 
 * [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of circular economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_669.md)
 

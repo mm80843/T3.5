@@ -6,7 +6,7 @@
 
 AI-based models can predict the location and timing of outbreaks, allowing for early intervention and preparedness measures to be implemented by healthcare systems and policymakers.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare facilities would benefit from early outbreak prediction, leading to more timely and effective response measures, potentially reducing the impact on healthcare systems and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_711.md)
 
@@ -18,4 +18,8 @@ AI-based models can predict the location and timing of outbreaks, allowing for e
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [AI for outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_658.md)
 

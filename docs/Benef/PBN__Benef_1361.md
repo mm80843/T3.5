@@ -6,7 +6,7 @@
 
 The integration of virtual space and physical space in community planning creates composite community spaces that provide efficient and diverse service options for residents.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing a model of composite space service facilities in communities can streamline and enhance the delivery of community services, improving the overall satisfaction and quality of life for residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1545.md)
 
@@ -17,4 +17,8 @@ The integration of virtual space and physical space in community planning create
 ## Stakeholders benefitting from this Benefit
 
 * [community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_527.md)
+
+## Risks which can benefit from this action
+
+* [Composite space service facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1397.md)
 

@@ -52,3 +52,14 @@ Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities
 * [Filtration and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_712.md)
 * [Personalized Indoor Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
+* [smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
+* [improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
+* [equitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)
+* [upgraded hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+

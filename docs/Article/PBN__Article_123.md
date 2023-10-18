@@ -74,3 +74,16 @@ Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights f
 * [Support measures for commercial and small industrial activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1984.md)
 * [Development pathways synchronized to the NDCs of the Paris Accord or the findings of the IPCC](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1992.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
+* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
+* [policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1609.md)
+* [renewable energy development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1608.md)
+* [healthcare capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1606.md)
+* [vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
+* [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+* [local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
+

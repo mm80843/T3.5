@@ -6,7 +6,7 @@
 
 Provides clear guidance for building transformation during pandemics
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Streamlined approval process, increased compliance with health and safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1209.md)
 
@@ -17,4 +17,8 @@ Provides clear guidance for building transformation during pandemics
 ## Stakeholders benefitting from this Benefit
 
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+
+## Risks which can benefit from this action
+
+* [Revision and update of building regulations and codes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1090.md)
 

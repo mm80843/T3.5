@@ -2,3 +2,7 @@
 
 # __Increased confidence in public spaces, reduced risk of infection, and improved overall public health__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_719.md)
+

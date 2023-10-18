@@ -2,3 +2,7 @@
 
 # __Private investors investing in this measure would benefit from reduced operational costs, increased focus on primary services, and potential repurposing of secondary public places for essential uses.__
 
+## This return can be realized by these benefits
+
+* [Reduced pressure on secondary services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_332.md)
+

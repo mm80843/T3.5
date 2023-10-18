@@ -6,7 +6,7 @@
 
 Access to educational resources and continued learning
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased demand for educational technology and online learning platforms, leading to higher market demand and potential investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_306.md)
 * [Improved educational outcomes, reduced risk of undernutrition](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1193.md)
@@ -22,4 +22,9 @@ Access to educational resources and continued learning
 * [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
 * [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+
+## Risks which can benefit from this action
+
+* [Implementing distance learning solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_283.md)
+* [Utilize informal education systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1073.md)
 

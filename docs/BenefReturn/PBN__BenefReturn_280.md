@@ -2,3 +2,7 @@
 
 # __Investing in maintaining optimal temperature and humidity can help reduce transmission and protect public health, potentially leading to economic benefits from reduced healthcare costs and increased productivity.__
 
+## This return can be realized by these benefits
+
+* [Improved virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_268.md)
+

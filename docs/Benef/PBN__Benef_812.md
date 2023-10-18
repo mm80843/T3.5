@@ -6,7 +6,7 @@
 
 Digital twins can simulate water systems, optimize operations
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased efficiency, cost savings, improved resource management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_880.md)
 
@@ -19,4 +19,8 @@ Digital twins can simulate water systems, optimize operations
 * [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
 * [operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_330.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
+## Risks which can benefit from this action
+
+* [Digital twins and modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_807.md)
 

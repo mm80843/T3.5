@@ -6,7 +6,7 @@
 
 Company policies promoting personal hygiene practices, such as handwashing and proper coughing/sneezing etiquette, reduce the risk of disease transmission within indoor spaces.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved tenant satisfaction, reduced absenteeism, and lower healthcare costs due to improved hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1457.md)
 
@@ -17,4 +17,8 @@ Company policies promoting personal hygiene practices, such as handwashing and p
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of company policies promoting personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1310.md)
 

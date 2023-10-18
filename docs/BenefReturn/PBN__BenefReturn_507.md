@@ -2,3 +2,7 @@
 
 # __Improved overall hygiene and health of occupants, leading to higher occupancy rates and tenant satisfaction.__
 
+## This return can be realized by these benefits
+
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+

@@ -6,7 +6,7 @@
 
 Details
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Return](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1550.md)
 
@@ -17,4 +17,8 @@ Details
 ## Stakeholders benefitting from this Benefit
 
 * [beneficiaries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_454.md)
+
+## Risks which can benefit from this action
+
+* [Mitigation measure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1399.md)
 

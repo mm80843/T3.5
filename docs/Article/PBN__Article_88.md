@@ -50,3 +50,11 @@ Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols
 * [UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2297.md)
 * [Upper room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2291.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
+* [filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
+* [environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+* [experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1883.md)
+

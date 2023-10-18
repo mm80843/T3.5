@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Healthcare services using technology to monitor and manage patients remotely amidst travel limitations and restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_20.md)
+* [Healthcare services using technology to monitor and manage patients remotely amidst travel limitations and restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_10.md)
 
 ## Closest similar item
 

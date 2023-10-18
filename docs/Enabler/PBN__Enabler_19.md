@@ -8,7 +8,7 @@ enabler_020
 
 ## Category to which it belongs
 
-* [Mobile communication devices with advanced features and capabilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_79.md)
+* [Mobile communication devices with advanced features and capabilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_69.md)
 
 ## Closest similar item
 

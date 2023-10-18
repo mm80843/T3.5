@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Stakeholders in the establishment or utilization of a space or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_257.md)
+* [Stakeholders in the establishment or utilization of a space or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_250.md)
 
 ## Closest similar item
 

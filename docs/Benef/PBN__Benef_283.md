@@ -6,7 +6,7 @@
 
 External corridors and stairs enhance airflow and decrease the concentration of aerosols, reducing the risk of transmission in shared spaces.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in external corridors and stairs improves ventilation, creating a healthier living environment, potentially increasing the desirability of the property for tenants or buyers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_296.md)
 
@@ -17,4 +17,8 @@ External corridors and stairs enhance airflow and decrease the concentration of 
 ## Stakeholders benefitting from this Benefit
 
 * [occupants of the building and public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_141.md)
+
+## Risks which can benefit from this action
+
+* [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_273.md)
 

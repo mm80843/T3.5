@@ -2,3 +2,7 @@
 
 # __Improved safety and reduced risk for newborns__
 
+## This return can be realized by these benefits
+
+* [Prevention of vertical transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1088.md)
+

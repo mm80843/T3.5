@@ -6,7 +6,7 @@
 
 Steps to reduce inequality promote a more equitable and inclusive society, reducing social disparities and promoting social cohesion.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a more stable and equitable society, reducing social unrest and creating a conducive investment environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_307.md)
 
@@ -17,4 +17,8 @@ Steps to reduce inequality promote a more equitable and inclusive society, reduc
 ## Stakeholders benefitting from this Benefit
 
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Risks which can benefit from this action
+
+* [Taking steps to reduce inequality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_289.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_308.md)
+* [Implement wastewater surveillance techniques to detect viral presence, optimize treatment processes, and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_301.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2562.md)
 * [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3075.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Population prevalence estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1205.md)
 * [Improved testing access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1206.md)

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 * [Improve social safety net system, support education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2161.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_288.md)
 

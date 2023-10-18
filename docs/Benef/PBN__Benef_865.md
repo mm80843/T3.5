@@ -6,7 +6,7 @@
 
 Increased testing and contact tracing efforts identify cases early and enable targeted containment measures
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare and medical testing would benefit from increased demand for testing supplies and services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_946.md)
 
@@ -17,4 +17,8 @@ Increased testing and contact tracing efforts identify cases early and enable ta
 ## Stakeholders benefitting from this Benefit
 
 * [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
+
+## Risks which can benefit from this action
+
+* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_864.md)
 

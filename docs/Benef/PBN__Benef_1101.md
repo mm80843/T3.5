@@ -6,7 +6,7 @@
 
 Increasing the number of medical staff and hospitals can improve healthcare services and capacity, allowing for better management of COVID-19 cases and reducing the strain on healthcare systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in healthcare infrastructure can benefit from improved healthcare services, increased demand for medical facilities, and potential financial returns from healthcare operations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1231.md)
 
@@ -18,4 +18,8 @@ Increasing the number of medical staff and hospitals can improve healthcare serv
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)
 

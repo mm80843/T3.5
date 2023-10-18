@@ -6,7 +6,7 @@
 
 Allows healthcare professionals to conduct complex care decisions without physical gatherings, utilizing platforms such as Zoom.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances communication, collaboration, and decision-making among healthcare teams while minimizing the risk of transmission.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_498.md)
 
@@ -17,4 +17,8 @@ Allows healthcare professionals to conduct complex care decisions without physic
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
 

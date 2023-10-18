@@ -8,7 +8,7 @@ enabler_032
 
 ## Category to which it belongs
 
-* [Visual electronic displays used for advertising or relaying information in various public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_91.md)
+* [Visual electronic displays used for advertising or relaying information in various public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)
 
 ## Closest similar item
 

@@ -2,3 +2,7 @@
 
 # __Improved disease surveillance, faster response to outbreaks__
 
+## This return can be realized by these benefits
+
+* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_816.md)
+

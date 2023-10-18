@@ -6,7 +6,7 @@
 
 More than 90% inactivation of SARS-CoV-2, more than 97% inactivation of Influenza A, and 100% inactivation of Legionella pneumophila.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved air quality and reduced risk of infection, enhancing occupant health and safety.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1144.md)
 
@@ -17,4 +17,8 @@ More than 90% inactivation of SARS-CoV-2, more than 97% inactivation of Influenz
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Use of UV-C germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
 

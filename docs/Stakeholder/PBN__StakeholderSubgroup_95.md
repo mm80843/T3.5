@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Marginalized individuals facing health risks due to isolation and residing in disadvantaged communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_245.md)
+* [Marginalized individuals facing health risks due to isolation and residing in disadvantaged communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
 
 ## Closest similar item
 

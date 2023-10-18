@@ -6,7 +6,7 @@
 
 Increases trust and comfort on campus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from improved reputation and attractiveness of the institution, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_279.md)
 
@@ -18,4 +18,8 @@ Increases trust and comfort on campus
 
 * [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+
+## Risks which can benefit from this action
+
+* [Campus law enforcement introduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_256.md)
 

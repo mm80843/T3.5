@@ -6,7 +6,7 @@
 
 The use of force majeure clauses helps resolve disputes and claims related to COVID-19, minimizing legal challenges and delays in project execution.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from reduced legal costs and improved project timelines.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_854.md)
 
@@ -17,4 +17,8 @@ The use of force majeure clauses helps resolve disputes and claims related to CO
 ## Stakeholders benefitting from this Benefit
 
 * [project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_321.md)
+
+## Risks which can benefit from this action
+
+* [Force majeure clause](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_783.md)
 

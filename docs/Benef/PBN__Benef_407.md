@@ -6,7 +6,7 @@
 
 Providing transparent and credible information reduces tourists' perception of risk and increases their confidence in the safety of destinations and tourism services
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by investing in communication strategies that help restore tourists’ confidence in travel safety, leading to an increase in tourism demand.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_436.md)
 
@@ -17,4 +17,8 @@ Providing transparent and credible information reduces tourists' perception of r
 ## Stakeholders benefitting from this Benefit
 
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risks which can benefit from this action
+
+* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
 

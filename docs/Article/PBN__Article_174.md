@@ -48,3 +48,21 @@ Treating two pandemics for the price of one: Chronic and infectious disease impa
 * [Increase in green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_676.md)
 * [Promotion of healthier lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
 
+## This article mentions these technologies
+
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
+* [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
+* [vertical gardening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_622.md)
+* [urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
+* [online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_629.md)
+* [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
+* [information and communication technologies (icts)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_628.md)
+* [crowd management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
+* [hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
+* [healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
+* [green roof technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_620.md)
+* [mobile applications for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_617.md)
+* [ai-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_618.md)
+

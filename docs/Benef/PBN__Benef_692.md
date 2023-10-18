@@ -6,7 +6,7 @@
 
 Incorporating vaccination uptake data helps identify disparities in vaccine access
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced equity in vaccine distribution, improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_741.md)
 
@@ -17,4 +17,8 @@ Incorporating vaccination uptake data helps identify disparities in vaccine acce
 ## Stakeholders benefitting from this Benefit
 
 * [individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
+
+## Risks which can benefit from this action
+
+* [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)
 

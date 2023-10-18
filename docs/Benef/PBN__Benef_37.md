@@ -6,7 +6,7 @@
 
 Utilizing 5G and IoT devices in supply chain management can increase transparency, efficiency, and real-time tracking of goods, ensuring timely delivery of essential supplies to healthcare facilities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can develop and implement 5G-based supply chain management solutions, increasing the value of their investment as healthcare facilities and manufacturers benefit from improved efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_37.md)
 
@@ -18,4 +18,8 @@ Utilizing 5G and IoT devices in supply chain management can increase transparenc
 
 * [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
 

@@ -2,3 +2,7 @@
 
 # __Investing in border control measures can prevent imported cases, protect public health, and reduce the burden on healthcare systems.__
 
+## This return can be realized by these benefits
+
+* [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
+

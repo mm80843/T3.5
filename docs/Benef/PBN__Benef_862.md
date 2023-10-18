@@ -6,7 +6,7 @@
 
 Access to shops and services promotes physical activity and reduces obesity, which is associated with lower COVID-19 mortality rates.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in increasing tree canopy can lead to lower COVID-19 mortality rates, improving community health and resilience.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_940.md)
 * [Investing in walkable urban design can lead to a reduction in obesity-related chronic diseases, improving overall health outcomes and reducing healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_941.md)
@@ -20,4 +20,11 @@ Access to shops and services promotes physical activity and reduces obesity, whi
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
+* [Increased tree canopy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_859.md)
+* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_860.md)
+* [Access to shops and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_861.md)
 

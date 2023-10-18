@@ -6,7 +6,7 @@
 
 Enables rapid reporting of cases, facilitates contact tracing and targeted interventions, and supports timely response
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves public health surveillance, reduces transmission risk, and supports effective control measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1298.md)
 
@@ -18,4 +18,8 @@ Enables rapid reporting of cases, facilitates contact tracing and targeted inter
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1166.md)
 

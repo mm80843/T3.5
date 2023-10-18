@@ -2,3 +2,7 @@
 
 # __Private investors would benefit indirectly from investment in WBE by contributing to global health surveillance, protecting vulnerable populations, and aiding in economic recovery.__
 
+## This return can be realized by these benefits
+
+* [Extended reach of WBE](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
+

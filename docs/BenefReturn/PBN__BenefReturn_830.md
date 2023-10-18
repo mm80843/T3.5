@@ -2,3 +2,7 @@
 
 # __Private investors investing in neighbourhood hygiene maintenance can create a safer and healthier community, increasing desirability and asset value of the neighbourhood.__
 
+## This return can be realized by these benefits
+
+* [Reduced transmission risk in neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_762.md)
+

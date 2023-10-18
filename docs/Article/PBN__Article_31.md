@@ -38,3 +38,19 @@ What drives unverified information sharing and cyberchondria during the COVID-19
 ## This article points to following mitigation
 
 
+## This article mentions these technologies
+
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
+* [education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_933.md)
+* [online mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
+* [information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_936.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
+* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_939.md)
+* [digital health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_935.md)
+* [digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
+* [media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_583.md)
+* [trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_938.md)
+

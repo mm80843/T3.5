@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Validate and optimize PCR assays to ensure accurate detection of SARS-CoV-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
 * [Use of portable air filters to remove SARS-CoV-2 particles from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2834.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_765.md)
 

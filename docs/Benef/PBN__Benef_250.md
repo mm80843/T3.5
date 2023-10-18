@@ -6,7 +6,7 @@
 
 Water-efficient appliances and fixtures decrease water consumption and lower utility costs
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing water-efficient appliances and fixtures can attract tenants seeking cost savings and eco-conscious living.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_262.md)
 
@@ -17,4 +17,8 @@ Water-efficient appliances and fixtures decrease water consumption and lower uti
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Use of water-efficient appliances and fixtures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_239.md)
 

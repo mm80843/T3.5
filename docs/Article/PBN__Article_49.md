@@ -55,3 +55,10 @@ Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry
 * [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
 * [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1562.md)
 
+## This article mentions these technologies
+
+* [remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
+* [online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
+* [virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
+* [enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1240.md)
+

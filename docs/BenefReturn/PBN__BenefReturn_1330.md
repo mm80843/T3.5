@@ -2,3 +2,7 @@
 
 # __Investing in traffic__
 
+## This return can be realized by these benefits
+
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1195.md)
+

@@ -6,7 +6,7 @@
 
 Monitoring and controlling indoor air quality can help reduce exposure to VOCs, which can cause various health issues such as headaches, respiratory symptoms, and fatigue.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in indoor air quality monitoring systems can create a healthier and more productive indoor environment, potentially increasing property value and attracting health-conscious occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1500.md)
 
@@ -17,4 +17,8 @@ Monitoring and controlling indoor air quality can help reduce exposure to VOCs, 
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1349.md)
 

@@ -2,3 +2,7 @@
 
 # __Improved public health outcomes reduce the risk of outbreaks, ensuring long-term stability and potential appreciation in value for invested properties.__
 
+## This return can be realized by these benefits
+
+* [Increased understanding and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_517.md)
+

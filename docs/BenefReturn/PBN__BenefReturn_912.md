@@ -2,3 +2,7 @@
 
 # __Lower energy costs, increased energy efficiency__
 
+## This return can be realized by these benefits
+
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+

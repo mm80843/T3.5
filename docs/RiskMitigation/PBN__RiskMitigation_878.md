@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_303.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Standardization of PCR platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
 * [Quantification using reference materials and digital droplet PCR](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved sensitivity and detection limits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_879.md)
 

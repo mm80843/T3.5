@@ -6,7 +6,7 @@
 
 Bridging the digital divide through improved internet access and infrastructure ensures equitable access to information and communication, reducing information gaps and promoting inclusivity.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in telecommunications and digital infrastructure can benefit from increased demand and improved asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1156.md)
 
@@ -18,4 +18,8 @@ Bridging the digital divide through improved internet access and infrastructure 
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_411.md)
+
+## Risks which can benefit from this action
+
+* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1038.md)
 

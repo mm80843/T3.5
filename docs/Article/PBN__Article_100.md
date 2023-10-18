@@ -52,3 +52,21 @@ COVID-19: Risk assessment and mitigation measures in healthcare and non-healthca
 * [Enhanced Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
 * [Surge Capacity Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_629.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
+* [air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
+* [increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_586.md)
+* [widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
+* [mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
+* [increased testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_592.md)
+* [respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_585.md)
+* [increased awareness and education about transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_588.md)
+* [promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_589.md)
+* [vaccine distribution to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_593.md)
+* [targeted healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_594.md)
+

@@ -6,7 +6,7 @@
 
 Provides insight into the changing social behavior of urban residents and allows for adaptation of urban governance policies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit from improved decision-making and more effective policy interventions to mitigate risks and control the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_887.md)
 
@@ -18,4 +18,8 @@ Provides insight into the changing social behavior of urban residents and allows
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [local and national](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_331.md)
+
+## Risks which can benefit from this action
+
+* [Developing a COVID-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_813.md)
 

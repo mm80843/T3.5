@@ -2,3 +2,7 @@
 
 # __Offering separate toilets for infected individuals can enhance tenant satisfaction and create a safer living environment.__
 
+## This return can be realized by these benefits
+
+* [Prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_242.md)
+

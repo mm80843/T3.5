@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from a more resilient and stable economy, reduced business disruptions, and improved asset values.__
 
+## This return can be realized by these benefits
+
+* [Avoidance of strict lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_507.md)
+

@@ -6,7 +6,7 @@
 
 Emphasizing the use of personal protective measures can improve the overall effectiveness of mitigation efforts for mosquito-borne diseases.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in the production and distribution of personal protective measures, as it can lead to increased demand and potential market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1169.md)
 
@@ -17,4 +17,8 @@ Emphasizing the use of personal protective measures can improve the overall effe
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1050.md)
 

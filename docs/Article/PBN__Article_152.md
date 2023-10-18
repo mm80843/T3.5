@@ -51,3 +51,19 @@ Epidemics, Planning and the City: A Special Issue of Planning Perspectives
 * [Improvement of Sanitary Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
 * [Behavioral Interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
 
+## This article mentions these technologies
+
+* [contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
+* [remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+* [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
+* [health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_475.md)
+* [modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
+* [sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
+* [digital health solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_473.md)
+* [data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_476.md)
+

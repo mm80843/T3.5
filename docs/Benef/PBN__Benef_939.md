@@ -6,7 +6,7 @@
 
 Proper classification and disinfection of hospital wastes reduces the risk of disease transmission, protecting public health and improving sanitation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in hospital waste management would benefit from increased demand for these services, as well as reduced liability for potential disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1029.md)
 
@@ -18,4 +18,8 @@ Proper classification and disinfection of hospital wastes reduces the risk of di
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Risks which can benefit from this action
+
+* [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_933.md)
 

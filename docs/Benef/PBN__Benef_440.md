@@ -6,7 +6,7 @@
 
 Access to outdoor spaces allows residents to engage in outdoor activities, connect with nature, and improve overall well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from attractive outdoor spaces that can enhance property value and attract tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_474.md)
 
@@ -17,4 +17,8 @@ Access to outdoor spaces allows residents to engage in outdoor activities, conne
 ## Stakeholders benefitting from this Benefit
 
 * [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+
+## Risks which can benefit from this action
+
+* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
 

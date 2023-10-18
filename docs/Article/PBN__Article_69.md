@@ -44,3 +44,12 @@ Understanding the role of urban design in disease spreading
 * [Isolation parameter](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
 * [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
 
+## This article mentions these technologies
+
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_300.md)
+* [urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
+* [data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
+* [mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_298.md)
+* [economic and business development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
+

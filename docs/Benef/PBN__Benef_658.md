@@ -6,7 +6,7 @@
 
 AI algorithms can accurately detect and diagnose COVID-19, reducing the need for extensive testing and manual review by healthcare professionals. This allows for more efficient use of resources.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare facilities would benefit from reduced resource burden, leading to cost savings and improved patient care.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_704.md)
 
@@ -18,4 +18,8 @@ AI algorithms can accurately detect and diagnose COVID-19, reducing the need for
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [AI for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
 

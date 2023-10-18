@@ -6,7 +6,7 @@
 
 Blockchain technology assures the security of collected data and helps maintain its privacy
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in blockchain technology would benefit from the improved security and privacy, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1172.md)
 
@@ -18,4 +18,8 @@ Blockchain technology assures the security of collected data and helps maintain 
 
 * [medical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_420.md)
 * [government sites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_421.md)
+
+## Risks which can benefit from this action
+
+* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
 

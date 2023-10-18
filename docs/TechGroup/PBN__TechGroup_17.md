@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Unmanned automated technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_302.md)
+* [Unmanned automated technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_295.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_131.md)
 * [robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_132.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)

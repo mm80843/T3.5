@@ -6,7 +6,7 @@
 
 Prevents overwhelming healthcare system by reducing infection rate, allowing better care for infected individuals and preventing shortages of healthcare resources
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [By implementing social lockdown, private investors can help prevent healthcare systems from being overwhelmed, ensuring better care for infected individuals and potential asset value improvement in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_203.md)
 
@@ -18,4 +18,8 @@ Prevents overwhelming healthcare system by reducing infection rate, allowing bet
 
 * [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
 * [infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_114.md)
+
+## Risks which can benefit from this action
+
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
 

@@ -6,7 +6,7 @@
 
 Flexible spaces and robust internet connection support remote working and adaptability of the building, meeting the needs of occupants during quarantine.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Higher tenant demand and retention due to the ability to accommodate different needs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_503.md)
 
@@ -18,4 +18,8 @@ Flexible spaces and robust internet connection support remote working and adapta
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_479.md)
 

@@ -6,7 +6,7 @@
 
 Lower risk of surface transmission, improved occupant safety and well-being
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can enhance building reputation, increasing tenant satisfaction and lease renewal rates](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_974.md)
 
@@ -17,4 +17,8 @@ Lower risk of surface transmission, improved occupant safety and well-being
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Regular cleaning and disinfection of high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_890.md)
 

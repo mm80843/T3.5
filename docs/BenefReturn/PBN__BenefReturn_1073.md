@@ -2,3 +2,7 @@
 
 # __Investing in social distancing measures can help control the spread of the disease, reduce the burden on healthcare systems, and contribute to the overall containment of the pandemic, which can lead to economic stability and the preservation of asset values.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

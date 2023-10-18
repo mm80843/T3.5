@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare infrastructure and services would benefit from increased demand and profitability.__
 
+## This return can be realized by these benefits
+
+* [Enhanced access to healthcare for all](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_24.md)
+

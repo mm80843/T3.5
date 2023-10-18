@@ -2,3 +2,7 @@
 
 # __Improved public health response, faster containment of outbreaks, reduced healthcare costs__
 
+## This return can be realized by these benefits
+
+* [Early warning system](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_808.md)
+

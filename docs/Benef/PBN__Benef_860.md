@@ -6,7 +6,7 @@
 
 Reliable and evidence-based treatment guidelines and recommendations, ensuring appropriate medical interventions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced reputation and credibility for researchers and clinicians, potential economic benefits from more effective and efficient healthcare practices.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_937.md)
 
@@ -18,4 +18,8 @@ Reliable and evidence-based treatment guidelines and recommendations, ensuring a
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_274.md)
+
+## Risks which can benefit from this action
+
+* [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
 

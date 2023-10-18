@@ -2,3 +2,7 @@
 
 # __Reduced hospital consultations and better resource allocation__
 
+## This return can be realized by these benefits
+
+* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1311.md)
+

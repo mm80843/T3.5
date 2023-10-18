@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Use of UVGI devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
 * [Direct UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_316.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Inactivation of microorganisms in high-risk spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_206.md)
 

@@ -6,7 +6,7 @@
 
 Engaging in physical activity can help reduce anxiety, stress, and depression during periods of quarantine and social isolation, improving overall mental well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in home-based exercise programs and the development of accessible physical activity resources, which can improve mental well-being and support the overall health of individuals in quarantine or social isolation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_978.md)
 
@@ -17,4 +17,8 @@ Engaging in physical activity can help reduce anxiety, stress, and depression du
 ## Stakeholders benefitting from this Benefit
 
 * [individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
+
+## Risks which can benefit from this action
+
+* [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
 

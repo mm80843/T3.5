@@ -6,7 +6,7 @@
 
 HEMS can automate demand response programs, optimizing energy use and contributing to the stability of the power grid.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in HEMS technologies would benefit from increased demand from electricity providers and grid operators seeking to optimize energy consumption and ensure grid stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_649.md)
 
@@ -18,4 +18,8 @@ HEMS can automate demand response programs, optimizing energy use and contributi
 
 * [grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_250.md)
 * [electricity providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_249.md)
+
+## Risks which can benefit from this action
+
+* [Home Energy Management Systems (HEMS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
 

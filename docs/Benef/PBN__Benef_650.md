@@ -6,7 +6,7 @@
 
 Effective communication between stakeholders during crises enhances coordination, allows for timely information sharing, and improves the overall response to the crisis.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from decreased operational disruptions, improved asset value, and enhanced public perception as their infrastructure is able to effectively respond to crises.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_700.md)
 
@@ -18,4 +18,8 @@ Effective communication between stakeholders during crises enhances coordination
 
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [critical infrastructure operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_273.md)
+
+## Risks which can benefit from this action
+
+* [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_647.md)
 

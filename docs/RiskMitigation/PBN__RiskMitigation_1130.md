@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -19,12 +19,12 @@
 * [Control temperature and humidity levels, use UVGI or filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1641.md)
 * [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
+* [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_752.md)
 * [Reduction in airborne SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1119.md)
 * [Reduction in microbial bioaerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1120.md)
 * [Removal of other respiratory pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1121.md)
-* [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_752.md)
 * [Improved environmental safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1122.md)
 
 ## Risks possibly mitigated by this Mitigation

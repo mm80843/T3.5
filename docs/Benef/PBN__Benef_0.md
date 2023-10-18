@@ -6,7 +6,7 @@
 
 Early warning system for outbreaks
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Early detection helps public health authorities implement timely interventions and prevent the spread of the virus, reducing healthcare burden and economic impact.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_0.md)
 * [Investing in early detection measures can prevent large-scale outbreaks, protect public health, and limit economic impact.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_104.md)
@@ -29,4 +29,12 @@ Early warning system for outbreaks
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
 * [public health sector/government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_397.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
+* [Enhanced case finding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_92.md)
+* [Viral surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_600.md)
 

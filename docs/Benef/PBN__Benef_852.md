@@ -6,7 +6,7 @@
 
 Minimal natural light reduces bacterial activity, contributing to a healthier living environment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased property value as residents are willing to pay more for a healthier living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_926.md)
 
@@ -17,4 +17,8 @@ Minimal natural light reduces bacterial activity, contributing to a healthier li
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_848.md)
 

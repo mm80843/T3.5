@@ -6,7 +6,7 @@
 
 Instantaneous reporting without passing through intermediaries improves response time and reduces the omission of reports.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved response to infectious diseases, better outbreak management, increased public trust in reporting systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1304.md)
 
@@ -18,4 +18,8 @@ Instantaneous reporting without passing through intermediaries improves response
 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+
+## Risks which can benefit from this action
+
+* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1170.md)
 

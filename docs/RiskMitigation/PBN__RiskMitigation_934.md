@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Monitoring metrics related to heart rate, respiration rate, and skin temperature using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_948.md)
 * [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2862.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Early detection of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_940.md)
 * [Monitoring vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_941.md)

@@ -6,7 +6,7 @@
 
 Well-designed living spaces that are adaptable and flexible can improve safety, comfort, and well-being of occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in flexible and adaptable living spaces can attract more tenants, increase property value, and improve overall living conditions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_874.md)
 
@@ -17,4 +17,8 @@ Well-designed living spaces that are adaptable and flexible can improve safety, 
 ## Stakeholders benefitting from this Benefit
 
 * [all occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_328.md)
+
+## Risks which can benefit from this action
+
+* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_800.md)
 

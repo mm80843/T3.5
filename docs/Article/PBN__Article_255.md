@@ -51,3 +51,15 @@ COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review a
 * [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
 * [Contact Tracing and Testing of Close Contacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_871.md)
 
+## This article mentions these technologies
+
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [rapid testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
+* [digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
+* [manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
+* [physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_800.md)
+* [rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_794.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_798.md)
+

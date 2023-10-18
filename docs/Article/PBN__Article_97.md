@@ -48,3 +48,15 @@ Impacts of COVID-19 on residential building energy use and performance
 * [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_953.md)
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
 
+## This article mentions these technologies
+
+* [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
+* [grid optimization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_870.md)
+* [energy-efficient hvac systems and smart thermostat technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_869.md)
+* [energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_868.md)
+* [energy efficiency grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_872.md)
+* [demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
+* [energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_871.md)
+* [advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
+

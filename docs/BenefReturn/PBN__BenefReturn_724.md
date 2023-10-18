@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from investing in circular economy initiatives as it aligns with environmental regulations and improves the image and reputation of their projects, attracting environmentally conscious clients and investors.__
 
+## This return can be realized by these benefits
+
+* [Environmental sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_677.md)
+

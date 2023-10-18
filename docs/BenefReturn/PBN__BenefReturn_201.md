@@ -2,3 +2,7 @@
 
 # __Private investors in rental properties would benefit from reduced vacancies, improved tenant stability, and reduced legal costs.__
 
+## This return can be realized by these benefits
+
+* [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
+

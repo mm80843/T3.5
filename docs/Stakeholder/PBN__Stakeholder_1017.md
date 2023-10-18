@@ -4,14 +4,10 @@
 
 ## Category to which it belongs
 
-* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
+* [Entities and individuals who interact with or are affected by a system, organization, or public facility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
 
 ## Closest similar item
 
-* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_396.md)
-* [------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1548.md)
-* [---------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1524.md)
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
 * [telecommunication company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2607.md)
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [telecommunication companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_633.md)
@@ -21,5 +17,4 @@
 
 ## Risk affecting this stakeholder
 
-* [--------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1577.md)
 

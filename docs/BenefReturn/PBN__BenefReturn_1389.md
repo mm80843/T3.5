@@ -2,3 +2,7 @@
 
 # __Increases reliability of research findings and data__
 
+## This return can be realized by these benefits
+
+* [Improved logical](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1238.md)
+

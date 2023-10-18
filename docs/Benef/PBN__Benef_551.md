@@ -6,7 +6,7 @@
 
 Travel restrictions reduce the demand for travel and limit disease transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Lower infection rates decrease public health risks and economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_604.md)
 
@@ -17,4 +17,8 @@ Travel restrictions reduce the demand for travel and limit disease transmission
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 

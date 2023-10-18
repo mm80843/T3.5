@@ -2,3 +2,7 @@
 
 # __Private investors investing in beachfront properties can benefit from increased property values and increased demand for tourism services.__
 
+## This return can be realized by these benefits
+
+* [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1145.md)
+

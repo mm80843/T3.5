@@ -2,3 +2,7 @@
 
 # __Investing in supporting individuals working from home can lead to increased productivity and satisfaction, potentially attracting more tenants and increasing property value.__
 
+## This return can be realized by these benefits
+
+* [Improved working performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1216.md)
+

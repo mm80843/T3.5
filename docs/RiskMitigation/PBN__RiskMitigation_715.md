@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Address safety concerns through research, testing, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2373.md)
 * [Retailers should implement strict monitoring and enforcement procedures, such as regular inspections, staff training, and the use of surveillance technology, to ensure compliance with social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2292.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Regulatory compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_717.md)
 

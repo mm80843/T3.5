@@ -52,3 +52,15 @@ The effect of large-scale anti-contagion policies on the COVID-19 pandemic
 * [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
 * [Emergency declarations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_822.md)
 
+## This article mentions these technologies
+
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
+* [data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
+* [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [modeling and simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_759.md)
+* [ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
+* [ai and machine learning for modeling and simulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_761.md)
+* [epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_757.md)
+

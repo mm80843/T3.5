@@ -6,7 +6,7 @@
 
 Increased access to reliable and accurate information from trusted sources
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased trust in official information can lead to more compliant behavior among the public, potentially decreasing the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1000.md)
 
@@ -17,4 +17,8 @@ Increased access to reliable and accurate information from trusted sources
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Following official organizations on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_912.md)
 

@@ -56,3 +56,21 @@ What has been the impact of the COVID-19 pandemic on immigrants? An update on re
 * [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
 * [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1507.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
+* [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+* [mobile vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1207.md)
+* [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
+* [online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
+* [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
+* [improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1209.md)
+* [language interpretation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1205.md)
+* [language-specific materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1208.md)
+* [language and academic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
+

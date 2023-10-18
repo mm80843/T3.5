@@ -46,3 +46,14 @@ Rise of the preprint: how rapid data sharing during COVID-19 has changed science
 * [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2339.md)
 * [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
 
+## This article mentions these technologies
+
+* [improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1922.md)
+* [responsible reporting by media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1924.md)
+* [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
+* [public education on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1925.md)
+* [improved peer-review processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1926.md)
+* [scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1928.md)
+* [improved evaluation and synthesis of preprint data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1923.md)
+* [improved evaluation and selection criteria for meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1929.md)
+

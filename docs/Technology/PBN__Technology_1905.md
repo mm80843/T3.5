@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2817.md)
 * [liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3482.md)
 * [sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
+
+## This technology is mentioned by
+
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
 ## Risks linked to this technology
 

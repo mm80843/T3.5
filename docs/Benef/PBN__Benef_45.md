@@ -6,7 +6,7 @@
 
 Implementing neighborhood-oriented development patterns can promote community development, inclusivity, safety, resilience, and sustainability in neighborhoods.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in neighborhood-oriented development can benefit from increased demand for residential properties in well-developed and vibrant communities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_45.md)
 
@@ -17,4 +17,8 @@ Implementing neighborhood-oriented development patterns can promote community de
 ## Stakeholders benefitting from this Benefit
 
 * [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
+
+## Risks which can benefit from this action
+
+* [Neighborhood-oriented development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_37.md)
 

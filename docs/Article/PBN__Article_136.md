@@ -49,3 +49,16 @@ COVID-19 and social inequalities: a complex and dynamic interaction
 * [Lockdown and Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1649.md)
 * [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
 
+## This article mentions these technologies
+
+* [mobile vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1207.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+* [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [community education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1340.md)
+* [widening testing networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1337.md)
+* [equitable healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1336.md)
+* [tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1341.md)
+* [mobile testing centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1338.md)
+* [social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1335.md)
+* [community-based vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1342.md)
+

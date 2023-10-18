@@ -2,3 +2,7 @@
 
 # __Private investors investing in organizational measures would see improved asset value by reducing the risk of outbreak and potential business disruptions.__
 
+## This return can be realized by these benefits
+
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+

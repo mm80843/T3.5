@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Liquid detectors that identify the presence and measure the level of water.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_67.md)
+* [Liquid detectors that identify the presence and measure the level of water.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 

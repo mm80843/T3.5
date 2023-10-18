@@ -6,7 +6,7 @@
 
 Virtual reality technologies can provide interactive and immersive training experiences, enhancing healthcare professionals' knowledge and skills, and promoting better healthcare practices.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in virtual reality technologies can lead to better-trained healthcare professionals, improving the quality of healthcare delivery and potentially reducing the burden on healthcare systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_485.md)
 
@@ -18,4 +18,8 @@ Virtual reality technologies can provide interactive and immersive training expe
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of emerging technologies (e.g., virtual reality)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_466.md)
 

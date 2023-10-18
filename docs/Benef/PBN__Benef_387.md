@@ -6,7 +6,7 @@
 
 Prioritize investigation and control efforts
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved surveillance and control strategies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_415.md)
 
@@ -18,4 +18,8 @@ Prioritize investigation and control efforts
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+
+## Risks which can benefit from this action
+
+* [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_390.md)
 

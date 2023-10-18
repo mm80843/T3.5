@@ -6,7 +6,7 @@
 
 Implementing administrative controls, such as limiting the total number of workers in each work shift and minimizing face-to-face meetings, can reduce the risk of exposure to COVID-19 in the workplace.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing administrative controls can create a safer work environment, reducing the risk of COVID-19 transmission among workers and potentially decreasing the number of sick days taken. This can contribute to improved employee health, increased productivity, and potentially reduced healthcare costs for employers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_400.md)
 
@@ -18,4 +18,8 @@ Implementing administrative controls, such as limiting the total number of worke
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_375.md)
 

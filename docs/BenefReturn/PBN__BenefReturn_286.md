@@ -2,3 +2,7 @@
 
 # __Investing in research on droplet physics and chemistry can contribute to the development of more targeted prevention and control measures, potentially reducing the economic burden of influenza outbreaks.__
 
+## This return can be realized by these benefits
+
+* [Better understanding of virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_274.md)
+

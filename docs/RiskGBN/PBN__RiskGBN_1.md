@@ -2,7 +2,7 @@
 
 # __Yes__
 
-## Property: has_GBNRisk
+## Risks affecting (or not) GBNs
 
 * [Spread of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
 * [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)

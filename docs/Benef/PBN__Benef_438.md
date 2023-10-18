@@ -6,7 +6,7 @@
 
 Improved insulation and heating systems provide greater comfort for residents and reduce energy costs.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased tenant satisfaction, reduced energy expenses, and improved property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_472.md)
 
@@ -17,4 +17,8 @@ Improved insulation and heating systems provide greater comfort for residents an
 ## Stakeholders benefitting from this Benefit
 
 * [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+
+## Risks which can benefit from this action
+
+* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_453.md)
 

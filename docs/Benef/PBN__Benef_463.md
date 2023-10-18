@@ -6,7 +6,7 @@
 
 Enables the development and implementation of sustainable remote and digital health practices, strengthening the healthcare system's resilience.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves healthcare delivery, increases efficiency, and enhances preparedness for future challenges.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_499.md)
 
@@ -17,4 +17,8 @@ Enables the development and implementation of sustainable remote and digital hea
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+
+## Risks which can benefit from this action
+
+* [New ways of remote and digital health working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_475.md)
 

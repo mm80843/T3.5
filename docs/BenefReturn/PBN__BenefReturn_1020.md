@@ -2,3 +2,7 @@
 
 # __Policymakers can make informed decisions and design effective social policies to address loneliness during the COVID-19 pandemic, leading to improved mental health and well-being in the community__
 
+## This return can be realized by these benefits
+
+* [Real-time sentiment analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_931.md)
+

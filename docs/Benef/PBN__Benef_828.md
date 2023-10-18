@@ -6,7 +6,7 @@
 
 The use of a semi-mechanistic Bayesian hierarchical model allows for more reliable and robust estimation of reproduction numbers, providing better insights into the dynamics of the epidemic and the effectiveness of interventions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in improved estimation methods can enhance the accuracy of epidemiological models and inform evidence-based decision-making, leading to more effective control strategies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_899.md)
 
@@ -18,4 +18,8 @@ The use of a semi-mechanistic Bayesian hierarchical model allows for more reliab
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
+
+## Risks which can benefit from this action
+
+* [Semi-mechanistic Bayesian hierarchical model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_824.md)
 

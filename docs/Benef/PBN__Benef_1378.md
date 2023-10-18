@@ -6,7 +6,7 @@
 
 Identifying potential transgressions and enforcing entry regulations in the absence of borders
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved security measures, decreased risk of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1565.md)
 
@@ -18,4 +18,8 @@ Identifying potential transgressions and enforcing entry regulations in the abse
 
 * [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
 * [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
+
+## Risks which can benefit from this action
+
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1410.md)
 

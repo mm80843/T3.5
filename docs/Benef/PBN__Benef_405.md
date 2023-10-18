@@ -6,7 +6,7 @@
 
 Protects those most vulnerable to severe disease by reducing their exposure to the virus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit by investing in measures that protect vulnerable populations as it would lead to fewer severe cases, less strain on healthcare systems, and potentially lower mortality rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_434.md)
 
@@ -17,4 +17,8 @@ Protects those most vulnerable to severe disease by reducing their exposure to t
 ## Stakeholders benefitting from this Benefit
 
 * [elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_194.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing of the elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_408.md)
 

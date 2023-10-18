@@ -6,7 +6,7 @@
 
 Enable rights claims in the context of social or environmental injustice and public inaction
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health response and reduced impact of the pandemic on communities, leading to improved economic stability and social well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1343.md)
 
@@ -18,4 +18,8 @@ Enable rights claims in the context of social or environmental injustice and pub
 
 * [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+
+## Risks which can benefit from this action
+
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1200.md)
 

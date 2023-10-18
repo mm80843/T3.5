@@ -6,7 +6,7 @@
 
 Increases access to job opportunities near neighborhoods and promotes alternative modes of transportation, reducing travel-related risks and costs.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in the development of job centers and infrastructure for active transportation in vulnerable communities, contributing to their resilience and potentially attracting businesses and residents looking for accessible and sustainable locations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_32.md)
 
@@ -17,4 +17,8 @@ Increases access to job opportunities near neighborhoods and promotes alternativ
 ## Stakeholders benefitting from this Benefit
 
 * [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
+
+## Risks which can benefit from this action
+
+* [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_24.md)
 

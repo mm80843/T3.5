@@ -6,7 +6,7 @@
 
 New technologies will enhance the sensitivity and accuracy of virus detection in wastewater, leading to better understanding of virus transmission and early outbreak detection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved detection capabilities will lead to more accurate data, which can inform effective public health strategies and policies, attracting more funding and collaboration opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_960.md)
 
@@ -17,4 +17,8 @@ New technologies will enhance the sensitivity and accuracy of virus detection in
 ## Stakeholders benefitting from this Benefit
 
 * [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
+
+## Risks which can benefit from this action
+
+* [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 

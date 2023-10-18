@@ -6,7 +6,7 @@
 
 Facilitates effective communication, timely updates, and dissemination of preventive measures and guidelines
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances public awareness and compliance, reducing overall transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1283.md)
 
@@ -18,4 +18,8 @@ Facilitates effective communication, timely updates, and dissemination of preven
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1150.md)
 

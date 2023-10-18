@@ -8,7 +8,7 @@ enabler_018
 
 ## Category to which it belongs
 
-* [Remote medical consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_77.md)
+* [Remote medical consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 

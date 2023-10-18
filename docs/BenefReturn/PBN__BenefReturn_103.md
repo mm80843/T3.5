@@ -2,3 +2,7 @@
 
 # __Increased accessibility and flexibility, reduced disease transmission, and cost savings__
 
+## This return can be realized by these benefits
+
+* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_105.md)
+

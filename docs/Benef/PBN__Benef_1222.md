@@ -6,7 +6,7 @@
 
 Recreational activities in green spaces such as parks and forests have substantial health benefits, reducing the risk of cardiovascular disease and all-cause mortality.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and well-being of individuals, potentially leading to reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1369.md)
 
@@ -17,4 +17,8 @@ Recreational activities in green spaces such as parks and forests have substanti
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 

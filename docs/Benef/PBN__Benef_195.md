@@ -6,7 +6,7 @@
 
 Screening workers' health before employment and periodically reduces the probability of infected workers entering the offshore workplace
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in rental properties would benefit from reduced vacancies, improved tenant health and reduced liability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_199.md)
 * [Investing in MCUs reduces the risk of COVID-19 transmission in the workplace, protecting workers and ensuring business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_541.md)
@@ -22,4 +22,9 @@ Screening workers' health before employment and periodically reduces the probabi
 * [people of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_111.md)
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
+
+## Risks which can benefit from this action
+
+* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_177.md)
+* [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_510.md)
 

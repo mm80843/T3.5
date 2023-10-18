@@ -6,7 +6,7 @@
 
 Designing social spaces promotes social interaction and bonding among occupants, leading to improved social well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Occupants have spaces to socialize and interact with others, fostering a sense of community and belonging.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_179.md)
 
@@ -17,4 +17,8 @@ Designing social spaces promotes social interaction and bonding among occupants,
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
 

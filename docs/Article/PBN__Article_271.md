@@ -49,3 +49,18 @@ Covid-19 and asset management in EU: a preliminary assessment of performance and
 * [Public Health Education and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
 * [Ventilation and Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1713.md)
 
+## This article mentions these technologies
+
+* [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
+* [vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
+* [fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
+* [performance tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1417.md)
+* [algorithmic trading](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1411.md)
+* [credit risk assessment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1412.md)
+* [debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
+* [credit scoring algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1413.md)
+* [automated treasury management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1415.md)
+

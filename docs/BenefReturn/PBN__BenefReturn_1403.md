@@ -2,3 +2,7 @@
 
 # __Improved quality of life, reduced social inequalities__
 
+## This return can be realized by these benefits
+
+* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
+

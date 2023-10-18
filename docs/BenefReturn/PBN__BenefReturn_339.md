@@ -2,3 +2,7 @@
 
 # __More accurate and comprehensive understanding of IEQ characteristics, better-informed decision-making for building operators and researchers.__
 
+## This return can be realized by these benefits
+
+* [Enhanced data resolution and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_322.md)
+

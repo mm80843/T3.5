@@ -6,7 +6,7 @@
 
 Identifying potential threats, mapping players, collecting and sharing information, stress tests for supply chains
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased resilience, reduced disruptions, improved supply chain stability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_321.md)
 
@@ -18,4 +18,8 @@ Identifying potential threats, mapping players, collecting and sharing informati
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_300.md)
 

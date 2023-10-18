@@ -6,7 +6,7 @@
 
 Reduced risk of virus transmission, improved sense of safety and comfort
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased usage of interior spaces, improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1402.md)
 
@@ -17,4 +17,8 @@ Reduced risk of virus transmission, improved sense of safety and comfort
 ## Stakeholders benefitting from this Benefit
 
 * [users of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_487.md)
+
+## Risks which can benefit from this action
+
+* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1263.md)
 

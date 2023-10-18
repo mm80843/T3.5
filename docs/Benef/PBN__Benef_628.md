@@ -6,7 +6,7 @@
 
 Localised manufacturing reduces dependence on global supply chains, enhances supply chain resilience, ensures availability of essential goods during crises, and creates more sustainable jobs.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investment opportunities in domestic manufacturing and supply chain development, as well as from increased consumer demand for locally-produced goods.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_671.md)
 
@@ -18,4 +18,8 @@ Localised manufacturing reduces dependence on global supply chains, enhances sup
 
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+
+## Risks which can benefit from this action
+
+* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_622.md)
 

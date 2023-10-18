@@ -6,7 +6,7 @@
 
 Strategic alignment processes promote compatibility and shared priorities among different levels and departments of city governments, leading to more effective urban planning and service delivery.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved performance and efficiency in urban governance, enhanced city resilience.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_957.md)
 
@@ -17,4 +17,8 @@ Strategic alignment processes promote compatibility and shared priorities among 
 ## Stakeholders benefitting from this Benefit
 
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+
+## Risks which can benefit from this action
+
+* [Strategic alignment processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_875.md)
 

@@ -2,3 +2,7 @@
 
 # __Private investors benefit from improved financial stability and reduced risks of bankruptcy or project failure.__
 
+## This return can be realized by these benefits
+
+* [Decreased financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1370.md)
+

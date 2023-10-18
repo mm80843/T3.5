@@ -6,7 +6,7 @@
 
 Continuous monitoring and data analysis allows for real-time intervention and resource optimization.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved resource utilization and cost efficiency for healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_220.md)
 
@@ -17,4 +17,8 @@ Continuous monitoring and data analysis allows for real-time intervention and re
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Implement digital twin framework](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_199.md)
 

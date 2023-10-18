@@ -6,7 +6,7 @@
 
 The mitigation measure reduces the presence of pathogens on surfaces in the hospital environment, decreasing the risk of transmission and improving infection control
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in routine cleaning and disinfection measures can improve the safety and quality of medical treatment, leading to better patient outcomes and reputation for the hospital.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_287.md)
 
@@ -18,4 +18,8 @@ The mitigation measure reduces the presence of pathogens on surfaces in the hosp
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+
+## Risks which can benefit from this action
+
+* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
 

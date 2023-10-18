@@ -6,7 +6,7 @@
 
 Blockchain technology ensures scrutiny of data accuracy and provides real-time updates, improving the accuracy of medical records and reducing the spread of fake news
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in blockchain-based medical record management would benefit from improved accuracy and reliability of medical records, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1177.md)
 
@@ -18,4 +18,8 @@ Blockchain technology ensures scrutiny of data accuracy and provides real-time u
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+
+## Risks which can benefit from this action
+
+* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1058.md)
 

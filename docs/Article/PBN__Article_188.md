@@ -46,3 +46,14 @@ Effective Risk Communication for Public Health Emergency: Reflection on the COVI
 * [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2463.md)
 * [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2464.md)
 
+## This article mentions these technologies
+
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
+* [decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
+* [real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
+* [public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
+* [cultural and linguistic adaptation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2007.md)
+* [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2008.md)
+

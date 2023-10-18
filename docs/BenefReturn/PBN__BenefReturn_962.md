@@ -2,3 +2,7 @@
 
 # __Early detection can reduce the risk of widespread outbreaks, protecting public health and saving resources in the long run.__
 
+## This return can be realized by these benefits
+
+* [Early detection of virus spreading in communities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_881.md)
+

@@ -6,7 +6,7 @@
 
 HEMS can provide CO2 emission information, promoting more environmentally-conscious behavior and contributing to decarbonization efforts.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in HEMS technologies would benefit from increased demand as more individuals and businesses seek to reduce their carbon footprint and address climate change concerns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_650.md)
 
@@ -18,4 +18,8 @@ HEMS can provide CO2 emission information, promoting more environmentally-consci
 
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [climate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_251.md)
+
+## Risks which can benefit from this action
+
+* [Home Energy Management Systems (HEMS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
 

@@ -2,3 +2,7 @@
 
 # __Occupants are protected from the spread of infectious diseases, ensuring a safer and healthier environment.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+

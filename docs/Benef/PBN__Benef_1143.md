@@ -6,7 +6,7 @@
 
 Users can trust the results of the expert system for early detection, reducing the risk of misdiagnosis or false results.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health, increased users’ trust and satisfaction, increased demand for the mobile application.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1273.md)
 
@@ -17,4 +17,8 @@ Users can trust the results of the expert system for early detection, reducing t
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
 

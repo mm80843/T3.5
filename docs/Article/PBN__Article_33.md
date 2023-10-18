@@ -51,3 +51,21 @@ Building sustainable finance for resilient protected and conserved areas: lesson
 * [Including local communities in PCA governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
 * [Supporting PCAs governed by Indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
 
+## This article mentions these technologies
+
+* [online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
+* [virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_442.md)
+* [digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
+* [advocacy campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_444.md)
+* [policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
+* [public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_446.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
+* [partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_447.md)
+* [policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
+* [fundraising campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_448.md)
+* [grant applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_449.md)
+* [livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_450.md)
+* [capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
+* [stakeholder engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
+

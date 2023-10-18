@@ -6,7 +6,7 @@
 
 WBE allows for population-wide surveillance of COVID-19, providing better data on disease occurrence and aiding in reducing economic damage and social burden.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing WBE would allow for more targeted and effective public health interventions, reducing the economic damage caused by containment measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1353.md)
 
@@ -17,4 +17,8 @@ WBE allows for population-wide surveillance of COVID-19, providing better data o
 ## Stakeholders benefitting from this Benefit
 
 * [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
 

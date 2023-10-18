@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Methods for evaluating and comparing performance or gathering information without directly involving action.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_52.md)
+* [Methods for evaluating and comparing performance or gathering information without directly involving action.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_42.md)
 
 ## Closest similar item
 

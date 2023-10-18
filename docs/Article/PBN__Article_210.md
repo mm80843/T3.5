@@ -48,3 +48,15 @@ Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construc
 * [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_507.md)
 * [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_508.md)
 
+## This article mentions these technologies
+
+* [financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
+* [government financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_459.md)
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
+* [contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_460.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
+* [financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
+* [workplace safety technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_461.md)
+

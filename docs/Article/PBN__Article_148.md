@@ -49,3 +49,15 @@ Responsible Transport: A post-COVID agenda for transport policy and practice
 * [Clear screens between seats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_316.md)
 * [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
 
+## This article mentions these technologies
+
+* [implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_301.md)
+* [real-time monitoring of passenger flow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_302.md)
+* [crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_303.md)
+* [develop smart phone applications for route planning and real-time information on active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_304.md)
+* [pre-booking of seats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_305.md)
+* [develop car-sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_306.md)
+* [implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_307.md)
+* [develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_308.md)
+* [implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_309.md)
+

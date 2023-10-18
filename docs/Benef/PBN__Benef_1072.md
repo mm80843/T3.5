@@ -6,7 +6,7 @@
 
 Allows for flexible use of building spaces according to changing circumstances and needs
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased building occupancy, potential for additional revenue from different uses](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1197.md)
 
@@ -18,4 +18,8 @@ Allows for flexible use of building spaces according to changing circumstances a
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+
+## Risks which can benefit from this action
+
+* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
 

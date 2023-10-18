@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
 
 ## Closest similar item
 
@@ -18,6 +18,11 @@
 * [international policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
 * [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_337.md)
 * [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4032.md)
+
+## This technology is mentioned by
+
+* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 
 ## This Technology enables the following mitigations
 

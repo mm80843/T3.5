@@ -6,7 +6,7 @@
 
 Remote consultations and imaging analysis to maintain standard care
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced physical crowding and dissemination of innovative care delivery](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1480.md)
 
@@ -17,4 +17,8 @@ Remote consultations and imaging analysis to maintain standard care
 ## Stakeholders benefitting from this Benefit
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1329.md)
 

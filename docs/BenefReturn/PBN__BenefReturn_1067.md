@@ -2,3 +2,7 @@
 
 # __Implementing the coating would provide long-term protection against SARS-CoV-2 and reduce the need for frequent disinfection, resulting in cost savings for businesses and individuals.__
 
+## This return can be realized by these benefits
+
+* [Retention of virucidal potency after multiple exposures to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_970.md)
+

@@ -2,3 +2,7 @@
 
 # __Investment in wearable technology can improve public health outcomes and reduce healthcare costs by preventing disease spread__
 
+## This return can be realized by these benefits
+
+* [Real-time disease detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_483.md)
+

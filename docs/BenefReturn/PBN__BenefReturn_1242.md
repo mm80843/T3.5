@@ -2,3 +2,7 @@
 
 # __Facilitates collaboration, accelerates scientific progress, and generates more comprehensive evidence.__
 
+## This return can be realized by these benefits
+
+* [Enhanced scientific discovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1110.md)
+

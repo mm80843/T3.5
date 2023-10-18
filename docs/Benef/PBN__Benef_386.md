@@ -6,7 +6,7 @@
 
 Target interventions and prevent transmission spread
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Effective deployment of resources and reduction in malaria cases](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_414.md)
 
@@ -19,4 +19,8 @@ Target interventions and prevent transmission spread
 * [affected communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_183.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+
+## Risks which can benefit from this action
+
+* [Connectivity analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_389.md)
 

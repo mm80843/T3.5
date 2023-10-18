@@ -2,3 +2,7 @@
 
 # __Increased property value, increased sense of security__
 
+## This return can be realized by these benefits
+
+* [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1244.md)
+

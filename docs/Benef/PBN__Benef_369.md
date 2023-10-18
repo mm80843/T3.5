@@ -6,7 +6,7 @@
 
 Early contractor involvement, improved communication and decision-making, shared risk and reward
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved project performance, reduced conflicts, increased asset value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_396.md)
 
@@ -19,4 +19,8 @@ Early contractor involvement, improved communication and decision-making, shared
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 * [project stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_178.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Integrated project delivery model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_370.md)
 

@@ -2,3 +2,7 @@
 
 # __Improved public perception of science and research, increased trust in academic institutions, potential economic benefits from better-informed policies and interventions.__
 
+## This return can be realized by these benefits
+
+* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_858.md)
+

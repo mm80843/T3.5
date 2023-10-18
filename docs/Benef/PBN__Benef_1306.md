@@ -6,7 +6,7 @@
 
 Real-time update on COVID-19 cases, disease distribution, and severity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved management and response to the pandemic, reducing its impact on healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1476.md)
 
@@ -17,4 +17,8 @@ Real-time update on COVID-19 cases, disease distribution, and severity
 ## Stakeholders benefitting from this Benefit
 
 * [public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_515.md)
+
+## Risks which can benefit from this action
+
+* [IoT data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1325.md)
 

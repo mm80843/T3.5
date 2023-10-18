@@ -6,7 +6,7 @@
 
 Allows for early detection of infections in the community through monitoring wastewater, enabling prompt public health interventions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health response, reduced transmission, better control of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1098.md)
 
@@ -17,4 +17,8 @@ Allows for early detection of infections in the community through monitoring was
 ## Stakeholders benefitting from this Benefit
 
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
 

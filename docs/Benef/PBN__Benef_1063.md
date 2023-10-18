@@ -6,7 +6,7 @@
 
 Knowledge exchange promotes effective responses to challenges and increases resilience.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [This leads to better-informed decisions and more targeted conservation actions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1188.md)
 
@@ -19,4 +19,8 @@ Knowledge exchange promotes effective responses to challenges and increases resi
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [conservation practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_429.md)
+
+## Risks which can benefit from this action
+
+* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1068.md)
 

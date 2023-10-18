@@ -2,3 +2,7 @@
 
 # __Private investors could benefit from improved decision-making and more effective policy interventions to mitigate risks and control the spread of diseases.__
 
+## This return can be realized by these benefits
+
+* [Real-time feedback on policy intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_818.md)
+

@@ -6,7 +6,7 @@
 
 Higher compliance with mitigation measures leads to better control of the epidemic, reducing the spread of infections and potential outbreaks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in compliance measures can help prevent outbreaks and subsequent shutdowns, which can protect the value of their investments in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_841.md)
 
@@ -17,4 +17,8 @@ Higher compliance with mitigation measures leads to better control of the epidem
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Compliance Indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_770.md)
 

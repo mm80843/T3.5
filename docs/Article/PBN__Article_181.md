@@ -63,3 +63,16 @@ Staying Physically Active During the Quarantine and Self-Isolation Period for Co
 * [Adaptation of exercise intensity and volume](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
 * [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_458.md)
 
+## This article mentions these technologies
+
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_408.md)
+* [fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_407.md)
+* [fitness tracking devices for children](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [parental supervision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_409.md)
+

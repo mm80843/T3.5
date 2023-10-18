@@ -6,7 +6,7 @@
 
 The government needs to boost the country's economy, overcome unemployment, and increase the nation's spending power. When the economy is good, there is a demand for the built environment that creates opportunities for contractors.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [By increasing income opportunities through a boost in the economy, contractors can secure new projects and increase their revenue, leading to improved profitability and growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_621.md)
 
@@ -17,4 +17,8 @@ The government needs to boost the country's economy, overcome unemployment, and 
 ## Stakeholders benefitting from this Benefit
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Risks which can benefit from this action
+
+* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
 

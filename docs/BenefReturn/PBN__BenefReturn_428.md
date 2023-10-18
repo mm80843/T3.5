@@ -2,3 +2,7 @@
 
 # __Investment in infrared thermal imaging technology can improve safety measures in public spaces, enhancing the reputation and asset value of buildings and facilities.__
 
+## This return can be realized by these benefits
+
+* [Fever detection and screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_400.md)
+

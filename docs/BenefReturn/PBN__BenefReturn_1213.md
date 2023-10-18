@@ -2,3 +2,7 @@
 
 # __Decreased risk of contamination and improved safety for hospital workers__
 
+## This return can be realized by these benefits
+
+* [Reduction in indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1085.md)
+

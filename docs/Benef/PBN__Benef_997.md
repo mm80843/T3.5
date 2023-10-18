@@ -6,10 +6,10 @@
 
 UVGI systems can disinfect indoor air, reducing the concentration of infectious aerosols and the risk of airborne transmission of SARS-CoV-2
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
-* [Private investors can benefit from increased demand and desirability of buildings with effective air disinfection strategies, leading to higher occupancy rates and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1104.md)
 * [Private investors can attract tenants and customers by ensuring a healthy and safe indoor environment, increasing property value and occupancy rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1339.md)
+* [Private investors can benefit from increased demand and desirability of buildings with effective air disinfection strategies, leading to higher occupancy rates and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1104.md)
 * [Private investors can attract tenants and customers by implementing UVGI systems, ensuring a healthy and safe indoor environment, increasing property value and occupancy rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1342.md)
 
 ## Articles mentionning this Benefit
@@ -23,4 +23,10 @@ UVGI systems can disinfect indoor air, reducing the concentration of infectious 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+
+## Risks which can benefit from this action
+
+* [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_993.md)
+* [UVGI systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
+* [Enhancing ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
 

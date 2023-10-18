@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_335.md)
+* [Data privacy and security are prioritized through encryption, access controls, consent, and robust cybersecurity measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_330.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Increase public awareness, transparency in data usage, obtain informed consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1515.md)
 * [Promote inclusivity, educate the public about the virus and the importance of empathy and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2417.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
 

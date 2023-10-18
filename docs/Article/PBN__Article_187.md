@@ -50,3 +50,11 @@ Graphene-based nanomaterials as antimicrobial surface coatings: A parallel appro
 * [Nano-Spray Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
 * [Nano-Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
 
+## This article mentions these technologies
+
+* [graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)
+* [solubility and processing techniques for graphene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_214.md)
+* [scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_216.md)
+* [non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_215.md)
+* [nanotechnology-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_213.md)
+

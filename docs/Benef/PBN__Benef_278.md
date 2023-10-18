@@ -6,7 +6,7 @@
 
 Wearables can detect changes in heart rate, respiration rate, and skin temperature that indicate early stages of fighting infection, allowing for early isolation and treatment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in staff respiratory testing can prevent outbreaks among healthcare staff, ensuring the continuity of medical services and reducing the costs associated with outbreak response.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_290.md)
 * [Investing in patient testing can prevent outbreaks within the hospital, improving patient outcomes and reducing the costs associated with outbreak response.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_291.md)
@@ -23,4 +23,10 @@ Wearables can detect changes in heart rate, respiration rate, and skin temperatu
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring metrics related to heart rate, respiration rate, and skin temperature using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_948.md)
+* [Staff respiratory specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_267.md)
+* [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_268.md)
 

@@ -6,7 +6,7 @@
 
 Implementation of workplace modifications, such as providing hand wash gel and regular workplace cleaning services, can improve employee health and wellness by reducing the risk of infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in these mitigation measures as it would lead to a healthier and more productive workforce, resulting in lower healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1035.md)
 
@@ -17,4 +17,8 @@ Implementation of workplace modifications, such as providing hand wash gel and r
 ## Stakeholders benefitting from this Benefit
 
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+
+## Risks which can benefit from this action
+
+* [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_935.md)
 

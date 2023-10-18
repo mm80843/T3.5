@@ -76,3 +76,11 @@ Antivirus-built environment: Lessons learned from Covid-19 pandemic
 * [Lightweight Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
 * [Hygienic Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
 
+## This article mentions these technologies
+
+* [urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1106.md)
+* [urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
+* [building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
+* [architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
+* [architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1110.md)
+

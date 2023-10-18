@@ -6,7 +6,7 @@
 
 Access to reliable information and support can empower individuals with disabilities to adopt preventive strategies and protect their rights during the pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in accessibility and support for persons with disabilities can benefit from improved inclusivity, reduced social inequality, and potential economic growth through promoting diversity and equal opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1271.md)
 
@@ -17,4 +17,8 @@ Access to reliable information and support can empower individuals with disabili
 ## Stakeholders benefitting from this Benefit
 
 * [persons with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_450.md)
+
+## Risks which can benefit from this action
+
+* [Ensure access to information and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1141.md)
 

@@ -6,7 +6,7 @@
 
 UBPI allows for easy adoption and delivery of brief interventions, increasing accessibility to mental health services
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased demand for mental health services and a standardized approach, leading to increased utilization and revenue.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1379.md)
 
@@ -18,4 +18,8 @@ UBPI allows for easy adoption and delivery of brief interventions, increasing ac
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [mental health service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_477.md)
+
+## Risks which can benefit from this action
+
+* [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
+* [Transition to sustainable energy sources, implement energy-efficient measures, and absorb increased service demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
 * [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1241.md)
 

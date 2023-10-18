@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
+* [Enable transparent and secure data management, traceability, and efficient distribution while promoting accurate information dissemination and verification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Blockchain-enabled system for EHR exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_401.md)
 * [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Timely and accurate medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1312.md)
 

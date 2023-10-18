@@ -6,7 +6,7 @@
 
 Social welfare services, such as food assurance and minimum incomes, reduce poverty and hunger among vulnerable populations.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a more stable and equitable society, reducing social unrest and creating a conducive investment environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_307.md)
 * [Private investors benefit from reduced poverty and hunger, which can lead to more stable and prosperous communities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_793.md)
@@ -20,4 +20,9 @@ Social welfare services, such as food assurance and minimum incomes, reduce pove
 
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Implementing social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_284.md)
+* [Establishing social welfare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_724.md)
 

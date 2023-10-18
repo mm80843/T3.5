@@ -6,7 +6,7 @@
 
 Enables quick access to educational content and upskilling opportunities in the treatment of viral respiratory illnesses.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances healthcare professionals’ knowledge and skills in managing respiratory conditions, ensuring quality care provision.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_495.md)
 
@@ -17,4 +17,8 @@ Enables quick access to educational content and upskilling opportunities in the 
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_207.md)
+
+## Risks which can benefit from this action
+
+* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
 

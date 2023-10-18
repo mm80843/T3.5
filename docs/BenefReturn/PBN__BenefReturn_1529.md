@@ -2,3 +2,7 @@
 
 # __Private investors benefit by implementing surface cleaning protocols that enhance the cleanliness and safety of their buildings, thus increasing occupant satisfaction and potentially attracting more tenants or customers.__
 
+## This return can be realized by these benefits
+
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+

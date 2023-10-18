@@ -6,7 +6,7 @@
 
 Enables active discussion and collaboration in considering the digital response to COVID-19, supported by senior digital health leaders.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Accelerates innovation and the development of effective digital health solutions to address the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_493.md)
 
@@ -17,4 +17,8 @@ Enables active discussion and collaboration in considering the digital response 
 ## Stakeholders benefitting from this Benefit
 
 * [digital health communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_205.md)
+
+## Risks which can benefit from this action
+
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_472.md)
 

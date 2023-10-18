@@ -6,7 +6,7 @@
 
 Provides immediate relief and stability, prevents further economic decline
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased liquidity and stability for startups](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_862.md)
 * [Implementing fiscal policy measures can support businesses and individuals, help them recover from the economic impact of the pandemic, and contribute to stabilizing the economy and maintaining economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1072.md)
@@ -26,4 +26,11 @@ Provides immediate relief and stability, prevents further economic decline
 * [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
 * [impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+
+## Risks which can benefit from this action
+
+* [Cash payments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1180.md)
+* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_967.md)
+* [Enhanced availability of financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_790.md)
+* [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)
 

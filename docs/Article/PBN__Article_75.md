@@ -53,3 +53,14 @@ The Effects of Pandemic on Construction Industry in the UK
 * [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1901.md)
 * [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1902.md)
 
+## This article mentions these technologies
+
+* [financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1544.md)
+* [iot devices for distance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
+* [crowdfunding platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_911.md)
+* [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
+* [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
+

@@ -56,3 +56,14 @@ Global value chains: Efficiency and risks in the context of COVID-19
 * [International coordination on border health protocols and mutual recognition agreements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1496.md)
 * [Fostering competition and diversification in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1497.md)
 
+## This article mentions these technologies
+
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [policy analysis and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1203.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
+* [risk assessment and management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1200.md)
+* [supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
+* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
+* [supply chain management systems and technologies enabling quick supplier switching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1202.md)
+

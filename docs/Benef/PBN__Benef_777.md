@@ -6,7 +6,7 @@
 
 Portable air filters can be used in hospitals as an attractive solution when isolation facilities are full, ensuring proper ventilation and reducing the risk of transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in portable air filters can contribute to creating a more resilient healthcare system, increasing asset value and reputation of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_846.md)
 
@@ -17,4 +17,8 @@ Portable air filters can be used in hospitals as an attractive solution when iso
 ## Stakeholders benefitting from this Benefit
 
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+
+## Risks which can benefit from this action
+
+* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_774.md)
 

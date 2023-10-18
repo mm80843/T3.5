@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ecological circumstances and scenarios.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_283.md)
+* [Ecological circumstances and scenarios.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_276.md)
 
 ## Closest similar item
 

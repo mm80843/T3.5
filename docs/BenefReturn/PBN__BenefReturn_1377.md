@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from improved mental health of healthcare providers, leading to increased productivity and reduced healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1230.md)
+

@@ -6,7 +6,7 @@
 
 Advanced technologies can optimize water management, reduce costs
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased efficiency, cost savings, improved resource management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_880.md)
 
@@ -19,4 +19,8 @@ Advanced technologies can optimize water management, reduce costs
 * [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
 * [operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_330.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
+## Risks which can benefit from this action
+
+* [Smart water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_806.md)
 

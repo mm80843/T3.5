@@ -2,3 +2,7 @@
 
 # __Sustained provision of essential needs, improved public health and safety__
 
+## This return can be realized by these benefits
+
+* [Availability of essential goods and services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1373.md)
+

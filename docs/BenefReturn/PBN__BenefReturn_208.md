@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from implementing this measure by improving the overall health and safety of the building, reducing the risk of outbreaks, and enhancing the reputation and value of the property.__
 
+## This return can be realized by these benefits
+
+* [Decreased airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_202.md)
+

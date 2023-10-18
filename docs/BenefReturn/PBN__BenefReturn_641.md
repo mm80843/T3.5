@@ -2,3 +2,8 @@
 
 # __Asset value increase from improved understanding and control measures__
 
+## This return can be realized by these benefits
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+* [Identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_588.md)
+

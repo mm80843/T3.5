@@ -42,3 +42,14 @@ El Rol De Las Redes Sociales En La Pandemia Del Covid-19
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
 * [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
 
+## This article mentions these technologies
+
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+* [reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1862.md)
+* [monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
+* [artificial intelligence for content filtering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1861.md)
+* [multi-factor authentication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1864.md)
+

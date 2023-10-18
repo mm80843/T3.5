@@ -2,3 +2,7 @@
 
 # __Occupants feel safe and protected during extreme events, minimizing health hazards and increasing well-being.__
 
+## This return can be realized by these benefits
+
+* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_176.md)
+

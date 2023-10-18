@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ensuring secure and anonymous data storage and transmission through advanced cryptographic techniques like blockchain and encryption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
+* [Ensuring secure and anonymous data storage and transmission through advanced cryptographic techniques like blockchain and encryption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_24.md)
 
 ## Closest similar item
 

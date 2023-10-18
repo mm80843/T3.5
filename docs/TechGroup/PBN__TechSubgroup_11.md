@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Management of resources and control of potential hazards in relation to water and waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)
+* [Management of resources and control of potential hazards in relation to water and waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_40.md)
 
 ## Closest similar item
 

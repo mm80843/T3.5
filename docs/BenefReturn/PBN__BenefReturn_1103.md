@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from increased occupancy rates and rental income due to improved living conditions, as well as potential cost savings on healthcare expenses for occupants.__
 
+## This return can be realized by these benefits
+
+* [Improved IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_996.md)
+

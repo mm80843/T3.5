@@ -56,3 +56,14 @@ An Intelligent IEQ Monitoring and Feedback System: Development and Applications
 * [Interactive feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_701.md)
 * [Spatiotemporal IEQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_702.md)
 
+## This article mentions these technologies
+
+* [improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+* [sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
+* [upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_648.md)
+* [wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
+* [cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
+* [upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_647.md)
+

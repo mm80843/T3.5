@@ -6,7 +6,7 @@
 
 Valuable insights into disease processes and improved understanding of disease
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [More innovative and effective treatment strategies and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1122.md)
 
@@ -17,4 +17,8 @@ Valuable insights into disease processes and improved understanding of disease
 ## Stakeholders benefitting from this Benefit
 
 * [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+
+## Risks which can benefit from this action
+
+* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1006.md)
 

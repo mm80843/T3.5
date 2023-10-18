@@ -6,7 +6,7 @@
 
 Easier and more convenient access to public transport, reducing waiting times and overcrowding
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Attracts more passengers, increases revenue for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_608.md)
 
@@ -17,4 +17,8 @@ Easier and more convenient access to public transport, reducing waiting times an
 ## Stakeholders benefitting from this Benefit
 
 * [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
+
+## Risks which can benefit from this action
+
+* [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_568.md)
 

@@ -6,7 +6,7 @@
 
 UV air disinfection can effectively inactivate respiratory animal viral aerosols, reducing the risk of transmission and improving indoor air quality.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and well-being of building occupants, reduced transmission of respiratory viral diseases, and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_468.md)
 
@@ -17,4 +17,8 @@ UV air disinfection can effectively inactivate respiratory animal viral aerosols
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
 

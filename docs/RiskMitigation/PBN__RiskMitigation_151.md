@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1918.md)
 * [Incorporate larger windows, skylights, light tubes, optimize interior layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1535.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved mood and productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_171.md)
 

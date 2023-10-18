@@ -6,7 +6,7 @@
 
 Identification and assessment of risks, implementation of contingency plans, increased adaptability to disruptions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved project performance, reduced schedule variance, increased asset value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_395.md)
 
@@ -19,4 +19,8 @@ Identification and assessment of risks, implementation of contingency plans, inc
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 * [project stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_178.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Value engineering with lean construction and risk management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_371.md)
 

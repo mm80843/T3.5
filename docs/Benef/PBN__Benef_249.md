@@ -6,7 +6,7 @@
 
 Availability of alternative water sources ensures a constant water supply during emergencies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Having access to alternative water sources can enhance tenant satisfaction and ensure a comfortable living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_261.md)
 
@@ -17,4 +17,8 @@ Availability of alternative water sources ensures a constant water supply during
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_238.md)
 

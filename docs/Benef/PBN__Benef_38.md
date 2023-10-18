@@ -6,7 +6,7 @@
 
 Wearable devices and IoT devices connected to 5G networks can monitor individuals in self-isolation and track close contacts, ensuring compliance with guidelines and enabling timely intervention.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can develop and offer wearable devices, IoT devices, and contact tracing applications, attracting customers such as healthcare facilities and individuals in self-isolation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_38.md)
 
@@ -18,4 +18,8 @@ Wearable devices and IoT devices connected to 5G networks can monitor individual
 
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [self-isolating individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_35.md)
+
+## Risks which can benefit from this action
+
+* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_30.md)
 

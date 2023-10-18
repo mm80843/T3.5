@@ -6,7 +6,7 @@
 
 Effective air filtration systems can eliminate viruses and reduce the risk of airborne transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in air filtration systems can enhance the property’s value and create a healthier living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_247.md)
 
@@ -17,4 +17,8 @@ Effective air filtration systems can eliminate viruses and reduce the risk of ai
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_224.md)
 

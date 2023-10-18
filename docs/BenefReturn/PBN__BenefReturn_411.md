@@ -2,3 +2,7 @@
 
 # __By prioritizing worker safety, construction companies can attract and retain skilled workers, reduce absenteeism, and minimize the impact of potential outbreaks on project continuity and productivity__
 
+## This return can be realized by these benefits
+
+* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_383.md)
+

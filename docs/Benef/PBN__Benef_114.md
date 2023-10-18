@@ -6,7 +6,7 @@
 
 Providing accurate and timely information about safety protocols, travel restrictions, and the local situation can alleviate anxiety and uncertainty for tourists.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investors who prioritize clear and transparent communication can build trust with customers, enhance their reputation, and establish long-term relationships, leading to increased customer loyalty and repeat business.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_113.md)
 
@@ -17,4 +17,8 @@ Providing accurate and timely information about safety protocols, travel restric
 ## Stakeholders benefitting from this Benefit
 
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risks which can benefit from this action
+
+* [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
 

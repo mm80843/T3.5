@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Obstacles and visuals communicate necessary information and restrict movement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_53.md)
+* [Obstacles and visuals communicate necessary information and restrict movement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_43.md)
 
 ## Closest similar item
 

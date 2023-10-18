@@ -6,7 +6,7 @@
 
 Enhanced cleaning and sanitation practices create a cleaner and safer environment, reducing the risk of COVID-19 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and well-being of occupants, leading to higher occupancy rates and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_504.md)
 * [Investing in improved hygiene measures improves member satisfaction, reduces the risk of illness among staff and members, and enhances the overall reputation of the health club.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_694.md)
@@ -22,4 +22,9 @@ Enhanced cleaning and sanitation practices create a cleaner and safer environmen
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [health club members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_272.md)
+
+## Risks which can benefit from this action
+
+* [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_480.md)
+* [Enhanced cleaning and sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_641.md)
 

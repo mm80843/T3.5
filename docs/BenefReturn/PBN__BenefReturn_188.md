@@ -2,3 +2,7 @@
 
 # __Private investors in schools and childcare facilities would benefit from implementing hygiene protocols as it would increase the attractiveness and reputation of the institution, leading to potential increased enrollment and revenue.__
 
+## This return can be realized by these benefits
+
+* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+

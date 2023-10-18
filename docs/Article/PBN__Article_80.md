@@ -56,3 +56,14 @@ Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mo
 * [Adaptive hospital surveillance-based triggers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_670.md)
 * [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
 
+## This article mentions these technologies
+
+* [mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_603.md)
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
+* [increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_604.md)
+* [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
+* [allocate resources efficiently](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_605.md)
+

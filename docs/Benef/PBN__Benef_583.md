@@ -6,7 +6,7 @@
 
 Implementing social distancing measures can significantly reduce the peak number of COVID-19 cases, thereby reducing the burden on healthcare facilities and allowing more time for adopting countermeasures.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing social distancing measures can help prevent overwhelming healthcare infrastructure and decrease the mortality rate, leading to improved public health outcomes and potentially reducing economic losses from the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_636.md)
 
@@ -17,4 +17,8 @@ Implementing social distancing measures can significantly reduce the peak number
 ## Stakeholders benefitting from this Benefit
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
 

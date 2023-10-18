@@ -6,7 +6,7 @@
 
 AI/ML models can analyze large datasets to predict infection rates, enabling governments and healthcare systems to implement targeted measures for disease control and resource allocation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in AI/ML for prediction of infection rates can lead to efficient resource allocation, better decision-making, and improved containment strategies, reducing the economic and social impact of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1219.md)
 
@@ -18,4 +18,8 @@ AI/ML models can analyze large datasets to predict infection rates, enabling gov
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [Artificial intelligence/machine learning (AI/ML)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
 

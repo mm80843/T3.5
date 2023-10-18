@@ -65,3 +65,15 @@ COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pan
 * [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
 * [Promoting inclusivity in development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
 
+## This article mentions these technologies
+
+* [investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_942.md)
+* [social support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_943.md)
+* [improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+* [education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
+* [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [data collection and sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_941.md)
+* [improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_946.md)
+* [improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
+* [investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_945.md)
+

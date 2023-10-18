@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_348.md)
+* [Optimize indoor environment by maximizing natural light, ventilation, and incorporating efficient lighting systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
 
 ## Closest similar item
 
@@ -19,11 +19,11 @@
 * [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
 * [Ensure that upper-room UVGI systems are properly designed with louvers or shields to prevent UV-C light exposure to room occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1625.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
+* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
 * [Inactivation of human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_897.md)
 * [Increase in asset value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_898.md)
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
 * [Cost savings in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_899.md)
 
 ## Risks possibly mitigated by this Mitigation

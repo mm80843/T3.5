@@ -6,7 +6,7 @@
 
 Characterizing the UV susceptibility of viral aerosols is essential for designing effective UV disinfection systems and optimizing UV dosage levels for different viruses.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved design and optimization of UV disinfection systems, increased effectiveness in inactivating viral aerosols, and improved public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_469.md)
 
@@ -18,4 +18,8 @@ Characterizing the UV susceptibility of viral aerosols is essential for designin
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
+
+## Risks which can benefit from this action
+
+* [Characterization of UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_449.md)
 

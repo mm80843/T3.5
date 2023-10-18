@@ -6,7 +6,7 @@
 
 Economy has smoother effects, lower economic losses
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Balance between health and economy, reduces economic damage](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_753.md)
 
@@ -17,4 +17,8 @@ Economy has smoother effects, lower economic losses
 ## Stakeholders benefitting from this Benefit
 
 * [private businesses and economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_290.md)
+
+## Risks which can benefit from this action
+
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
 

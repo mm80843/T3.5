@@ -6,7 +6,7 @@
 
 Geolocation data enable monitoring of healthcare resources and allocation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Ensure compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_786.md)
 * [Optimize healthcare resource allocation and emergency response](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_789.md)
@@ -18,4 +18,8 @@ Geolocation data enable monitoring of healthcare resources and allocation
 ## Stakeholders benefitting from this Benefit
 
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+
+## Risks which can benefit from this action
+
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 

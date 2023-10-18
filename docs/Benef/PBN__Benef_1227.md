@@ -6,7 +6,7 @@
 
 Immediate and proximate threat prompts swift action to protect personal health.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved asset value as public health is protected, reducing future healthcare costs and increasing economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1372.md)
 
@@ -17,4 +17,8 @@ Immediate and proximate threat prompts swift action to protect personal health.
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Immediate response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1233.md)
 

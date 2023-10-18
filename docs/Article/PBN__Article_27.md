@@ -71,3 +71,21 @@ A Global Survey of Infection Control and Mitigation Measures for Combating the T
 * [Smart sterilizer sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1857.md)
 * [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1858.md)
 
+## This article mentions these technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
+* [digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1521.md)
+* [smart controls for ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1527.md)
+* [enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1519.md)
+* [touchless technologies for hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1528.md)
+* [iot devices for monitoring and controlling occupancy and airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1520.md)
+* [iot devices for monitoring building health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1524.md)
+* [improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1526.md)
+* [digital platforms for accessing and sharing healthcare information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1523.md)
+* [data analytics for identifying high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1525.md)
+* [real-time data analytics for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1522.md)
+* [data analytics for tracking compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1530.md)
+* [iot devices for monitoring and controlling cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1529.md)
+

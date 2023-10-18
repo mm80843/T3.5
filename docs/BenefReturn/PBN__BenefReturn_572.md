@@ -2,3 +2,7 @@
 
 # __Implementing telecommuting can lead to cost savings for employees, which can potentially be invested in other areas or increase disposable income.__
 
+## This return can be realized by these benefits
+
+* [Reduced transportation costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_522.md)
+

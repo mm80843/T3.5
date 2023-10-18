@@ -6,7 +6,7 @@
 
 Improved access to healthcare, reduced mortality, and better response to future pandemics
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health leads to a healthier and more productive population, which can contribute to economic growth and stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_578.md)
 
@@ -17,4 +17,8 @@ Improved access to healthcare, reduced mortality, and better response to future 
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_538.md)
 

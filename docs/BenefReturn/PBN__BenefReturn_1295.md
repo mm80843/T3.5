@@ -2,3 +2,7 @@
 
 # __Improves containment measures, reduces transmission risk, and supports effective quarantine management__
 
+## This return can be realized by these benefits
+
+* [Monitoring and managing quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1164.md)
+

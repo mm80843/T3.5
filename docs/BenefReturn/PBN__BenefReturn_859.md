@@ -2,3 +2,7 @@
 
 # __Enhanced ability to respond to changing circumstances and seize opportunities__
 
+## This return can be realized by these benefits
+
+* [Improved flexibility and agility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_791.md)
+

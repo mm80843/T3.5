@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Protective gear and advancements in materials safeguard against hazards and promote safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_41.md)
+* [Protective gear and advancements in materials safeguard against hazards and promote safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_31.md)
 
 ## Closest similar item
 

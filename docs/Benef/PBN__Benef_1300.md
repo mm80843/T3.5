@@ -6,7 +6,7 @@
 
 Parks have been recognized as a critical health promoting resource during the pandemic, offering respite from COVID-19 transmission risk and socially distanced life in cities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved community resilience can lead to reduced economic impacts during crises, increased community well-being, and enhanced property values for private investors in the area.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1469.md)
 
@@ -17,4 +17,8 @@ Parks have been recognized as a critical health promoting resource during the pa
 ## Stakeholders benefitting from this Benefit
 
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+
+## Risks which can benefit from this action
+
+* [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 

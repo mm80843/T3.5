@@ -61,3 +61,22 @@ Current knowledge of COVID-19: Advances, challenges and future perspectives
 * [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2399.md)
 * [Steroids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2398.md)
 
+## This article mentions these technologies
+
+* [targeted testing and protection measures based on population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1957.md)
+* [development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1960.md)
+* [clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
+* [research on potential therapeutic options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1962.md)
+* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
+* [viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1959.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [research on transmission routes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1958.md)
+* [genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1952.md)
+* [environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1362.md)
+* [phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1951.md)
+* [research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1953.md)
+* [identification of receptor molecules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1954.md)
+* [identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1956.md)
+* [research on tissue tropism and pathogenesis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1955.md)
+* [global network of virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1964.md)
+

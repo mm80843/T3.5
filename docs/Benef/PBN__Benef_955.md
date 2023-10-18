@@ -6,7 +6,7 @@
 
 Wearables can help individuals with long COVID implement pacing, managing their symptoms and reducing the risk of flare-ups.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for wearables and data analysis services for personalized symptom management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1050.md)
 
@@ -17,4 +17,8 @@ Wearables can help individuals with long COVID implement pacing, managing their 
 ## Stakeholders benefitting from this Benefit
 
 * [individuals with long covid](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_373.md)
+
+## Risks which can benefit from this action
+
+* [Using wearables to manage symptoms and identify overexertion in individuals with long COVID](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
 

@@ -2,3 +2,7 @@
 
 # __Private organizations investing in smart city solutions can contribute to public health and safety by facilitating the detection of social distancing violations, thereby reducing the risk of COVID-19 transmission and potential outbreaks. This can help protect public health and minimize economic losses.__
 
+## This return can be realized by these benefits
+
+* [Real-time detection of social distancing violations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_585.md)
+

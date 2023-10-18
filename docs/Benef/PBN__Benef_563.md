@@ -6,7 +6,7 @@
 
 Compliance with social distancing guidelines while maintaining production and sales
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Limited disruption to sales and revenue, reduced risk of workforce infection](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_615.md)
 
@@ -18,4 +18,8 @@ Compliance with social distancing guidelines while maintaining production and sa
 
 * [general motors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_240.md)
 * [automobile industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_241.md)
+
+## Risks which can benefit from this action
+
+* [Prioritizing new vehicle models over existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_576.md)
 

@@ -50,3 +50,12 @@ Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artifici
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 * [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
 
+## This article mentions these technologies
+
+* [data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_346.md)
+* [data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
+* [data integration and exchange platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1124.md)
+* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
+

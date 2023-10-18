@@ -2,3 +2,7 @@
 
 # __Investing in interventions that reduce transmission can lead to a more stabilized and controlled epidemic, supporting economic recovery and preserving the well-being of the population.__
 
+## This return can be realized by these benefits
+
+* [Control of the epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_830.md)
+

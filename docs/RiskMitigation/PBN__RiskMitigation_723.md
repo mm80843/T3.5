@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_310.md)
+* [Monitoring, analysis, and standardization of various technologies and protocols for accurate and reliable healthcare data collection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_303.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implementing targeted healthcare interventions, increasing access to healthcare services, addressing social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1587.md)
 * [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_734.md)
 

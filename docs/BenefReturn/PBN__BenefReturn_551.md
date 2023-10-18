@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from increased consumer confidence and spending, as well as improved business stability and growth potential.__
 
+## This return can be realized by these benefits
+
+* [Improved public perception and confidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_506.md)
+

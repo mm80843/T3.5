@@ -6,7 +6,7 @@
 
 Proper ventilation helps reduce the concentration of airborne viruses in healthcare facilities
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract tenants and increase asset value by implementing a proven and effective measure to reduce the spread of infectious diseases in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_362.md)
 * [Private investors can enhance the value of their properties by implementing portable room air cleaners and providing a safer and healthier environment for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_365.md)
@@ -24,4 +24,11 @@ Proper ventilation helps reduce the concentration of airborne viruses in healthc
 * [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [occupants in the room](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_164.md)
+
+## Risks which can benefit from this action
+
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_517.md)
+* [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_343.md)
+* [Upper room GUV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_340.md)
 

@@ -6,7 +6,7 @@
 
 Early detection allows for prompt isolation and treatment, reducing transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increase in individual and population health, reduced burden on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1030.md)
 
@@ -18,4 +18,8 @@ Early detection allows for prompt isolation and treatment, reducing transmission
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
 

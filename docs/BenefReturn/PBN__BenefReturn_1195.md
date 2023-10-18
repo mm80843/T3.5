@@ -2,3 +2,8 @@
 
 # __Private investors benefit from increased productivity and reduced absenteeism, leading to improved asset value of the building__
 
+## This return can be realized by these benefits
+
+* [Improved indoor climate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1069.md)
+* [Reduced performance decrement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1071.md)
+

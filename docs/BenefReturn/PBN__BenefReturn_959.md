@@ -2,3 +2,7 @@
 
 # __Improved accuracy and reliability of data will increase the value of research findings and attract more funding and collaboration opportunities.__
 
+## This return can be realized by these benefits
+
+* [Improved comparability and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_878.md)
+

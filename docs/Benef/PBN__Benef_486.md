@@ -6,7 +6,7 @@
 
 AI models can predict and forecast infection risk, severity risk, and outcome risk, allowing for targeted interventions and resource allocation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in AI for risk prediction and forecasting can optimize resource allocation, improve public health responses, and reduce healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_529.md)
 
@@ -18,4 +18,8 @@ AI models can predict and forecast infection risk, severity risk, and outcome ri
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
 

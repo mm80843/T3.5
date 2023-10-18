@@ -2,3 +2,7 @@
 
 # __Reduced risk of infection, streamlined insurance claim process, reduced administrative burden.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
+

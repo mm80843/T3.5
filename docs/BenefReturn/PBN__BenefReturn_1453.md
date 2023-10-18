@@ -2,3 +2,7 @@
 
 # __Reduced noise levels lead to increased productivity and improved well-being, maximizing the asset value of the property.__
 
+## This return can be realized by these benefits
+
+* [Reduced noise transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1288.md)
+

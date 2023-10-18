@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
+* [Promote and enforce hygiene practices, implement sanitation measures, and provide education on proper handwashing techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2207.md)
 * [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_480.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Decreased respiratory illness in children](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_96.md)
 * [Prevention of severe respiratory syndrome (SARS)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_98.md)

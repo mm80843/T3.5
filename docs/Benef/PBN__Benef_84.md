@@ -6,7 +6,7 @@
 
 UBPI provides rapid adaptation skills and psychological first aid, reducing distress and promoting well-being
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental health and well-being can lead to increased productivity and overall happiness, potentially increasing asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_83.md)
 * [Private investors in UBPI implementation can improve the overall mental health and well-being of the population, leading to increased productivity and economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1376.md)
@@ -20,4 +20,9 @@ UBPI provides rapid adaptation skills and psychological first aid, reducing dist
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_73.md)
+* [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 

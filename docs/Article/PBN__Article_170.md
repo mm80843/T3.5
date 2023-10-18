@@ -51,3 +51,8 @@ An Overview of Ontologies and Tool Support for COVID-19 Analytics
 * [Information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
 * [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
 
+## This article mentions these technologies
+
+* [tools such as protégé](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_56.md)
+* [kgx](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_57.md)
+

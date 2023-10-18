@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Tools and technologies for interconnected communication, coordination, and collaboration in the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_13.md)
+* [Tools and technologies for interconnected communication, coordination, and collaboration in the digital realm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 

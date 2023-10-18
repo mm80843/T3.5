@@ -2,3 +2,7 @@
 
 # __Enhances communication, collaboration, and decision-making among healthcare teams while minimizing the risk of transmission.__
 
+## This return can be realized by these benefits
+
+* [Remote multidisciplinary team meetings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_462.md)
+

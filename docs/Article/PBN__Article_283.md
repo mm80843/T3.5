@@ -45,3 +45,18 @@ COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostl
 * [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1473.md)
 * [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1471.md)
 
+## This article mentions these technologies
+
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1190.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [government websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1189.md)
+* [instructional videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
+* [cultural competence training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1192.md)
+* [visual aids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1186.md)
+* [infographics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1187.md)
+* [anti-stigma campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1191.md)
+

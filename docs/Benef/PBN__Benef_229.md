@@ -6,7 +6,7 @@
 
 Visits to urban green spaces during the pandemic had a positive impact on the reduction of stress levels and improvement of general well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in greenspace projects by increasing the desirability of living near greenspaces, leading to increased demand for properties and improved property values. They can also benefit indirectly from improved mental well-being of the population through increased productivity and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_236.md)
 * [Private investors would benefit from improved mental health, as it contributes to a more stable and productive workforce.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_682.md)
@@ -28,4 +28,11 @@ Visits to urban green spaces during the pandemic had a positive impact on the re
 * [residents of kraków](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_392.md)
 * [vulnerable groups (e.g. women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_263.md)
 * [unemployed individuals)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_265.md)
+
+## Risks which can benefit from this action
+
+* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
+* [Increase access to greenspace for mental health benefits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_213.md)
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_849.md)
+* [Increase social support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_629.md)
 

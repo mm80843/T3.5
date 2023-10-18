@@ -6,7 +6,7 @@
 
 Improve deployment of resources and maximize impact
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased likelihood of successful elimination](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_412.md)
 
@@ -19,4 +19,8 @@ Improve deployment of resources and maximize impact
 * [affected communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_183.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+
+## Risks which can benefit from this action
+
+* [Risk maps through CDRs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_387.md)
 

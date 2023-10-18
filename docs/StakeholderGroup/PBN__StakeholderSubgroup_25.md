@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Industrial sectors encompassing manufacturing and various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_248.md)
+* [Industrial sectors encompassing manufacturing and various industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_241.md)
 
 ## Closest similar item
 

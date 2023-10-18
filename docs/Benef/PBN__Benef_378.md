@@ -6,7 +6,7 @@
 
 Having negative emotions, such as fear and worry, about COVID-19 can prompt individuals to take precautionary measures and avoid risky situations, contributing to the prevention of infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from supporting mental health initiatives and interventions that address negative emotions related to the pandemic, as it can promote healthier behaviors, reduce anxiety and stress, and enhance overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_405.md)
 
@@ -17,4 +17,8 @@ Having negative emotions, such as fear and worry, about COVID-19 can prompt indi
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_380.md)
 

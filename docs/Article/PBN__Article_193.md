@@ -50,3 +50,21 @@ A study on office workplace modification during the COVID-19 pandemic in The Net
 * [Staggered Schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_809.md)
 * [Occupancy Limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
 
+## This article mentions these technologies
+
+* [enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
+* [temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
+* [video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
+* [remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
+* [contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
+* [project management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_740.md)
+* [virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
+* [enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_742.md)
+* [crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_745.md)
+* [designated workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)
+* [touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_747.md)
+

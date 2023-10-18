@@ -53,3 +53,14 @@ Disinfection technology of hospital wastes and wastewater: Suggestions for disin
 * [Chemical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2315.md)
 * [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2316.md)
 
+## This article mentions these technologies
+
+* [ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1909.md)
+* [ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
+* [liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1905.md)
+* [chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1906.md)
+* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+* [various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
+* [hazardous waste treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
+* [incineration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1907.md)
+

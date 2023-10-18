@@ -2,3 +2,7 @@
 
 # __Investing in NPIs can lead to a healthier population, reducing healthcare costs and improving economic productivity.__
 
+## This return can be realized by these benefits
+
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
+

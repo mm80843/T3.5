@@ -59,3 +59,19 @@ Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure
 * [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
 * [Chi-square and t-test analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2207.md)
 
+## This article mentions these technologies
+
+* [capacity limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1825.md)
+* [improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
+* [outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
+* [targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
+* [electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1826.md)
+* [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
+* [online booking systems for entrance fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1821.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [mobile apps for data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1827.md)
+* [promotion of flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
+* [increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
+* [affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1820.md)
+* [subsidies for low-income individuals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1828.md)
+

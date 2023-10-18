@@ -6,7 +6,7 @@
 
 Identifies model parameters using AnyLogic simulation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves accuracy and validity of people flow models, resulting in more accurate occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_135.md)
 
@@ -18,4 +18,8 @@ Identifies model parameters using AnyLogic simulation
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Risks which can benefit from this action
+
+* [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_117.md)
 

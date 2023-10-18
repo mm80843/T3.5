@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement stricter vehicle emissions standards, promote electric vehicles and low-carbon fuels, improve public transport and active travel options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1672.md)
 * [Implementing safety measures to build passenger confidence, promoting the benefits of public transport (e.g. reduced traffic, lower emissions), offering flexible ticketing options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2535.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced vehicle emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_194.md)
 

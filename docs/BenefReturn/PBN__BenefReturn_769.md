@@ -2,3 +2,7 @@
 
 # __Facilitates long-term flexibility and adaptability__
 
+## This return can be realized by these benefits
+
+* [Workplace adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_716.md)
+

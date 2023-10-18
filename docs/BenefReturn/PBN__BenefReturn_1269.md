@@ -2,3 +2,7 @@
 
 # __Private investors investing in psychosocial support services can benefit from improved asset value of care facilities, reduced strain on healthcare resources, and increased societal well-being.__
 
+## This return can be realized by these benefits
+
+* [Improvement in mental health and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
+

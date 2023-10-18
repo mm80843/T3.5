@@ -2,3 +2,7 @@
 
 # __Investing in compact development can lead to a healthier population, reducing healthcare costs and improving overall well-being.__
 
+## This return can be realized by these benefits
+
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
+

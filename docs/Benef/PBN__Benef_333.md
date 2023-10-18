@@ -6,7 +6,7 @@
 
 Providing designated community-level areas for essential services and supplies empowers communities and supports the city and society more effectively. This promotes community-oriented approaches and improves support systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from increased community engagement, potential collaboration opportunities with essential service providers, and increased social impact, leading to improved reputation and potential revenue generation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_350.md)
 
@@ -19,4 +19,8 @@ Providing designated community-level areas for essential services and supplies e
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
 * [essential service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_156.md)
+
+## Risks which can benefit from this action
+
+* [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_329.md)
 

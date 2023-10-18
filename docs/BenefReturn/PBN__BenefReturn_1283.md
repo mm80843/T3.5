@@ -2,3 +2,7 @@
 
 # __Enhances public awareness and compliance, reducing overall transmission risk__
 
+## This return can be realized by these benefits
+
+* [Communication between public and government](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1151.md)
+

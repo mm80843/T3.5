@@ -2,3 +2,7 @@
 
 # __Private investors in telecommunications and digital infrastructure can benefit from increased demand and improved asset value.__
 
+## This return can be realized by these benefits
+
+* [Improved access to information and communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1035.md)
+

@@ -2,3 +2,7 @@
 
 # __Private investors benefit from a more stable and predictable regulatory environment, reducing investment risks and uncertainties.__
 
+## This return can be realized by these benefits
+
+* [Peace, justice, and strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_294.md)
+

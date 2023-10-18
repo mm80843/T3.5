@@ -6,7 +6,7 @@
 
 Increased comfort and convenience in managing home systems
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved comfort and quality of life, increased attractiveness of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_372.md)
 
@@ -17,4 +17,8 @@ Increased comfort and convenience in managing home systems
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_351.md)
 

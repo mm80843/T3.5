@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Tracking and identifying potential contacts of individuals with infectious diseases for containment purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_17.md)
+* [Tracking and identifying potential contacts of individuals with infectious diseases for containment purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 

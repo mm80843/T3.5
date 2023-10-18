@@ -2,3 +2,7 @@
 
 # __Enhanced reputation and credibility for researchers and clinicians, potential economic benefits from more effective and efficient healthcare practices.__
 
+## This return can be realized by these benefits
+
+* [Improved accuracy of meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_860.md)
+

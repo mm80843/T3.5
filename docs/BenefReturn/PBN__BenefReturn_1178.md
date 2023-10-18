@@ -2,3 +2,7 @@
 
 # __Private investors investing in blockchain-based online education platforms would benefit from improved security and privacy, enhancing the value of their investment.__
 
+## This return can be realized by these benefits
+
+* [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
+

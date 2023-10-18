@@ -2,3 +2,7 @@
 
 # __Private investors can attract tenants and improve the market competitiveness of their buildings through green retrofitting, ultimately boosting the asset value.__
 
+## This return can be realized by these benefits
+
+* [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1357.md)
+

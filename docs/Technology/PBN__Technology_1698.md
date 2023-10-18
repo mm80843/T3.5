@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
 * [online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_993.md)
 * [on-site shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3010.md)
+
+## This technology is mentioned by
+
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 
 ## Risks linked to this technology
 

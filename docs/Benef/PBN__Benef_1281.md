@@ -6,7 +6,7 @@
 
 Capital market funds, money market funds, and alternative investments funds experienced negative risk-adjusted performance during the Covid-19 pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing risk mitigation measures can indirectly benefit private investors by avoiding exposure to funds with negative performance and protecting their investment portfolios.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1444.md)
 
@@ -19,4 +19,8 @@ Capital market funds, money market funds, and alternative investments funds expe
 * [capital market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_508.md)
 * [money market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_509.md)
 * [alternative investments funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_507.md)
+
+## Risks which can benefit from this action
+
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1297.md)
 

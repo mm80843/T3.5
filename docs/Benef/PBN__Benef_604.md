@@ -6,7 +6,7 @@
 
 Workplace regulations and directives can prevent the spread of COVID-19 among workers, protect their health, and maintain productivity, thus preventing community transmission of the virus and safeguarding national economies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in workplace regulations and directives as it can help maintain open and safe workplaces, reducing the risk of outbreaks and disruptions to business operations, leading to improved productivity and financial stability for companies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_652.md)
 
@@ -19,4 +19,8 @@ Workplace regulations and directives can prevent the spread of COVID-19 among wo
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [national economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Implement workplace regulations and directives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_602.md)
 

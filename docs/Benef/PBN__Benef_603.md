@@ -6,7 +6,7 @@
 
 HEMS can provide social and lifestyle benefits, such as improved security, remote health monitoring, community updates, and entertainment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in HEMS technologies would benefit from increased demand as individuals and communities seek improved quality of life and convenience in managing their homes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_651.md)
 
@@ -18,4 +18,8 @@ HEMS can provide social and lifestyle benefits, such as improved security, remot
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Home Energy Management Systems (HEMS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
 

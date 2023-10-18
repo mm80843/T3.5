@@ -66,3 +66,17 @@ Coronavirus disease 2019: The harms of exaggerated information and non‐evidenc
 * [Differentiate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_874.md)
 * [Entry port screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
 
+## This article mentions these technologies
+
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [data transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_808.md)
+* [clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
+* [support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_807.md)
+* [economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
+* [public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
+* [strengthen peer review process](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_802.md)
+* [historical data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_809.md)
+

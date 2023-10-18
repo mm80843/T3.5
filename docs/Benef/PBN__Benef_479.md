@@ -6,7 +6,7 @@
 
 Revamping education and training to meet the demand for flexible skill sets ensures workers are equipped for new job opportunities, leading to increased employability and earning potential.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a skilled and adaptable workforce, increasing productivity and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_522.md)
 
@@ -17,4 +17,8 @@ Revamping education and training to meet the demand for flexible skill sets ensu
 ## Stakeholders benefitting from this Benefit
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+
+## Risks which can benefit from this action
+
+* [Revamp Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_494.md)
 

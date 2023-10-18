@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
+* [Implement comprehensive measures to ensure support, protection, and assistance for vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_346.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Providing support and assistance to vulnerable populations in accessing UGS, such as transportation services or home visits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2935.md)
 * [Implementing support services for victims, increasing awareness and education, strengthening legal protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1588.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1181.md)
 

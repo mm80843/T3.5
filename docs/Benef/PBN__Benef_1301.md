@@ -6,7 +6,7 @@
 
 Parks provide green spaces and contribute to the overall environmental quality of urban areas, improving air and water quality, mitigating urban heat island effects, and supporting biodiversity.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Positive environmental externalities can lead to improved quality of life, increased property values, and enhanced reputation for private investors in the area.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1470.md)
 
@@ -18,4 +18,8 @@ Parks provide green spaces and contribute to the overall environmental quality o
 
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 

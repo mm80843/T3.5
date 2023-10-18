@@ -2,3 +2,7 @@
 
 # __Private investors benefit from increased tenant satisfaction, reduced energy expenses, and improved property value.__
 
+## This return can be realized by these benefits
+
+* [Improved comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_438.md)
+

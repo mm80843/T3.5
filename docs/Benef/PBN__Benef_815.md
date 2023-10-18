@@ -6,7 +6,7 @@
 
 Digital contact tracing can help identify and isolate infected individuals
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Faster containment of outbreaks, reduced spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_883.md)
 
@@ -17,4 +17,8 @@ Digital contact tracing can help identify and isolate infected individuals
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_810.md)
 

@@ -2,3 +2,7 @@
 
 # __Private investors investing in stringency measures can contribute to reducing the risk of infections and the associated economic costs, thus protecting their investments in the built environment.__
 
+## This return can be realized by these benefits
+
+* [Reduction in infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_772.md)
+

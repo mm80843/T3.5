@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Temperature detection devices for identifying and monitoring heat levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_42.md)
+* [Temperature detection devices for identifying and monitoring heat levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Closest similar item
 

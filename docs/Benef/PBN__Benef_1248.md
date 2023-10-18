@@ -6,7 +6,7 @@
 
 Reduced risk of virus transmission, improved access to transportation options
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased ridership, increased revenue for public transit agencies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1401.md)
 
@@ -18,4 +18,8 @@ Reduced risk of virus transmission, improved access to transportation options
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [public transit users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_486.md)
+
+## Risks which can benefit from this action
+
+* [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1262.md)
 

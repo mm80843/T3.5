@@ -52,3 +52,14 @@ SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence
 * [TaqMan real-time RT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1678.md)
 * [Digital RT-qPCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1679.md)
 
+## This article mentions these technologies
+
+* [rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1364.md)
+* [including mobile testing units and at-home testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1365.md)
+* [verification of results through multiple testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1359.md)
+* [advanced wastewater treatment technologies such as uv disinfection or ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1358.md)
+* [including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1360.md)
+* [complex modeling techniques incorporating variables such as excretion patterns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1361.md)
+* [environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1362.md)
+* [population data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1363.md)
+

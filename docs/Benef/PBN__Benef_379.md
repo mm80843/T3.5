@@ -6,7 +6,7 @@
 
 Efficient crisis management can help construction companies overcome crises with little or zero damage, minimizing financial losses
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing crisis management measures can protect the financial stability of construction companies during periods of crisis, leading to improved profitability and long-term success](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_407.md)
 
@@ -17,4 +17,8 @@ Efficient crisis management can help construction companies overcome crises with
 ## Stakeholders benefitting from this Benefit
 
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+
+## Risks which can benefit from this action
+
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
 

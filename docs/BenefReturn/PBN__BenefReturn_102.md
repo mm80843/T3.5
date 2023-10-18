@@ -2,3 +2,9 @@
 
 # __Improved mental health and well-being__
 
+## This return can be realized by these benefits
+
+* [Continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_104.md)
+* [Reduced anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_768.md)
+* [Reduced stress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_769.md)
+

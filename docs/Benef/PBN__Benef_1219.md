@@ -6,7 +6,7 @@
 
 Effective contact tracing and isolation can slow and prevent transmission in the workplace
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Early identification and control of workplace outbreaks, reduced transmission among employees and their close contacts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1366.md)
 
@@ -18,4 +18,8 @@ Effective contact tracing and isolation can slow and prevent transmission in the
 
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Outbreak investigations and response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1224.md)
 

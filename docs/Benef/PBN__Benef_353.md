@@ -6,7 +6,7 @@
 
 Ensuring equitable distribution of nutritious food improves dietary behaviors and decreases food insecurity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved nutrition, reduced disease burden, increased economic productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_376.md)
 
@@ -17,4 +17,8 @@ Ensuring equitable distribution of nutritious food improves dietary behaviors an
 ## Stakeholders benefitting from this Benefit
 
 * [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
+
+## Risks which can benefit from this action
+
+* [Mapping access to nutritious food and equitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_355.md)
 

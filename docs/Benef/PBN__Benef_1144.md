@@ -6,7 +6,7 @@
 
 Decrease in NO2 and PM2.5 concentrations, leading to improved air quality and reduced health risks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in air quality improvement measures can benefit from increased property values and improved public health, leading to increased demand for real estate and potential financial returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1276.md)
 
@@ -17,4 +17,8 @@ Decrease in NO2 and PM2.5 concentrations, leading to improved air quality and re
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 

@@ -2,3 +2,7 @@
 
 # __Reduced burden on healthcare system, better public health outcomes__
 
+## This return can be realized by these benefits
+
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+

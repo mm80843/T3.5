@@ -6,7 +6,7 @@
 
 Lockdown-associated increases in recreational activity were greater over trail segments with greater tree cover and vegetation greenness values, indicating a preference for greenviews.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental well-being, potentially leading to reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1370.md)
 
@@ -17,4 +17,8 @@ Lockdown-associated increases in recreational activity were greater over trail s
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1229.md)
 

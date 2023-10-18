@@ -6,7 +6,7 @@
 
 Optimizing occupant distribution aligns internal load with climatic conditions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased occupant satisfaction, improved comfort](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_917.md)
 
@@ -17,4 +17,8 @@ Optimizing occupant distribution aligns internal load with climatic conditions
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_839.md)
 

@@ -6,7 +6,7 @@
 
 Increased recycling rates, leading to reduced environmental pollution and conservation of natural resources.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in recycling facilities can benefit from increased demand for recycling services and potential financial returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1280.md)
 
@@ -17,4 +17,8 @@ Increased recycling rates, leading to reduced environmental pollution and conser
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Recycling programs reinstatement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1148.md)
 

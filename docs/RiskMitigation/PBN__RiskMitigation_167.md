@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2073.md)
 * [Incorporate mental health considerations into urban planning, prioritize the creation of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1877.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved health and wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_186.md)
 

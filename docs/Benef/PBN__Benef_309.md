@@ -6,7 +6,7 @@
 
 Streamlined border processes and logistics
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced delays and disruptions in cross-border trade, improved responsiveness to supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_327.md)
 
@@ -18,4 +18,8 @@ Streamlined border processes and logistics
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Review transport, logistics, and border process regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_306.md)
 

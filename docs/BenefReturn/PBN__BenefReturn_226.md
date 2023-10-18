@@ -2,3 +2,7 @@
 
 # __Private investors investing in this mitigation measure could benefit from improved asset value by promoting social responsibility and community trust, leading to positive reputational impact and increased customer loyalty.__
 
+## This return can be realized by these benefits
+
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
+

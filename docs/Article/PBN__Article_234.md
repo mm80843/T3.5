@@ -55,3 +55,21 @@ Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Bu
 * [Use of UV-C light for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_345.md)
 * [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
 
+## This article mentions these technologies
+
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+* [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
+* [smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
+* [access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_329.md)
+* [reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
+* [sensor redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_332.md)
+* [redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_328.md)
+* [regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_330.md)
+* [regular calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_331.md)
+* [remote diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_333.md)
+

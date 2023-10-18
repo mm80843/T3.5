@@ -6,7 +6,7 @@
 
 GIS and GPS applications can support the mapping of COVID-19 hotspots, contact tracing, and monitoring of population movement, improving the efficiency of surveillance and control efforts.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in GIS and GPS applications can enable more targeted interventions, reducing the impact of the pandemic on health systems and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_484.md)
 
@@ -18,4 +18,8 @@ GIS and GPS applications can support the mapping of COVID-19 hotspots, contact t
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Integration of GIS and GPS applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_465.md)
 

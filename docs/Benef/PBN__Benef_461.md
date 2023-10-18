@@ -6,7 +6,7 @@
 
 Facilitates remote delivery of healthcare services, from basic telephone-based consultations to more complex video-conference or app-based solutions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves access to care, reduces the risk of infection, and maintains continuity of care for patients.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_497.md)
 
@@ -17,4 +17,8 @@ Facilitates remote delivery of healthcare services, from basic telephone-based c
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
 

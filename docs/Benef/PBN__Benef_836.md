@@ -6,7 +6,7 @@
 
 Implementing alternative planning strategies can help reduce construction time, resulting in faster project completion.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from earlier completion of projects, enabling earlier generation of revenue and returns on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_909.md)
 
@@ -18,4 +18,8 @@ Implementing alternative planning strategies can help reduce construction time, 
 
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 * [project owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_346.md)
+
+## Risks which can benefit from this action
+
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
 

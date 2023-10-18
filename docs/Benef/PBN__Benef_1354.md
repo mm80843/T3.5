@@ -6,7 +6,7 @@
 
 By incorporating longitudinal elements into research design, researchers can gain insights into stable and dynamic determinants of energy-relevant outcomes and analyze the short-term and long-term effects of the pandemic on various dimensions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in this mitigation measure as it would provide a comprehensive understanding of the impacts of the pandemic on energy-related outcomes, enabling more informed investment strategies and decisions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1536.md)
 
@@ -19,4 +19,8 @@ By incorporating longitudinal elements into research design, researchers can gai
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Risks which can benefit from this action
+
+* [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1389.md)
 

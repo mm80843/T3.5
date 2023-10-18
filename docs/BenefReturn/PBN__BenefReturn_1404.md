@@ -2,3 +2,7 @@
 
 # __Improved economic outcomes, reduced poverty, increased social cohesion.__
 
+## This return can be realized by these benefits
+
+* [Increased economic opportunities and social inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1251.md)
+

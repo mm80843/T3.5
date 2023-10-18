@@ -45,3 +45,22 @@ Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in t
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
 * [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
 
+## This article mentions these technologies
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [planting trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_974.md)
+* [collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_984.md)
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_979.md)
+* [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
+* [surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
+* [vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_976.md)
+* [larvicide treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_978.md)
+* [auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
+* [toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_981.md)
+* [inter-sectorial impact models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_983.md)
+

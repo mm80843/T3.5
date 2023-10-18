@@ -6,7 +6,7 @@
 
 Increased availability and accessibility of healthcare services in informal settlements
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health outcomes, reduced healthcare costs for residents](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_166.md)
 
@@ -17,4 +17,8 @@ Increased availability and accessibility of healthcare services in informal sett
 ## Stakeholders benefitting from this Benefit
 
 * [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
+
+## Risks which can benefit from this action
+
+* [Engagement of private and informal healthcare providers in response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_147.md)
 

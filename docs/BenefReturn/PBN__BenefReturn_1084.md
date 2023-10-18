@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from the financial stability of industries and potential increase in stock value__
 
+## This return can be realized by these benefits
+
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+

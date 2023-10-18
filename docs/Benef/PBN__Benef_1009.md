@@ -6,7 +6,7 @@
 
 Facilitate international scientific endeavours and collaborative research
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Access to a wider range of expertise and resources, leading to more impactful research](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1123.md)
 
@@ -18,4 +18,8 @@ Facilitate international scientific endeavours and collaborative research
 
 * [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
 * [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+
+## Risks which can benefit from this action
+
+* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
 

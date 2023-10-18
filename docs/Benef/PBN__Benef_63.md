@@ -6,7 +6,7 @@
 
 CIDO provides standardized and logical representation of coronavirus knowledge, facilitating data integration and analysis, and serving as a state-of-the-art knowledge base for coronavirus research.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved data integration and analysis, resulting in more accurate and comprehensive understanding of coronavirus diseases, potentially leading to valuable discoveries or treatments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_63.md)
 
@@ -18,4 +18,8 @@ CIDO provides standardized and logical representation of coronavirus knowledge, 
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+
+## Risks which can benefit from this action
+
+* [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
 

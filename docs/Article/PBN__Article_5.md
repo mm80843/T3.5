@@ -57,3 +57,22 @@ Building up an ecologically sustainable and socially desirable post-COVID-19 fut
 * [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
 * [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
 
+## This article mentions these technologies
+
+* [sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
+* [increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_525.md)
+* [early detection and response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_526.md)
+* [improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
+* [effective decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_538.md)
+* [risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
+* [renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [open communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
+* [improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_528.md)
+* [social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_529.md)
+* [equal opportunity initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_530.md)
+* [resilient and decentralized economic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_531.md)
+* [diversification of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_533.md)
+* [conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_536.md)
+* [ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
+* [responsive leadership](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_540.md)
+

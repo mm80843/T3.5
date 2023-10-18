@@ -6,7 +6,7 @@
 
 Providing comfortable indoor temperature leads to improved cognitive performance and increased productivity.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Occupants are more comfortable and able to focus better on their work, resulting in increased productivity and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_174.md)
 
@@ -17,4 +17,8 @@ Providing comfortable indoor temperature leads to improved cognitive performance
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
 

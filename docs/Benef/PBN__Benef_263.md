@@ -6,7 +6,7 @@
 
 Reduces the risk of contamination and transmission of the virus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from a safer and healthier environment, leading to increased student and staff satisfaction and reduced absenteeism.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_275.md)
 
@@ -19,4 +19,8 @@ Reduces the risk of contamination and transmission of the virus
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 * [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+
+## Risks which can benefit from this action
+
+* [Increased decontamination efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_252.md)
 

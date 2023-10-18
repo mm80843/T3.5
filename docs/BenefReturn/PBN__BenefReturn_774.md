@@ -2,3 +2,7 @@
 
 # __Improved indoor air quality, reduced risk of infection in enclosed spaces__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_720.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Vulnerable populations with varied health needs, settings, and disabilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_277.md)
+* [Vulnerable populations with varied health needs, settings, and disabilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_270.md)
 
 ## Closest similar item
 

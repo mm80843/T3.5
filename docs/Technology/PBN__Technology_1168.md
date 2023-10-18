@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
+* [Innovative lighting solutions harnessing ultraviolet technology for optimal germicidal sterilization and energy efficiency, while maximizing natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [separate pipes for greywater](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1758.md)
 * [water-efficient fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4354.md)
 * [extra light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
+
+## This technology is mentioned by
+
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Risks linked to this technology
 

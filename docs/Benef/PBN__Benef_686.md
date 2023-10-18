@@ -6,7 +6,7 @@
 
 Ensures continued food supply and availability, reduces concerns about shortages
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved food security, reduced panic-buying and stockpiling](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_734.md)
 
@@ -18,4 +18,8 @@ Ensures continued food supply and availability, reduces concerns about shortages
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Risks which can benefit from this action
+
+* [Increase in food deliveries and availability of basic food products](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_679.md)
 

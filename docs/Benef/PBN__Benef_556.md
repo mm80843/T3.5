@@ -6,7 +6,7 @@
 
 Decreased traffic congestion, improved air quality
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and quality of life, positive impact on environment and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_610.md)
 
@@ -17,4 +17,8 @@ Decreased traffic congestion, improved air quality
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Promote reduction of non-essential travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_570.md)
 

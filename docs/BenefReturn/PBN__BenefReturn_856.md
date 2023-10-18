@@ -2,3 +2,7 @@
 
 # __Enhanced ability to withstand crisis and pursue new entrepreneurial opportunities__
 
+## This return can be realized by these benefits
+
+* [Increased resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_788.md)
+

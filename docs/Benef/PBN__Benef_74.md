@@ -6,7 +6,7 @@
 
 Establishes uniform standards and protocols for data collection and management, providing centralized control and oversight
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enables effective control and management of data, enhancing the efficiency and effectiveness of the smart and safe city concepts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_75.md)
 
@@ -18,4 +18,8 @@ Establishes uniform standards and protocols for data collection and management, 
 
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [private entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_56.md)
+
+## Risks which can benefit from this action
+
+* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_68.md)
 

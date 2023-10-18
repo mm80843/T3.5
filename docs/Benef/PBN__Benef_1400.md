@@ -6,7 +6,7 @@
 
 AI-powered diagnosis applications can combine symptoms, wearable data, and travel history to identify carriers early on, enabling prompt isolation and treatment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved treatment success rates, reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1589.md)
 
@@ -18,4 +18,8 @@ AI-powered diagnosis applications can combine symptoms, wearable data, and trave
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [AI-powered diagnosis applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
 

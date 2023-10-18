@@ -6,7 +6,7 @@
 
 Clear understanding of the impact on trade deals, oil supply, energy, and production of merchandise
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better decision-making for trade negotiations, development of strategies for economic recovery in affected regions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_618.md)
 
@@ -19,4 +19,8 @@ Clear understanding of the impact on trade deals, oil supply, energy, and produc
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+
+## Risks which can benefit from this action
+
+* [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_573.md)
 

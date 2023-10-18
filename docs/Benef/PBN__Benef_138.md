@@ -6,7 +6,7 @@
 
 Uses Kalman filter to reduce bias caused by error accumulation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Provides more accurate and reliable occupancy estimation, leading to improved building operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_137.md)
 
@@ -18,4 +18,8 @@ Uses Kalman filter to reduce bias caused by error accumulation
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Risks which can benefit from this action
+
+* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_118.md)
 

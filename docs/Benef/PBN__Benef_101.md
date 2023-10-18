@@ -6,7 +6,7 @@
 
 Cost-effective, fast, and effective disinfection, reducing exposure risk and improving cleanliness of high-touch surfaces
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved asset value and reduced healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_99.md)
 
@@ -17,4 +17,8 @@ Cost-effective, fast, and effective disinfection, reducing exposure risk and imp
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Robot-controlled surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_87.md)
 

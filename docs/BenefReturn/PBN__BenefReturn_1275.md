@@ -2,3 +2,7 @@
 
 # __Improved situational awareness, informed decision-making, increased demand for the mobile application.__
 
+## This return can be realized by these benefits
+
+* [Access to accurate and up-to-date COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1142.md)
+

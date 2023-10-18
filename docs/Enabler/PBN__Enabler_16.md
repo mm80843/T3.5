@@ -8,7 +8,7 @@ enabler_017
 
 ## Category to which it belongs
 
-* [Streamlined process of performing tasks automatically without the need for human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_76.md)
+* [Streamlined process of performing tasks automatically without the need for human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_66.md)
 
 ## Closest similar item
 

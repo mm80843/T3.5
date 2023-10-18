@@ -6,7 +6,7 @@
 
 Providing strategies to reduce travel anxiety can alleviate tourists' concerns and increase their willingness to travel
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by investing in the development and implementation of travel anxiety reduction strategies, attracting more tourists and increasing revenue in the tourism industry.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_439.md)
 
@@ -17,4 +17,8 @@ Providing strategies to reduce travel anxiety can alleviate tourists' concerns a
 ## Stakeholders benefitting from this Benefit
 
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risks which can benefit from this action
+
+* [Development of travel anxiety reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_413.md)
 

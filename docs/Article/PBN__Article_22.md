@@ -51,3 +51,21 @@ Physical interventions to interrupt or reduce the spread of respiratory viruses:
 * [Wearing Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_923.md)
 * [Wearing Gowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_924.md)
 
+## This article mentions these technologies
+
+* [vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
+* [antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_838.md)
+* [barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
+* [research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_832.md)
+* [personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
+* [handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
+* [reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [animal surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
+

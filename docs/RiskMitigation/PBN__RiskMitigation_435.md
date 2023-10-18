@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_313.md)
+* [Promote mental well-being through access to resources, support services, and strategies for coping with stress.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_306.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Foster community engagement and social support networks; promote virtual social interactions and activities; provide mental health resources and support for individuals experiencing loneliness.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2607.md)
 * [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2995.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_427.md)
 

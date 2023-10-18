@@ -2,3 +2,7 @@
 
 # __Private investors in public health measures can benefit from improved control of COVID-19 transmission and containment, leading to potential economic stability and recovery.__
 
+## This return can be realized by these benefits
+
+* [Reduction in COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_738.md)
+

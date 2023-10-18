@@ -42,3 +42,20 @@ The impact of physical activity on psychological health during Covid-19 pandemic
 * [Regular Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
 * [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [home workout apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1078.md)
+* [online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1075.md)
+* [online exercise videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1079.md)
+* [mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
+* [virtual personal trainers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1076.md)
+* [virtual support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_223.md)
+* [mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
+* [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
+* [crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1077.md)
+* [unemployment benefits systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1081.md)
+

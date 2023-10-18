@@ -6,7 +6,7 @@
 
 Studying the impact of humidity on virus survival and transmission in animal models can provide valuable insights into the mechanisms of influenza transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in such studies can lead to the development of more effective prevention and control strategies, benefiting public health and potentially reducing healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_284.md)
 
@@ -17,4 +17,8 @@ Studying the impact of humidity on virus survival and transmission in animal mod
 ## Stakeholders benefitting from this Benefit
 
 * [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
+
+## Risks which can benefit from this action
+
+* [Carefully-designed studies on humidity effects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_261.md)
 

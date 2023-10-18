@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from investing in air filtration devices as it would improve patient safety and reduce healthcare costs associated with hospital-acquired infections.__
 
+## This return can be realized by these benefits
+
+* [Reduction in airborne SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1119.md)
+

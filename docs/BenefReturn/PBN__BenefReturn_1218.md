@@ -2,3 +2,7 @@
 
 # __Investing in robots and drones can protect the health and safety of medical professionals, reduce the spread of COVID-19 in healthcare settings, and improve patient trust and satisfaction.__
 
+## This return can be realized by these benefits
+
+* [Reduction of inter-personal communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1089.md)
+

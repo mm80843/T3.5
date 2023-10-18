@@ -2,3 +2,7 @@
 
 # __Private investors can benefit by investing in communication strategies that help restore tourists’ confidence in travel safety, leading to an increase in tourism demand.__
 
+## This return can be realized by these benefits
+
+* [Reduction of perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_407.md)
+

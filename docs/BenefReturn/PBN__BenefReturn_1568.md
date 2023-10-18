@@ -2,3 +2,7 @@
 
 # __Optimal use of hospital resources, improved patient outcomes__
 
+## This return can be realized by these benefits
+
+* [Improved admission logistics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1381.md)
+

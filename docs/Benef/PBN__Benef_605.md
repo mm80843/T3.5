@@ -6,7 +6,7 @@
 
 Modifying office building design and layout can minimize infection spreading propensity, create a safe working environment, and reduce the risk of COVID-19 transmission among workers.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in modifying office building design and layout can benefit from improved worker safety, reduced absenteeism, and increased productivity, leading to higher employee satisfaction, business continuity, and potential financial gains.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_653.md)
 
@@ -18,4 +18,8 @@ Modifying office building design and layout can minimize infection spreading pro
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_603.md)
 

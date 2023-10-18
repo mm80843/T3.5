@@ -2,3 +2,7 @@
 
 # __Increased public health security, reduced impact of public health crises on economies and societies__
 
+## This return can be realized by these benefits
+
+* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_778.md)
+

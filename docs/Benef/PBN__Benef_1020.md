@@ -6,7 +6,7 @@
 
 Transparent and standardized protocols for WBE can help establish credibility and a reputation for safety, increasing public trust in the monitoring and control measures.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in transparent and standardized WBE protocols can benefit from improved public perception, increased adoption of WBE technologies, and potential financial returns from the implementation of these protocols.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1141.md)
 
@@ -19,4 +19,8 @@ Transparent and standardized protocols for WBE can help establish credibility an
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Risks which can benefit from this action
+
+* [Transparent and standardized WBE protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1023.md)
 

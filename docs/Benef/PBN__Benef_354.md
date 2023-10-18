@@ -6,7 +6,7 @@
 
 Bringing fresh food supplies closer to neighborhoods mitigates closure of centralized markets and movement restrictions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved nutrition, reduced food waste, increased economic productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_377.md)
 
@@ -18,4 +18,8 @@ Bringing fresh food supplies closer to neighborhoods mitigates closure of centra
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
+
+## Risks which can benefit from this action
+
+* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_356.md)
 

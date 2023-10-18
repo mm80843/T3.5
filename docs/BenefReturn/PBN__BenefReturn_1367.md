@@ -2,3 +2,7 @@
 
 # __Decreased risk of workplace transmission, protection of employees’ health and well-being__
 
+## This return can be realized by these benefits
+
+* [Reduction in COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1220.md)
+

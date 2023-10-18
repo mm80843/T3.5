@@ -6,7 +6,7 @@
 
 Combining telemedicine with wearables can reduce the need for face-to-face appointments, enabling remote monitoring and reducing healthcare costs and burdens.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for telemedicine technologies and wearables for remote monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1053.md)
 
@@ -18,4 +18,8 @@ Combining telemedicine with wearables can reduce the need for face-to-face appoi
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
 

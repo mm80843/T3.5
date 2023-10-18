@@ -6,7 +6,7 @@
 
 Bringing in more outdoor air into the building through HVAC systems or opening windows and doors can dilute indoor air contaminants, including respiratory particles, reducing the risk of transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in outdoor air ventilation improvements can benefit from improved indoor air quality, increased tenant satisfaction, and reduced risk of transmission-related disruptions and reputational damage](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_557.md)
 
@@ -17,4 +17,8 @@ Bringing in more outdoor air into the building through HVAC systems or opening w
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_520.md)
 

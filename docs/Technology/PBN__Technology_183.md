@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
+* [Government actions and regulations addressing various aspects of society, including policy changes, ethical frameworks, governance mechanisms, and public announcements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [peer review](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
 * [peer-review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4421.md)
 * [expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
+
+## This technology is mentioned by
+
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
 ## Risks linked to this technology
 

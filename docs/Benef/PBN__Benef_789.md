@@ -6,7 +6,7 @@
 
 Leveraging partnerships, networks, and social capital to access resources
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased access to resources for innovation and growth](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_857.md)
 
@@ -17,4 +17,8 @@ Leveraging partnerships, networks, and social capital to access resources
 ## Stakeholders benefitting from this Benefit
 
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+
+## Risks which can benefit from this action
+
+* [Relational capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_785.md)
 

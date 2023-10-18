@@ -6,7 +6,7 @@
 
 Increases awareness and understanding of the purpose and benefits of the smart and safe city concepts, addressing concerns and misconceptions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Promotes positive perception and acceptance of the concepts, leading to greater participation and support from the public](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_73.md)
 
@@ -17,4 +17,8 @@ Increases awareness and understanding of the purpose and benefits of the smart a
 ## Stakeholders benefitting from this Benefit
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+
+## Risks which can benefit from this action
+
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_66.md)
 

@@ -6,7 +6,7 @@
 
 Forecasting regional transmission dynamics of SARS-CoV-2 allows for early detection, border checks, and surveillance
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this surveillance technique could benefit from improved asset value by reducing the impact and spread of infectious diseases in communities, leading to improved public health outcomes and decreased healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_223.md)
 * [Private investors investing in pandemic analytics can benefit from improved public health outcomes and reduced economic impact, enhancing the value of their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_561.md)
@@ -26,4 +26,10 @@ Forecasting regional transmission dynamics of SARS-CoV-2 allows for early detect
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Big data and AI forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_525.md)
 

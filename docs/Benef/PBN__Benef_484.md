@@ -6,7 +6,7 @@
 
 Contact tracing can identify and notify individuals at risk of exposure, allowing for early testing and quarantine
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in wearable technology for contact tracing can help control outbreaks, minimize economic disruption, and protect public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_527.md)
 
@@ -18,4 +18,8 @@ Contact tracing can identify and notify individuals at risk of exposure, allowin
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 

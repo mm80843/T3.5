@@ -6,7 +6,7 @@
 
 Decentralizing data ownership and establishing secure transmission of biometric data can protect personal data and ensure privacy in the use of wearables.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for secure data transfer technologies and privacy-enhancing features in wearables.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1051.md)
 
@@ -18,4 +18,8 @@ Decentralizing data ownership and establishing secure transmission of biometric 
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
+
+## Risks which can benefit from this action
+
+* [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_950.md)
 

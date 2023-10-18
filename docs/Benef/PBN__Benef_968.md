@@ -6,7 +6,7 @@
 
 By raising awareness about the importance of UGS in the urban landscape, cities can foster a collective recognition and appreciation of these spaces, leading to better conservation efforts and the inclusion of UGS in public policies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in initiatives that raise awareness about the importance of UGS can benefit from a positive perception of their properties, as they contribute to the overall well-being and sustainability of the neighborhood, potentially leading to increased demand and asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1065.md)
 
@@ -19,4 +19,8 @@ By raising awareness about the importance of UGS in the urban landscape, cities 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+
+## Risks which can benefit from this action
+
+* [Raising awareness about the relevance of UGS in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)
 

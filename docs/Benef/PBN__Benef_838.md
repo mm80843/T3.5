@@ -6,7 +6,7 @@
 
 Implementing risk management strategies can help mitigate financial risks associated with the pandemic, ensuring financial stability.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from reduced financial risks, safeguarding their investment and ensuring a positive return.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_911.md)
 
@@ -19,4 +19,8 @@ Implementing risk management strategies can help mitigate financial risks associ
 * [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 * [project owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_346.md)
+
+## Risks which can benefit from this action
+
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_836.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
+* [Enforce safety measures, promote responsible behavior, utilize PPE, and prioritize risk prevention to ensure adequate protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_339.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3251.md)
 * [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3252.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_412.md)
 * [Protection for workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_492.md)

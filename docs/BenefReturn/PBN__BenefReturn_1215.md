@@ -2,3 +2,7 @@
 
 # __Improved safety and reduced risk for healthcare worker__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission via body fluids](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1087.md)
+

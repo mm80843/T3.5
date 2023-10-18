@@ -6,7 +6,7 @@
 
 Preprocessing disinfection of sewage prevents the transmission of SARS-CoV-2 through sewage, reducing the risk of contamination
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in preprocessing disinfection measures can improve the safety and quality of hospital infection control, reducing the risk of transmission and improving patient outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_289.md)
 
@@ -18,4 +18,8 @@ Preprocessing disinfection of sewage prevents the transmission of SARS-CoV-2 thr
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+
+## Risks which can benefit from this action
+
+* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_266.md)
 

@@ -6,7 +6,7 @@
 
 Diversifying suppliers reduces the risk of supply chain disruption and ensures the continuous flow of materials and resources needed for production.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Minimizes disruption and delays in material deliveries](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_765.md)
 * [Investing in diversifying suppliers can lead to improved operational efficiency, reduced production downtime, and increased customer satisfaction, all of which can contribute to higher asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1041.md)
@@ -21,4 +21,9 @@ Diversifying suppliers reduces the risk of supply chain disruption and ensures t
 * [supply chain partners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_296.md)
 * [smes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_370.md)
 * [small businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_371.md)
+
+## Risks which can benefit from this action
+
+* [Diversifying suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_941.md)
+* [Revised supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_710.md)
 

@@ -2,3 +2,7 @@
 
 # __Prevents transmission to others and ensures appropriate management__
 
+## This return can be realized by these benefits
+
+* [Early identification of virus presence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1086.md)
+

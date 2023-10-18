@@ -2,3 +2,7 @@
 
 # __Private investors can benefit by investing in sustainable practices and infrastructure, enhancing the long-term value of tourism investments and minimizing reputational risks.__
 
+## This return can be realized by these benefits
+
+* [Reduction of negative environmental and social costs of tourism](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_409.md)
+

@@ -6,7 +6,7 @@
 
 A holistic and interdisciplinary approach to research can lead to a better understanding of the health impacts of buildings and the development of effective evaluation tools.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Building professionals and researchers gain valuable insights into the health implications of buildings, leading to informed decision-making and improved building design and operation practices.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_183.md)
 
@@ -18,4 +18,8 @@ A holistic and interdisciplinary approach to research can lead to a better under
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [building professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_98.md)
+
+## Risks which can benefit from this action
+
+* [Holistic and interdisciplinary approach to building research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_159.md)
 

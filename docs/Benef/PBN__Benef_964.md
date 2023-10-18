@@ -6,7 +6,7 @@
 
 Citizens will have easier access to UGS, allowing them to enjoy the benefits of nature and green spaces for physical and mental well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in the distribution of UGS can expect an increase in the value of properties located near these accessible green spaces, as they become more desirable for residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1061.md)
 
@@ -18,4 +18,8 @@ Citizens will have easier access to UGS, allowing them to enjoy the benefits of 
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [especially those living in areas with extreme population densities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_376.md)
+
+## Risks which can benefit from this action
+
+* [Distribution of UGS in a more homogenous way](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_959.md)
 

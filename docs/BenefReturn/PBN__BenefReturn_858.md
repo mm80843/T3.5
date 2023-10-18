@@ -2,3 +2,7 @@
 
 # __Increased competitiveness and market relevance__
 
+## This return can be realized by these benefits
+
+* [Opportunities for change and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_790.md)
+

@@ -6,7 +6,7 @@
 
 Reduced conflicts, improved governance, and stronger institutions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Social and political stability create favorable conditions for economic growth and investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_582.md)
 
@@ -17,4 +17,8 @@ Reduced conflicts, improved governance, and stronger institutions
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_542.md)
 

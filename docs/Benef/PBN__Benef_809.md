@@ -6,7 +6,7 @@
 
 Proper treatment of wastewater and disinfection of water can prevent transmission of COVID-19
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of waterborne transmission, improved public health, enhanced consumer confidence](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_879.md)
 
@@ -18,4 +18,8 @@ Proper treatment of wastewater and disinfection of water can prevent transmissio
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+
+## Risks which can benefit from this action
+
+* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_804.md)
 

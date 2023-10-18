@@ -2,3 +2,7 @@
 
 # __Improved public health response and reduced impact of the pandemic on communities, leading to improved economic stability and social well-being.__
 
+## This return can be realized by these benefits
+
+* [Better crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1200.md)
+

@@ -6,7 +6,7 @@
 
 Providing appropriate PPE, such as masks and gloves, ensures the protection of workers from virus transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in PPE reduces the risk of COVID-19 transmission in the workplace, protecting workers and ensuring business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_547.md)
 
@@ -17,4 +17,8 @@ Providing appropriate PPE, such as masks and gloves, ensures the protection of w
 ## Stakeholders benefitting from this Benefit
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+
+## Risks which can benefit from this action
+
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
 

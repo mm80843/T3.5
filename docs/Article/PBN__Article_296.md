@@ -51,3 +51,18 @@ Wearable devices for the detection of COVID-19
 * [Self-Reported Symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
 * [Local Data Processing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
 
+## This article mentions these technologies
+
+* [ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
+* [improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_181.md)
+* [data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_176.md)
+* [advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_173.md)
+* [outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
+* [subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_175.md)
+* [efficient data collection and processing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_177.md)
+* [integration of multiple wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_178.md)
+* [multimodal device development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_179.md)
+* [advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
+* [data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
+

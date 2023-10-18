@@ -62,3 +62,15 @@ The changes in the effects of social media use of Cypriots due to COVID-19 pande
 * [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
 * [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+* [online platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_879.md)
+* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
+* [transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
+* [mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
+* [digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_875.md)
+* [accurate and timely information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
+* [digital newsletters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_881.md)
+

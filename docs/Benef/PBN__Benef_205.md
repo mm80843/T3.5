@@ -6,7 +6,7 @@
 
 Portable air cleaners with HEPA filters can effectively remove virus particles from the air, reducing the concentration and risk of transmission in specific areas within the building.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from implementing this measure by providing additional protection in high-risk areas, increasing tenant confidence and satisfaction, and reducing the risk of outbreaks or closures due to infections.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_211.md)
 
@@ -17,4 +17,8 @@ Portable air cleaners with HEPA filters can effectively remove virus particles f
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Use portable room air cleaners with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_190.md)
 

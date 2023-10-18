@@ -6,7 +6,7 @@
 
 Prioritizing relevant issues and aligning research with policy needs informs critical decisions, strengthens health systems, and improves population health
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved decision-making leads to more effective policies, better health outcomes, and increased public trust](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_590.md)
 
@@ -18,4 +18,8 @@ Prioritizing relevant issues and aligning research with policy needs informs cri
 
 * [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Risks which can benefit from this action
+
+* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_550.md)
 

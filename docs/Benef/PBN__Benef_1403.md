@@ -6,7 +6,7 @@
 
 Remote consultations reduce travel times, waiting times, and the impact of symptoms, resulting in reduced stress levels for patients.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental well-being, increased patient satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1592.md)
 
@@ -18,4 +18,8 @@ Remote consultations reduce travel times, waiting times, and the impact of sympt
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1434.md)
 

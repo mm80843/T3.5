@@ -2,3 +2,7 @@
 
 # __Increased indoor space adjustability can enhance tenant satisfaction and create a more personalized living environment.__
 
+## This return can be realized by these benefits
+
+* [Personalization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_252.md)
+

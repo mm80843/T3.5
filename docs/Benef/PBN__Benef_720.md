@@ -6,7 +6,7 @@
 
 Proper ventilation helps to mitigate the spread of virus particles suspended in the air
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved indoor air quality, reduced risk of infection in enclosed spaces](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_774.md)
 
@@ -18,4 +18,8 @@ Proper ventilation helps to mitigate the spread of virus particles suspended in 
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_719.md)
 

@@ -6,7 +6,7 @@
 
 Civil right to counsel in eviction cases decreases eviction rates by ensuring tenants have knowledge of their rights and can effectively defend themselves, reducing the risk of homelessness and COVID-19 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in rental properties would benefit from reduced vacancies, improved tenant stability, and reduced legal costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_201.md)
 
@@ -18,4 +18,9 @@ Civil right to counsel in eviction cases decreases eviction rates by ensuring te
 
 * [low-income renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_112.md)
 * [people facing eviction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_113.md)
+
+## Risks which can benefit from this action
+
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_179.md)
+* [Civil right to counsel in eviction cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_180.md)
 

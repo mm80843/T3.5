@@ -6,7 +6,7 @@
 
 Efficient utilization of storage space reduces cost and waste.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased asset value and cost savings for distributors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_218.md)
 
@@ -17,4 +17,8 @@ Efficient utilization of storage space reduces cost and waste.
 ## Stakeholders benefitting from this Benefit
 
 * [vaccine distributors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_119.md)
+
+## Risks which can benefit from this action
+
+* [Improve cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_197.md)
 

@@ -2,3 +2,7 @@
 
 # __Investing in the SAMBA system improves building performance, thereby enhancing property value and attracting more tenants.__
 
+## This return can be realized by these benefits
+
+* [Improved building performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_800.md)
+

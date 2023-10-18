@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -19,14 +19,14 @@
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3202.md)
 * [signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
 * [Reduction in peak number of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_583.md)
 * [Reduction in total number of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_584.md)
 * [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_596.md)
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
 * [Improved asset value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_633.md)
 * [Reduced financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_634.md)
 * [Improved communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)

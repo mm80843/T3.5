@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Facilitate social connectivity through community events and engagement programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1557.md)
 * [Promote urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2893.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Sustainable livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_150.md)
 

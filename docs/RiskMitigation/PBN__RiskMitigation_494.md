@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
+* [Enrich education through digital tools, virtual experiences, remote learning, and alternative forms of exercise and interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_332.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_867.md)
 * [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1741.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Development of flexible skill sets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_479.md)
 

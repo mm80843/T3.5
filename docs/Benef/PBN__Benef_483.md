@@ -6,7 +6,7 @@
 
 Early detection of disease allows for prompt treatment and isolation, reducing transmission risk
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in wearable technology can improve public health outcomes and reduce healthcare costs by preventing disease spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_526.md)
 
@@ -18,4 +18,8 @@ Early detection of disease allows for prompt treatment and isolation, reducing t
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 

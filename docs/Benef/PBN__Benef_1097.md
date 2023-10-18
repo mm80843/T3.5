@@ -6,7 +6,7 @@
 
 Digital platforms and social networks enable transparent reporting of pandemic information, sharing of educational content, and coordination of community assistance activities
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased public awareness, reduced spread of misinformation, enhanced community resilience](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1226.md)
 
@@ -18,4 +18,8 @@ Digital platforms and social networks enable transparent reporting of pandemic i
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
+
+## Risks which can benefit from this action
+
+* [Facilitating transparent communication and preventing spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1107.md)
 

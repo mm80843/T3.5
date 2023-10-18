@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from the growing popularity of exergames, leading to increased demand for related technology and entertainment products.__
 
+## This return can be realized by these benefits
+
+* [Improvement in mood disorders](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1177.md)
+

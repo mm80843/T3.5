@@ -6,7 +6,7 @@
 
 Ensures the safety of workforce and minimizes project risks
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances client trust and project success](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_766.md)
 
@@ -17,4 +17,8 @@ Ensures the safety of workforce and minimizes project risks
 ## Stakeholders benefitting from this Benefit
 
 * [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_711.md)
 

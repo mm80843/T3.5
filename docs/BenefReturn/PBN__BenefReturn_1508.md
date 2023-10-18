@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from partnering with peer-reviewed journals and official institutions by gaining access to authoritative content, attracting more users and advertisers.__
 
+## This return can be realized by these benefits
+
+* [Reliable Information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1340.md)
+

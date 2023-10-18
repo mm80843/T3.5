@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
+* [Promote biodiversity and sustainable urban development through the establishment and accessibility of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_316.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
 * [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_225.md)
 

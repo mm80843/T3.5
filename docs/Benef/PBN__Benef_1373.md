@@ -6,7 +6,7 @@
 
 Ensuring access to food, medicine, and other necessary supplies during the crisis
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Sustained provision of essential needs, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1560.md)
 
@@ -18,4 +18,8 @@ Ensuring access to food, medicine, and other necessary supplies during the crisi
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
+
+## Risks which can benefit from this action
+
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
 

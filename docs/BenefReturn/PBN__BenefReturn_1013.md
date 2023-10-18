@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from enhanced public perception by having a more stable and predictable market environment, reducing investment risks and uncertainties.__
 
+## This return can be realized by these benefits
+
+* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_924.md)
+

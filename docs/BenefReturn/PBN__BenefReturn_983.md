@@ -2,3 +2,7 @@
 
 # __Private investors and property owners would benefit from the increased demand and higher rents or sale prices of properties equipped with far-UVC light technology.__
 
+## This return can be realized by these benefits
+
+* [Increase in asset value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_898.md)
+

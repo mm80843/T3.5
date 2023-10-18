@@ -6,7 +6,7 @@
 
 The implementation of anti-contagion policies has resulted in a significant reduction in the growth rate of infections, leading to a slower spread of COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit from implementing these policies as it reduces the risk of widespread outbreaks and allows for a more stable and functioning economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_548.md)
 
@@ -17,4 +17,8 @@ The implementation of anti-contagion policies has resulted in a significant redu
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of anti-contagion policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_516.md)
 

@@ -6,7 +6,7 @@
 
 Smart building technologies improve comfort and convenience, allowing for personalized control and monitoring of the indoor environment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Occupants experience a higher level of comfort, convenience, and control over their environment, leading to improved satisfaction and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_182.md)
 
@@ -17,4 +17,8 @@ Smart building technologies improve comfort and convenience, allowing for person
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_158.md)
 

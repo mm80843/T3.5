@@ -6,7 +6,7 @@
 
 Professional signs convey important information in an organized and visually appealing manner, improving comprehension and awareness of social distancing measures
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved coordination and efficiency of construction works](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_762.md)
 * [Enhancing communication with customers can increase customer confidence and satisfaction, leading to increased customer loyalty and repeat business for retailers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_864.md)
@@ -21,4 +21,9 @@ Professional signs convey important information in an organized and visually app
 * [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
 * [operations team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_293.md)
 * [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
+
+## Risks which can benefit from this action
+
+* [Use of professional signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_792.md)
+* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 

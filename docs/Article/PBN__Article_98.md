@@ -46,3 +46,19 @@ Pandemics and Automation: Will the Lost Jobs Come Back?
 * [Increased Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1755.md)
 
+## This article mentions these technologies
+
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
+* [progressive tax policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1472.md)
+* [automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1476.md)
+* [social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_529.md)
+* [investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1473.md)
+* [inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1477.md)
+* [countercyclical fiscal and monetary policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1474.md)
+* [dialogue and reconciliation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1478.md)
+

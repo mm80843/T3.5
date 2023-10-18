@@ -54,3 +54,16 @@ Indirect effects of COVID-19 on the environment
 * [Safe management of domestic waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2458.md)
 * [Suspension of recycling programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2452.md)
 
+## This article mentions these technologies
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
+* [recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
+* [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+* [noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
+* [air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_233.md)
+* [renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [beach monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2001.md)
+

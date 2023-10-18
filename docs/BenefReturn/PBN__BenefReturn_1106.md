@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from increased desirability and demand for buildings with biofiltration technology, leading to higher occupancy rates, rental income, and potentially higher asset value.__
 
+## This return can be realized by these benefits
+
+* [Improved IAQ and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_999.md)
+

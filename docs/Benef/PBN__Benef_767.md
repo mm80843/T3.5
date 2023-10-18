@@ -6,9 +6,8 @@
 
 ----------------------------------------------------------------
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
-* [-------------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_837.md)
 
 ## Articles mentionning this Benefit
 
@@ -16,5 +15,7 @@
 
 ## Stakeholders benefitting from this Benefit
 
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
+
+## Risks which can benefit from this action
+
 

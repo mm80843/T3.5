@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efficiently managing the flow of resources and mitigating potential uncertainties for optimal supply chain operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)
+* [Efficiently managing the flow of resources and mitigating potential uncertainties for optimal supply chain operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_41.md)
 
 ## Closest similar item
 

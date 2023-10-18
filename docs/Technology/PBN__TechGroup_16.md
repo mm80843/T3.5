@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The interconnection of physical devices, enabling them to send and receive data without human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_299.md)
+* [The interconnection of physical devices, enabling them to send and receive data without human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_292.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_101.md)
 * [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_102.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)

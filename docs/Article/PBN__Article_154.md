@@ -51,3 +51,15 @@ Mitigation strategies and compliance in the COVID-19 fight; how much compliance 
 * [Restricted Travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1382.md)
 * [Nursing Home Visiting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1383.md)
 
+## This article mentions these technologies
+
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_907.md)
+* [enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
+* [reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1153.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
+* [enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
+

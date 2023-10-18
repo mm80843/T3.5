@@ -6,7 +6,7 @@
 
 Switching to a domestic supply chain would reduce costs for corporations and consumers
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from cost savings and increased competitiveness in the market](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1083.md)
 
@@ -18,4 +18,8 @@ Switching to a domestic supply chain would reduce costs for corporations and con
 
 * [corporations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_388.md)
 * [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+
+## Risks which can benefit from this action
+
+* [Domestic-based supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_978.md)
 

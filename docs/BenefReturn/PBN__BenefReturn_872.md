@@ -2,3 +2,7 @@
 
 # __Investing in the SAMBA system enhances the reputation of the property and attracts high-quality tenants, increasing property value and rental income.__
 
+## This return can be realized by these benefits
+
+* [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_803.md)
+

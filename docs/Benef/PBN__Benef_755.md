@@ -6,7 +6,7 @@
 
 Designing wards that can be converted at short notice into infectious disease and isolation wards helps manage the demand during pandemics.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved healthcare infrastructure, increased capacity during emergencies, and potential increase in asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_821.md)
 
@@ -17,4 +17,8 @@ Designing wards that can be converted at short notice into infectious disease an
 ## Stakeholders benefitting from this Benefit
 
 * [hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
+
+## Risks which can benefit from this action
+
+* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
 

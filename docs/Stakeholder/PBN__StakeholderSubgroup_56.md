@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Quality of life factors encompassing the surroundings, health, physical activity, and eco-friendliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_262.md)
+* [Quality of life factors encompassing the surroundings, health, physical activity, and eco-friendliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_255.md)
 
 ## Closest similar item
 

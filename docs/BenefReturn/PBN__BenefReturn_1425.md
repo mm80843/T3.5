@@ -2,3 +2,7 @@
 
 # __Investing in the development and deployment of rapid diagnostic tests can improve healthcare efficiency, reduce costs, and prevent the spread of the virus, leading to improved public health and potential economic growth.__
 
+## This return can be realized by these benefits
+
+* [Faster results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1265.md)
+

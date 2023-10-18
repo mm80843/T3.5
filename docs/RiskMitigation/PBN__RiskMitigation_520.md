@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -19,10 +19,10 @@
 * [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1935.md)
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
-* [Dilution of airborne contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_510.md)
 * [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+* [Dilution of airborne contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_510.md)
 
 ## Risks possibly mitigated by this Mitigation
 

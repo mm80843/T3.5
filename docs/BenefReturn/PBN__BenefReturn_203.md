@@ -2,3 +2,7 @@
 
 # __By implementing social lockdown, private investors can help prevent healthcare systems from being overwhelmed, ensuring better care for infected individuals and potential asset value improvement in the healthcare sector__
 
+## This return can be realized by these benefits
+
+* [Preventing healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_199.md)
+

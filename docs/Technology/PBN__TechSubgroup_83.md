@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Creating sustainable and harmonious environments in cities through thoughtful design and integration of nature.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_27.md)
+* [Creating sustainable and harmonious environments in cities through thoughtful design and integration of nature.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_17.md)
 
 ## Closest similar item
 

@@ -62,3 +62,16 @@ A critical review of emerging technologies for tackling COVID ‐19 pandemic
 * [5G cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1250.md)
 * [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1251.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
+* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1085.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1087.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
+* [data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1086.md)
+* [collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1083.md)
+

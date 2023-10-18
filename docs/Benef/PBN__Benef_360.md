@@ -6,7 +6,7 @@
 
 Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data on the circulation of the virus in the human population, helping in epidemiological studies and informing public health interventions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit indirectly by contributing to the overall control of the pandemic, which would lead to economic stability and improved market conditions for their investments in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_387.md)
 
@@ -18,4 +18,8 @@ Environmental surveillance of SARS-CoV-2 in wastewater can provide valuable data
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 

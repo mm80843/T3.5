@@ -2,3 +2,7 @@
 
 # __Reduced spread of COVID-19 in informal settlements, improved health outcomes__
 
+## This return can be realized by these benefits
+
+* [Reduced transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_162.md)
+

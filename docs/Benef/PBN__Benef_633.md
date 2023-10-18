@@ -6,7 +6,7 @@
 
 Implementing effective ventilation systems in commercial properties can increase the perceived safety and attractiveness of the property to tenants and customers, leading to higher occupancy rates and rental income.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in social distancing measures would benefit from the increased value and demand for their properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_678.md)
 * [Private investors investing in ventilation systems would benefit from the increased value and demand for their properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_679.md)
@@ -18,4 +18,9 @@ Implementing effective ventilation systems in commercial properties can increase
 ## Stakeholders benefitting from this Benefit
 
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Academic roles include nan and encompass students who are learners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_249.md)
+* [Academic roles include nan and encompass students who are learners.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
 
 ## Closest similar item
 

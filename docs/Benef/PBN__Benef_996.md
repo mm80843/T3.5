@@ -6,7 +6,7 @@
 
 Improved indoor air quality leads to a healthier living environment, reducing the risk of respiratory disorders and improving overall well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased occupancy rates and rental income due to improved living conditions, as well as potential cost savings on healthcare expenses for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1103.md)
 
@@ -17,4 +17,8 @@ Improved indoor air quality leads to a healthier living environment, reducing th
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 

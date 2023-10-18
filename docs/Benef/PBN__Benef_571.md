@@ -6,7 +6,7 @@
 
 Government can provide officers to the project sites to help in the explanation and supervision of labor SOP.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [With government assistance in SOP management, contractors can receive guidance and support to effectively implement and enforce safety protocols, ensuring a safe and productive work environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_624.md)
 
@@ -17,4 +17,8 @@ Government can provide officers to the project sites to help in the explanation 
 ## Stakeholders benefitting from this Benefit
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Risks which can benefit from this action
+
+* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_578.md)
 

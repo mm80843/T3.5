@@ -72,3 +72,18 @@ Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings
 * [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
 * [Roof UV filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1415.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1165.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
+* [light pipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
+* [light shelves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1167.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1166.md)
+

@@ -52,3 +52,12 @@ Urban design attributes and resilience: COVID-19 evidence from New York City
 * [Balanced allocation of urban services and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2436.md)
 * [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
 
+## This article mentions these technologies
+
+* [alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1992.md)
+* [face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1991.md)
+* [physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1990.md)
+* [urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1989.md)
+* [urban planning and design strategies to manage the distribution and density of pois](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1993.md)
+* [equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
+

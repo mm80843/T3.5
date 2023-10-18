@@ -6,7 +6,7 @@
 
 Integrated digital solutions improve data analysis and forecasting, enabling more effective strategic decision-making to manage the crisis.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced mortality rates, reduced burden on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1591.md)
 
@@ -18,4 +18,8 @@ Integrated digital solutions improve data analysis and forecasting, enabling mor
 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Risks which can benefit from this action
+
+* [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
 

@@ -6,7 +6,7 @@
 
 Building resilience measures such as proper ventilation and sturdy construction protect occupants during extreme events, reducing health risks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Occupants feel safe and protected during extreme events, minimizing health hazards and increasing well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_180.md)
 
@@ -17,4 +17,8 @@ Building resilience measures such as proper ventilation and sturdy construction 
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_156.md)
 

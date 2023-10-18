@@ -6,7 +6,7 @@
 
 By incorporating sustainability criteria that prioritize the integration of UGS in urban design, cities can ensure that green spaces are given proper consideration and become integral to the urban fabric, enhancing the overall livability and resilience of the city.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in sustainable urban design practices that prioritize UGS integration can benefit from increased demand for properties in well-planned and environmentally conscious areas, leading to potential asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1064.md)
 
@@ -19,4 +19,8 @@ By incorporating sustainability criteria that prioritize the integration of UGS 
 * [urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_380.md)
 * [environmental managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_381.md)
 * [and citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_382.md)
+
+## Risks which can benefit from this action
+
+* [Incorporation of sustainability criteria for urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_962.md)
 

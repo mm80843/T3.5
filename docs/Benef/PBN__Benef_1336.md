@@ -6,7 +6,7 @@
 
 construction of emergency buildings
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 
 ## Articles mentionning this Benefit
@@ -16,4 +16,7 @@ construction of emergency buildings
 ## Stakeholders benefitting from this Benefit
 
 * [emergency workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_523.md)
+
+## Risks which can benefit from this action
+
 

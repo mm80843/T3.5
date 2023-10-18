@@ -6,7 +6,7 @@
 
 Helps target preventive and control measures in areas with high HIV prevalence
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves public health outcomes and reduces healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_184.md)
 
@@ -17,4 +17,8 @@ Helps target preventive and control measures in areas with high HIV prevalence
 ## Stakeholders benefitting from this Benefit
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+
+## Risks which can benefit from this action
+
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_160.md)
 

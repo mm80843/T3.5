@@ -6,7 +6,7 @@
 
 Analysis of social media posts can identify coping strategies commonly employed by individuals to manage loneliness, providing insights for policymakers to recommend effective strategies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Policymakers can recommend effective coping strategies to individuals, improving their ability to manage loneliness during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1021.md)
 
@@ -18,4 +18,8 @@ Analysis of social media posts can identify coping strategies commonly employed 
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Use of social media data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_928.md)
 

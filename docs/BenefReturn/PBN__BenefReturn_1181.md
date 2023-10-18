@@ -2,3 +2,7 @@
 
 # __Investment in PPE demonstrates a commitment to worker safety, improving morale and reducing absenteeism.__
 
+## This return can be realized by these benefits
+
+* [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1059.md)
+

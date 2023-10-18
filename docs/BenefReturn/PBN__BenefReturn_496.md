@@ -2,3 +2,7 @@
 
 # __Enhances patient safety, promotes social distancing, and reduces the burden on healthcare facilities.__
 
+## This return can be realized by these benefits
+
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_460.md)
+

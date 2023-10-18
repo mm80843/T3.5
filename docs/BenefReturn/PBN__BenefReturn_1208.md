@@ -2,3 +2,7 @@
 
 # __Increased affordability, higher return on investment__
 
+## This return can be realized by these benefits
+
+* [Incentives for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1081.md)
+

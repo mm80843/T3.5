@@ -6,7 +6,7 @@
 
 Lack of funding results in declining quality of green space, which is particularly detrimental during a pandemic
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Proper investment and management of green space can increase community morale, improve mental and physical health, and enhance property values](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_195.md)
 
@@ -17,4 +17,8 @@ Lack of funding results in declining quality of green space, which is particular
 ## Stakeholders benefitting from this Benefit
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Risks which can benefit from this action
+
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_171.md)
 

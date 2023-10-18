@@ -50,3 +50,16 @@ Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fab
 * [Copper Coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
 * [Stainless Steel Replacement with Copper](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_825.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_763.md)
+* [manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
+* [scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_314.md)
+* [cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
+* [testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+

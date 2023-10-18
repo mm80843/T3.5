@@ -6,7 +6,7 @@
 
 Hygienic measures, such as frequent hand washing and staying at home when sick, can not only prevent the spread of COVID-19 but also reduce transmission of other respiratory viruses like influenza
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in companies producing hygiene products (e.g., hand sanitizers, soap) can benefit from increased demand for their products.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_539.md)
 
@@ -17,4 +17,8 @@ Hygienic measures, such as frequent hand washing and staying at home when sick, 
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_85.md)
 

@@ -2,3 +2,7 @@
 
 # __Investing in social entrepreneurship funds can provide direct benefits to private investors in terms of superior performance and potentially higher returns.__
 
+## This return can be realized by these benefits
+
+* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)
+

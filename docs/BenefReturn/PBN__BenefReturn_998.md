@@ -2,3 +2,7 @@
 
 # __Increased public awareness can lead to more informed decision-making and potentially decrease the spread of the virus.__
 
+## This return can be realized by these benefits
+
+* [Increased public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_912.md)
+

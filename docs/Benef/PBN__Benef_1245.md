@@ -6,7 +6,7 @@
 
 Clearer communication and analysis of public spaces, better decision-making
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved urban planning, more efficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1398.md)
 
@@ -19,4 +19,8 @@ Clearer communication and analysis of public spaces, better decision-making
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+
+## Risks which can benefit from this action
+
+* [Creating a new vocabulary or typology to describe public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1259.md)
 

@@ -6,7 +6,7 @@
 
 Chat bots and phone-based software for self-monitoring and medical treatment referral
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced hospital consultations and better resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1481.md)
 
@@ -17,4 +17,8 @@ Chat bots and phone-based software for self-monitoring and medical treatment ref
 ## Stakeholders benefitting from this Benefit
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [AI-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1330.md)
 

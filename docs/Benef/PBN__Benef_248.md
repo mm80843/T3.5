@@ -6,7 +6,7 @@
 
 Implementing social distancing measures such as maintaining physical distance reduces the risk of virus transmission and protects workers and the public.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Adopting proper waste disinfection measures can enhance the property’s value and create a safer living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_260.md)
 * [Investing in social distancing measures helps to prevent COVID-19 outbreaks on construction sites, ensuring business continuity and protecting public health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_442.md)
@@ -21,4 +21,9 @@ Implementing social distancing measures such as maintaining physical distance re
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_237.md)
 

@@ -6,7 +6,7 @@
 
 Monitoring reactions and performance, altering assignments and schedules, modifying expectations, and offering psychosocial support
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced provider well-being, reduced burnout, and improved patient care, leading to increased work satisfaction and retention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_906.md)
 
@@ -17,4 +17,8 @@ Monitoring reactions and performance, altering assignments and schedules, modify
 ## Stakeholders benefitting from this Benefit
 
 * [health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
 

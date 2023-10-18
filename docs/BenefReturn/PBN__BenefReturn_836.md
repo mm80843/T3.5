@@ -2,3 +2,7 @@
 
 # __Improved adherence to public health measures__
 
+## This return can be realized by these benefits
+
+* [Increased trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_766.md)
+

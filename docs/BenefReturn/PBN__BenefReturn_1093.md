@@ -2,3 +2,7 @@
 
 # __Investing in a surveillance system improves public health outcomes and reduces healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+

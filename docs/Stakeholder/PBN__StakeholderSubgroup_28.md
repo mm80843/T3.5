@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Green thumb enthusiasts and public leisure spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_280.md)
+* [Green thumb enthusiasts and public leisure spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_273.md)
 
 ## Closest similar item
 

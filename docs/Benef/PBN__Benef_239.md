@@ -6,7 +6,7 @@
 
 Proper water filtration and disinfection measures ensure a clean and safe water supply in the building
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Ensuring a clean water supply can enhance tenant satisfaction and create a healthier living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_251.md)
 
@@ -17,4 +17,8 @@ Proper water filtration and disinfection measures ensure a clean and safe water 
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_228.md)
 

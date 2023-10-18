@@ -6,3 +6,7 @@
 
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
 
+## This article mentions these technologies
+
+* [standardization of protocols and nan standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
+

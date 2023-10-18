@@ -52,3 +52,17 @@ Role of Information Technology in Covid-19 Prevention
 * [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1314.md)
 * [Autonomous Vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
 
+## This article mentions these technologies
+
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
+* [public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
+* [respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_585.md)
+* [self-care resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1122.md)
+* [triage protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1120.md)
+

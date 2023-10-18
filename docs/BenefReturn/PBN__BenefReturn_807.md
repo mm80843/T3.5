@@ -2,3 +2,7 @@
 
 # __Enhanced social cohesion can lead to a more peaceful and harmonious society.__
 
+## This return can be realized by these benefits
+
+* [Enhanced surveillance and social monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_744.md)
+

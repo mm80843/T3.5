@@ -50,3 +50,15 @@ Sustainability of Coronavirus on Different Surfaces
 * [Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
 * [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1649.md)
+* [eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
+* [biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1651.md)
+* [telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1652.md)
+* [mobile medical units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1653.md)
+

@@ -6,7 +6,7 @@
 
 Green spaces provide habitat, shelter, and food for urban wildlife, contributing to biodiversity conservation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved biodiversity conservation attracts tourists and promotes a positive image of the city, which can enhance economic development and property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_825.md)
 
@@ -17,4 +17,8 @@ Green spaces provide habitat, shelter, and food for urban wildlife, contributing
 ## Stakeholders benefitting from this Benefit
 
 * [non-domestic animal species](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_312.md)
+
+## Risks which can benefit from this action
+
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_752.md)
 

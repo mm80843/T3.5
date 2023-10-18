@@ -2,3 +2,7 @@
 
 # __Private investors investing in blockchain-based supply chain management would benefit from improved reliability, enhancing the value of their investment.__
 
+## This return can be realized by these benefits
+
+* [Reliability in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1058.md)
+

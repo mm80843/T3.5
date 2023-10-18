@@ -6,7 +6,7 @@
 
 Enhanced infection control measures during various activities with suspected or confirmed cases, samples, materials, and waste reduce the risk of transmission within healthcare settings.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare facilities would benefit from investing in safe work practices as it would protect the health and safety of healthcare workers, reduce the risk of nosocomial infections, and enhance the reputation and quality of the healthcare facility.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_534.md)
 
@@ -17,4 +17,8 @@ Enhanced infection control measures during various activities with suspected or 
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
+
+## Risks which can benefit from this action
+
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_505.md)
 

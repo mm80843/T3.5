@@ -48,3 +48,16 @@ Health Information Exchange with Blockchain amid Covid-19-like Pandemics
 * [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_438.md)
 * [Misinformation Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_436.md)
 
+## This article mentions these technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
+* [authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_400.md)
+* [cybersecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
+* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [health information exchange (hie) systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_397.md)
+* [electronic health records (ehr) interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
+* [iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
+

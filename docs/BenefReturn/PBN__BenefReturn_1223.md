@@ -2,3 +2,7 @@
 
 # __Investing in blockchain technology can enhance data security, facilitate interoperability, and build trust among stakeholders, enabling efficient information exchange and improving overall pandemic response.__
 
+## This return can be realized by these benefits
+
+* [Secure data sharing and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1094.md)
+

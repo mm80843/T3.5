@@ -48,3 +48,12 @@ CIDO, a community-based ontology for coronavirus disease knowledge and data inte
 * [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
 * [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_767.md)
 
+## This article mentions these technologies
+
+* [ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
+* [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
+* [ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
+* [ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
+* [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
+* [literature mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_716.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Regulate and control AH and RH levels in the built environment to reduce virus survival and transmission.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2267.md)
 * [Use of sterile glass coverslips for virus testing and UV-C exposure. Strict adherence to containment protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1620.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Understanding the effect of RH on UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_436.md)
 

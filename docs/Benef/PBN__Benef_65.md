@@ -6,7 +6,7 @@
 
 CIDO facilitates the annotation and modeling of vaccine candidates, aiding in the design and analysis of potential vaccines against coronaviruses.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit indirectly from the improved vaccine design and analysis, potentially leading to the development of effective vaccines, attracting investment and commercial interest.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_65.md)
 
@@ -18,4 +18,8 @@ CIDO facilitates the annotation and modeling of vaccine candidates, aiding in th
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+
+## Risks which can benefit from this action
+
+* [Annotating and modeling vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_58.md)
 

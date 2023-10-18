@@ -6,7 +6,7 @@
 
 NPHIs have resulted in a 4.87% decrease in daily death growth rate, reducing mortality from COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in NPHIs would benefit from a decreased risk of infection, potential reduction in healthcare costs, and improved economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_84.md)
 
@@ -17,4 +17,8 @@ NPHIs have resulted in a 4.87% decrease in daily death growth rate, reducing mor
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Non-pharmaceutical public health interventions (NPHIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_74.md)
 

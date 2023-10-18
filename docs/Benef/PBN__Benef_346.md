@@ -6,7 +6,7 @@
 
 Reduced risk of virus transmission indoors
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and safety of occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_369.md)
 
@@ -17,4 +17,8 @@ Reduced risk of virus transmission indoors
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_348.md)
 

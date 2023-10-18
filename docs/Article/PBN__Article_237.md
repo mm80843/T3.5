@@ -48,3 +48,19 @@ Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scr
 * [Geographic Information System (GIS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1376.md)
 * [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
 
+## This article mentions these technologies
+
+* [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1145.md)
+* [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_400.md)
+* [fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
+* [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
+* [websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1089.md)
+* [secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1147.md)
+* [rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
+

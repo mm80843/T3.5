@@ -6,7 +6,7 @@
 
 Providing accessible entrances and spaces for vulnerable populations ensures their safety and reduces their risk of infection
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing special access measures enhances building inclusivity, social responsibility, and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_127.md)
 
@@ -17,4 +17,8 @@ Providing accessible entrances and spaces for vulnerable populations ensures the
 ## Stakeholders benefitting from this Benefit
 
 * [vulnerable populations and building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_79.md)
+
+## Risks which can benefit from this action
+
+* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
 

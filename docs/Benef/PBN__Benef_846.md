@@ -6,7 +6,7 @@
 
 Ontologies enable structural representation and semantics of COVID-19 data, facilitating predictive analytics for pandemic spread
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in ontological reasoning as it improves data representation and analysis, enhancing decision-making and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_920.md)
 
@@ -18,4 +18,8 @@ Ontologies enable structural representation and semantics of COVID-19 data, faci
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Risks which can benefit from this action
+
+* [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
 

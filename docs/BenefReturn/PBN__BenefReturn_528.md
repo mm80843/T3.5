@@ -2,3 +2,7 @@
 
 # __Investment in cloud-based remote monitoring can improve healthcare efficiency and reduce healthcare costs by preventing complications and hospital admissions__
 
+## This return can be realized by these benefits
+
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
+

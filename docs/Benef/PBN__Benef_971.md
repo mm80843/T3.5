@@ -6,7 +6,7 @@
 
 The Cu2O/PU film is durable and retains its mechanical integrity even when scratched, ensuring long-lasting protection against SARS-CoV-2.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing the coating would result in cost savings due to reduced need for frequent reapplication or replacement of the film.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1068.md)
 
@@ -17,4 +17,8 @@ The Cu2O/PU film is durable and retains its mechanical integrity even when scrat
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Coating with cuprous oxide (Cu2O)/polyurethane (PU) film](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_964.md)
 

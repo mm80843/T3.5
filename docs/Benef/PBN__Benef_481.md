@@ -6,7 +6,7 @@
 
 Softening the labor market impact of automation through policies such as unemployment insurance and job transition programs helps workers adjust to new job opportunities, reducing unemployment and improving social welfare.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a stable labor market and reduced labor market disruptions, reducing costs associated with layoffs and turnover.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_524.md)
 
@@ -17,4 +17,8 @@ Softening the labor market impact of automation through policies such as unemplo
 ## Stakeholders benefitting from this Benefit
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+
+## Risks which can benefit from this action
+
+* [Softening Labor Market Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_496.md)
 

@@ -6,7 +6,7 @@
 
 Successful containment measures such as social distancing and travel restrictions can prevent the spread of pandemics, reducing the burden on healthcare systems and preventing economic disruptions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing these measures can lead to improved public health outcomes and economic stability in developing countries, attracting investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1126.md)
 
@@ -17,4 +17,8 @@ Successful containment measures such as social distancing and travel restriction
 ## Stakeholders benefitting from this Benefit
 
 * [public and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_402.md)
+
+## Risks which can benefit from this action
+
+* [Public education, social distancing, home quarantine, and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1009.md)
 

@@ -6,7 +6,7 @@
 
 Open government projects ensure the equity of access to information and improve the effectiveness of public policies through citizen participation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased trust in government and improved decision-making processes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_954.md)
 
@@ -18,4 +18,8 @@ Open government projects ensure the equity of access to information and improve 
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [public administrations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_353.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of Open Government projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_872.md)
 

@@ -6,7 +6,7 @@
 
 Common spaces for socialization help meet the fundamental human need for social interaction
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [The availability of common spaces can enhance the property’s value and create a sense of community among residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_245.md)
 
@@ -17,4 +17,8 @@ Common spaces for socialization help meet the fundamental human need for social 
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_222.md)
 

@@ -6,7 +6,7 @@
 
 Disinfection and proper disposal of hospital wastes and wastewater reduces the risk of infection and contamination, protecting public health and the environment
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in the mitigation measures would benefit from improved asset value and reputation, as well as reduced liability for potential public health and environmental damages](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1025.md)
 
@@ -19,4 +19,8 @@ Disinfection and proper disposal of hospital wastes and wastewater reduces the r
 * [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+
+## Risks which can benefit from this action
+
+* [Proper disinfection and disposal of hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_929.md)
 

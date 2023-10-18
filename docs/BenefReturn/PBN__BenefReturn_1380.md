@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from improved credibility of UBPI, leading to increased adoption and utilization, and opportunities for research collaboration.__
 
+## This return can be realized by these benefits
+
+* [Increased evidence-base for UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1233.md)
+

@@ -2,3 +2,7 @@
 
 # __Reduced pain and improved comfort lead to increased productivity and reduced absenteeism, increasing the asset value of the property.__
 
+## This return can be realized by these benefits
+
+* [Reduced musculoskeletal pain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1286.md)
+

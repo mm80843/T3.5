@@ -2,3 +2,7 @@
 
 # __Implementing WBS can provide accurate data on population prevalence, allowing for more targeted interventions and resource allocation.__
 
+## This return can be realized by these benefits
+
+* [Population prevalence estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1205.md)
+

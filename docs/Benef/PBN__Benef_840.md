@@ -6,7 +6,7 @@
 
 Incorporating occupant presence data in simulation improves accuracy
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [More reliable energy simulation results, better decision-making](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_914.md)
 
@@ -18,4 +18,8 @@ Incorporating occupant presence data in simulation improves accuracy
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [energy analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_347.md)
+
+## Risks which can benefit from this action
+
+* [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_838.md)
 

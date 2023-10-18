@@ -6,7 +6,7 @@
 
 Reduces the negative financial impact of the pandemic on construction companies and projects
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved financial stability and reduced risks of bankruptcy or project failure.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1557.md)
 
@@ -18,4 +18,8 @@ Reduces the negative financial impact of the pandemic on construction companies 
 
 * [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
 * [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+
+## Risks which can benefit from this action
+
+* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
 

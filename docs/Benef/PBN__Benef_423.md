@@ -6,7 +6,7 @@
 
 Implementing measures to address urban inequality, such as housing vulnerable populations and providing multilingual public-health information, can contribute to improved urban equality and social inclusion during public-health emergencies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in urban development projects that prioritize urban equality can benefit from increased social stability and reduced social unrest, potentially leading to improved asset values and financial returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_454.md)
 
@@ -17,4 +17,8 @@ Implementing measures to address urban inequality, such as housing vulnerable po
 ## Stakeholders benefitting from this Benefit
 
 * [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
+
+## Risks which can benefit from this action
+
+* [Forced experimentation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_431.md)
 

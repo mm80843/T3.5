@@ -6,7 +6,7 @@
 
 Facilitates social distancing and other precautionary measures for public health
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved employee productivity, reduced risk of shutdowns and increased customer confidence.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1001.md)
 * [Improved perception of safety and well-being, increased building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1199.md)
@@ -22,4 +22,9 @@ Facilitates social distancing and other precautionary measures for public health
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+
+## Risks which can benefit from this action
+
+* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
+* [Optimized physical space modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_913.md)
 

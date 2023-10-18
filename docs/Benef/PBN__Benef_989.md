@@ -6,7 +6,7 @@
 
 Conducting epidemiological research helps to understand the patterns and transmission of infectious diseases, enabling better response strategies and policy development.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in epidemiological research improves public health outcomes and guides public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1096.md)
 
@@ -17,4 +17,8 @@ Conducting epidemiological research helps to understand the patterns and transmi
 ## Stakeholders benefitting from this Benefit
 
 * [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+
+## Risks which can benefit from this action
+
+* [Epidemiological research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_986.md)
 

@@ -40,3 +40,9 @@ Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis
 * [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
 * [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
 
+## This article mentions these technologies
+
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_570.md)
+* [improved negative ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_569.md)
+

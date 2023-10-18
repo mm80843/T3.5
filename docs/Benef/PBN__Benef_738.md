@@ -6,7 +6,7 @@
 
 Higher temperatures and intense UV radiation in summer may support public health measures to contain COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in public health measures can benefit from improved control of COVID-19 transmission and containment, leading to potential economic stability and recovery.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_797.md)
 
@@ -17,4 +17,8 @@ Higher temperatures and intense UV radiation in summer may support public health
 ## Stakeholders benefitting from this Benefit
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_728.md)
 

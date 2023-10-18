@@ -6,7 +6,7 @@
 
 Enhances the capabilities of existing crowd models by incorporating an occupant exposure module
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increases the usefulness and applicability of existing crowd models](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_17.md)
 
@@ -18,4 +18,8 @@ Enhances the capabilities of existing crowd models by incorporating an occupant 
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [crowd model users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_13.md)
+
+## Risks which can benefit from this action
+
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

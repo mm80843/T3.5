@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from a larger pool of skilled workers, improved workplace diversity, and potential investment opportunities in women-led businesses.__
 
+## This return can be realized by these benefits
+
+* [Greater gender equity in employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_630.md)
+

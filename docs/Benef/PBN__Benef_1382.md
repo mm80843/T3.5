@@ -6,7 +6,7 @@
 
 Monitoring buying patterns and limiting purchases to prevent hoarding
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Stable supply of essential goods, reduced scarcity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1569.md)
 
@@ -18,4 +18,8 @@ Monitoring buying patterns and limiting purchases to prevent hoarding
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
+
+## Risks which can benefit from this action
+
+* [Buying behavior monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1414.md)
 

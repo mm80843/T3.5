@@ -6,7 +6,7 @@
 
 Restructuring the spatial configuration of services and work activities can improve efficiency and accessibility, leading to increased productivity and economic growth for cities and urban areas.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by investing in projects that promote the restructuring of services and work activities, as it can lead to increased property values and economic opportunities in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1161.md)
 
@@ -17,4 +17,8 @@ Restructuring the spatial configuration of services and work activities can impr
 ## Stakeholders benefitting from this Benefit
 
 * [cities and urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_414.md)
+
+## Risks which can benefit from this action
+
+* [Rethinking management of services and work activities with focus on spatial configuration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1043.md)
 

@@ -47,3 +47,17 @@ Compliance with COVID-19 Mitigation Measures in the United States
 * [Political orientation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2275.md)
 * [Costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2276.md)
 
+## This article mentions these technologies
+
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
+* [educational platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
+* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+* [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [increased law enforcement presence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
+* [teletherapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1857.md)
+

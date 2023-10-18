@@ -46,3 +46,12 @@ Contributions to the mitigation of the COVID-19 pandemic
 * [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1624.md)
 * [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1625.md)
 
+## This article mentions these technologies
+
+* [diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
+* [serological testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1310.md)
+* [vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
+* [research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
+* [comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
+* [data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1308.md)
+

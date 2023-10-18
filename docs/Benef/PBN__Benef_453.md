@@ -6,7 +6,7 @@
 
 Telecommuting allows for a better work-life balance and flexibility in working arrangements
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [By implementing revised work schedules, private investors can improve job satisfaction and employee engagement, leading to increased productivity, reduced turnover rates, and enhanced attraction of top talent.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_489.md)
 * [Private investors would benefit from increased employee satisfaction and productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1086.md)
@@ -20,4 +20,9 @@ Telecommuting allows for a better work-life balance and flexibility in working a
 
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_204.md)
+
+## Risks which can benefit from this action
+
+* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_534.md)
+* [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_470.md)
 

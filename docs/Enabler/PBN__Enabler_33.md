@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Devices that measure and detect the quality of atmospheric conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_66.md)
+* [Devices that measure and detect the quality of atmospheric conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)
 
 ## Closest similar item
 

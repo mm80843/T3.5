@@ -62,3 +62,14 @@ Green infrastructure through the lens of “One Health”: A systematic review a
 * [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_647.md)
 * [Dog walking guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_646.md)
 
+## This article mentions these technologies
+
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [green space quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_596.md)
+* [urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
+* [biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_600.md)
+* [habitat creation and management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_601.md)
+* [land-use policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_598.md)
+* [mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_599.md)
+* [wildlife-friendly guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_602.md)
+

@@ -48,3 +48,14 @@ Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A ca
 * [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
 * [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
 
+## This article mentions these technologies
+
+* [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
+* [noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_962.md)
+* [noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
+* [communication and mediation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_961.md)
+* [traffic management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_963.md)
+* [bird deterrent devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_964.md)
+

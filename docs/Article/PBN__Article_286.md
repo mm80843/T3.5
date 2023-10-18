@@ -53,3 +53,19 @@ Addressing the impact of COVID-19 lockdown on energy use in municipal buildings:
 * [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
 * [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
 
+## This article mentions these technologies
+
+* [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
+* [lighting control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_654.md)
+* [energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_652.md)
+* [efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_655.md)
+* [regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_653.md)
+* [building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
+* [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [power-saving features in devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_650.md)
+* [user education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
+* [energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_656.md)
+* [occupant education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
+* [behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
+

@@ -6,7 +6,7 @@
 
 Proper noise insulation enhances acoustic comfort, reduces noise pollution, and improves the overall living environment
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing design-level adjustments for noise insulation can enhance tenant satisfaction and create a quieter living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_266.md)
 
@@ -17,4 +17,8 @@ Proper noise insulation enhances acoustic comfort, reduces noise pollution, and 
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
 

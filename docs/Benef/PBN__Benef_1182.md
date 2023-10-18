@@ -6,7 +6,7 @@
 
 Equips individuals with coping strategies to manage stress and adversity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves mental health and resilience, leading to increased productivity and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1317.md)
 
@@ -17,4 +17,8 @@ Equips individuals with coping strategies to manage stress and adversity
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Resilience training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1183.md)
 

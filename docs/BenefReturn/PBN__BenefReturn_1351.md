@@ -2,3 +2,7 @@
 
 # __Implementing WBS can lead to improved public health measures, reducing the economic impact of lockdowns and preserving the value of assets.__
 
+## This return can be realized by these benefits
+
+* [Improved public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1208.md)
+

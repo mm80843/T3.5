@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_329.md)
+* [Enhance airflow, increase fresh air intake, and optimize ventilation systems to improve air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_324.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
 * [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved indoor air quality and comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1317.md)
 

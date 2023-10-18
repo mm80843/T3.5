@@ -6,7 +6,7 @@
 
 Plants remove VOCs from the air, reducing emissions to the environment
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved environmental sustainability and reputation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_392.md)
 
@@ -17,4 +17,7 @@ Plants remove VOCs from the air, reducing emissions to the environment
 ## Stakeholders benefitting from this Benefit
 
 * [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
+
+## Risks which can benefit from this action
+
 

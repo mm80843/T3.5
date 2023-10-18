@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
+* [Enhance acoustics and reduce noise through design, materials, insulation, regulations, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_347.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
 * [Implement noise reduction measures such as sound barriers or regulations on construction noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2175.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Reduced noise transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1288.md)
 

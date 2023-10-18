@@ -48,3 +48,9 @@ Rapid expansion of temporary, reliable airborne-infection isolation rooms with n
 * [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
 * [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
+* [door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
+

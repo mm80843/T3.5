@@ -2,3 +2,7 @@
 
 # __both__
 
+## Risks labelled under this category
+
+* [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
+

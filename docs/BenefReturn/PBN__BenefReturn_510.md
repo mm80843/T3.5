@@ -2,3 +2,7 @@
 
 # __Private investors can attract tenants and buyers by implementing urban planning strategies that reduce heat stress and increase comfort.__
 
+## This return can be realized by these benefits
+
+* [Heat stress reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_470.md)
+

@@ -6,7 +6,7 @@
 
 The implementation of anti-contagion policies has significantly reduced the number of COVID-19 infections in various countries worldwide.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_334.md)
 * [Private investors investing in these policies can benefit from a reduction in healthcare costs, a more stable workforce, and improved well-being of the population, leading to better economic conditions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_549.md)
@@ -20,4 +20,9 @@ The implementation of anti-contagion policies has significantly reduced the numb
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of anti-contagion policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_516.md)
+* [Direct UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_316.md)
 

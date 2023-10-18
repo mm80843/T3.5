@@ -6,7 +6,7 @@
 
 Personalized ventilation supplies clean air directly to the breathing zone of each occupant, reducing the risk of infection from airborne pathogens.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of infection for residents, improving health and safety and potentially increasing property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_466.md)
 * [Implementing this revised waste collection protocol can protect the health and safety of waste collection workers and the general public, improving public perception and maintaining the operational efficiency of waste management systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1235.md)
@@ -24,4 +24,14 @@ Personalized ventilation supplies clean air directly to the breathing zone of ea
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [waste collection workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_438.md)
 * [gated community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_201.md)
+
+## Risks which can benefit from this action
+
+* [Strict adherence to preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_443.md)
+* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_442.md)
+* [Less crowded living environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_444.md)
+* [Self-sufficiency in shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_445.md)
+* [Self-sufficiency in recreational facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_446.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1167.md)
+* [Revised waste collection protocol](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1115.md)
 

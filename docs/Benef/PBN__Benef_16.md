@@ -6,7 +6,7 @@
 
 Enables assessment of the effectiveness of different crowd management solutions and building designs in minimizing occupant exposure
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances the value and marketability of buildings by ensuring safer environments for occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_16.md)
 
@@ -18,4 +18,8 @@ Enables assessment of the effectiveness of different crowd management solutions 
 
 * [building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
 * [risk assessors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_12.md)
+
+## Risks which can benefit from this action
+
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

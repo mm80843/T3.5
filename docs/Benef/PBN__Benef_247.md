@@ -6,7 +6,7 @@
 
 Proper segregation of medical waste ensures safe waste management and prevents the spread of pathogens
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing proper segregation of medical waste can enhance tenant satisfaction and create a safer living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_259.md)
 
@@ -17,4 +17,8 @@ Proper segregation of medical waste ensures safe waste management and prevents t
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_236.md)
 

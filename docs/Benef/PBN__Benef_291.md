@@ -6,7 +6,7 @@
 
 Improving access to safe drinking water ensures better overall health and well-being of communities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from the development and implementation of water purification and sanitation technologies, creating market opportunities for sustainable water solutions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_310.md)
 
@@ -18,4 +18,8 @@ Improving access to safe drinking water ensures better overall health and well-b
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_287.md)
 

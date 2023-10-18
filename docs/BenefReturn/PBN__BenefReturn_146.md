@@ -2,3 +2,9 @@
 
 # __nan__
 
+## This return can be realized by these benefits
+
+* [in indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1329.md)
+* [on contact surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1331.md)
+* [buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1336.md)
+

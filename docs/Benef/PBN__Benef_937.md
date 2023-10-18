@@ -6,7 +6,7 @@
 
 Disinfecting hospital wastes reduces the risk of disease spread and contamination, protecting public health and improving sanitation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in hospital waste management and disinfection technologies would benefit from increased demand for these services, as well as potential cost savings from improved waste management efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1027.md)
 
@@ -18,4 +18,8 @@ Disinfecting hospital wastes reduces the risk of disease spread and contaminatio
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [hospital staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_369.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of proper disinfection technologies for hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_931.md)
 

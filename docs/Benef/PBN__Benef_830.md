@@ -6,7 +6,7 @@
 
 The reduction in transmission achieved by interventions, as measured by changes in the reproduction number, leads to control of the epidemic and a decrease in the incidence of new infections.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in interventions that reduce transmission can lead to a more stabilized and controlled epidemic, supporting economic recovery and preserving the well-being of the population.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_901.md)
 
@@ -17,4 +17,8 @@ The reduction in transmission achieved by interventions, as measured by changes 
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_826.md)
 

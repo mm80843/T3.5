@@ -6,7 +6,7 @@
 
 Perceiving COVID-19 as a severe threat increases individuals' willingness to adopt protective behaviors and take active actions towards prevention and control.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by supporting initiatives that increase risk perception among the public, as it promotes compliance with protective measures, which can help mitigate the spread of the disease and reduce its impact on communities and economies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_404.md)
 
@@ -17,4 +17,8 @@ Perceiving COVID-19 as a severe threat increases individuals' willingness to ado
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_379.md)
 

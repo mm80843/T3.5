@@ -2,3 +2,7 @@
 
 # __Enhances the value and marketability of buildings by ensuring safer environments for occupants__
 
+## This return can be realized by these benefits
+
+* [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_16.md)
+

@@ -6,7 +6,7 @@
 
 Ensuring global coverage of vaccination helps to address the challenge of equitable distribution, ensuring that the most vulnerable populations have access to vaccines.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a vaccinated population, which can lead to economic recovery and stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_795.md)
 
@@ -18,4 +18,8 @@ Ensuring global coverage of vaccination helps to address the challenge of equita
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
 

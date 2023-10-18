@@ -2,3 +2,7 @@
 
 # __Private investors investing in improved urban planning can benefit from increased property values and demand for housing in well-planned and well-equipped urban areas.__
 
+## This return can be realized by these benefits
+
+* [Improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_666.md)
+

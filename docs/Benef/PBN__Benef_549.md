@@ -6,7 +6,7 @@
 
 Innovating and utilizing multiple channels such as social media, interviews, and webinars improves dissemination and reach of evidence
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased awareness, engagement, and uptake of evidence by target audiences](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_601.md)
 
@@ -20,4 +20,8 @@ Innovating and utilizing multiple channels such as social media, interviews, and
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+
+## Risks which can benefit from this action
+
+* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_561.md)
 

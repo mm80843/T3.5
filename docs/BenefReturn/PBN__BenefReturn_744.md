@@ -2,3 +2,7 @@
 
 # __Improved social cohesion, reduced societal inequalities__
 
+## This return can be realized by these benefits
+
+* [Reduced income inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_695.md)
+

@@ -6,7 +6,7 @@
 
 Adhering to public health measures decreases the spread of COVID-19
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Economic recovery and decreased social and economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_839.md)
 
@@ -17,4 +17,8 @@ Adhering to public health measures decreases the spread of COVID-19
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
 

@@ -6,7 +6,7 @@
 
 Insecticide-treated bed nets reduce contact between mosquitoes and humans, preventing transmission of vector-borne diseases.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in insecticide-treated bed nets can lead to a significant reduction in the risk of vector-borne diseases, improving the health and well-being of individuals and potentially increasing productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_353.md)
 
@@ -17,4 +17,8 @@ Insecticide-treated bed nets reduce contact between mosquitoes and humans, preve
 ## Stakeholders benefitting from this Benefit
 
 * [users of bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_158.md)
+
+## Risks which can benefit from this action
+
+* [Use of insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_332.md)
 

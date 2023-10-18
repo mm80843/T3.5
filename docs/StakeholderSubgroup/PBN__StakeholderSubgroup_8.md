@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Public officials and leaders responsible for overseeing and managing governmental operations, organizations, and city affairs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_251.md)
+* [Public officials and leaders responsible for overseeing and managing governmental operations, organizations, and city affairs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Enhances the sensitivity of detection for SARS-CoV-2 in wastewater, increasing accuracy of surveillance data
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved accuracy of monitoring, better understanding of community spread, early detection of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1101.md)
 
@@ -18,4 +18,8 @@ Enhances the sensitivity of detection for SARS-CoV-2 in wastewater, increasing a
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [Developing sensitive RT-qPCR assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
 

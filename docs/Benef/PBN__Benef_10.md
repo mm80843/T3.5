@@ -6,7 +6,7 @@
 
 Enhanced safety for victims of domestic violence through increased reporting and intervention
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved well-being and protection for victims and potential reduction in harm](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_10.md)
 
@@ -17,4 +17,8 @@ Enhanced safety for victims of domestic violence through increased reporting and
 ## Stakeholders benefitting from this Benefit
 
 * [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
+
+## Risks which can benefit from this action
+
+* [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
 

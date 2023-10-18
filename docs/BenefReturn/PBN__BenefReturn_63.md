@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from improved data integration and analysis, resulting in more accurate and comprehensive understanding of coronavirus diseases, potentially leading to valuable discoveries or treatments.__
 
+## This return can be realized by these benefits
+
+* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
+

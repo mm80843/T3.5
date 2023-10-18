@@ -6,7 +6,7 @@
 
 Improved surveillance and social monitoring can help prevent and address psychological tensions and social conflicts
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced social cohesion can lead to a more peaceful and harmonious society.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_807.md)
 
@@ -18,4 +18,8 @@ Improved surveillance and social monitoring can help prevent and address psychol
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Integration of urban technology for disaster preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_737.md)
 

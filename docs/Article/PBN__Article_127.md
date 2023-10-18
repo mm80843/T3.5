@@ -55,3 +55,19 @@ Applications of digital technology in COVID-19 pandemic planning and response
 * [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
 * [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2378.md)
 
+## This article mentions these technologies
+
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
+* [noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1941.md)
+* [data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_824.md)
+* [widespread testing programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
+* [technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1596.md)
+* [anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1936.md)
+* [broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1938.md)
+* [opt-in systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1937.md)
+* [privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
+* [loaner devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
+* [free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1940.md)
+* [combination of vital sign screening and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1942.md)
+

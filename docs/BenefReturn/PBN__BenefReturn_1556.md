@@ -2,3 +2,7 @@
 
 # __Private investors benefit from improved employee satisfaction and retention, leading to increased productivity and reduced recruitment and training costs__
 
+## This return can be realized by these benefits
+
+* [Increased flexibility in work arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1369.md)
+

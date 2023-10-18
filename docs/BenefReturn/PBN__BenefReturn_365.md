@@ -2,3 +2,7 @@
 
 # __Private investors can enhance the value of their properties by implementing portable room air cleaners and providing a safer and healthier environment for occupants.__
 
+## This return can be realized by these benefits
+
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
+

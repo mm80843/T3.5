@@ -2,3 +2,7 @@
 
 # __Private investors could benefit from investing in education and awareness campaigns through improved asset value of properties in areas with high knowledge and awareness levels, as residents would be more likely to follow prevention measures and reduce the spread of the disease.__
 
+## This return can be realized by these benefits
+
+* [Increased Knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_868.md)
+

@@ -2,3 +2,7 @@
 
 # __Early identification and control of workplace outbreaks, reduced transmission among employees and their close contacts__
 
+## This return can be realized by these benefits
+
+* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1219.md)
+

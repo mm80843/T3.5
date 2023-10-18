@@ -57,3 +57,15 @@ Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Trans
 * [Capacity Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)
 * [Enhanced Cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
 
+## This article mentions these technologies
+
+* [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1331.md)
+* [touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
+* [real-time passenger information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1328.md)
+* [mobile ticketing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1332.md)
+* [demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
+* [capacity management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
+* [shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1334.md)
+

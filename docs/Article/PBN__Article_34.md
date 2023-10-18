@@ -46,3 +46,16 @@ How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Int
 * [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
 * [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
 
+## This article mentions these technologies
+
+* [incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
+* [provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
+* [create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1381.md)
+* [fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
+* [promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
+* [use energy-efficient lighting and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1373.md)
+* [design processes that prioritize self-sufficiency and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1372.md)
+* [use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
+* [provide active workstations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1375.md)
+* [biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
+

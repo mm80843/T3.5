@@ -2,3 +2,7 @@
 
 # __Improved air quality and reduced risk of infection, enhancing occupant health and safety.__
 
+## This return can be realized by these benefits
+
+* [Reduction of pathogen transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1023.md)
+

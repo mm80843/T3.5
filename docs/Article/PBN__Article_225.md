@@ -54,3 +54,8 @@ COVID-19 and its Modes of Transmission
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
 * [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_940.md)
 
+## This article mentions these technologies
+
+* [use of air purifiers or ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_859.md)
+* [proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_860.md)
+

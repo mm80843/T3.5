@@ -70,3 +70,13 @@ Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the I
 * [Personal responsibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2009.md)
 * [Testing urological wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2002.md)
 
+## This article mentions these technologies
+
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
+* [advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1623.md)
+* [none specified](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
+* [online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1626.md)
+* [air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_310.md)
+* [rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1624.md)
+

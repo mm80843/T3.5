@@ -2,3 +2,7 @@
 
 # __Enhanced adaptability, reduced cost of permanent installations__
 
+## This return can be realized by these benefits
+
+* [Temporary adaptations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1080.md)
+

@@ -6,7 +6,7 @@
 
 Integrating latrine sampling into WBE would extend the reach of population-wide testing to resource poor regions and vulnerable populations.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit indirectly from investment in WBE by contributing to global health surveillance, protecting vulnerable populations, and aiding in economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1357.md)
 
@@ -18,4 +18,8 @@ Integrating latrine sampling into WBE would extend the reach of population-wide 
 
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 * [resource poor regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_473.md)
+
+## Risks which can benefit from this action
+
+* [Integration of latrine sampling in WBE](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1209.md)
 

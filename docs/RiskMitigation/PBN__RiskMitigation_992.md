@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_309.md)
+* [Implement comprehensive strategies to control virus transmission, improve surveillance, develop antiviral coatings, and enhance infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_302.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implement NPHIs in a timely manner, closely monitor the spread of the virus, prioritize early intervention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2029.md)
 * [Comparative analysis of virus RNA concentration and reported COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Enhancing recovery of SARS-CoV-2 from wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_995.md)
 

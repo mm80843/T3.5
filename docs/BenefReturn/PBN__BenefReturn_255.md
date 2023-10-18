@@ -2,3 +2,7 @@
 
 # __Effective waste management can enhance the property’s value and create a cleaner and healthier living environment.__
 
+## This return can be realized by these benefits
+
+* [Efficient waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_243.md)
+

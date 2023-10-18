@@ -2,3 +2,7 @@
 
 # __Improved socio-economic recovery, increased city resilience and sustainability, enhanced quality of life for citizens.__
 
+## This return can be realized by these benefits
+
+* [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_877.md)
+

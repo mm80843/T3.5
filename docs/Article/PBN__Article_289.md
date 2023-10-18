@@ -51,3 +51,6 @@ Validity of energy social research during and after COVID-19: challenges, consid
 * [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 * [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_664.md)
 
+## This article mentions these technologies
+
+

@@ -6,7 +6,7 @@
 
 Use of digital techniques and information-based management methods streamline construction processes, improve efficiency, and reduce costs.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved project management leads to better construction outcomes, increased profitability, and enhanced asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_313.md)
 
@@ -17,4 +17,8 @@ Use of digital techniques and information-based management methods streamline co
 ## Stakeholders benefitting from this Benefit
 
 * [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+
+## Risks which can benefit from this action
+
+* [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_292.md)
 

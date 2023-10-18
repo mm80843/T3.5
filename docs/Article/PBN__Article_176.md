@@ -57,3 +57,16 @@ Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: 
 * [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2440.md)
 * [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2439.md)
 
+## This article mentions these technologies
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
+* [dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1995.md)
+* [enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1999.md)
+* [reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
+* [healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_583.md)
+* [access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
+* [empathy-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2000.md)
+

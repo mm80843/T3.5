@@ -6,7 +6,7 @@
 
 By collecting and reporting additional contextual data related to the pandemic, research findings will have greater validity and can be better interpreted in the context of the progressing pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in this mitigation measure as it would enhance the credibility and reliability of research findings, which can lead to informed policy and decision-making, ultimately improving the effectiveness and efficiency of energy-related investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1534.md)
 
@@ -19,4 +19,8 @@ By collecting and reporting additional contextual data related to the pandemic, 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Risks which can benefit from this action
+
+* [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
 

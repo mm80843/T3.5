@@ -2,3 +2,7 @@
 
 # __Improved safety and continuity of food supply chain, reduced risk of product contamination__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_561.md)
+

@@ -6,7 +6,7 @@
 
 Recreational use intensified within residential areas and city parks nearly as much as in the forested zone, highlighting the value and importance of inner-city green spaces that are interwoven with the built-up city matrix.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health and well-being of individuals, potentially leading to reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1369.md)
 
@@ -17,4 +17,8 @@ Recreational use intensified within residential areas and city parks nearly as m
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1231.md)
 

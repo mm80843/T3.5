@@ -57,3 +57,18 @@ Social distancing enhanced automated optimal design of physical spaces in the wa
 * [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
 * [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1831.md)
+* [optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
+* [energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+* [soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
+* [noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1833.md)
+* [crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
+* [smart lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1832.md)
+* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1097.md)
+* [space planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1835.md)
+

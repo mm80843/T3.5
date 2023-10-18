@@ -6,7 +6,7 @@
 
 Access to accurate and reliable information can reduce fear and anxiety levels, improving overall mental well-being and reducing erratic behavior.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in reliable information sources can benefit from improved social cohesion, reduced panic buying, and increased stability in the market.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1265.md)
 
@@ -17,4 +17,8 @@ Access to accurate and reliable information can reduce fear and anxiety levels, 
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1135.md)
 

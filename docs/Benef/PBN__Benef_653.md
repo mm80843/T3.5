@@ -6,7 +6,7 @@
 
 Green spaces can promote physical activities, improving overall health and immune function
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in green spaces would benefit from increased demand for properties near green spaces, leading to higher property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_702.md)
 
@@ -17,4 +17,8 @@ Green spaces can promote physical activities, improving overall health and immun
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_649.md)
 

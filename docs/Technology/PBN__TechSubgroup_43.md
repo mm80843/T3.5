@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Systems and actions related to control, supervision, influence, and management in various fields and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_36.md)
+* [Systems and actions related to control, supervision, influence, and management in various fields and sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_26.md)
 
 ## Closest similar item
 

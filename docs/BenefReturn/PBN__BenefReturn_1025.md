@@ -2,3 +2,7 @@
 
 # __Private investors in the mitigation measures would benefit from improved asset value and reputation, as well as reduced liability for potential public health and environmental damages__
 
+## This return can be realized by these benefits
+
+* [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
+

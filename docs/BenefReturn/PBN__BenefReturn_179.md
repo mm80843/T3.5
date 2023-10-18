@@ -2,3 +2,7 @@
 
 # __Occupants have spaces to socialize and interact with others, fostering a sense of community and belonging.__
 
+## This return can be realized by these benefits
+
+* [Improved social well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_175.md)
+

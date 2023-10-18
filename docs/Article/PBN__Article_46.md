@@ -51,3 +51,19 @@ A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil
 * [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_542.md)
 * [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_537.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
+* [hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_491.md)
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [contactless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_489.md)
+* [develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_494.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [build new hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_492.md)
+* [crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
+* [equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
+

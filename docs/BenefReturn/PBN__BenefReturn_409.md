@@ -2,3 +2,7 @@
 
 # __By ensuring a reliable and efficient supply chain, construction companies can minimize project delays, maintain productivity, and enhance their reputation, attracting more clients and business opportunities__
 
+## This return can be realized by these benefits
+
+* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_381.md)
+

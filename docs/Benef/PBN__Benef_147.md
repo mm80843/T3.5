@@ -6,7 +6,7 @@
 
 Credit guarantee schemes provide a greater access to funding for SMEs, ensuring their survival and growth during times of economic uncertainty.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased financial stability and sustainability for PCAs, economic growth for local communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_148.md)
 * [Investing in credit guarantee schemes can lead to increased profits and economic growth through the support and expansion of SMEs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1549.md)
@@ -22,4 +22,9 @@ Credit guarantee schemes provide a greater access to funding for SMEs, ensuring 
 * [national economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)
 * [smes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_370.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+
+## Risks which can benefit from this action
+
+* [Improving revenue generation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_129.md)
+* [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1398.md)
 

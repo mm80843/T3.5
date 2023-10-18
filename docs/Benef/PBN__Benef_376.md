@@ -6,7 +6,7 @@
 
 Enhancing the public's knowledge on COVID-19 increases their understanding of the disease, its symptoms, transmission routes, and preventive measures, leading to higher adoption of protective behaviors.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by supporting educational campaigns and tools to improve public knowledge, which can lead to a healthier population and improved economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_403.md)
 
@@ -17,4 +17,8 @@ Enhancing the public's knowledge on COVID-19 increases their understanding of th
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_378.md)
 

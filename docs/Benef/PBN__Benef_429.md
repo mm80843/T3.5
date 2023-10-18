@@ -6,7 +6,7 @@
 
 Regular testing and contact tracing can detect cases early and help with prompt treatment and intervention.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in mass testing can lead to early detection and treatment, reducing the burden on healthcare systems and minimizing the impact of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_464.md)
 
@@ -17,4 +17,8 @@ Regular testing and contact tracing can detect cases early and help with prompt 
 ## Stakeholders benefitting from this Benefit
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+
+## Risks which can benefit from this action
+
+* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_440.md)
 

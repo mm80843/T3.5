@@ -2,3 +2,7 @@
 
 # __Improved safety and reduced risk for healthcare workers__
 
+## This return can be realized by these benefits
+
+* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+

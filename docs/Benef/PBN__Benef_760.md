@@ -6,7 +6,7 @@
 
 Provision of isolation spaces in built environment helps to control transmission of COVID-19 and protect occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in adaptive design measures can attract tenants and occupants who prioritize health and safety, increasing occupancy rates and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_828.md)
 
@@ -17,4 +17,8 @@ Provision of isolation spaces in built environment helps to control transmission
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
 

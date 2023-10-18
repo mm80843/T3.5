@@ -6,7 +6,7 @@
 
 Encouraging physical activity in greenspaces can lead to improved physical fitness, reduced risk of chronic diseases, and increased overall well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in amenities and facilities that promote physical activity in greenspaces, such as walking paths, exercise equipment, and recreational areas, as these investments can attract more visitors and increase the desirability of living near greenspaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_235.md)
 
@@ -17,4 +17,8 @@ Encouraging physical activity in greenspaces can lead to improved physical fitne
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
 

@@ -2,3 +2,7 @@
 
 # __Lower infection rates decrease public health risks and economic impacts__
 
+## This return can be realized by these benefits
+
+* [Reduced disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_551.md)
+

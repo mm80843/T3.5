@@ -2,3 +2,7 @@
 
 # __Private investors benefit from improved public health surveillance, quicker response to outbreaks, and potential prevention of widespread transmission.__
 
+## This return can be realized by these benefits
+
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_358.md)
+

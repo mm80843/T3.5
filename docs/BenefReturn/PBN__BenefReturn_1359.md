@@ -2,3 +2,7 @@
 
 # __Investing in housing design strategies can lead to improved mental health outcomes for individuals, potentially leading to increased property value and attractiveness to tenants.__
 
+## This return can be realized by these benefits
+
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_442.md)
+

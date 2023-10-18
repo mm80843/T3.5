@@ -66,3 +66,20 @@ The Impact of COVID-19 on Public Space: A Review of the Emerging Questions
 * [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_793.md)
 * [Implementing new regulations and technologies for tracking and surveillance in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_792.md)
 
+## This article mentions these technologies
+
+* [flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_726.md)
+* [enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
+* [urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [public engagement strategies and community involvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_733.md)
+* [public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
+* [health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_724.md)
+* [enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_730.md)
+* [transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_736.md)
+* [communication and marketing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_734.md)
+* [green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+* [evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_728.md)
+* [updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_727.md)
+* [improved communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_731.md)
+* [inclusive design principles and social equity considerations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
+

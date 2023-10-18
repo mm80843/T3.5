@@ -2,3 +2,7 @@
 
 # __Private investors investing in blockchain-based donation tracking would benefit from greater transparency, leading to improved efficiency and effectiveness in the donation process.__
 
+## This return can be realized by these benefits
+
+* [Transparency in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1052.md)
+

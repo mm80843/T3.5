@@ -6,7 +6,7 @@
 
 Provides an automated and efficient method to design physical spaces with social distancing measures.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Time and cost savings, improved accuracy in space planning and design.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1005.md)
 
@@ -18,4 +18,8 @@ Provides an automated and efficient method to design physical spaces with social
 
 * [design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_365.md)
 * [architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_364.md)
+
+## Risks which can benefit from this action
+
+* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_916.md)
 

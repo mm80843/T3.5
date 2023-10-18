@@ -46,3 +46,14 @@ SARS-CoV-2 in wastewater: potential health risk, but also data source
 * [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
 * [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
 
+## This article mentions these technologies
+
+* [gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1001.md)
+* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+* [research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
+* [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
+* [wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_999.md)
+

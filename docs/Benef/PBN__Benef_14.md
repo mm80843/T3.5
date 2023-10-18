@@ -6,7 +6,7 @@
 
 Allows for updating and adaptation of the model as new insights on disease transmission become available
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Ensures that the model remains relevant and accurate in the face of evolving knowledge](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_14.md)
 
@@ -18,4 +18,8 @@ Allows for updating and adaptation of the model as new insights on disease trans
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+
+## Risks which can benefit from this action
+
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

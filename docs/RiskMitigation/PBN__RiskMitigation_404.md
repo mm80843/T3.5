@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Deploy telehealth solutions, use of AI and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
 * [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_91.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_401.md)
 * [Reduced risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1267.md)

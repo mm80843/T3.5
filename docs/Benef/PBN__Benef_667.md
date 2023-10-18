@@ -6,7 +6,7 @@
 
 Access to clean water reduces the risk of waterborne diseases and improves health outcomes
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in water infrastructure can benefit from increased demand and value for properties with access to clean water sources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_713.md)
 
@@ -17,4 +17,8 @@ Access to clean water reduces the risk of waterborne diseases and improves healt
 ## Stakeholders benefitting from this Benefit
 
 * [poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
+
+## Risks which can benefit from this action
+
+* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_660.md)
 

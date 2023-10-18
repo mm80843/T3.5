@@ -6,7 +6,7 @@
 
 Enables efficient monitoring of infected individuals and their movements for containment and public health response
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Allows for targeted interventions, contact tracing, and efficient allocation of resources, improving control measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1287.md)
 
@@ -18,4 +18,8 @@ Enables efficient monitoring of infected individuals and their movements for con
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [GPS tracking and prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1154.md)
 

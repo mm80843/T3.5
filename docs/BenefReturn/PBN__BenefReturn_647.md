@@ -2,3 +2,9 @@
 
 # __Asset value increase from improved public health and safety__
 
+## This return can be realized by these benefits
+
+* [Infection prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_596.md)
+* [Long-term protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_597.md)
+* [Effective treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_598.md)
+

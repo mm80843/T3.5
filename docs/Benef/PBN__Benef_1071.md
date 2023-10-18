@@ -6,7 +6,7 @@
 
 Maintaining comfortable indoor temperatures improves cognitive performance and productivity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased productivity and reduced absenteeism, leading to improved asset value of the building](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1195.md)
 
@@ -17,4 +17,8 @@ Maintaining comfortable indoor temperatures improves cognitive performance and p
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1079.md)
 

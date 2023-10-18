@@ -6,7 +6,7 @@
 
 Addresses the shortage of ventilators, ensures access to life-saving equipment for critically ill patients
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced ability to treat critically ill patients, improved patient outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_731.md)
 
@@ -18,4 +18,8 @@ Addresses the shortage of ventilators, ensures access to life-saving equipment f
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_676.md)
 

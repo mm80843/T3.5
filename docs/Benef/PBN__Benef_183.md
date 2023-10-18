@@ -6,7 +6,7 @@
 
 Increases chances of successful treatment and improves long-term health outcomes
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduces healthcare costs and improves quality of life in rural areas](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_187.md)
 
@@ -17,4 +17,8 @@ Increases chances of successful treatment and improves long-term health outcomes
 ## Stakeholders benefitting from this Benefit
 
 * [rural women diagnosed with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_100.md)
+
+## Risks which can benefit from this action
+
+* [Reduced time from diagnosis to surgery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_163.md)
 

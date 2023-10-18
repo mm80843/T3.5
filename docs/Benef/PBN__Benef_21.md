@@ -6,7 +6,7 @@
 
 Awareness and knowledge sharing can improve the resilience and preparedness of supply chain stakeholders, enabling better coordination and response during disruptions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from a more resilient and agile supply chain, reducing the risk of disruptions impacting their operations and enhancing long-term asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_21.md)
 
@@ -17,4 +17,8 @@ Awareness and knowledge sharing can improve the resilience and preparedness of s
 ## Stakeholders benefitting from this Benefit
 
 * [supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_15.md)
+
+## Risks which can benefit from this action
+
+* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_13.md)
 

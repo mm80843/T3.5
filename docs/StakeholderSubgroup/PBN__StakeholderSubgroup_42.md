@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Entities responsible for tracking and tracing contacts of individuals infected with a communicable disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_279.md)
+* [Entities responsible for tracking and tracing contacts of individuals infected with a communicable disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_272.md)
 
 ## Closest similar item
 

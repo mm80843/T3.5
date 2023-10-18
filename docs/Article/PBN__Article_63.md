@@ -61,3 +61,23 @@ During the pandemic, there are some things we can do to make public places safer
 * [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_414.md)
 * [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_413.md)
 
+## This article mentions these technologies
+
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+* [temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+* [data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_362.md)
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
+* [large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_365.md)
+* [digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_366.md)
+* [adaptation of existing infrastructure for new uses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_367.md)
+* [closure signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_368.md)
+* [barricades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_369.md)
+* [designated zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_370.md)
+* [enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_371.md)
+* [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_325.md)
+* [Implement travel restrictions, promote active transportation, streamline processes, provide accurate information, and develop sustainable transport options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_319.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_21.md)
 * [Development of travel anxiety reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_413.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Positive environmental and social outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_748.md)
 

@@ -6,7 +6,7 @@
 
 Monitoring vaccination status allows for early detection of waning efficacy of vaccines, ensuring timely intervention
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in monitoring systems to provide accurate data, contributing to the development of improved vaccines and boosters.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1323.md)
 
@@ -17,4 +17,8 @@ Monitoring vaccination status allows for early detection of waning efficacy of v
 ## Stakeholders benefitting from this Benefit
 
 * [vaccinated patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_462.md)
+
+## Risks which can benefit from this action
+
+* [Monitor vaccination status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1185.md)
 

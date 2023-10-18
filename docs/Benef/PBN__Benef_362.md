@@ -6,7 +6,7 @@
 
 Wastewater surveillance can provide valuable data on the presence and circulation of SARS-CoV-2 in areas with limited diagnostic capacity, aiding in understanding the epidemiology of the virus and guiding public health interventions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit indirectly by supporting the implementation of wastewater surveillance systems in areas with poor sanitation, contributing to improved public health outcomes and stability in those regions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_389.md)
 
@@ -19,4 +19,8 @@ Wastewater surveillance can provide valuable data on the presence and circulatio
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [communities with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_176.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 

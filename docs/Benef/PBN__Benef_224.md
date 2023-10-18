@@ -6,7 +6,7 @@
 
 Increased awareness of stress symptoms and access to mental health resources
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced absenteeism and improved employee resilience](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_231.md)
 
@@ -17,4 +17,8 @@ Increased awareness of stress symptoms and access to mental health resources
 ## Stakeholders benefitting from this Benefit
 
 * [all workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_131.md)
+
+## Risks which can benefit from this action
+
+* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_208.md)
 

@@ -57,3 +57,22 @@ Impact of Covid-19 on the built environment
 * [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1160.md)
 * [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1163.md)
 
+## This article mentions these technologies
+
+* [remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
+* [air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
+* [uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1026.md)
+* [antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1025.md)
+* [smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
+* [use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1020.md)
+* [automated monitoring systems for compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1019.md)
+* [contactless transactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1017.md)
+* [real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1027.md)
+* [use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1018.md)
+* [use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1016.md)
+* [use of touchless technologies such as automatic faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1022.md)
+* [soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
+* [trash bins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
+* [crowd prediction algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1029.md)
+

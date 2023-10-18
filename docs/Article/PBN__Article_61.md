@@ -56,3 +56,6 @@ Applications of ultraviolet germicidal irradiation disinfection in health care f
 * [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
 * [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1326.md)
 
+## This article mentions these technologies
+
+

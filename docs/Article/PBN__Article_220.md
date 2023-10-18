@@ -49,3 +49,14 @@ Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic
 * [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
 * [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1686.md)
 
+## This article mentions these technologies
+
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
+* [remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1366.md)
+* [videoconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1367.md)
+* [online ordering platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1368.md)
+* [sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1369.md)
+* [market analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1370.md)
+* [smart technologies for site communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1371.md)
+

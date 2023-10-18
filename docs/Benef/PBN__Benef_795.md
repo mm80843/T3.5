@@ -6,7 +6,7 @@
 
 Encouraging investors to provide capital, supporting future growth
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased access to funding for startups, fostering innovation and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_863.md)
 
@@ -17,4 +17,8 @@ Encouraging investors to provide capital, supporting future growth
 ## Stakeholders benefitting from this Benefit
 
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+
+## Risks which can benefit from this action
+
+* [Incentivizing growth capital investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_791.md)
 

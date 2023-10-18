@@ -6,7 +6,7 @@
 
 Improved spatial organization maximizes space usage, enhances functionality, and improves the overall livability of the home.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased tenant satisfaction, higher rental demand, and improved property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_473.md)
 
@@ -17,4 +17,8 @@ Improved spatial organization maximizes space usage, enhances functionality, and
 ## Stakeholders benefitting from this Benefit
 
 * [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+
+## Risks which can benefit from this action
+
+* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
 

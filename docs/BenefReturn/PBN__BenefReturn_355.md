@@ -2,3 +2,7 @@
 
 # __Developing novel vector control tools can increase the effectiveness of control measures, allowing for more efficient disease prevention and potentially reducing the economic burden of vector-borne diseases on affected communities.__
 
+## This return can be realized by these benefits
+
+* [Improved effectiveness of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_338.md)
+

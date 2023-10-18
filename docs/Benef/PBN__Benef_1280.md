@@ -6,7 +6,7 @@
 
 Equity funds transitioned from growth to value stocks, while fixed income funds shifted towards value investing. Alternative investments funds moved investments towards utilities, wholesale, and retail firms.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit directly from these investment style transitions by aligning their portfolios with funds that have adjusted their strategies to adapt to the evolving situation during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1443.md)
 
@@ -19,4 +19,8 @@ Equity funds transitioned from growth to value stocks, while fixed income funds 
 * [equity funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_505.md)
 * [alternative investments funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_507.md)
 * [fixed income funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_506.md)
+
+## Risks which can benefit from this action
+
+* [Style analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1298.md)
 

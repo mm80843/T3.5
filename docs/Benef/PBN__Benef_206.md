@@ -6,7 +6,7 @@
 
 UVGI devices can help to inactivate viruses and other microorganisms in high-risk areas, reducing the risk of transmission and improving the overall air quality in those spaces.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from implementing this measure by creating safer environments in high-risk spaces (e.g., waiting rooms, prisons) and reducing the risk of infections, lawsuits, or reputational damage.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_212.md)
 
@@ -17,4 +17,8 @@ UVGI devices can help to inactivate viruses and other microorganisms in high-ris
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Implement Ultraviolet Germicidal Irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_191.md)
 

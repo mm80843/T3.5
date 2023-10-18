@@ -6,7 +6,7 @@
 
 Presenting open, accurate, and consistent risk messages would enhance the credibility of the government, improving trust among the public.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased credibility of the government by having more confidence in the stability of the economic environment, resulting in increased investment opportunities and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1012.md)
 
@@ -18,4 +18,8 @@ Presenting open, accurate, and consistent risk messages would enhance the credib
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Present risk messages with honesty](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_924.md)
 

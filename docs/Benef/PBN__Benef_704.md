@@ -6,7 +6,7 @@
 
 Flattened infection curve, reduced spread
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Controls spread, maintains some economic activity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_751.md)
 
@@ -17,4 +17,8 @@ Flattened infection curve, reduced spread
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_697.md)
 

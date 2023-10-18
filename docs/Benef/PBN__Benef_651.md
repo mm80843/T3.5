@@ -6,7 +6,7 @@
 
 Conducting vulnerability assessments and addressing identified vulnerabilities strengthens the resilience of the system, allowing for better absorption of disruptions and faster recovery.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved asset value and reduced financial losses as their infrastructure is better prepared to withstand and recover from disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_701.md)
 
@@ -17,4 +17,8 @@ Conducting vulnerability assessments and addressing identified vulnerabilities s
 ## Stakeholders benefitting from this Benefit
 
 * [critical infrastructure operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_273.md)
+
+## Risks which can benefit from this action
+
+* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_648.md)
 

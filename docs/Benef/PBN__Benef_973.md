@@ -6,7 +6,7 @@
 
 Containment measures such as tracking and tracing transmissions can prevent outbreaks and protect the general population from infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing containment measures can prevent outbreaks, reduce the spread of the disease, and protect the health and wellbeing of the general population, thereby improving public health and reducing economic losses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1070.md)
 
@@ -17,4 +17,8 @@ Containment measures such as tracking and tracing transmissions can prevent outb
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_507.md)
 

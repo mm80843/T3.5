@@ -2,3 +2,7 @@
 
 # __Private investors can attract residents who value uninterrupted power supply, potentially leading to higher occupancy rates and rental income.__
 
+## This return can be realized by these benefits
+
+* [Energy demand management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_855.md)
+

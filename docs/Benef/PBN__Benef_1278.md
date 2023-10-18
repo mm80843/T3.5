@@ -6,7 +6,7 @@
 
 The development of drug therapies can provide treatment options for COVID-19 patients, improving their chances of recovery and reducing the severity of the disease.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in the development of drug therapies as it can contribute to the improvement of patient outcomes, reducing the economic and healthcare burden of the disease and improving the value of pharmaceutical companies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1441.md)
 
@@ -17,4 +17,8 @@ The development of drug therapies can provide treatment options for COVID-19 pat
 ## Stakeholders benefitting from this Benefit
 
 * [covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_503.md)
+
+## Risks which can benefit from this action
+
+* [Development of drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1296.md)
 

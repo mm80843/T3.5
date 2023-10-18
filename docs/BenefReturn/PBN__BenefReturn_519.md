@@ -2,3 +2,7 @@
 
 # __Investing in wastewater monitoring can enhance the resilience of wastewater treatment facilities and minimize potential liabilities associated with uncontrolled virus transmission.__
 
+## This return can be realized by these benefits
+
+* [Improved risk assessment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_476.md)
+

@@ -6,7 +6,7 @@
 
 Machine learning models can identify social media users with high levels of loneliness, allowing for targeted interventions and support
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Policymakers and mental health professionals can provide targeted interventions and support to individuals with high levels of loneliness, improving their mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1022.md)
 
@@ -18,4 +18,8 @@ Machine learning models can identify social media users with high levels of lone
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+
+## Risks which can benefit from this action
+
+* [Use of social media data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_928.md)
 

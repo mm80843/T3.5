@@ -2,3 +2,7 @@
 
 # __Limited disruption to sales and revenue, reduced risk of workforce infection__
 
+## This return can be realized by these benefits
+
+* [Continued production and sales](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_563.md)
+

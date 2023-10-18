@@ -2,3 +2,7 @@
 
 # __Investing in transparent and well-governed data analytics can help build trust with citizens and enhance the reputation of investors in the mitigation measures.__
 
+## This return can be realized by these benefits
+
+* [Balancing privacy with value of data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_819.md)
+

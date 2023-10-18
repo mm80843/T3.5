@@ -2,3 +2,7 @@
 
 # __Ability to quickly adjust and respond to changes in demand or disruptions__
 
+## This return can be realized by these benefits
+
+* [Flexibility in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_306.md)
+

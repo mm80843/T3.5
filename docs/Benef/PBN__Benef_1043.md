@@ -6,7 +6,7 @@
 
 Implementing digital and ICT tools can enhance performance, efficiency, and customer experience in retail and neighborhood services, leading to increased customer satisfaction and loyalty.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit by investing in projects that implement digital and ICT tools for retail and neighborhood services, as it can lead to improved profitability and competitiveness in the retail sector.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1164.md)
 
@@ -19,4 +19,8 @@ Implementing digital and ICT tools can enhance performance, efficiency, and cust
 * [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
 * [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
 * [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+
+## Risks which can benefit from this action
+
+* [Implementing digital and ICT tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1046.md)
 

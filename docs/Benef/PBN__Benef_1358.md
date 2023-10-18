@@ -6,7 +6,7 @@
 
 Implementing NPIs, such as wearing masks and practicing social distancing, can help slow the spread of COVID-19 and protect public health.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can contribute to public health and support economic recovery by investing in NPIs, which can restore confidence in the built environment and stimulate economic activity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1541.md)
 
@@ -17,4 +17,8 @@ Implementing NPIs, such as wearing masks and practicing social distancing, can h
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
 

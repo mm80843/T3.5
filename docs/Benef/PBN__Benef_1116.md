@@ -6,7 +6,7 @@
 
 VR educates patients and enhances patient satisfaction, leading to better patient outcomes and increased work satisfaction for healthcare professionals
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased patient satisfaction and improved patient outcomes, leading to a positive reputation for healthcare professionals and increased patient loyalty.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1248.md)
 
@@ -18,4 +18,8 @@ VR educates patients and enhances patient satisfaction, leading to better patien
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
 

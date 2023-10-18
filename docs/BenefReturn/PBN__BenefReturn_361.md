@@ -2,3 +2,7 @@
 
 # __Implementing school and university closure measures can help prevent the spread of COVID-19 within educational settings and potentially reduce transmission in the community.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

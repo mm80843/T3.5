@@ -6,7 +6,7 @@
 
 Establishing clear communication channels and providing regular updates on interventions and scenarios can help improve decision-making and mitigate the impact of access restrictions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare facilities in LMIC would benefit from improved decision-making, leading to more efficient resource allocation and potentially improved patient outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_707.md)
 * [Decision-makers who engage with the public on social media may make better decisions that align with the needs and values of the public, potentially avoiding costly mistakes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_999.md)
@@ -29,4 +29,11 @@ Establishing clear communication channels and providing regular updates on inter
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 * [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
 * [water utilities/policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_400.md)
+
+## Risks which can benefit from this action
+
+* [AI for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_654.md)
+* [Enhanced data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1004.md)
+* [Clear communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1016.md)
+* [Two-way dialogue between decision-makers and the public on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_911.md)
 

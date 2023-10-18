@@ -2,3 +2,7 @@
 
 # __Investing in flexible and adaptable living spaces can attract more tenants, increase property value, and improve overall living conditions.__
 
+## This return can be realized by these benefits
+
+* [Improved functionality and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_805.md)
+

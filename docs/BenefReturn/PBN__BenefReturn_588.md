@@ -2,3 +2,7 @@
 
 # __Investing in continuous energy demand monitoring and adaptive design can lead to cost savings, increased energy efficiency, and improved tenant satisfaction, enhancing the value of buildings.__
 
+## This return can be realized by these benefits
+
+* [Energy Demand Monitoring and Adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_536.md)
+

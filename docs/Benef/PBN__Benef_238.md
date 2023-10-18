@@ -6,7 +6,7 @@
 
 Natural ventilation systems provide fresh air supply, improving indoor air quality and reducing the risk of virus transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Incorporating natural ventilation systems can enhance the property’s value and create a healthier living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_250.md)
 
@@ -17,4 +17,8 @@ Natural ventilation systems provide fresh air supply, improving indoor air quali
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_227.md)
 

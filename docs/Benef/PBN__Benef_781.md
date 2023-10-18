@@ -6,7 +6,7 @@
 
 Safeguarding of democratic processes, prevention of abuse of power, preservation of individual rights and freedoms
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Upholding democratic principles, ensuring political stability, maintaining public trust in institutions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_850.md)
 
@@ -18,4 +18,8 @@ Safeguarding of democratic processes, prevention of abuse of power, preservation
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [democratically elected leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_317.md)
+
+## Risks which can benefit from this action
+
+* [Strengthening European democracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_778.md)
 

@@ -2,3 +2,7 @@
 
 # __Reduced risk of infection for residents, improving health and safety and potentially increasing property value.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
+

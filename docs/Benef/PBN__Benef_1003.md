@@ -6,7 +6,7 @@
 
 Reduced water loss
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved efficiency and cost savings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1110.md)
 
@@ -17,4 +17,8 @@ Reduced water loss
 ## Stakeholders benefitting from this Benefit
 
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
+## Risks which can benefit from this action
+
+* [Smart metering](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_999.md)
 

@@ -2,3 +2,7 @@
 
 # __Providing household-level activity spaces can increase tenant satisfaction and attract individuals prioritizing health.__
 
+## This return can be realized by these benefits
+
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+

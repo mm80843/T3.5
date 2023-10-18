@@ -2,3 +2,7 @@
 
 # __Reduces further transmission by alerting individuals to potential exposure, improving control measures__
 
+## This return can be realized by these benefits
+
+* [Contact tracing and proximity detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1152.md)
+

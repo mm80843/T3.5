@@ -6,7 +6,7 @@
 
 WBE allows for correlating trends in gene occurrence in wastewater with the number of infected individuals, providing insights into the spread of the virus in different areas and populations.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Correlation helps researchers and policy makers understand the relationship between wastewater analysis and infection rates, guiding targeted interventions and policy decisions for controlling the spread of the virus, reducing the impact on public health and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_3.md)
 
@@ -18,4 +18,8 @@ WBE allows for correlating trends in gene occurrence in wastewater with the numb
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based monitoring (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
 

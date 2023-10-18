@@ -6,7 +6,7 @@
 
 Incorporating neighborhood-level processes in large-scale models can improve the accuracy of model results, leading to better predictions of disease dynamics and more informed decision-making.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved accuracy of model results can enhance public health interventions, optimize resource allocation, and ultimately lead to better health outcomes, creating value for research groups and public health organizations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_384.md)
 
@@ -18,4 +18,8 @@ Incorporating neighborhood-level processes in large-scale models can improve the
 
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+
+## Risks which can benefit from this action
+
+* [Introducing neighborhood-level processes in large-scale models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_363.md)
 

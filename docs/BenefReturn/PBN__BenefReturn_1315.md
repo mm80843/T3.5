@@ -2,3 +2,7 @@
 
 # __Provides stability and increases job satisfaction, leading to increased productivity__
 
+## This return can be realized by these benefits
+
+* [Job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1180.md)
+

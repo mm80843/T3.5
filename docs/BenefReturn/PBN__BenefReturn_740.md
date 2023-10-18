@@ -2,3 +2,7 @@
 
 # __Reduced burden on healthcare system, improved population health__
 
+## This return can be realized by these benefits
+
+* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
+

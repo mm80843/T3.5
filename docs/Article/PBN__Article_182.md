@@ -50,3 +50,13 @@ Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronav
 * [BioSampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_328.md)
 * [far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_323.md)
 
+## This article mentions these technologies
+
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
+* [air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_310.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_314.md)
+* [far-uvc light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
+* [irradiation chambers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
+

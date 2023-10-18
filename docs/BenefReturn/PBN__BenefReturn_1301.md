@@ -2,3 +2,7 @@
 
 # __Investment in personalized ventilation systems can result in healthier occupants, reduced risk of infection, and improved comfort and satisfaction.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
+

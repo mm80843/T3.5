@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ensuring confidentiality and safeguarding information with oversight from regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_272.md)
+* [Ensuring confidentiality and safeguarding information with oversight from regulatory bodies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_265.md)
 
 ## Closest similar item
 

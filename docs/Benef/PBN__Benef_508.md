@@ -6,7 +6,7 @@
 
 The implementation of anti-contagion policies has helped reduce the strain on healthcare systems by slowing the spread of infections and flattening the curve.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in healthcare facilities and services can benefit from reduced healthcare costs, improved healthcare system capacity, and higher demand for healthcare services in the long run.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_553.md)
 
@@ -18,4 +18,8 @@ The implementation of anti-contagion policies has helped reduce the strain on he
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of anti-contagion policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_516.md)
 

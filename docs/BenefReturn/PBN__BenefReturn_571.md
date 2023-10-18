@@ -2,3 +2,7 @@
 
 # __Implementing telecommuting can help attract and retain top talent, resulting in higher employee satisfaction and reduced turnover rates.__
 
+## This return can be realized by these benefits
+
+* [Improved work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_521.md)
+

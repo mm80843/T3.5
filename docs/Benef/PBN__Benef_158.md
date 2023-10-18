@@ -6,7 +6,7 @@
 
 Mitigates spreading of disease during drug purchase and saves physical and human resources
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved access to safe medications and reduced risk of transmission during drug purchases](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_160.md)
 
@@ -17,4 +17,8 @@ Mitigates spreading of disease during drug purchase and saves physical and human
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [IoT in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_141.md)
 

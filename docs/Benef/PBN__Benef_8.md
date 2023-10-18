@@ -6,7 +6,7 @@
 
 Monitoring changes in SARS-CoV-2 RNA concentration in sewage can serve as a sensitive tool for detecting early signs of increasing virus circulation in the population
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in sewage monitoring can benefit from providing a valuable service to public health authorities, leading to potential future contracts and partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_8.md)
 
@@ -18,4 +18,8 @@ Monitoring changes in SARS-CoV-2 RNA concentration in sewage can serve as a sens
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring changes in RNA concentration over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
+* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
 * [supply chain tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1450.md)
 * [insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3314.md)
+
+## This technology is mentioned by
+
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 
 ## Risks linked to this technology
 

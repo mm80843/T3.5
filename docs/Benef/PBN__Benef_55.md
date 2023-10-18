@@ -6,7 +6,7 @@
 
 Tailored messages can provide support and connection for those in need
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced mental well-being and improved coping mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_55.md)
 * [Improved mental well-being and reduced feelings of loneliness and isolation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_58.md)
@@ -19,4 +19,9 @@ Tailored messages can provide support and connection for those in need
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [at-risk populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_44.md)
+
+## Risks which can benefit from this action
+
+* [Provide adequate psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_47.md)
+* [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_51.md)
 

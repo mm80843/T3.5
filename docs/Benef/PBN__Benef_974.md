@@ -6,7 +6,7 @@
 
 Strengthening public health systems and crisis management can enhance the response to pandemics, leading to better preparedness, faster detection and containment, and more effective communication, thereby reducing the impact of pandemics on healthcare systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in strengthening public health systems and crisis management can improve the resilience of healthcare systems, reduce healthcare costs, and protect the reputation and value of healthcare institutions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1071.md)
 
@@ -17,4 +17,8 @@ Strengthening public health systems and crisis management can enhance the respon
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_966.md)
 

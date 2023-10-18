@@ -2,3 +2,7 @@
 
 # __Accurate estimation of cases can inform public health strategies and resource allocation, attracting more funding and collaboration opportunities.__
 
+## This return can be realized by these benefits
+
+* [More accurate estimation of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_883.md)
+

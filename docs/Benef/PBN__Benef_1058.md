@@ -6,7 +6,7 @@
 
 Blockchain technology ensures reliability in the supply chain, reducing losses in supply and demand
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in blockchain-based supply chain management would benefit from improved reliability, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1179.md)
 
@@ -18,4 +18,8 @@ Blockchain technology ensures reliability in the supply chain, reducing losses i
 
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
+
+## Risks which can benefit from this action
+
+* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
 

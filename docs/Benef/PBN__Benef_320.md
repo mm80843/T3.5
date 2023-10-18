@@ -6,7 +6,7 @@
 
 Opening windows allows for better control of temperature and airflow, leading to improved thermal comfort.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved occupant satisfaction, productivity, and well-being, leading to increased tenant retention and attraction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_337.md)
 * [Increased occupant satisfaction and productivity due to improved comfort levels.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1263.md)
@@ -20,4 +20,9 @@ Opening windows allows for better control of temperature and airflow, leading to
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Intelligent Built Environment Monitor (IBEM)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_319.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1134.md)
 

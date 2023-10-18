@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Exploration, organization, and examination of information for scientific studies, including genomics and bioinformatics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_22.md)
+* [Exploration, organization, and examination of information for scientific studies, including genomics and bioinformatics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 

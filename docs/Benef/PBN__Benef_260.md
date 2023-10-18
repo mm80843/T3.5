@@ -6,7 +6,7 @@
 
 Implementing mechanically ventilated offices can provide better control over the indoor air quality, reducing microbial variations among offices and improving overall cleanliness.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in mechanically ventilated offices can attract tenants who prioritize health and well-being, increasing the demand and value of the building.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_272.md)
 
@@ -17,4 +17,8 @@ Implementing mechanically ventilated offices can provide better control over the
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_249.md)
 

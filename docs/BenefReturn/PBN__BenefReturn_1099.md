@@ -2,3 +2,7 @@
 
 # __Better understanding of disease burden, improved resource allocation, targeted interventions__
 
+## This return can be realized by these benefits
+
+* [Estimating prevalence of infections in the population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_992.md)
+

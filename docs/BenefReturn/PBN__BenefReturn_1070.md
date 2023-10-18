@@ -2,3 +2,7 @@
 
 # __Implementing containment measures can prevent outbreaks, reduce the spread of the disease, and protect the health and wellbeing of the general population, thereby improving public health and reducing economic losses.__
 
+## This return can be realized by these benefits
+
+* [Prevention of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_973.md)
+

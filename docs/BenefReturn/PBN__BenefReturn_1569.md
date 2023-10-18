@@ -2,3 +2,7 @@
 
 # __Stable supply of essential goods, reduced scarcity__
 
+## This return can be realized by these benefits
+
+* [Prevention of panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1382.md)
+

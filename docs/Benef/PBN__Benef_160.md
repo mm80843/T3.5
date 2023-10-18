@@ -6,7 +6,7 @@
 
 Enables telemedicine services, prediction of outbreak, surveillance, and control of the virus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Effective response to the pandemic, reduced transmission, and improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_162.md)
 
@@ -18,4 +18,8 @@ Enables telemedicine services, prediction of outbreak, surveillance, and control
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [IoT technologies (IoT, AI, Big data, VR)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_143.md)
 

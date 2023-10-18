@@ -2,3 +2,7 @@
 
 # __Private investors can reduce operational costs by minimizing absenteeism and enhancing workforce productivity__
 
+## This return can be realized by these benefits
+
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_893.md)
+

@@ -6,7 +6,7 @@
 
 Continued financial support for PCAs through domestic budgets to ensure effective conservation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Continued funding and stability for PCAs, conservation of biodiversity and ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_149.md)
 
@@ -20,4 +20,8 @@ Continued financial support for PCAs through domestic budgets to ensure effectiv
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_87.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+
+## Risks which can benefit from this action
+
+* [Ensuring domestic budgets support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_130.md)
 

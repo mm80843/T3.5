@@ -6,7 +6,7 @@
 
 Ensures adherence to changing regulations and guidelines
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Mitigates potential legal and financial penalties](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_770.md)
 
@@ -17,4 +17,8 @@ Ensures adherence to changing regulations and guidelines
 ## Stakeholders benefitting from this Benefit
 
 * [organisations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_298.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_715.md)
 

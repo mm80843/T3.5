@@ -2,3 +2,7 @@
 
 # __Greater awareness and adherence to preventative measures__
 
+## This return can be realized by these benefits
+
+* [Improved public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1308.md)
+

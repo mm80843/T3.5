@@ -6,7 +6,7 @@
 
 Demonstrating value, being responsive to needs, and remaining objective and transparent enhances credibility and trust as a source of evidence
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased use of evidence in decision-making, improved public trust, and reinforced role as a trusted reference center](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_597.md)
 
@@ -20,4 +20,8 @@ Demonstrating value, being responsive to needs, and remaining objective and tran
 * [stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
+
+## Risks which can benefit from this action
+
+* [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_557.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Construction components.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_304.md)
+* [Construction components.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_297.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_151.md)
 * [advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_152.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)

@@ -6,7 +6,7 @@
 
 Decrease in CO2 emissions, contributing to climate recovery and reducing the effects of climate change on the environment and human health
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in measures to reduce carbon emissions can contribute to climate recovery, mitigate the effects of climate change, and potentially improve asset value in areas with reduced carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_205.md)
 
@@ -18,4 +18,8 @@ Decrease in CO2 emissions, contributing to climate recovery and reducing the eff
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
+
+## Risks which can benefit from this action
+
+* [Reduction in CO2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_184.md)
 

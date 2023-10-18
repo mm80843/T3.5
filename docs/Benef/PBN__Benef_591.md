@@ -6,7 +6,7 @@
 
 Identification of additional receptors for intervention
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Potential for new drug development and intellectual property](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_644.md)
 
@@ -17,4 +17,8 @@ Identification of additional receptors for intervention
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Proteolysis of S protein by cathepsin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_593.md)
 

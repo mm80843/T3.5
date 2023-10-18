@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare facilities can benefit from improved asset value and reduced strain on resources.__
 
+## This return can be realized by these benefits
+
+* [Reduced burden on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_140.md)
+

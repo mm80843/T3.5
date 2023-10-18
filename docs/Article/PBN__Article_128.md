@@ -55,3 +55,18 @@ Assessment of COVID-19 precautionary measures in sports facilities: A case study
 * [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
 * [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_833.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
+* [reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
+* [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_778.md)
+* [hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)
+* [cleaning schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_774.md)
+* [sanitizing wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_773.md)
+

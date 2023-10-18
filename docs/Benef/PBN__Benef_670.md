@@ -6,7 +6,7 @@
 
 Highlighting the health benefits of sustainable development policies promotes their adoption and implementation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in sustainable development projects can benefit from improved reputation, increased demand, and potential government incentives.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_716.md)
 
@@ -17,4 +17,8 @@ Highlighting the health benefits of sustainable development policies promotes th
 ## Stakeholders benefitting from this Benefit
 
 * [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+
+## Risks which can benefit from this action
+
+* [Integration of health in development policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_663.md)
 

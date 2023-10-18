@@ -6,7 +6,7 @@
 
 Remote testing and telemedicine reduce the workload and stress levels of healthcare staff, allowing them to focus on critical cases.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved efficiency and quality of care, reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1587.md)
 
@@ -18,4 +18,8 @@ Remote testing and telemedicine reduce the workload and stress levels of healthc
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+
+## Risks which can benefit from this action
+
+* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1429.md)
 

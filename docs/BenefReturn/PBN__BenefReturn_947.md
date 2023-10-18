@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare and hygiene products would benefit from increased demand for their products__
 
+## This return can be realized by these benefits
+
+* [Increased public awareness and compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_866.md)
+

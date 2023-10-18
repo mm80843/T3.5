@@ -6,7 +6,7 @@
 
 Increased financial support for PCAs through international funding
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Additional funding for PCAs, enhanced conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_150.md)
 
@@ -19,4 +19,8 @@ Increased financial support for PCAs through international funding
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
 * [development agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_88.md)
+
+## Risks which can benefit from this action
+
+* [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_131.md)
 

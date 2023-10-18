@@ -2,3 +2,7 @@
 
 # __Private investors can attract tenants and higher rental income by investing in green construction practices. Additionally, energy-efficient buildings have higher asset value and are more resilient to future energy price volatility.__
 
+## This return can be realized by these benefits
+
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_154.md)
+

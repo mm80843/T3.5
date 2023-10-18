@@ -57,3 +57,20 @@ Implications of COVID-19 control measures for diet and physical activity, and le
 * [Loss of jobs and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1534.md)
 * [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1538.md)
 
+## This article mentions these technologies
+
+* [job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [data-driven food supply management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1226.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+* [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
+* [employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
+* [exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1224.md)
+* [urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
+* [food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
+* [online food platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+* [public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+* [walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1223.md)
+* [food storage and preservation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1225.md)
+

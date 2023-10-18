@@ -6,7 +6,7 @@
 
 Immigrants are more likely to be retained in their jobs and avoid unemployment
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Income stability, job security, and reduced economic hardship for immigrants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1525.md)
 
@@ -18,4 +18,8 @@ Immigrants are more likely to be retained in their jobs and avoid unemployment
 
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+
+## Risks which can benefit from this action
+
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1379.md)
 

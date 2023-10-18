@@ -6,7 +6,7 @@
 
 Attracting private investment through sustainable financing strategies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased funding and financial stability for PCAs, economic growth and job creation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_152.md)
 
@@ -20,4 +20,8 @@ Attracting private investment through sustainable financing strategies
 * [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+
+## Risks which can benefit from this action
+
+* [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_133.md)
 

@@ -8,7 +8,7 @@ enabler_030
 
 ## Category to which it belongs
 
-* [Efficiently controlling and optimizing the use of power and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_89.md)
+* [Efficiently controlling and optimizing the use of power and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 

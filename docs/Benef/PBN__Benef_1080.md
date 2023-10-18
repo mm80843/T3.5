@@ -6,7 +6,7 @@
 
 Enables quick and reversible modifications to support different uses
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced adaptability, reduced cost of permanent installations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1207.md)
 
@@ -18,4 +18,8 @@ Enables quick and reversible modifications to support different uses
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+
+## Risks which can benefit from this action
+
+* [Integration of portable and temporary installations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1088.md)
 

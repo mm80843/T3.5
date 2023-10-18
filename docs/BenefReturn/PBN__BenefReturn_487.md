@@ -2,3 +2,7 @@
 
 # __Investing in the exchange process increases flexibility and resilience in managing staffing shortages, improves patient care, and preserves the hospitals’ reputation, leading to potential financial returns for private investors.__
 
+## This return can be realized by these benefits
+
+* [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_451.md)
+

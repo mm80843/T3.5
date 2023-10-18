@@ -6,7 +6,7 @@
 
 Meta-harmonization of common data and metadata standards enables rapid integration and use of data.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increases efficiency in data integration, improves data comparability, and facilitates collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1239.md)
 
@@ -17,4 +17,8 @@ Meta-harmonization of common data and metadata standards enables rapid integrati
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Meta-harmonization of data standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1118.md)
 

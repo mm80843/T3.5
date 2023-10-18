@@ -2,3 +2,7 @@
 
 # __Implementing telecommuting can contribute to a cleaner environment and mitigate the impact of contagious diseases on public health.__
 
+## This return can be realized by these benefits
+
+* [Environmental benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_523.md)
+

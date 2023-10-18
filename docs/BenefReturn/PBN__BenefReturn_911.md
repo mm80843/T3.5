@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from reduced financial risks, safeguarding their investment and ensuring a positive return.__
 
+## This return can be realized by these benefits
+
+* [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_838.md)
+

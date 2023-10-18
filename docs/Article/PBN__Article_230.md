@@ -66,3 +66,8 @@ Challenges of data sharing in European Covid-19 projects: A learning opportunity
 * [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
 * [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
 
+## This article mentions these technologies
+
+* [opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1676.md)
+* [federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1677.md)
+

@@ -6,7 +6,7 @@
 
 Wastewater surveillance captures the full extent of the disease at a community level.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in wastewater surveillance can improve public health monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_170.md)
 * [Investing in wastewater surveillance can improve overall economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_172.md)
@@ -19,4 +19,8 @@ Wastewater surveillance captures the full extent of the disease at a community l
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 

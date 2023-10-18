@@ -2,3 +2,7 @@
 
 # __Private investors can benefit indirectly by contributing to the overall control of the pandemic, which would lead to economic stability and improved market conditions for their investments in the built environment.__
 
+## This return can be realized by these benefits
+
+* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_360.md)
+

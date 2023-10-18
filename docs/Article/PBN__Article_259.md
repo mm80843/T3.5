@@ -49,3 +49,13 @@ The COVID-19 epidemiology and monitoring ontology
 * [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
 * [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1658.md)
 
+## This article mentions these technologies
+
+* [ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
+* [knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
+* [semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
+* [ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1344.md)
+* [interoperability guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
+* [data modeling standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1348.md)
+* [established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1347.md)
+

@@ -6,7 +6,7 @@
 
 Opening windows brings in fresh outdoor air, diluting indoor pollutants and improving indoor air quality.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved indoor air quality, which can lead to improved health outcomes and increased comfort for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1262.md)
 
@@ -17,4 +17,8 @@ Opening windows brings in fresh outdoor air, diluting indoor pollutants and impr
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1134.md)
 

@@ -6,7 +6,7 @@
 
 Access to up-to-date and reliable scientific findings, aiding in informed decision-making and policy formulation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public perception of science and research, increased trust in academic institutions, potential economic benefits from better-informed policies and interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_935.md)
 
@@ -19,4 +19,8 @@ Access to up-to-date and reliable scientific findings, aiding in informed decisi
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Transparent and responsible preprint publishing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_854.md)
 

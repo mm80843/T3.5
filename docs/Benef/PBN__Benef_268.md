@@ -6,7 +6,7 @@
 
 Temperature and RH affect virus stability, leading to improved survival in the environment.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in maintaining optimal temperature and humidity can help reduce transmission and protect public health, potentially leading to economic benefits from reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_280.md)
 
@@ -17,4 +17,8 @@ Temperature and RH affect virus stability, leading to improved survival in the e
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
 

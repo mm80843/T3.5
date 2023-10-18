@@ -6,7 +6,7 @@
 
 Improves efficiency of medical staff and ensures timely tracking and monitoring of high-risk patients
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved patient outcomes and resource allocation efficiency for healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_159.md)
 
@@ -18,4 +18,8 @@ Improves efficiency of medical staff and ensures timely tracking and monitoring 
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+
+## Risks which can benefit from this action
+
+* [IoT for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_140.md)
 

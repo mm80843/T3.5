@@ -6,7 +6,7 @@
 
 Continuous monitoring and control of air conditions can improve air quality and reduce indoor pollution
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing air quality monitoring systems can enhance tenant satisfaction and attract health-conscious individuals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_248.md)
 
@@ -17,4 +17,8 @@ Continuous monitoring and control of air conditions can improve air quality and 
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
 

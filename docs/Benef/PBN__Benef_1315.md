@@ -6,7 +6,7 @@
 
 Designing bedrooms with lower window-to-wall ratios, operable windows, and the ability to control darkness promotes restful sleep and regulates circadian rhythm.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved sleep quality can lead to better health, increased productivity, and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1486.md)
 
@@ -17,4 +17,8 @@ Designing bedrooms with lower window-to-wall ratios, operable windows, and the a
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1335.md)
 

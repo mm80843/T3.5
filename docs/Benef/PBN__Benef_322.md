@@ -6,7 +6,7 @@
 
 IBEM provides real-time, continuous data collection and analysis, overcoming limitations of traditional measurement tools.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [More accurate and comprehensive understanding of IEQ characteristics, better-informed decision-making for building operators and researchers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_339.md)
 
@@ -18,4 +18,8 @@ IBEM provides real-time, continuous data collection and analysis, overcoming lim
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [building operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_152.md)
+
+## Risks which can benefit from this action
+
+* [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
 

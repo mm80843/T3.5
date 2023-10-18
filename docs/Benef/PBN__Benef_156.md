@@ -6,7 +6,7 @@
 
 Integrating natural elements, such as plots of soil for small house gardening, can create a sense of belonging and security for occupants, fostering a stronger connection with nature.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased demand for spaces that offer a sense of belonging and security, leading to higher occupancy rates and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_157.md)
 
@@ -17,4 +17,8 @@ Integrating natural elements, such as plots of soil for small house gardening, c
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Integration of natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_138.md)
 

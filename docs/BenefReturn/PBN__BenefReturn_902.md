@@ -2,3 +2,7 @@
 
 # __Improved mental health and well-being of individuals, leading to increased productivity and reduced healthcare costs__
 
+## This return can be realized by these benefits
+
+* [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
+

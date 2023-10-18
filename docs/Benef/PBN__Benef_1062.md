@@ -6,7 +6,7 @@
 
 Strengthening partnerships enhances collective response and promotes shared goals.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [This increases efficiency and effectiveness of conservation actions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1187.md)
 
@@ -18,4 +18,8 @@ Strengthening partnerships enhances collective response and promotes shared goal
 
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+
+## Risks which can benefit from this action
+
+* [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1067.md)
 

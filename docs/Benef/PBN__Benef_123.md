@@ -6,7 +6,7 @@
 
 The simulation system enables designers to evaluate design decisions before implementation, providing insights into the potential risks and results of different configurations and interventions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in the simulation system increases the likelihood of successful building design by identifying potential risks and allowing for iterative improvements, resulting in increased tenant satisfaction, improved reputation of the design firm, and potential cost savings from avoiding rework.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_122.md)
 
@@ -18,4 +18,8 @@ The simulation system enables designers to evaluate design decisions before impl
 
 * [building facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_75.md)
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+
+## Risks which can benefit from this action
+
+* [Multi-agent occupancy simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_106.md)
 

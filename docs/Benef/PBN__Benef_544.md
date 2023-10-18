@@ -6,7 +6,7 @@
 
 Timely provision of evidence supports urgent decision-making and informs policies and systems
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Quick decision-making, improved response, and increased capability demonstration](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_596.md)
 
@@ -17,4 +17,8 @@ Timely provision of evidence supports urgent decision-making and informs policie
 ## Stakeholders benefitting from this Benefit
 
 * [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+
+## Risks which can benefit from this action
+
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
 

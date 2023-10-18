@@ -6,7 +6,7 @@
 
 Installation of backup energy sources helps manage increased energy demands during lockdowns.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract residents who value uninterrupted power supply, potentially leading to higher occupancy rates and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_931.md)
 
@@ -17,4 +17,8 @@ Installation of backup energy sources helps manage increased energy demands duri
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Installation of backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_851.md)
 

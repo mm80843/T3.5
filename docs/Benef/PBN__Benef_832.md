@@ -6,7 +6,7 @@
 
 Structured activities, maintenance of routines, and linkages to social and mental health services
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced stress levels and enhanced well-being, leading to improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_904.md)
 
@@ -17,4 +17,8 @@ Structured activities, maintenance of routines, and linkages to social and menta
 ## Stakeholders benefitting from this Benefit
 
 * [quarantined individuals and health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_342.md)
+
+## Risks which can benefit from this action
+
+* [Stress management and coping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_829.md)
 

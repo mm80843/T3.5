@@ -6,7 +6,7 @@
 
 Strengthening local support enables the development and implementation of federated data analysis systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Promotes innovation, ensures secure data analysis, and supports a scalable and efficient infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1243.md)
 
@@ -17,4 +17,8 @@ Strengthening local support enables the development and implementation of federa
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
 

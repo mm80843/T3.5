@@ -2,3 +2,7 @@
 
 # __Private investors in pharmaceuticals and healthcare would benefit from increased demand for vaccines and related products__
 
+## This return can be realized by these benefits
+
+* [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
+

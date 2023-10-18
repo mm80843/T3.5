@@ -46,3 +46,14 @@ Urban form: Realising the value of green space: a planners’ perspective on the
 * [Planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
 * [Creating green space in existing communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_54.md)
 
+## This article mentions these technologies
+
+* [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
+* [public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
+* [green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [sustainable financing models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_54.md)
+

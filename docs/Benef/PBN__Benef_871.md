@@ -6,7 +6,7 @@
 
 Addressing gender disparities in knowledge, attitudes, and practices related to COVID-19
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit from investing in gender-specific interventions through improved asset value of properties in areas where men have equal knowledge, attitudes, and practices as women, as this contributes to overall community health and safety.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_952.md)
 
@@ -18,4 +18,8 @@ Addressing gender disparities in knowledge, attitudes, and practices related to 
 
 * [specifically men](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_351.md)
 * [indonesian residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_350.md)
+
+## Risks which can benefit from this action
+
+* [Gender-Specific Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_870.md)
 

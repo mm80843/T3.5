@@ -6,7 +6,7 @@
 
 Planting insect-pollinated plants can reduce the amount of wind-blown pollen in urban areas, reducing allergy symptoms in susceptible individuals
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in insect-pollinated plants can improve the quality of life for allergy sufferers and reduce healthcare costs related to allergy treatment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_90.md)
 
@@ -17,4 +17,8 @@ Planting insect-pollinated plants can reduce the amount of wind-blown pollen in 
 ## Stakeholders benefitting from this Benefit
 
 * [allergy sufferers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_60.md)
+
+## Risks which can benefit from this action
+
+* [Plant insect-pollinated plants instead of wind-pollinated ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_80.md)
 

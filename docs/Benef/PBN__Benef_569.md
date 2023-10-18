@@ -6,7 +6,7 @@
 
 Governments to give financial aids, more incentives.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Government intervention through financial aids can ease the financial burden on contractors, providing them with necessary resources to continue their operations and recover from the financial impacts of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_622.md)
 
@@ -17,4 +17,8 @@ Governments to give financial aids, more incentives.
 ## Stakeholders benefitting from this Benefit
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Risks which can benefit from this action
+
+* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
 

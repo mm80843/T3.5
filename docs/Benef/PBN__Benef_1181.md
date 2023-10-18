@@ -6,7 +6,7 @@
 
 Reduces disparities, provides equal access to resources and support
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increases social equity and improves social cohesion, leading to stable and inclusive communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1316.md)
 
@@ -17,4 +17,8 @@ Reduces disparities, provides equal access to resources and support
 ## Stakeholders benefitting from this Benefit
 
 * [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
+
+## Risks which can benefit from this action
+
+* [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1182.md)
 

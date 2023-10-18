@@ -6,7 +6,7 @@
 
 Ensuring continuity of essential services such as healthcare, groceries, and pharmacies can help maintain the well-being of the population.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in the continuity of essential services can support economic stability and prevent social unrest during a crisis.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_461.md)
 
@@ -17,4 +17,8 @@ Ensuring continuity of essential services such as healthcare, groceries, and pha
 ## Stakeholders benefitting from this Benefit
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+
+## Risks which can benefit from this action
+
+* [Continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_436.md)
 

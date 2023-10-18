@@ -50,3 +50,7 @@ The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtra
 * [Portable air filters with UV sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
 * [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
 
+## This article mentions these technologies
+
+* [air filtration and uv light sterilisation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_414.md)
+

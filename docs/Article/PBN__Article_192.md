@@ -50,3 +50,8 @@ Wearable technology for early detection of COVID-19: A systematic scoping review
 * [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
 * [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_405.md)
 
+## This article mentions these technologies
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
+

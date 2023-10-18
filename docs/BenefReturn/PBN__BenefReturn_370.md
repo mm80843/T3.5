@@ -2,3 +2,7 @@
 
 # __Improved health and safety of occupants and waste management efficiency__
 
+## This return can be realized by these benefits
+
+* [Effective management and disposal of potentially infected waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_347.md)
+

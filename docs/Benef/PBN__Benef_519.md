@@ -6,7 +6,7 @@
 
 Media portrayal that challenges negative stereotypes improves public perception and reduces stigmatization of residents.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced reputation and desirability of public and social housing properties, potentially resulting in increased demand and higher asset values for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_568.md)
 
@@ -17,4 +17,8 @@ Media portrayal that challenges negative stereotypes improves public perception 
 ## Stakeholders benefitting from this Benefit
 
 * [public and social housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_218.md)
+
+## Risks which can benefit from this action
+
+* [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_532.md)
 

@@ -2,3 +2,7 @@
 
 # __Improved marketability of properties, attracting quality tenants and higher rental rates.__
 
+## This return can be realized by these benefits
+
+* [Reduced contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_210.md)
+

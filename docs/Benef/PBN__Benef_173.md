@@ -6,7 +6,7 @@
 
 Good design and management of water systems reduce the risk of disease outbreaks and waterborne infections.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Occupants have access to clean and safe water, reducing the risk of waterborne diseases and improving overall health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_177.md)
 
@@ -17,4 +17,8 @@ Good design and management of water systems reduce the risk of disease outbreaks
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
 

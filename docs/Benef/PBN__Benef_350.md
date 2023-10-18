@@ -6,7 +6,7 @@
 
 Adaptability to changing needs, privacy, and comfort for each family member
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved comfort and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_373.md)
 
@@ -17,4 +17,8 @@ Adaptability to changing needs, privacy, and comfort for each family member
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_352.md)
 

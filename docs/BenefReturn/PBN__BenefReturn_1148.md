@@ -2,3 +2,7 @@
 
 # __Enhanced sustainability and contribution to global climate change efforts.__
 
+## This return can be realized by these benefits
+
+* [Emissions reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1027.md)
+

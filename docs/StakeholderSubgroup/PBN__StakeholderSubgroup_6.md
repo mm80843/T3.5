@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promotion entities representing travel destinations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_285.md)
+* [Promotion entities representing travel destinations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_278.md)
 
 ## Closest similar item
 

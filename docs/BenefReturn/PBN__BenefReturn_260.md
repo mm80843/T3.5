@@ -2,3 +2,7 @@
 
 # __Adopting proper waste disinfection measures can enhance the property’s value and create a safer living environment.__
 
+## This return can be realized by these benefits
+
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
+

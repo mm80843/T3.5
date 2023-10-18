@@ -43,3 +43,9 @@ Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
 * [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
+* [isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1855.md)
+

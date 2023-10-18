@@ -6,7 +6,7 @@
 
 Clear and accurate information shared on social media would decrease panic and anxiety levels among the public
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced panic and anxiety would lead to better mental health outcomes and potentially decrease healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_997.md)
 
@@ -17,4 +17,8 @@ Clear and accurate information shared on social media would decrease panic and a
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Best practices for information sharing on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_909.md)
 

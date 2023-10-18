@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Digital platforms and online resources facilitate collaboration, communication, and information sharing among individuals and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
 * [virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1443.md)
 * [Virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2627.md)
+
+## This technology is mentioned by
+
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
 
 ## Risks linked to this technology
 

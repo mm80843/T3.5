@@ -6,7 +6,7 @@
 
 Increasing public awareness and support for nature conservation and PCAs
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased public involvement and participation in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_153.md)
 
@@ -18,4 +18,8 @@ Increasing public awareness and support for nature conservation and PCAs
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+
+## Risks which can benefit from this action
+
+* [Increasing public interest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_134.md)
 

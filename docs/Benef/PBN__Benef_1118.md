@@ -6,7 +6,7 @@
 
 VR can aid in pain management and physical therapy, leading to faster recovery and increased patient satisfaction
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced recovery time and improved patient satisfaction, leading to better patient outcomes and increased work satisfaction for healthcare professionals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1250.md)
 
@@ -18,4 +18,8 @@ VR can aid in pain management and physical therapy, leading to faster recovery a
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
 

@@ -60,3 +60,8 @@ A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandem
 * [Scalability of IoT devices in IoMT](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1186.md)
 * [Lightweight security solutions for IoT devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+

@@ -2,3 +2,7 @@
 
 # __Improved accuracy of monitoring, better understanding of community spread, early detection of outbreaks__
 
+## This return can be realized by these benefits
+
+* [Improving detection capabilities in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_994.md)
+

@@ -6,7 +6,7 @@
 
 Collaborative projects enable coordination and harmonization of data, leading to in-depth analyses.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Facilitates collaboration, accelerates scientific progress, and generates more comprehensive evidence.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1242.md)
 
@@ -17,4 +17,8 @@ Collaborative projects enable coordination and harmonization of data, leading to
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
 

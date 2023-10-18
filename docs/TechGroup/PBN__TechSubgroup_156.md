@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Effective strategies for managing and preventing the spread of disease through manipulation of vectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_54.md)
+* [Effective strategies for managing and preventing the spread of disease through manipulation of vectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_44.md)
 
 ## Closest similar item
 

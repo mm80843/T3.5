@@ -2,3 +2,7 @@
 
 # __Early detection of health issues, improved public health and safety__
 
+## This return can be realized by these benefits
+
+* [Enhanced health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1376.md)
+

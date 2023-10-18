@@ -6,7 +6,7 @@
 
 Addressing security and privacy concerns ensures the protection of IoT data, maintaining patient confidentiality.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced data security builds trust and confidence in the use of IoT technology, encouraging its adoption.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1581.md)
 
@@ -18,4 +18,8 @@ Addressing security and privacy concerns ensures the protection of IoT data, mai
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1423.md)
 

@@ -6,7 +6,7 @@
 
 Promotes better pandemic prevention measures, well-informed dwellers, access to healthcare resources, and communication technologies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract residents by offering well-designed, spacious housing in areas with lower population density, leading to increased property value and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_28.md)
 
@@ -17,4 +17,8 @@ Promotes better pandemic prevention measures, well-informed dwellers, access to 
 ## Stakeholders benefitting from this Benefit
 
 * [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+
+## Risks which can benefit from this action
+
+* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_20.md)
 

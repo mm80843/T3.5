@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Entities within a community that inhabit, educate, employ, and contribute to the advancement of knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
+* [Entities within a community that inhabit, educate, employ, and contribute to the advancement of knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
 
 ## Closest similar item
 

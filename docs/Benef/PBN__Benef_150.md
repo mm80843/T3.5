@@ -6,7 +6,7 @@
 
 Supporting local communities in maintaining sustainable livelihoods through conservation initiatives
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved livelihoods for local communities, reduced pressure on PCAs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_151.md)
 
@@ -18,4 +18,8 @@ Supporting local communities in maintaining sustainable livelihoods through cons
 
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+
+## Risks which can benefit from this action
+
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
 

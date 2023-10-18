@@ -6,7 +6,7 @@
 
 User-centric HIE systems provide a standardized format for storing and exchanging medical records, improving interoperability and access to patient data.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Streamlined patient care and improved healthcare outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_424.md)
 
@@ -18,4 +18,8 @@ User-centric HIE systems provide a standardized format for storing and exchangin
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_399.md)
 

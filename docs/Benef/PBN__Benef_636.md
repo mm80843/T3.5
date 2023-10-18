@@ -6,7 +6,7 @@
 
 Targeted interventions can help individuals manage their mental health and reduce the symptoms of anxiety, depression, and stress
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved mental health of individuals with previous mental health or psychiatric illnesses, leading to increased productivity and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_683.md)
 
@@ -17,4 +17,8 @@ Targeted interventions can help individuals manage their mental health and reduc
 ## Stakeholders benefitting from this Benefit
 
 * [individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_266.md)
+
+## Risks which can benefit from this action
+
+* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_630.md)
 

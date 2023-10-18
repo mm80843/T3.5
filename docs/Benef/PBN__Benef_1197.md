@@ -6,7 +6,7 @@
 
 dwellings and reduced
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [measures can lead to improved](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1335.md)
 
@@ -16,4 +16,8 @@ dwellings and reduced
 
 ## Stakeholders benefitting from this Benefit
 
+
+## Risks which can benefit from this action
+
+* [insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1193.md)
 

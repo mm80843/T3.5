@@ -6,7 +6,7 @@
 
 Systemic change addresses inherent vulnerabilities and promotes sustainable practices.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [This leads to more resilient and equitable conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1189.md)
 
@@ -19,4 +19,8 @@ Systemic change addresses inherent vulnerabilities and promotes sustainable prac
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+
+## Risks which can benefit from this action
+
+* [Systemic change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
 

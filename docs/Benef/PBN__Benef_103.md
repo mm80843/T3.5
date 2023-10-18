@@ -6,7 +6,7 @@
 
 Faster sample collection, reduced risk of infection, and freeing up staff for other tasks
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased operational efficiency and reduced labor costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_101.md)
 
@@ -17,4 +17,8 @@ Faster sample collection, reduced risk of infection, and freeing up staff for ot
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Automated sample collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_89.md)
 

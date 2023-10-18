@@ -6,7 +6,7 @@
 
 Implementation of virtual training classes allows members to continue their fitness routines from home, providing flexibility and convenience.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in virtual training classes attracts a wider range of members, improves member retention and satisfaction, and expands the reach of the health club.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_695.md)
 
@@ -17,4 +17,8 @@ Implementation of virtual training classes allows members to continue their fitn
 ## Stakeholders benefitting from this Benefit
 
 * [health club members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_272.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of virtual training classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_642.md)
 

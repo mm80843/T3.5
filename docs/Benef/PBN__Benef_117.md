@@ -6,7 +6,7 @@
 
 Managing and improving the destination image through effective communication, marketing, and responsible actions can attract more tourists and counter negative perceptions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investors who contribute to managing and improving the destination image can benefit from increased tourist interest and demand, leading to higher occupancy rates and profits.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_116.md)
 
@@ -17,4 +17,8 @@ Managing and improving the destination image through effective communication, ma
 ## Stakeholders benefitting from this Benefit
 
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risks which can benefit from this action
+
+* [Managing and improving destination image](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_104.md)
 

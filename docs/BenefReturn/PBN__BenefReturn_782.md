@@ -2,3 +2,7 @@
 
 # __Support local businesses and stimulate economic recovery__
 
+## This return can be realized by these benefits
+
+* [Incentives to the local economy through digital means](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_728.md)
+

@@ -6,7 +6,7 @@
 
 Ensures the safety and integrity of data and systems, minimizing the risk of intrusion and hacking
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduction in the likelihood of data breaches and damage to infrastructure, leading to increased trust and confidence in the smart and safe city concepts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_72.md)
 
@@ -19,4 +19,8 @@ Ensures the safety and integrity of data and systems, minimizing the risk of int
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [private entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_56.md)
+
+## Risks which can benefit from this action
+
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_65.md)
 

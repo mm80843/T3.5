@@ -6,7 +6,7 @@
 
 Control measures (isolation, closure, banning) reduced case reports by 96%, averting hundreds of thousands of cases
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing transmission control measures significantly reduces the number of confirmed cases, protecting public health and preventing overwhelming of healthcare systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1057.md)
 
@@ -17,4 +17,8 @@ Control measures (isolation, closure, banning) reduced case reports by 96%, aver
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Transmission control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_955.md)
 

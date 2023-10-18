@@ -6,7 +6,7 @@
 
 Spending time in domestic gardens during COVID-19 lockdown provides opportunities for older adults to interact with neighbors and promotes a sense of community and social ties.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in the development and maintenance of domestic gardens can benefit from increased asset value due to improved social ties and community engagement in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1322.md)
 
@@ -17,4 +17,8 @@ Spending time in domestic gardens during COVID-19 lockdown provides opportunitie
 ## Stakeholders benefitting from this Benefit
 
 * [older adults](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_461.md)
+
+## Risks which can benefit from this action
+
+* [Spending time in domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1184.md)
 

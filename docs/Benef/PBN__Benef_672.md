@@ -6,7 +6,7 @@
 
 NPIs such as handwashing, wearing masks, and social distancing have been shown to effectively prevent the spread of respiratory diseases like COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in NPIs as they would contribute to creating safer and healthier built environments, ultimately improving asset value and potentially attracting more tenants or buyers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_719.md)
 
@@ -17,4 +17,8 @@ NPIs such as handwashing, wearing masks, and social distancing have been shown t
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
 

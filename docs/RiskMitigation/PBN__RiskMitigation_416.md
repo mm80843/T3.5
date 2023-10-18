@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
+* [Promotion and enforcement of physical separation measures to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_321.md)
 
 ## Closest similar item
 
@@ -18,13 +18,13 @@
 * [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
 * [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_536.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
-* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
-* [Reduction in transmission among co-workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_750.md)
 * [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+* [Reduction in transmission among co-workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_750.md)
 * [Reduction in disease burden](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1132.md)
 * [Reduction in pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1144.md)
 * [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1145.md)

@@ -2,3 +2,8 @@
 
 # __Private investors would benefit from improved energy performance, reduced operating costs, and improved asset value.__
 
+## This return can be realized by these benefits
+
+* [Identification of energy consumption drivers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1346.md)
+* [Improved understanding of building energy use](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1348.md)
+

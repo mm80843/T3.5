@@ -6,7 +6,7 @@
 
 Filters out irrelevant or inaccurate information, improving the quality and usefulness of available data.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from reliable and relevant information for decision-making processes, leading to more effective investments and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1603.md)
 
@@ -18,4 +18,8 @@ Filters out irrelevant or inaccurate information, improving the quality and usef
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+
+## Risks which can benefit from this action
+
+* [Establish reliable filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1444.md)
 

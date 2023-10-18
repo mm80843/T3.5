@@ -54,3 +54,17 @@ The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of S
 * [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
 * [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
 
+## This article mentions these technologies
+
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
+* [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
+* [public consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_105.md)
+* [iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
+* [network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
+* [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
+* [data governance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_106.md)
+* [limits on data use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_107.md)
+

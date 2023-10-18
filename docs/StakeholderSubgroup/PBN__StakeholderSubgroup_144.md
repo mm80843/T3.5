@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [People living or visiting areas, with specific traits, who travel by various means and possess specialized knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_254.md)
+* [People living or visiting areas, with specific traits, who travel by various means and possess specialized knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
 
 ## Closest similar item
 

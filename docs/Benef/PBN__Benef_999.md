@@ -6,7 +6,7 @@
 
 Biofiltration technology, such as green walls and microalgae structures, can effectively filter air pollutants, improving indoor air quality and reducing the risk of respiratory disorders.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased desirability and demand for buildings with biofiltration technology, leading to higher occupancy rates, rental income, and potentially higher asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1106.md)
 
@@ -17,4 +17,8 @@ Biofiltration technology, such as green walls and microalgae structures, can eff
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_995.md)
 

@@ -2,3 +2,7 @@
 
 # __Smooth flow of goods, reduced disruptions in supply chains__
 
+## This return can be realized by these benefits
+
+* [Efficient supply chain operations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1383.md)
+

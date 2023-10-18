@@ -6,7 +6,7 @@
 
 Cloud computing enables secure storage and analysis of large volumes of health data, facilitating real-time monitoring, prediction modeling, and efficient resource management.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in cloud computing can improve data security, enable agile and scalable data analysis, and enhance healthcare decision-making, ultimately leading to better patient care and outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1221.md)
 
@@ -18,4 +18,8 @@ Cloud computing enables secure storage and analysis of large volumes of health d
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+
+## Risks which can benefit from this action
+
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1102.md)
 

@@ -6,7 +6,7 @@
 
 Implementation of energy efficient designs such as external shading and evaporative cooling can reduce energy consumption in residential buildings.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased property value and reduced energy costs for homeowners, leading to increased demand for energy-efficient buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1391.md)
 
@@ -18,4 +18,8 @@ Implementation of energy efficient designs such as external shading and evaporat
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1250.md)
 

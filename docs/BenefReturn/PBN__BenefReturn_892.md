@@ -2,3 +2,7 @@
 
 # __Investing in balconies can increase the value of apartments and attract potential buyers or renters.__
 
+## This return can be realized by these benefits
+
+* [Outdoor living space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_822.md)
+

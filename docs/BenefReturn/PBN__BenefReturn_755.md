@@ -2,3 +2,7 @@
 
 # __Reference scenario for comparison__
 
+## This return can be realized by these benefits
+
+* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_707.md)
+

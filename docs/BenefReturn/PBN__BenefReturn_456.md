@@ -2,3 +2,7 @@
 
 # __Private investors in technology and digital infrastructure can benefit from increased demand for digital solutions, potentially leading to increased revenue and profitability.__
 
+## This return can be realized by these benefits
+
+* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
+

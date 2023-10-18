@@ -6,7 +6,7 @@
 
 Sustainable design and construction practices can reduce carbon emissions, improve air quality, and contribute to a healthier environment, benefiting construction workers and the general public
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in sustainable design and construction practices can improve air quality, mitigate climate change, and provide long-term environmental benefits, enhancing the well-being of construction workers and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1436.md)
 
@@ -18,4 +18,8 @@ Sustainable design and construction practices can reduce carbon emissions, impro
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
+## Risks which can benefit from this action
+
+* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
 

@@ -64,3 +64,26 @@ Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a P
 * [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
 * [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
 
+## This article mentions these technologies
+
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
+* [cost optimization strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_162.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_163.md)
+* [funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
+* [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_153.md)
+* [interdisciplinary teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_156.md)
+* [scalable infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_157.md)
+* [legal advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_159.md)
+* [policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
+

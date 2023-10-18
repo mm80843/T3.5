@@ -6,7 +6,7 @@
 
 Early enforcement of lockdown decreased case growth rate, leading to a shorter duration of lockdown and a lower increase of the case growth rate in the post-lockdown era.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in NPHIs would benefit from a decreased risk of infection, potential reduction in healthcare costs, and improved economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_84.md)
 * [Private investors investing in early enforcement of lockdown would benefit from a decreased risk of infection, potential reduction in healthcare costs, and improved economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_85.md)
@@ -18,4 +18,9 @@ Early enforcement of lockdown decreased case growth rate, leading to a shorter d
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_75.md)
+* [Non-pharmaceutical public health interventions (NPHIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_74.md)
 

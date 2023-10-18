@@ -2,3 +2,7 @@
 
 # __Occupants experience a higher level of comfort, convenience, and control over their environment, leading to improved satisfaction and well-being.__
 
+## This return can be realized by these benefits
+
+* [Enhanced occupant experience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_178.md)
+

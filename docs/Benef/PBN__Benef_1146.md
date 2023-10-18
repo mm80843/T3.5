@@ -6,7 +6,7 @@
 
 Decreased exposure to environmental noise, leading to improved well-being and reduced health risks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in residential and commercial properties in quieter areas can benefit from increased property values and improved quality of life for residents and tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1278.md)
 
@@ -17,4 +17,8 @@ Decreased exposure to environmental noise, leading to improved well-being and re
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 

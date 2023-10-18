@@ -2,3 +2,7 @@
 
 # __Private investors in green roofs can contribute to water management and support sustainable water practices, benefiting municipalities and water authorities.__
 
+## This return can be realized by these benefits
+
+* [Natural greywater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1255.md)
+

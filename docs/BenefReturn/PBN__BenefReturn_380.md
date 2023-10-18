@@ -2,3 +2,7 @@
 
 # __Improved individual and collective rights, increased trust in public health measures, enhanced social cohesion__
 
+## This return can be realized by these benefits
+
+* [Protection of individual rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_355.md)
+

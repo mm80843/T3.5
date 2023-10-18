@@ -6,7 +6,7 @@
 
 Designing balconies and outdoor spaces that provide views of nature, support physical distancing, and promote biophilia can reduce stress, enhance mood, and improve overall well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from higher tenant satisfaction, increased demand for units with access to nature, and potential premium rental rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_970.md)
 * [Private investors in green roofs can attract urban residents seeking improved well-being and health, increasing the value of their properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1405.md)
@@ -23,4 +23,10 @@ Designing balconies and outdoor spaces that provide views of nature, support phy
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+
+## Risks which can benefit from this action
+
+* [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
+* [Installation of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1266.md)
+* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1338.md)
 

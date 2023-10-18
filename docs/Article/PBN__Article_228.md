@@ -64,3 +64,12 @@ Effects of temperature and humidity on the spread of COVID-19: A systematic revi
 * [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1273.md)
 * [Migration control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [remote healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+* [quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
+* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
+

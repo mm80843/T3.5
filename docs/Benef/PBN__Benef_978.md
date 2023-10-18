@@ -6,7 +6,7 @@
 
 Reduction of crowded areas
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved desirability and](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1077.md)
 
@@ -17,4 +17,8 @@ Reduction of crowded areas
 ## Stakeholders benefitting from this Benefit
 
 * [real estate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_384.md)
+
+## Risks which can benefit from this action
+
+* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
 

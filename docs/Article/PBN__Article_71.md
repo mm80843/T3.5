@@ -44,3 +44,13 @@ Characterization and performance evaluation of a full-scale activated carbon-bas
 * [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2304.md)
 * [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
 
+## This article mentions these technologies
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1893.md)
+* [activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
+* [maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1892.md)
+* [biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
+

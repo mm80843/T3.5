@@ -2,3 +2,7 @@
 
 # __Implementing health-centric design criteria in the built environment can lead to improved public health outcomes, which can result in increased well-being and productivity of individuals, as well as reduced healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
+

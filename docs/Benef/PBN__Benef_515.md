@@ -6,7 +6,7 @@
 
 Big data analytics focus on improving data quality, ensuring accurate predictive models that can aid in effective policy decision-making.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from more reliable predictive models, reducing potential risks and optimizing resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_563.md)
 
@@ -18,4 +18,8 @@ Big data analytics focus on improving data quality, ensuring accurate predictive
 
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Risks which can benefit from this action
+
+* [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_527.md)
 

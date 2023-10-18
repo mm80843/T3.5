@@ -55,3 +55,15 @@ An investigation of transmission control measures during the first 50 days of th
 * [Implementation of Level 1 response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2107.md)
 * [Health checkpoints set up at terminals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2108.md)
 
+## This article mentions these technologies
+
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
+* [proactive decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
+* [emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+* [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
+* [improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1707.md)
+

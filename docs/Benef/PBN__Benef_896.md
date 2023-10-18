@@ -6,7 +6,7 @@
 
 Dancing and yoga can be performed in small spaces and provide a form of physical activity that can reduce sedentary behavior and improve mental well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in the development and promotion of exergames and active video games, which can help individuals reduce sedentary behavior and improve their overall health and well-being during quarantine or social isolation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_980.md)
 * [Private investors can invest in online dance and yoga classes, as well as the development of home exercise equipment for dancing and yoga, which can help individuals reduce sedentary behavior and improve their overall health and well-being during quarantine or social isolation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_981.md)
@@ -18,4 +18,9 @@ Dancing and yoga can be performed in small spaces and provide a form of physical
 ## Stakeholders benefitting from this Benefit
 
 * [individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
+
+## Risks which can benefit from this action
+
+* [Exergames and active video games](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_895.md)
+* [Dancing and yoga in small spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_896.md)
 

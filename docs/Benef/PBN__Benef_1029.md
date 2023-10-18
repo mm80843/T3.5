@@ -6,7 +6,7 @@
 
 Strengthening the health care system by increasing resources, manpower, and equipment improves the overall capacity to handle infectious diseases and other health emergencies.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in health care facilities, medical equipment, and health care services can benefit from increased demand and improved asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1150.md)
 
@@ -19,4 +19,8 @@ Strengthening the health care system by increasing resources, manpower, and equi
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
+
+## Risks which can benefit from this action
+
+* [Strengthen health care system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1032.md)
 

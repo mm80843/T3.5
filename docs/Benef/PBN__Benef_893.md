@@ -6,7 +6,7 @@
 
 Increased awareness and compliance with hygiene measures, reducing disease transmission risk
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can reduce operational costs by minimizing absenteeism and enhancing workforce productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_976.md)
 
@@ -17,4 +17,8 @@ Increased awareness and compliance with hygiene measures, reducing disease trans
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_892.md)
 

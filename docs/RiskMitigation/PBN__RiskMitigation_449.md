@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
+* [Utilize UVGI technology to disinfect air, surfaces, and clothing, ensuring proper installation, training, and research to optimize effectiveness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_349.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Conduct research to determine the Z values of different viral species and adjust the upper-room UVGI system accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1628.md)
 * [Adequate ventilation to dilute the virus-carrying droplets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2804.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Understanding UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_434.md)
 

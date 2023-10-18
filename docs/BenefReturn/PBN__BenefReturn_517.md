@@ -2,3 +2,7 @@
 
 # __Investing in wastewater monitoring can ensure the efficient operation of wastewater treatment plants and help prevent disruptions in economic activities due to lockdowns.__
 
+## This return can be realized by these benefits
+
+* [Risk reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_474.md)
+

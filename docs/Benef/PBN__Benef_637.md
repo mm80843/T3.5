@@ -6,7 +6,7 @@
 
 Providing strategies for managing anxiety, stress, and depression can enhance individuals' coping skills and resilience during the pandemic
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved coping skills and resilience, leading to a more stable and productive workforce.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_685.md)
 
@@ -17,4 +17,8 @@ Providing strategies for managing anxiety, stress, and depression can enhance in
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_632.md)
 

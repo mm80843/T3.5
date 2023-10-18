@@ -6,7 +6,7 @@
 
 Virtual markets allow businesses to continue operating while ensuring safety
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Maintain business operations and support local commerce](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_783.md)
 
@@ -18,4 +18,7 @@ Virtual markets allow businesses to continue operating while ensuring safety
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
+
+## Risks which can benefit from this action
+
 

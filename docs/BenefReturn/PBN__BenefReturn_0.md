@@ -2,3 +2,7 @@
 
 # __Early detection helps public health authorities implement timely interventions and prevent the spread of the virus, reducing healthcare burden and economic impact.__
 
+## This return can be realized by these benefits
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+

@@ -2,3 +2,7 @@
 
 # __Private investors in recycling facilities can benefit from increased demand for recycling services and potential financial returns.__
 
+## This return can be realized by these benefits
+
+* [Waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1148.md)
+

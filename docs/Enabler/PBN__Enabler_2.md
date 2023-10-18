@@ -8,7 +8,7 @@ enabler_003
 
 ## Category to which it belongs
 
-* [Insights from analyzing information to make informed decisions and drive business strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_62.md)
+* [Insights from analyzing information to make informed decisions and drive business strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 

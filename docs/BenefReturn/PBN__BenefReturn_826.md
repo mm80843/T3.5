@@ -2,3 +2,7 @@
 
 # __Private investors investing in adaptive design measures can attract healthier occupants and create a more valuable and desirable built environment.__
 
+## This return can be realized by these benefits
+
+* [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_758.md)
+

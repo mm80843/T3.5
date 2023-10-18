@@ -59,3 +59,17 @@ COVID-19: Lessons for an Urban(izing) World
 * [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
 * [Rethinking, replanning, redesigning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_34.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
+* [remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_21.md)
+* [smart city technologies for urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_13.md)
+* [remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_14.md)
+* [digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
+* [data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_16.md)
+* [digital platforms for urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_17.md)
+* [data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+

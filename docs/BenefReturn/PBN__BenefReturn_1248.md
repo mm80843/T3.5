@@ -2,3 +2,7 @@
 
 # __Increased patient satisfaction and improved patient outcomes, leading to a positive reputation for healthcare professionals and increased patient loyalty.__
 
+## This return can be realized by these benefits
+
+* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1116.md)
+

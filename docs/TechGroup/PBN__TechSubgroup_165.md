@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promotion of cleanliness, hygiene, and health through various purification, disinfection, and eco-friendly practices and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_44.md)
+* [Promotion of cleanliness, hygiene, and health through various purification, disinfection, and eco-friendly practices and materials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
 
 ## Closest similar item
 

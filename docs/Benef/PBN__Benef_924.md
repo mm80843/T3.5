@@ -6,7 +6,7 @@
 
 Communicating the uncertainty inherent in risk messages would result in a better understanding of the risk among the public, leading to more informed decision making and appropriate risk perception.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from enhanced public perception by having a more stable and predictable market environment, reducing investment risks and uncertainties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1013.md)
 
@@ -17,4 +17,8 @@ Communicating the uncertainty inherent in risk messages would result in a better
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_925.md)
 

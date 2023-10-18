@@ -6,7 +6,7 @@
 
 Rapid identification of contacts, monitoring, and quarantine measures
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in prompt and effective response to specific incidents can prevent community spread, maintain public confidence, and protect tourism industry.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_108.md)
 
@@ -18,4 +18,8 @@ Rapid identification of contacts, monitoring, and quarantine measures
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risks which can benefit from this action
+
+* [Effective response to cruise ship case](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_96.md)
 

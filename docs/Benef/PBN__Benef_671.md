@@ -6,7 +6,7 @@
 
 Investments in essential infrastructure reduce disease risks and improve the well-being of vulnerable populations
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased property values and demand for housing in well-served areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_718.md)
 
@@ -17,4 +17,8 @@ Investments in essential infrastructure reduce disease risks and improve the wel
 ## Stakeholders benefitting from this Benefit
 
 * [affected populations in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_280.md)
+
+## Risks which can benefit from this action
+
+* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_665.md)
 

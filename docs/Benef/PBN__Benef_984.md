@@ -6,7 +6,7 @@
 
 Increased funding for conservation efforts would help protect endangered species and ecosystems
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in conservation organizations would benefit from increased funding opportunities and potential long-term ecological and economic returns](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1085.md)
 
@@ -18,4 +18,8 @@ Increased funding for conservation efforts would help protect endangered species
 
 * [endangered species](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_391.md)
 * [conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_390.md)
+
+## Risks which can benefit from this action
+
+* [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_980.md)
 

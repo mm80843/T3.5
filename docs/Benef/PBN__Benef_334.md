@@ -6,7 +6,7 @@
 
 Implementing temporary regulations on certain activities in public places, such as group gatherings or overcrowded events, mitigates the risk of disease transmission. This ensures a safer environment and promotes responsible behavior.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from reduced liability, improved safety ratings, and increased asset desirability, ultimately leading to improved asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_351.md)
 
@@ -18,4 +18,8 @@ Implementing temporary regulations on certain activities in public places, such 
 
 * [public place users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_153.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_330.md)
 

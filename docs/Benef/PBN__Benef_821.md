@@ -6,7 +6,7 @@
 
 Provides timely and evidence-based insights into the effectiveness of government interventions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in real-time data and analytics can enhance the effectiveness of government interventions and mitigate risks in crisis situations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_891.md)
 
@@ -18,4 +18,8 @@ Provides timely and evidence-based insights into the effectiveness of government
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+
+## Risks which can benefit from this action
+
+* [Real-time local information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_817.md)
 

@@ -6,7 +6,7 @@
 
 Provides real-time data capture, monitoring, and analysis for effective response and decision-making
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improves data-driven public health response, leading to more targeted interventions and resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1288.md)
 
@@ -18,4 +18,8 @@ Provides real-time data capture, monitoring, and analysis for effective response
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Mobile technology surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1155.md)
 

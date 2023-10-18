@@ -6,7 +6,7 @@
 
 Access to reliable and constant ICT infrastructure ensures stable internet access for online activities
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Stable internet access can enhance tenant satisfaction and attract individuals relying on remote work and virtual communication.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_263.md)
 
@@ -17,4 +17,8 @@ Access to reliable and constant ICT infrastructure ensures stable internet acces
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Emphasis on ICT infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_240.md)
 

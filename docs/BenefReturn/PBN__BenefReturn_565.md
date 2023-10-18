@@ -2,3 +2,7 @@
 
 # __Enhanced safety and well-being of residents, leading to increased asset value and improved reputation for investors.__
 
+## This return can be realized by these benefits
+
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+

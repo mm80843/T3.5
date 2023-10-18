@@ -2,3 +2,7 @@
 
 # __Enhanced safety and well-being attract tenants, improve occupancy rates, and increase property value.__
 
+## This return can be realized by these benefits
+
+* [Enhanced safety and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_300.md)
+

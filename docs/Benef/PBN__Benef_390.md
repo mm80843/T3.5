@@ -6,7 +6,7 @@
 
 Anterooms act as buffer zones reducing the migration of infectious particles from patient rooms to corridors, thus improving infection control.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in anterooms can prevent the spread of infection within the hospital, reducing the risk of transmission to other patients and medical personnel, and enhancing the hospital’s reputation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_418.md)
 
@@ -18,4 +18,8 @@ Anterooms act as buffer zones reducing the migration of infectious particles fro
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+
+## Risks which can benefit from this action
+
+* [Partitioning to create anterooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_393.md)
 

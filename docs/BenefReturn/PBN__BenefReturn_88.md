@@ -2,3 +2,7 @@
 
 # __Investing in rodent management can improve public health outcomes and reduce healthcare costs related to rat-borne diseases.__
 
+## This return can be realized by these benefits
+
+* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_91.md)
+

@@ -6,7 +6,7 @@
 
 Providing adequate daylighting in buildings enhances well-being, reduces stress, and improves productivity, which can contribute to overall health in the face of the COVID-19 pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can improve tenant satisfaction, productivity, and attract high-quality tenants by incorporating adequate daylighting in their buildings, leading to potential rental premium and increased asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1542.md)
 
@@ -17,4 +17,8 @@ Providing adequate daylighting in buildings enhances well-being, reduces stress,
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1394.md)
 

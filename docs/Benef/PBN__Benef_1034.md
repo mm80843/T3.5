@@ -6,7 +6,7 @@
 
 Strengthening social support systems, such as social welfare programs and community support networks, improves the overall resilience and well-being of vulnerable populations, reducing poverty and inequalities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in social support systems and services can benefit from increased demand and improved financial stability of vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1155.md)
 
@@ -18,4 +18,8 @@ Strengthening social support systems, such as social welfare programs and commun
 
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1037.md)
 

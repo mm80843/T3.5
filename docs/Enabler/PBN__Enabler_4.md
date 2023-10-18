@@ -8,7 +8,7 @@ enabler_005
 
 ## Category to which it belongs
 
-* [Digital ledger system that records and verifies transactions in a decentralized and secure manner.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)
+* [Digital ledger system that records and verifies transactions in a decentralized and secure manner.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_54.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Provides comprehensive and objective data on population health and environmental exposure, allowing for informed decision-making in urban planning and policy development
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this mitigation measure could benefit from improved asset value by supporting the development of sustainable and resilient cities, attracting investments and improving quality of life for residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_225.md)
 
@@ -18,4 +18,8 @@ Provides comprehensive and objective data on population health and environmental
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
 

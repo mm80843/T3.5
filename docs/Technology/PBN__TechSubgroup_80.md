@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Soundproofing, climate control, and illumination options for spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_39.md)
+* [Soundproofing, climate control, and illumination options for spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_29.md)
 
 ## Closest similar item
 

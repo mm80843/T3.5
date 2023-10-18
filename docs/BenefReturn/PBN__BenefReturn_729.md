@@ -2,3 +2,7 @@
 
 # __Improved employee safety and well-being, reduced risk of infection spread__
 
+## This return can be realized by these benefits
+
+* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_681.md)
+

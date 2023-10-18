@@ -46,3 +46,17 @@ SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirm
 * [Pasteurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
 * [PMMoV as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2413.md)
 
+## This article mentions these technologies
+
+* [development of rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1971.md)
+* [increased production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1970.md)
+* [data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1978.md)
+* [modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
+* [real-time monitoring of sewage flow rate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1980.md)
+* [development of non-invasive testing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1972.md)
+* [monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1977.md)
+* [development and implementation of wastewater sampling and analysis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1974.md)
+* [improvement of testing accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1973.md)
+* [development of storage protocols for maintaining sample integrity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+* [data analysis algorithms for hotspot detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1975.md)
+

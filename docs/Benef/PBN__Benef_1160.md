@@ -6,7 +6,7 @@
 
 Allows individuals to monitor their health status, track symptoms, and assess their risk of exposure
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Empowers individuals to take proactive measures, reduces transmission risk, and promotes early intervention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1292.md)
 
@@ -18,4 +18,8 @@ Allows individuals to monitor their health status, track symptoms, and assess th
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Mobile tracing and monitoring apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1159.md)
 

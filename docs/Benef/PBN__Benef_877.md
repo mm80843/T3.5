@@ -6,7 +6,7 @@
 
 Integrated and holistic strategic planning considers the complexity of urban challenges and involves collaboration and alignment among different actors, leading to long-term resilience and sustainability in cities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved socio-economic recovery, increased city resilience and sustainability, enhanced quality of life for citizens.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_958.md)
 
@@ -18,4 +18,8 @@ Integrated and holistic strategic planning considers the complexity of urban cha
 
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+
+## Risks which can benefit from this action
+
+* [Integrated and holistic strategic planning processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_876.md)
 

@@ -6,7 +6,7 @@
 
 Facilitates clear communication by providing a well-lit, noise-free environment with close proximity between subjects.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances coordination, reduces disruptions in healthcare delivery, and ensures effective use of resources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_491.md)
 * [Enhanced team collaboration, increased efficiency in information sharing and problem-solving.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1002.md)
@@ -21,4 +21,9 @@ Facilitates clear communication by providing a well-lit, noise-free environment 
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
 * [teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_363.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_472.md)
 

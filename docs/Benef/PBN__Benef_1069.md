@@ -6,7 +6,7 @@
 
 Increased control of individual temperature preferences leads to improved comfort and productivity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased productivity and reduced absenteeism, leading to improved asset value of the building](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1195.md)
 
@@ -17,4 +17,10 @@ Increased control of individual temperature preferences leads to improved comfor
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1075.md)
+* [Increase cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1076.md)
+* [Add local cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1077.md)
 

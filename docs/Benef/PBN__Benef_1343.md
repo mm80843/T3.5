@@ -6,7 +6,7 @@
 
 The use of PPE, such as masks and gloves, can protect individuals from infection and reduce the risk of transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in PPE manufacturing or distribution would see improved asset value by providing essential protective equipment to individuals in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1513.md)
 
@@ -17,4 +17,8 @@ The use of PPE, such as masks and gloves, can protect individuals from infection
 ## Stakeholders benefitting from this Benefit
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1367.md)
 

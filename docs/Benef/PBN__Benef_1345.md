@@ -6,7 +6,7 @@
 
 Upgrading to energy-efficient systems and equipment can lead to significant energy savings and improved environmental performance.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved asset value and reduced operating costs, leading to higher return on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1518.md)
 * [Private investors would benefit from reduced energy expenses and improved asset value, as well as potential incentives or tax benefits for implementing energy-efficient measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1521.md)
@@ -18,4 +18,9 @@ Upgrading to energy-efficient systems and equipment can lead to significant ener
 ## Stakeholders benefitting from this Benefit
 
 * [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
+
+## Risks which can benefit from this action
+
+* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1371.md)
+* [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
 

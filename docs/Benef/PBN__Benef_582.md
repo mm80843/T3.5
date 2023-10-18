@@ -6,7 +6,7 @@
 
 Increased accuracy and efficiency in tracking and preventing the spread of diseases
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in digital technologies by improving public health outcomes, reducing healthcare costs, and attracting skilled professionals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_635.md)
 
@@ -18,4 +18,8 @@ Increased accuracy and efficiency in tracking and preventing the spread of disea
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_588.md)
 

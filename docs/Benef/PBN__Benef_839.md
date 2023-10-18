@@ -6,7 +6,7 @@
 
 By adjusting occupant presence, the risk of viral transmission can be minimized
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health, reduced spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_913.md)
 
@@ -18,4 +18,8 @@ By adjusting occupant presence, the risk of viral transmission can be minimized
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_837.md)
 

@@ -50,3 +50,14 @@ Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Ge
 * [Upper room germicidal UV fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
 * [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
 
+## This article mentions these technologies
+
+* [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
+* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+* [public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1158.md)
+* [training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
+* [funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+* [research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
+* [cost-effective uv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1162.md)
+* [safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
+

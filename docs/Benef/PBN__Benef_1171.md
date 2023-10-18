@@ -6,7 +6,7 @@
 
 Donors can verify the transfer process and recipients can confirm receipt, reducing corruption and improving social trust.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased transparency in donation processes, reduced corruption, improved aid delivery.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1305.md)
 
@@ -18,4 +18,8 @@ Donors can verify the transfer process and recipients can confirm receipt, reduc
 
 * [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
 * [beneficiaries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_454.md)
+
+## Risks which can benefit from this action
+
+* [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1171.md)
 

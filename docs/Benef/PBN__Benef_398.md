@@ -6,7 +6,7 @@
 
 Blockchain-based EHR systems simplify data exchange and improve interoperability, enabling seamless sharing of patient information across healthcare providers.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Streamlined workflows and improved collaboration among healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_426.md)
 
@@ -17,4 +17,8 @@ Blockchain-based EHR systems simplify data exchange and improve interoperability
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Blockchain-enabled system for EHR exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_401.md)
 

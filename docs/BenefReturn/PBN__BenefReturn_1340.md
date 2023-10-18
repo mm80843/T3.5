@@ -2,3 +2,7 @@
 
 # __Private investors can attract tenants and customers by implementing copper surfaces, ensuring a lower risk of surface contamination and improving the overall perception of cleanliness and hygiene.__
 
+## This return can be realized by these benefits
+
+* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+

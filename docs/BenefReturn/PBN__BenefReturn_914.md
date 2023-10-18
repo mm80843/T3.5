@@ -2,3 +2,7 @@
 
 # __More reliable energy simulation results, better decision-making__
 
+## This return can be realized by these benefits
+
+* [Improved accuracy of energy consumption simulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_840.md)
+

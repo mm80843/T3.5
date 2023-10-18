@@ -2,3 +2,7 @@
 
 # __Enhanced efficiency, transparency, and risk management in trade processes__
 
+## This return can be realized by these benefits
+
+* [Improved information systems and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_310.md)
+

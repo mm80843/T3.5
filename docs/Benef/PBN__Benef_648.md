@@ -6,7 +6,7 @@
 
 Identifying and understanding the dependencies and interdependencies among critical infrastructure systems allows for better risk management and preparedness in the face of cascading disruptions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from reduced financial losses and improved asset value as their infrastructure is less likely to experience major disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_698.md)
 
@@ -17,4 +17,8 @@ Identifying and understanding the dependencies and interdependencies among criti
 ## Stakeholders benefitting from this Benefit
 
 * [critical infrastructure operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_273.md)
+
+## Risks which can benefit from this action
+
+* [Identifying dependencies and interdependencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_645.md)
 

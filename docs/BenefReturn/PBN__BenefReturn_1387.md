@@ -2,3 +2,7 @@
 
 # __Advancement in epidemiological research and analysis__
 
+## This return can be realized by these benefits
+
+* [Enriched ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1237.md)
+

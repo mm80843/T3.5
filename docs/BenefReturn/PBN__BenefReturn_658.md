@@ -2,3 +2,12 @@
 
 # __Reduced risk of infection, improved health outcomes__
 
+## This return can be realized by these benefits
+
+* [Improved ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_610.md)
+* [Reduced risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_612.md)
+* [Increased protection in poorly ventilated areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_613.md)
+* [Enhanced ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_616.md)
+* [Inactivation of airborne microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_614.md)
+* [Reduced concentration of virus-laden microdroplets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_617.md)
+

@@ -57,3 +57,11 @@ Dangerous liaisons? Applying the social harm perspective to the social inequalit
 * [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
 * [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
 
+## This article mentions these technologies
+
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [online platforms for helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_687.md)
+* [mobile apps for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_688.md)
+* [mobile apps for monitoring and managing health behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_689.md)
+

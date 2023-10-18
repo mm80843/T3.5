@@ -70,3 +70,18 @@ Mobile Technology Solution for COVID-19: Surveillance and Prevention
 * [Bluetooth-based contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1695.md)
 * [WhatsApp Chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1700.md)
 
+## This article mentions these technologies
+
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
+* [anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1382.md)
+* [secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
+* [integration of mobile technology with public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1389.md)
+* [improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1383.md)
+* [verification processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1387.md)
+* [bluetooth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1384.md)
+* [simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1385.md)
+* [improved connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1386.md)
+* [app store policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1388.md)
+

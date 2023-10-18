@@ -53,3 +53,16 @@ Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in
 * [Barrier-Free Accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
 * [Urban Green Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
 
+## This article mentions these technologies
+
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
+* [urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+* [housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1396.md)
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+* [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
+* [tree planting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1394.md)
+* [traffic management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1395.md)
+* [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1391.md)
+

@@ -6,7 +6,7 @@
 
 Solves parameter identification issue using historical data
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [More accurate and reliable occupancy estimation leads to better building design and operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_133.md)
 
@@ -17,4 +17,8 @@ Solves parameter identification issue using historical data
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Optimization based people flow estimation method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_115.md)
 

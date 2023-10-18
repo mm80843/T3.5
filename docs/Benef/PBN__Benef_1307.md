@@ -6,7 +6,7 @@
 
 Modeling studies of viral activity to guide preparedness efforts
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better allocation of resources and response planning](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1477.md)
 
@@ -17,4 +17,8 @@ Modeling studies of viral activity to guide preparedness efforts
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_516.md)
+
+## Risks which can benefit from this action
+
+* [Big-data analytics modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1326.md)
 

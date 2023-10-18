@@ -2,3 +2,7 @@
 
 # __Researchers can gather data on loneliness and its impact during the COVID-19 pandemic, contributing to the body of knowledge on mental health during crises__
 
+## This return can be realized by these benefits
+
+* [Research data source](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_934.md)
+

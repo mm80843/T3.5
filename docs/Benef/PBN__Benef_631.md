@@ -6,7 +6,7 @@
 
 Global cooperation in economic recovery can help mitigate poverty and inequality in developing countries, stabilize economies, and support the achievement of Sustainable Development Goals.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from a more stable global economy, increased market potential in developing countries, and potential investment opportunities in sectors contributing to sustainable development.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_674.md)
 
@@ -18,4 +18,8 @@ Global cooperation in economic recovery can help mitigate poverty and inequality
 
 * [developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)
 * [global community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_259.md)
+
+## Risks which can benefit from this action
+
+* [Global cooperation for economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_625.md)
 

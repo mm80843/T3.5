@@ -57,3 +57,17 @@ Learning from the COVID-19 pandemic in governing smart cities
 * [Open Government projects and Open Data initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_290.md)
 * [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
 
+## This article mentions these technologies
+
+* [blockchain)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_280.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [emerging technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_275.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_281.md)
+* [open government mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_282.md)
+* [open government technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_283.md)
+* [e-participation tools)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
+

@@ -6,7 +6,7 @@
 
 Enhances energy efficiency and comfort in adapted spaces
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced energy costs, improved user comfort](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1203.md)
 
@@ -18,4 +18,8 @@ Enhances energy efficiency and comfort in adapted spaces
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+
+## Risks which can benefit from this action
+
+* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1084.md)
 

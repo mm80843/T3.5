@@ -2,3 +2,7 @@
 
 # __Increased awareness on loneliness can lead to more individuals taking an active role in addressing their own mental health, improving overall well-being in the community.__
 
+## This return can be realized by these benefits
+
+* [Awareness raising through influencers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_935.md)
+

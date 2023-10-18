@@ -2,3 +2,7 @@
 
 # __Development of support measures for affected businesses, strategic planning for recovery in the industry__
 
+## This return can be realized by these benefits
+
+* [Identification of impacted businesses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_566.md)
+

@@ -54,3 +54,22 @@ Mental Health and the Covid-19 Pandemic
 * [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
 * [Modifying expectations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1606.md)
 
+## This article mentions these technologies
+
+* [public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
+* [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
+* [emergency psychiatric services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1289.md)
+* [assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+* [mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
+* [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1279.md)
+* [mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1282.md)
+* [supportive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1280.md)
+* [coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
+* [information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1287.md)
+* [stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1281.md)
+* [stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
+* [media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1286.md)
+

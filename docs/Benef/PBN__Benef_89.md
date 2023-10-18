@@ -6,7 +6,7 @@
 
 Increased biodiversity reduces the abundance of infected vectors, leading to lower disease prevalence
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in increased biodiversity can improve public health outcomes and reduce healthcare costs in the long term.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_86.md)
 
@@ -17,4 +17,8 @@ Increased biodiversity reduces the abundance of infected vectors, leading to low
 ## Stakeholders benefitting from this Benefit
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_76.md)
 

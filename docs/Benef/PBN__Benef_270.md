@@ -6,7 +6,7 @@
 
 Outdoor absolute humidity can serve as a better predictor of influenza incidence compared to relative humidity, aiding in better preparedness and response to outbreaks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in the monitoring of outdoor absolute humidity can improve public health interventions, leading to reduced healthcare costs and societal benefits.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_282.md)
 
@@ -17,4 +17,8 @@ Outdoor absolute humidity can serve as a better predictor of influenza incidence
 ## Stakeholders benefitting from this Benefit
 
 * [public health agencies/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_136.md)
+
+## Risks which can benefit from this action
+
+* [Monitoring outdoor absolute humidity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_259.md)
 

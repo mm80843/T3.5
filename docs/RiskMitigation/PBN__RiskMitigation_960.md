@@ -2,7 +2,7 @@
 
 # __Rethinking the city’s landscape and role of UGS in life quality__
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Transforming the perception of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_965.md)
 

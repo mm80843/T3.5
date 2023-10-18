@@ -6,7 +6,7 @@
 
 Ensures that privacy concerns are addressed and balanced with the potential value of big-data analytics
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in transparent and well-governed data analytics can help build trust with citizens and enhance the reputation of investors in the mitigation measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_889.md)
 
@@ -17,4 +17,8 @@ Ensures that privacy concerns are addressed and balanced with the potential valu
 ## Stakeholders benefitting from this Benefit
 
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+
+## Risks which can benefit from this action
+
+* [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_815.md)
 

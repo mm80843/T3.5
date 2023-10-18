@@ -2,3 +2,7 @@
 
 # __Investing in GIS and GPS applications can enable more targeted interventions, reducing the impact of the pandemic on health systems and the economy.__
 
+## This return can be realized by these benefits
+
+* [Enhanced surveillance and control of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_448.md)
+

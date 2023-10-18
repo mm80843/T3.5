@@ -6,7 +6,7 @@
 
 Equipping hospitals with trained rapid-response teams, proper PPE, and infection control measures improves the safety and protection of healthcare workers and patients
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved infection control measures by safeguarding their investments and ensuring the continuity of healthcare services, which can lead to improved patient satisfaction and financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_490.md)
 
@@ -18,4 +18,8 @@ Equipping hospitals with trained rapid-response teams, proper PPE, and infection
 
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 * [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
+
+## Risks which can benefit from this action
+
+* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
 

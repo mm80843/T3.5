@@ -6,7 +6,7 @@
 
 Green roofs improve buildings' energy efficiency by providing insulation, reducing the need for heating and cooling.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced energy costs and improved sustainability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1145.md)
 * [Private investors would benefit from reduced energy costs and improved building sustainability, leading to potential energy savings and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1258.md)
@@ -23,4 +23,9 @@ Green roofs improve buildings' energy efficiency by providing insulation, reduci
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [building owners/operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_406.md)
+
+## Risks which can benefit from this action
+
+* [IEQ monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1133.md)
+* [Optimized operation of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1027.md)
 

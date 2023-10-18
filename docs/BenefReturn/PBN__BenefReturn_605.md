@@ -2,3 +2,7 @@
 
 # __Decreased stress on the system allows for better care for infected patients and reduces strain on resources__
 
+## This return can be realized by these benefits
+
+* [Reduced stress on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_552.md)
+

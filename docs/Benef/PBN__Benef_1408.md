@@ -6,7 +6,7 @@
 
 Using modular construction techniques can create flexible and adaptable buildings that can easily be transformed or expanded for different purposes.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the cost-effectiveness and time efficiency of modular construction, leading to potential value appreciation of their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1598.md)
 
@@ -17,4 +17,8 @@ Using modular construction techniques can create flexible and adaptable building
 ## Stakeholders benefitting from this Benefit
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Risks which can benefit from this action
+
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
 

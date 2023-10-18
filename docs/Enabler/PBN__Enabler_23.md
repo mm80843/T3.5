@@ -8,7 +8,7 @@ enabler_024
 
 ## Category to which it belongs
 
-* [Remote work arrangement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_83.md)
+* [Remote work arrangement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_73.md)
 
 ## Closest similar item
 

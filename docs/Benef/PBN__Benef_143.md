@@ -6,7 +6,7 @@
 
 NPI measures such as reduced pollution, fewer accidents, and lower incidence of acute respiratory infections can have positive effects on overall health and well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investments in industries that promote environmental sustainability and improved public health, resulting in increased asset value and potential returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_143.md)
 
@@ -17,4 +17,8 @@ NPI measures such as reduced pollution, fewer accidents, and lower incidence of 
 ## Stakeholders benefitting from this Benefit
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

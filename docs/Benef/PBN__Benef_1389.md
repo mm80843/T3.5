@@ -6,7 +6,7 @@
 
 Establishing well-documented procedures for future pandemics and crises
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better management of future crises, reduced impact on the city](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1576.md)
 
@@ -19,4 +19,8 @@ Establishing well-documented procedures for future pandemics and crises
 * [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
 * [emergency services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_539.md)
 * [experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_540.md)
+
+## Risks which can benefit from this action
+
+* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1420.md)
 

@@ -2,3 +2,7 @@
 
 # __Private investors can see an increase in the value of healthcare facilities due to increased demand and utilization.__
 
+## This return can be realized by these benefits
+
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
+

@@ -6,7 +6,7 @@
 
 Increased understanding of virus and potential treatments
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Potential for new intellectual property and commercial applications](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_643.md)
 
@@ -17,4 +17,8 @@ Increased understanding of virus and potential treatments
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Reverse genetics systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_592.md)
 

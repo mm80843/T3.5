@@ -6,7 +6,7 @@
 
 Improved access to training and upskilling programs for immigrants
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased employability and career advancement opportunities for immigrants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1526.md)
 
@@ -18,4 +18,8 @@ Improved access to training and upskilling programs for immigrants
 
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+
+## Risks which can benefit from this action
+
+* [Training and upskilling programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1380.md)
 

@@ -6,7 +6,7 @@
 
 Reduction of crowded areas
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Economic recovery of local](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1079.md)
 
@@ -17,4 +17,8 @@ Reduction of crowded areas
 ## Stakeholders benefitting from this Benefit
 
 * [local businesses,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_385.md)
+
+## Risks which can benefit from this action
+
+* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
 

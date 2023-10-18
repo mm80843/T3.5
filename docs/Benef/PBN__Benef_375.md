@@ -6,7 +6,7 @@
 
 Paying attention to official governmental media sources enhances access to accurate and reliable information, improves knowledge and risk perception, and increases the likelihood of adopting protective behaviors.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in non-pharmaceutical interventions can help protect public health and prevent the need for costly healthcare interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_402.md)
 * [Private investors can benefit by investing in communication strategies and platforms that promote official governmental media sources, as it helps disseminate vital information, build trust and credibility, and encourage individuals to adopt protective measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_406.md)
@@ -18,4 +18,9 @@ Paying attention to official governmental media sources enhances access to accur
 ## Stakeholders benefitting from this Benefit
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
+* [Attention to official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_381.md)
 

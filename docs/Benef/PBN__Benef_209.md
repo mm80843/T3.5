@@ -6,7 +6,7 @@
 
 Reduced contact and proximity among individuals, minimizing the risk of disease transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased demand for spaces with physical barriers, resulting in higher rental rates and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_216.md)
 
@@ -18,4 +18,8 @@ Reduced contact and proximity among individuals, minimizing the risk of disease 
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+
+## Risks which can benefit from this action
+
+* [Physical barriers (e.g., partitions, dividers)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_195.md)
 

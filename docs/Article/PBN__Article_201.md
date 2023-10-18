@@ -69,3 +69,16 @@ COVID19-Routes: A Safe Pedestrian Navigation Service
 * [Field Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_362.md)
 * [Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_336.md)
+* [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_337.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
+* [crowd density monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
+* [safe navigation apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_338.md)
+* [route optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
+

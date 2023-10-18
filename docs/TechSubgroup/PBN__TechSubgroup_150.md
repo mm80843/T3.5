@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Connected technologies for monitoring, tracking, and planning in urban areas and homes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_21.md)
+* [Connected technologies for monitoring, tracking, and planning in urban areas and homes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_11.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Implementing surge capacity strategies, such as expanding space, identifying and training additional staff, ensuring adequate supplies, and establishing systems, improve the hospital's ability to manage a surge in COVID-19 cases and reduce the risk of transmission within healthcare settings.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in healthcare facilities would benefit from investing in surge capacity management as it would enhance the facility’s ability to respond to a surge in COVID-19 cases, maintain quality of care, and mitigate potential operational disruptions, which can protect and enhance the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_533.md)
 
@@ -17,4 +17,8 @@ Implementing surge capacity strategies, such as expanding space, identifying and
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
+
+## Risks which can benefit from this action
+
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_504.md)
 

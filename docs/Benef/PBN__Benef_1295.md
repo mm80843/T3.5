@@ -6,7 +6,7 @@
 
 Improved air and water quality, increased biodiversity, and enhanced aesthetic value of built environment
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased property values and demand for housing in areas with green infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1462.md)
 
@@ -17,4 +17,8 @@ Improved air and water quality, increased biodiversity, and enhanced aesthetic v
 ## Stakeholders benefitting from this Benefit
 
 * [all residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_511.md)
+
+## Risks which can benefit from this action
+
+* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1315.md)
 

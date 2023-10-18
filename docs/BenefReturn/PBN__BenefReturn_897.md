@@ -2,3 +2,7 @@
 
 # __Investing in non-pharmaceutical interventions can lead to a healthier population and a more controlled epidemic, reducing the burden on healthcare systems and supporting economic recovery.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

@@ -2,3 +2,7 @@
 
 # __Healthcare facilities can prevent the nosocomial spread of viruses, protect staff, and maintain a safe environment for patients which can improve reputation and patient satisfaction, leading to increased occupancy rates and potential financial savings from reduced healthcare-associated infections.__
 
+## This return can be realized by these benefits
+
+* [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1275.md)
+

@@ -6,7 +6,7 @@
 
 UVGI damages the DNA/RNA of pathogens, rendering them harmless and preventing reproduction.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased demand and desirability of buildings with UV-based technologies, leading to higher asset value and potential premium rental rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1105.md)
 * [Implementation of UVGI systems can lead to a reduction in the risk of airborne infections, resulting in healthier occupants and improved productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1300.md)
@@ -19,4 +19,9 @@ UVGI damages the DNA/RNA of pathogens, rendering them harmless and preventing re
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [UV-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
+* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
 

@@ -46,3 +46,18 @@ Integrating rapid risk mapping and mobile phone call record data for strategic m
 * [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2087.md)
 * [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2088.md)
 
+## This article mentions these technologies
+
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
+* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [data quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1688.md)
+* [mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+* [satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
+* [statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1687.md)
+* [geographic information systems (gis) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
+* [mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
+* [mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
+* [active case detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1689.md)
+* [community surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1690.md)
+

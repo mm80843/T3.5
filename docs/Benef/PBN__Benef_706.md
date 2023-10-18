@@ -6,7 +6,7 @@
 
 Flattened infection curve, reduced economic losses
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Preserves lives, maintains some economic activity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_754.md)
 
@@ -18,4 +18,8 @@ Flattened infection curve, reduced economic losses
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [private businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_291.md)
+
+## Risks which can benefit from this action
+
+* [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_699.md)
 

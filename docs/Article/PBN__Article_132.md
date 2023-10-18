@@ -50,3 +50,11 @@ Global policy challenges for urban vector-borne disease risks
 * [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_95.md)
 * [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
 
+## This article mentions these technologies
+
+* [affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)
+* [smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_89.md)
+* [water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_91.md)
+* [waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
+* [vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
+

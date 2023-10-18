@@ -2,3 +2,7 @@
 
 # __Better response to future pandemics, improved efficiency and productivity, enhanced well-being and quality of life__
 
+## This return can be realized by these benefits
+
+* [Improved infrastructure and increased connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1100.md)
+

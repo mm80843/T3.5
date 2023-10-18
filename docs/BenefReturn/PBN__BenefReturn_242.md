@@ -2,3 +2,7 @@
 
 # __Adjustability of indoor temperature can improve tenant satisfaction and attract health-conscious individuals.__
 
+## This return can be realized by these benefits
+
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+

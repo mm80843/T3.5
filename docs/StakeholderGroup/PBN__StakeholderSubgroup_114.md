@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efficiently handling and controlling waste materials, both solid and liquid, to minimize environmental harm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_273.md)
+* [Efficiently handling and controlling waste materials, both solid and liquid, to minimize environmental harm.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_266.md)
 
 ## Closest similar item
 

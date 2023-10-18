@@ -2,3 +2,7 @@
 
 # __Private investors can attract tenants by offering safer working environments, increasing leasing demand and rental income__
 
+## This return can be realized by these benefits
+
+* [Reduced occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_892.md)
+

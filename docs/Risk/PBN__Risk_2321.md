@@ -4,14 +4,10 @@
 
 ## Category to which it belongs
 
-* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
+* [The challenges and consequences of the global pandemic include poor acoustics, noise pollution, food security, increase in inequality, waste, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [---------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3534.md)
-* [------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3533.md)
-* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_536.md)
-* [------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3535.md)
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3536.md)
 * [business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3665.md)
 * [industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
@@ -23,25 +19,20 @@
 
 ---------------------------------
 
-## Property: has_RiskGBN
+## Is the risk affecting GBN scales
 
-* [-------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_3.md)
 
-## Property: has_RiskHealth
+## Type of the risk
 
-* [-----------](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_13.md)
 
-## Property: has_RiskISO_Impact
+## Type of impact of the risk (according to ISO37100)
 
-* [-----------------------------------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_16.md)
 
-## Property: has_RiskISO_Purpose
+## Type of purpose of the risk (according to ISO37100)
 
-* [-------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_21.md)
 
 ## Mitigations of this risk
 
-* [---------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3017.md)
 
 ## Name of the risk
 
@@ -49,7 +40,6 @@
 
 ## Stakeholders who can mitigate this risk
 
-* [---------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1524.md)
 
 ## Articles mentionning the risk
 
@@ -57,13 +47,10 @@
 
 ## People affected by this risk
 
-* [------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1548.md)
 
 ## Technologies linked to the risk
 
-* [------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1911.md)
 
 ## Property: has_RiskType
 
-* [--------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_21.md)
 

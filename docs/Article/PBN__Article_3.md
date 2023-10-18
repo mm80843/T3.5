@@ -46,3 +46,14 @@ EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models
 * [Same Room Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1749.md)
 * [Same Building Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1750.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [trajectory analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1466.md)
+* [microscopic crowd models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1465.md)
+* [agent-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1464.md)
+

@@ -6,7 +6,7 @@
 
 WBE surveillance can identify patients who have recovered from COVID-19, providing valuable data on immunity and helping to estimate the future impact of the virus.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Identification of immunized patients can inform vaccination strategies and public health planning, attracting more funding and collaboration opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_963.md)
 
@@ -18,4 +18,8 @@ WBE surveillance can identify patients who have recovered from COVID-19, providi
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Risks which can benefit from this action
+
+* [WBE surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
 

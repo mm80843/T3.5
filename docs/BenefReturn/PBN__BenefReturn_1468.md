@@ -2,3 +2,7 @@
 
 # __Increased social cohesion can lead to stronger communities, increased social capital, and improved overall well-being for individuals, which can positively impact their financial well-being.__
 
+## This return can be realized by these benefits
+
+* [Increased social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1299.md)
+

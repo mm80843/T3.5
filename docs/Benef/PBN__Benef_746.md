@@ -6,7 +6,7 @@
 
 Improving public transport options encourages modal shift from private cars, leading to reduced traffic congestion and shorter travel times.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in public transport infrastructure can benefit from increased ridership, fare revenue, and improved operational efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_811.md)
 
@@ -17,4 +17,8 @@ Improving public transport options encourages modal shift from private cars, lea
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_741.md)
 

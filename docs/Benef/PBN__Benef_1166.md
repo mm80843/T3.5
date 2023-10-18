@@ -6,7 +6,7 @@
 
 Facilitates data sharing, analysis, and collaboration for research and epidemiological studies on COVID-19
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances scientific understanding, informs public health response, and supports evidence-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1297.md)
 
@@ -18,4 +18,8 @@ Facilitates data sharing, analysis, and collaboration for research and epidemiol
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
 

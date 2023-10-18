@@ -70,3 +70,14 @@ Coronavirus comes home? Energy use, home energy management, and the social-psych
 * [Gender](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_402.md)
 * [Technology Anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_403.md)
 
+## This article mentions these technologies
+
+* [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [electric vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
+* [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [smart grid systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_354.md)
+* [smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
+* [-](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
+

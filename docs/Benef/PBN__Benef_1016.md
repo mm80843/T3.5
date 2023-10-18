@@ -6,7 +6,7 @@
 
 Early detection and rapid response to disease outbreaks can help contain their spread and reduce the burden on healthcare systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health outcomes and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1137.md)
 
@@ -18,4 +18,8 @@ Early detection and rapid response to disease outbreaks can help contain their s
 
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [public health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_404.md)
+
+## Risks which can benefit from this action
+
+* [Integrated surveillance of human cases and vectors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1019.md)
 

@@ -6,7 +6,7 @@
 
 Innovative solutions and collaborations stimulate economic growth and problem-solving
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Foster innovation and attract investment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_785.md)
 
@@ -18,4 +18,7 @@ Innovative solutions and collaborations stimulate economic growth and problem-so
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [innovators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_301.md)
+
+## Risks which can benefit from this action
+
 

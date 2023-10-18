@@ -6,7 +6,7 @@
 
 Online learning provides access to education for students, especially those who may not have access to traditional education systems
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in education technology would benefit from increased demand for online learning platforms and services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1087.md)
 
@@ -17,4 +17,8 @@ Online learning provides access to education for students, especially those who 
 ## Stakeholders benefitting from this Benefit
 
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+
+## Risks which can benefit from this action
+
+* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
 

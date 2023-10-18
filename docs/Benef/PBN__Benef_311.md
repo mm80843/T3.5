@@ -6,7 +6,7 @@
 
 Adoption of policies to promote competition and diversification in GVCs
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved resilience, reduced concentration risks, increased market access](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_329.md)
 
@@ -18,4 +18,8 @@ Adoption of policies to promote competition and diversification in GVCs
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Foster competition and diversification in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_308.md)
 

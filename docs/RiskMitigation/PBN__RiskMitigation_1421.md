@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_0.md)
+* [Facilitate transparent communication, enabling reliable information sharing through standardized protocols and effective channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_331.md)
 
 ## Closest similar item
 
@@ -19,11 +19,11 @@
 * [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
 * [IoT monitoring and alert systems; prioritization of activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3039.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
 * [Improved patient care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1390.md)
 * [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -6,7 +6,7 @@
 
 Retrofitting existing buildings with green features, such as advanced ventilation systems, enhances safety and sustainability in the post-COVID era.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can attract tenants and improve the market competitiveness of their buildings through green retrofitting, ultimately boosting the asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1540.md)
 
@@ -17,4 +17,8 @@ Retrofitting existing buildings with green features, such as advanced ventilatio
 ## Stakeholders benefitting from this Benefit
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Risks which can benefit from this action
+
+* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1393.md)
 

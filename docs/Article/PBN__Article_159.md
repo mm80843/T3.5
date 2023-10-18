@@ -46,3 +46,19 @@ Retail Signage During the COVID-19 Pandemic
 * [Professional Signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
 * [Duct Tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1260.md)
 
+## This article mentions these technologies
+
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
+* [digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_366.md)
+* [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1089.md)
+* [occupancy tracking systems can be used to monitor and enforce compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
+* [printing and lamination technologies can be used to create professional signs that are durable and visually appealing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
+* [social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1097.md)
+* [social media platforms can be used to provide accurate and timely information to customers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1091.md)
+* [email](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1093.md)
+* [phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
+* [websites can be used to provide alternative contact options for customers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1095.md)
+* [clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1096.md)
+

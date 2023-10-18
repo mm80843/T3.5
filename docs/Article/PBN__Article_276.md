@@ -59,3 +59,6 @@ Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities
 * [Equitable Park Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
 * [Park Quality Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
 
+## This article mentions these technologies
+
+

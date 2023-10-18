@@ -8,7 +8,7 @@ enabler_016
 
 ## Category to which it belongs
 
-* [Ultraviolet radiation used for disinfection and sterilization purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_75.md)
+* [Ultraviolet radiation used for disinfection and sterilization purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Ability to work from home, reducing risk of job loss due to lockdowns or shutdowns
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved employee morale and loyalty](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_228.md)
 
@@ -17,4 +17,8 @@ Ability to work from home, reducing risk of job loss due to lockdowns or shutdow
 ## Stakeholders benefitting from this Benefit
 
 * [office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
+
+## Risks which can benefit from this action
+
+* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
 

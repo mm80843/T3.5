@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from improved worker satisfaction and reduced absenteeism.__
 
+## This return can be realized by these benefits
+
+* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_787.md)
+

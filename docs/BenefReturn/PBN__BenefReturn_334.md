@@ -2,3 +2,7 @@
 
 # __Reduced risk of surgical site infections__
 
+## This return can be realized by these benefits
+
+* [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
+

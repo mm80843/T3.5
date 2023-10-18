@@ -2,3 +2,7 @@
 
 # __Increased occupancy rates and tenant satisfaction, leading to higher asset value.__
 
+## This return can be realized by these benefits
+
+* [Enhanced occupant comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_208.md)
+

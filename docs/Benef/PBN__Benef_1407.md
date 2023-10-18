@@ -6,7 +6,7 @@
 
 Designing buildings with wider corridors and doorways can enhance indoor air quality and reduce the risk of infection transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased attractiveness of buildings with improved ventilation and air quality, leading to potential value appreciation of their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1597.md)
 
@@ -17,4 +17,8 @@ Designing buildings with wider corridors and doorways can enhance indoor air qua
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Wider corridors and doorways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1439.md)
 

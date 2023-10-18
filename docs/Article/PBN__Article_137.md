@@ -54,3 +54,11 @@ Learning from pandemics: Applying resilience thinking to identify priorities for
 * [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
 * [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
 
+## This article mentions these technologies
+
+* [ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
+* [supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
+* [community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1675.md)
+* [infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1673.md)
+* [environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1674.md)
+

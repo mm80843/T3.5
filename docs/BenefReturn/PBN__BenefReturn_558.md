@@ -2,3 +2,7 @@
 
 # __Private investors investing in UVGI devices can benefit from improved occupant health and safety, enhanced reputation for prioritizing public health, and reduced absenteeism and healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Reduction in airborne virus concentration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_511.md)
+

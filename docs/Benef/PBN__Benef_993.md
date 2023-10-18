@@ -6,7 +6,7 @@
 
 Validates the presence of SARS-CoV-2 in wastewater and detects specific strains, aiding in surveillance and monitoring efforts
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced surveillance, identification of new variants, better understanding of transmission patterns](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1100.md)
 
@@ -18,4 +18,8 @@ Validates the presence of SARS-CoV-2 in wastewater and detects specific strains,
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [Sequencing wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_990.md)
 

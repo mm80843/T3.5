@@ -6,7 +6,7 @@
 
 Encourages responsible sharing of accurate information, decreasing the spread of misinformation and false claims.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved public trust in scientific information, reducing potential reputational damage and promoting long-term investments in research and development.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1605.md)
 
@@ -18,4 +18,8 @@ Encourages responsible sharing of accurate information, decreasing the spread of
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+
+## Risks which can benefit from this action
+
+* [Responsible information sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1446.md)
 

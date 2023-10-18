@@ -2,3 +2,7 @@
 
 # __Providing self-dependent services can enhance tenant satisfaction and create a more sustainable living environment.__
 
+## This return can be realized by these benefits
+
+* [Local food supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_255.md)
+

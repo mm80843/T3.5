@@ -46,3 +46,12 @@ Infodemic and the spread of fake news in the COVID-19-era
 * [Use of Paracetamol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
 * [Avoid ACE inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1543.md)
 
+## This article mentions these technologies
+
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
+* [social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
+* [education on media literacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1228.md)
+* [reputable scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1229.md)
+

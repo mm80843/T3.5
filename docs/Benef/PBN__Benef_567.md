@@ -6,7 +6,7 @@
 
 Supports ongoing operations and minimizes financial risks
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [By receiving financial aids, contractors can alleviate their financial burden and ensure business continuity, leading to improved financial stability and sustainability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_620.md)
 * [Maintains business continuity and long-term growth](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_767.md)
@@ -20,4 +20,9 @@ Supports ongoing operations and minimizes financial risks
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 * [organisations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_298.md)
+
+## Risks which can benefit from this action
+
+* [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_712.md)
+* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
 

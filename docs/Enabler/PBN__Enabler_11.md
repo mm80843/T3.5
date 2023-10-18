@@ -8,7 +8,7 @@ enabler_012
 
 ## Category to which it belongs
 
-* [Smart devices that can be worn for various purposes, such as fitness tracking or receiving notifications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_71.md)
+* [Smart devices that can be worn for various purposes, such as fitness tracking or receiving notifications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_61.md)
 
 ## Closest similar item
 

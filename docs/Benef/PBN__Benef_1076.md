@@ -6,7 +6,7 @@
 
 Promotes uniformity in car parking design across different countries
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Streamlined design process, increased efficiency in car parking development](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1202.md)
 
@@ -19,4 +19,8 @@ Promotes uniformity in car parking design across different countries
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+
+## Risks which can benefit from this action
+
+* [Standardization of car parking design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1083.md)
 

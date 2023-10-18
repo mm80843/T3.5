@@ -6,7 +6,7 @@
 
 Government financial support helps SMEs with their financial burdens and aids in their survival and recovery during the crisis.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in cash transfer programs, which can lead to improved asset values in the long-term through the reduction of violence and its negative impacts on individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_34.md)
 * [Private investors can invest in providing financial relief to SMEs and benefit from their long-term resilience and growth after the crisis.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1040.md)
@@ -21,4 +21,9 @@ Government financial support helps SMEs with their financial burdens and aids in
 * [victims of violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_30.md)
 * [smes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_370.md)
 * [small businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_371.md)
+
+## Risks which can benefit from this action
+
+* [Cash transfers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_26.md)
+* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_940.md)
 

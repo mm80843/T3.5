@@ -6,7 +6,7 @@
 
 Streamlining travel processes, such as online booking and contactless services, can minimize waiting times and reduce the risk of delays and inconveniences for tourists.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investors who prioritize efficiency and convenience can enhance the customer experience, increase customer satisfaction, and attract more tourists, leading to higher occupancy rates and profits.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_117.md)
 
@@ -17,4 +17,8 @@ Streamlining travel processes, such as online booking and contactless services, 
 ## Stakeholders benefitting from this Benefit
 
 * [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Risks which can benefit from this action
+
+* [Streamlining travel processes and minimizing delays](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_105.md)
 

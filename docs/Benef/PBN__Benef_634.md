@@ -6,7 +6,7 @@
 
 Social distancing measures can help prevent outbreaks of COVID-19 in workplaces and public spaces, reducing the risk of closures, loss of revenue, and legal liabilities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in social distancing measures would benefit from reduced financial losses and business disruptions associated with COVID-19 outbreaks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_680.md)
 
@@ -17,4 +17,8 @@ Social distancing measures can help prevent outbreaks of COVID-19 in workplaces 
 ## Stakeholders benefitting from this Benefit
 
 * [businesses and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_262.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
 

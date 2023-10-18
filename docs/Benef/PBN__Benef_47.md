@@ -6,7 +6,7 @@
 
 Increased access to green spaces and adherence to social distancing guidelines can mitigate the negative health effects of physical mobility restrictions and reduce the risk of disease transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in green and pedestrian infrastructure can benefit from increased demand for properties in well-planned and healthy urban environments, leading to improved asset value and marketability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_47.md)
 * [Investing in clean air initiatives promotes improved public health outcomes, benefiting the well-being of individuals and society as a whole.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_70.md)
@@ -34,4 +34,14 @@ Increased access to green spaces and adherence to social distancing guidelines c
 * [visitors of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_41.md)
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+* [Replacement with bicycle paths and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_291.md)
+* [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_39.md)
+* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_63.md)
+* [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)
+* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
+* [Use of far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_897.md)
 

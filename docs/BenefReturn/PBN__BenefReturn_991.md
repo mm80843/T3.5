@@ -2,3 +2,7 @@
 
 # __Improved public health outcomes, reduced transmission of infectious diseases__
 
+## This return can be realized by these benefits
+
+* [Effective response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_906.md)
+

@@ -6,7 +6,7 @@
 
 Self-disinfecting surfaces can continuously inactivate pathogens, reducing the risk of recontamination
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved occupant health and well-being, increased asset value through reputation and tenant retention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1327.md)
 
@@ -17,4 +17,8 @@ Self-disinfecting surfaces can continuously inactivate pathogens, reducing the r
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
 

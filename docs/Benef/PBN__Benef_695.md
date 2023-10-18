@@ -6,7 +6,7 @@
 
 Addressing socioeconomic factors during the pandemic helps mitigate income disparities
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved social cohesion, reduced societal inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_744.md)
 
@@ -18,4 +18,8 @@ Addressing socioeconomic factors during the pandemic helps mitigate income dispa
 
 * [societal population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_289.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
 

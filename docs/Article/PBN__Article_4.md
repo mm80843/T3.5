@@ -56,3 +56,19 @@ Mapping research in logistics and supply chain management during COVID-19 pandem
 * [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
 * [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1353.md)
 
+## This article mentions these technologies
+
+* [advanced analytics and simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
+* [supply chain visibility technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1131.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [inventory management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1134.md)
+* [internet of things (iot) devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1135.md)
+* [demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1133.md)
+* [risk assessment and management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
+* [supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1139.md)
+* [cloud-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1137.md)
+* [rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1136.md)
+* [supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1138.md)
+* [supply chain risk analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
+

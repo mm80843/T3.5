@@ -6,7 +6,7 @@
 
 Workers evaluate their health before boarding offshore, allowing for early detection of suspected cases and preventing the spread of the virus
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in self-health evaluation reduces the risk of COVID-19 outbreaks in the offshore workplace, protecting workers and ensuring business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_542.md)
 
@@ -17,4 +17,8 @@ Workers evaluate their health before boarding offshore, allowing for early detec
 ## Stakeholders benefitting from this Benefit
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+
+## Risks which can benefit from this action
+
+* [Self-health evaluation before onboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_511.md)
 

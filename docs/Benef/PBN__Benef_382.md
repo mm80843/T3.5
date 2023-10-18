@@ -6,7 +6,7 @@
 
 Implementing shift and break schedules can improve project efficiency by maximizing on-site workforce utilization and minimizing the impact of delays on project timelines
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved project efficiency can lead to timely project completion, reduced costs, and increased client satisfaction, which can result in repeat business and positive word-of-mouth recommendations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_410.md)
 
@@ -18,4 +18,8 @@ Implementing shift and break schedules can improve project efficiency by maximiz
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+
+## Risks which can benefit from this action
+
+* [Implement shift and break schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_385.md)
 

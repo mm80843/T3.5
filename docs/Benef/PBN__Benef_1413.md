@@ -6,7 +6,7 @@
 
 Provides reliable and scientifically proven information, guiding medical professionals in prescribing appropriate medications.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from increased demand for evidence-based medication and potentially higher sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1604.md)
 
@@ -18,4 +18,8 @@ Provides reliable and scientifically proven information, guiding medical profess
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+
+## Risks which can benefit from this action
+
+* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1445.md)
 

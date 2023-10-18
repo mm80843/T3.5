@@ -2,3 +2,7 @@
 
 # __Private investors benefit from a skilled and adaptable workforce, increasing productivity and profitability.__
 
+## This return can be realized by these benefits
+
+* [Development of flexible skill sets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_479.md)
+

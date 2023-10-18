@@ -6,7 +6,7 @@
 
 A systematic approach addressing mental health concerns and promoting social communication through technology can help alleviate anxiety and stress caused by extended lockdowns.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in mental well-being support can improve the overall well-being of the population, leading to increased productivity and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_460.md)
 * [Investing in mental health support and promoting social communication can lead to improved mental well-being and overall resilience of the population, creating a conducive environment for economic activities and attracting investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1128.md)
@@ -20,4 +20,9 @@ A systematic approach addressing mental health concerns and promoting social com
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+
+## Risks which can benefit from this action
+
+* [Internet-based communication and mental well-being support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_435.md)
+* [Systematic approach led by mental health experts, social communication through technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1011.md)
 

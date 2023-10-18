@@ -52,3 +52,13 @@ Association of built environment attributes with the spread of COVID-19 at its i
 * [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
 * [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1126.md)
 
+## This article mentions these technologies
+
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
+* [health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_986.md)
+* [health screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_985.md)
+

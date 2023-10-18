@@ -6,7 +6,7 @@
 
 Policy and research priorities support the view that a focus on promoting mental health and well-being is crucial for long-term growth and sustainable development.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing programs and policies to promote mental health and well-being can contribute to economic growth and sustainable development for the government and society.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1018.md)
 
@@ -18,4 +18,8 @@ Policy and research priorities support the view that a focus on promoting mental
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+
+## Risks which can benefit from this action
+
+* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_927.md)
 

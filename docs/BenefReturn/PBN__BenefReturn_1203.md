@@ -2,3 +2,7 @@
 
 # __Reduced energy costs, improved user comfort__
 
+## This return can be realized by these benefits
+
+* [Improved thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1077.md)
+

@@ -2,3 +2,7 @@
 
 # __Implementing WBE would allow for more targeted and effective public health interventions, reducing the economic damage caused by containment measures.__
 
+## This return can be realized by these benefits
+
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1210.md)
+

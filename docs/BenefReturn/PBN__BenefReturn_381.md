@@ -2,3 +2,7 @@
 
 # __The reduction in epidemic growth can lead to improved public health outcomes and reduced economic burden, potentially increasing the value of investments in the city.__
 
+## This return can be realized by these benefits
+
+* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
+

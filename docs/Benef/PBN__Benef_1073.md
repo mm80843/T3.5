@@ -6,7 +6,7 @@
 
 Attracting businesses looking for adaptable spaces during uncertain times
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased rental income, reduced vacancy rates](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1198.md)
 
@@ -17,4 +17,8 @@ Attracting businesses looking for adaptable spaces during uncertain times
 ## Stakeholders benefitting from this Benefit
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+
+## Risks which can benefit from this action
+
+* [Adaptation of car parking building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1081.md)
 

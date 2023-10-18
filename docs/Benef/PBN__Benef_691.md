@@ -6,7 +6,7 @@
 
 Health-centric design criteria in the built environment can improve public health outcomes by reducing the risk of VBDs, such as malaria.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced burden on healthcare system, improved population health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_740.md)
 * [Improved population health, reduced burden on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_743.md)
@@ -24,4 +24,11 @@ Health-centric design criteria in the built environment can improve public healt
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+
+## Risks which can benefit from this action
+
+* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_686.md)
+* [Health-centric design criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1299.md)
+* [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_684.md)
+* [Including health considerations in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
 

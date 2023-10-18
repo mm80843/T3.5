@@ -2,3 +2,7 @@
 
 # __Greater resilience to supply shocks, reduced reliance on emergency refills__
 
+## This return can be realized by these benefits
+
+* [Improved resilience to supply shocks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_307.md)
+

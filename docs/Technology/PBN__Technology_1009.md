@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
+* [Explore a diverse range of materials, from sound-absorbing to eco-friendly, that contribute to innovative building solutions and educational resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [barricades)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3587.md)
 * [terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4349.md)
 * [community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
+
+## This technology is mentioned by
+
+* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
 
 ## This Technology enables the following mitigations
 

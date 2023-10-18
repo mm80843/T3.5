@@ -6,7 +6,7 @@
 
 Ensures consistent and reliable information, reducing confusion and conflicting interpretations of expert opinions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved public trust in healthcare authorities and reduced societal unrest, promoting stability and confidence in the market.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1602.md)
 
@@ -18,4 +18,8 @@ Ensures consistent and reliable information, reducing confusion and conflicting 
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+
+## Risks which can benefit from this action
+
+* [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1443.md)
 

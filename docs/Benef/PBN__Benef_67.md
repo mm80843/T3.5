@@ -6,7 +6,7 @@
 
 Divestment from fossil fuels reduces financial risks and promotes investment in sustainable energy.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in divestment from fossil fuels improves financial resilience and supports sustainable energy investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_67.md)
 
@@ -18,4 +18,8 @@ Divestment from fossil fuels reduces financial risks and promotes investment in 
 
 * [sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
 * [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+
+## Risks which can benefit from this action
+
+* [Divestment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_60.md)
 

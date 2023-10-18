@@ -6,7 +6,7 @@
 
 Proximity to green space is important for physical and mental health, particularly for vulnerable populations
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved accessibility to green space can enhance quality of life and property values for these populations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_192.md)
 
@@ -19,4 +19,8 @@ Proximity to green space is important for physical and mental health, particular
 * [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 * [older people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_107.md)
 * [and people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_108.md)
+
+## Risks which can benefit from this action
+
+* [Ensuring green space is within a ten-minute walk from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_168.md)
 

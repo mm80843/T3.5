@@ -2,3 +2,7 @@
 
 # __Technology and innovation__
 
+## Risks with this purpose
+
+* [Development of a COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
+

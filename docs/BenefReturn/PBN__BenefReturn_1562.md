@@ -2,3 +2,7 @@
 
 # __Safer cities, decreased criminal activities__
 
+## This return can be realized by these benefits
+
+* [Reduction in crime rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1375.md)
+

@@ -2,3 +2,7 @@
 
 # __Private investors benefit from increased demand for technology and online services, potential cost savings in physical infrastructure, and improved business resilience.__
 
+## This return can be realized by these benefits
+
+* [Virtual delivery of services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_756.md)
+

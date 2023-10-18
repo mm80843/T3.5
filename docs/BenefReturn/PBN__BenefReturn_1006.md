@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from the increased demand for and sales of antiviral coatings, leading to potential profit and market growth.__
 
+## This return can be realized by these benefits
+
+* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+

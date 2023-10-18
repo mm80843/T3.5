@@ -52,3 +52,14 @@ Mechanistic insights into the effect of humidity on airborne influenza virus sur
 * [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
 * [Vaccination Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1229.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1062.md)
+* [such as hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1059.md)
+* [temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [advanced data analysis and modeling techniques can be used to study the relationship between ah](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
+* [environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
+* [can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
+* [advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1064.md)
+

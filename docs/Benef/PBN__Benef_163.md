@@ -6,7 +6,7 @@
 
 Continued source of income and employment during periods of restrictions and lockdowns
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced economic impact on individuals and families, improved financial stability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_165.md)
 
@@ -18,4 +18,8 @@ Continued source of income and employment during periods of restrictions and loc
 
 * [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
 * [informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_96.md)
+
+## Risks which can benefit from this action
+
+* [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_146.md)
 

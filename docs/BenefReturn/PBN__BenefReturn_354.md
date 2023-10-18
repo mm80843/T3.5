@@ -2,3 +2,7 @@
 
 # __Implementing environmental management measures can reduce the risk of vector-borne diseases, create a safer and healthier environment for communities, and potentially increase the value of the surrounding built environment.__
 
+## This return can be realized by these benefits
+
+* [Reduction in vector habitats](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_337.md)
+

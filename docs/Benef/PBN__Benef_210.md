@@ -6,7 +6,7 @@
 
 Decreased risk of virus transmission through surfaces
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved marketability of properties, attracting quality tenants and higher rental rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_217.md)
 * [Improved health and safety of occupants, increased attractiveness of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_367.md)
@@ -22,4 +22,9 @@ Decreased risk of virus transmission through surfaces
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+
+## Risks which can benefit from this action
+
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_345.md)
+* [Implementation of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_196.md)
 

@@ -6,7 +6,7 @@
 
 Eliminating the need for physical documents reduces the risk of infection through face-to-face contact, while ensuring reliable and verifiable information for insurance claims.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced risk of infection, streamlined insurance claim process, reduced administrative burden.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1307.md)
 
@@ -18,4 +18,8 @@ Eliminating the need for physical documents reduces the risk of infection throug
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [insurance subscribers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_456.md)
+
+## Risks which can benefit from this action
+
+* [Use of blockchain for diagnosis confirmation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
 

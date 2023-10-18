@@ -2,3 +2,7 @@
 
 # __Investing in communication and awareness campaigns fosters a culture of safety, reduces the risk of COVID-19 transmission, and enhances worker morale and productivity.__
 
+## This return can be realized by these benefits
+
+* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_414.md)
+

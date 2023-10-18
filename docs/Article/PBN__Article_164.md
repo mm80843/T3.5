@@ -54,3 +54,17 @@ Smart cities and a data-driven response to COVID-19
 * [Improvement in Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_919.md)
 * [Benchmarking Mobility Metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
 
+## This article mentions these technologies
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_823.md)
+* [access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
+* [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
+* [data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_824.md)
+* [benchmarking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_825.md)
+

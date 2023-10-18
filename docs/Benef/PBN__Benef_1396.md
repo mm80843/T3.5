@@ -6,7 +6,7 @@
 
 Next-generation wearable devices must be biocompatible, energy efficient, compliant, and compact without compromising performance, leading to improved user experience and satisfaction.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit from investing in the development of next-generation wearable devices, as it would attract more users and increase the market share, leading to potential profit and asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1584.md)
 
@@ -17,4 +17,8 @@ Next-generation wearable devices must be biocompatible, energy efficient, compli
 ## Stakeholders benefitting from this Benefit
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Risks which can benefit from this action
+
+* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
 

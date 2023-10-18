@@ -6,7 +6,7 @@
 
 Digital transformation enables efficient remote work and virtual collaboration, improving productivity and reducing operational costs.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved competitiveness and cost savings for organizations investing in digital transformation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_422.md)
 
@@ -17,4 +17,8 @@ Digital transformation enables efficient remote work and virtual collaboration, 
 ## Stakeholders benefitting from this Benefit
 
 * [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+
+## Risks which can benefit from this action
+
+* [Fast-moving digital-oriented continuity plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_397.md)
 

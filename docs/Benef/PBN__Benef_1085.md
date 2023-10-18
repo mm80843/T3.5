@@ -6,7 +6,7 @@
 
 Prevents transmission from contaminated surfaces
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Decreased risk of contamination and improved safety for hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1213.md)
 
@@ -17,4 +17,8 @@ Prevents transmission from contaminated surfaces
 ## Stakeholders benefitting from this Benefit
 
 * [hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
+
+## Risks which can benefit from this action
+
+* [Strict precautions and infection control training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1094.md)
 

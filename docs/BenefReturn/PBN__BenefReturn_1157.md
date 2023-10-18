@@ -2,3 +2,7 @@
 
 # __Private investors in media literacy programs and platforms can benefit from increased demand and improved asset value.__
 
+## This return can be realized by these benefits
+
+* [Reduced spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1036.md)
+

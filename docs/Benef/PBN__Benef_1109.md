@@ -6,7 +6,7 @@
 
 Data harmonization across different cohorts improves statistical power and controls for biases.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enables more robust and reliable research findings through larger sample sizes and standardized data.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1241.md)
 
@@ -17,4 +17,8 @@ Data harmonization across different cohorts improves statistical power and contr
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1120.md)
 

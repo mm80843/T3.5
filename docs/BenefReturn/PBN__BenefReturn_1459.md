@@ -2,3 +2,7 @@
 
 # __Private investors benefit from improved tenant satisfaction, higher productivity, and reduced healthcare costs due to improved well-being and mental health of building occupants.__
 
+## This return can be realized by these benefits
+
+* [Enhanced Well-being and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1292.md)
+

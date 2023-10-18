@@ -50,3 +50,6 @@ Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation 
 * [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
 
+## This article mentions these technologies
+
+

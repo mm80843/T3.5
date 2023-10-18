@@ -6,7 +6,7 @@
 
 Clear tracking of expenses related to COVID-19 impact and ability to make informed budget decisions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better financial stability and resource allocation, reduced financial strain on healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_614.md)
 
@@ -17,4 +17,8 @@ Clear tracking of expenses related to COVID-19 impact and ability to make inform
 ## Stakeholders benefitting from this Benefit
 
 * [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+
+## Risks which can benefit from this action
+
+* [Preparation of clear financial documentation and tracking metrics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_575.md)
 

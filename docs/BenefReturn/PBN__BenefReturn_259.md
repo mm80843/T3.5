@@ -2,3 +2,7 @@
 
 # __Implementing proper segregation of medical waste can enhance tenant satisfaction and create a safer living environment.__
 
+## This return can be realized by these benefits
+
+* [Safe waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_247.md)
+

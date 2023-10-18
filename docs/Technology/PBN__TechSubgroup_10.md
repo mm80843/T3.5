@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Evaluating accuracy and filtering content to ensure reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_16.md)
+* [Evaluating accuracy and filtering content to ensure reliable information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_6.md)
 
 ## Closest similar item
 

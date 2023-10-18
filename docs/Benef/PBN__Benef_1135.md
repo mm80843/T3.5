@@ -6,7 +6,7 @@
 
 Provision of support and resources can help alleviate stress, anxiety, and depression among healthcare professionals, leading to better healthcare outcomes and overall well-being.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in psychosocial support for healthcare professionals can benefit from increased productivity, reduced healthcare costs, and improved reputational value, attracting and retaining top talent.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1268.md)
 
@@ -17,4 +17,8 @@ Provision of support and resources can help alleviate stress, anxiety, and depre
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Provide psychosocial support and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1138.md)
 

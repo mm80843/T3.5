@@ -2,3 +2,7 @@
 
 # __Enhanced reputation and credibility for healthcare organizations.__
 
+## This return can be realized by these benefits
+
+* [Improved public trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_395.md)
+

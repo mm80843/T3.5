@@ -58,3 +58,12 @@ Methods for air cleaning and protection of building occupants from airborne path
 * [Personalized Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_282.md)
 * [Advanced Air Distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_283.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
+* [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
+* [high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_272.md)
+* [personalized ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_273.md)
+* [displacement ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_274.md)
+

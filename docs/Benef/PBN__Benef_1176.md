@@ -6,7 +6,7 @@
 
 Family-based exercise programs have been shown to have positive effects on the anxiety, mood, social, and emotional health of elderly cancer patients during quarantine and isolation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in family-based exercise programs can contribute to improved health outcomes for elderly cancer patients, potentially leading to increased demand and recognition for such programs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1310.md)
 
@@ -17,4 +17,8 @@ Family-based exercise programs have been shown to have positive effects on the a
 ## Stakeholders benefitting from this Benefit
 
 * [elderly cancer patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_457.md)
+
+## Risks which can benefit from this action
+
+* [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1176.md)
 

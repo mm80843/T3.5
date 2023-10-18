@@ -6,7 +6,7 @@
 
 Ensuring the supply and availability of food is crucial for food and nutrition security, especially during a pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from increased demand for sustainable and resilient food systems, leading to higher market demand and potential investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_308.md)
 
@@ -18,4 +18,8 @@ Ensuring the supply and availability of food is crucial for food and nutrition s
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [farmers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_145.md)
+
+## Risks which can benefit from this action
+
+* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
 

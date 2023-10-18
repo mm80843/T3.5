@@ -6,7 +6,7 @@
 
 Controlling indoor humidity can limit the survival and transmission of influenza viruses, creating a safer indoor environment for occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in indoor humidity control measures can attract more occupants and maintain the value of the building as a safe and healthy space, potentially leading to increased rental rates or property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_281.md)
 
@@ -17,4 +17,8 @@ Controlling indoor humidity can limit the survival and transmission of influenza
 ## Stakeholders benefitting from this Benefit
 
 * [building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
+
+## Risks which can benefit from this action
+
+* [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_258.md)
 

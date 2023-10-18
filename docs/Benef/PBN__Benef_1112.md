@@ -6,7 +6,7 @@
 
 Adoption of common standards in health data facilitates interoperability and data sharing.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances data exchange, promotes collaboration, and improves accessibility and availability of data.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1244.md)
 
@@ -17,4 +17,8 @@ Adoption of common standards in health data facilitates interoperability and dat
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
 

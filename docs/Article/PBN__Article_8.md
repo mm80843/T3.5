@@ -42,3 +42,15 @@ COVID-19 and the rise of intimate partner violence
 * [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
 * [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
 
+## This article mentions these technologies
+
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_46.md)
+* [digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_39.md)
+* [centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_41.md)
+* [digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_42.md)
+* [digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
+* [helpline services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_43.md)
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_45.md)
+

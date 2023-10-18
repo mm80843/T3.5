@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Demographic characteristics that categorize individuals based on their age and gender, along with related concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
+* [Demographic characteristics that categorize individuals based on their age and gender, along with related concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
 
 ## Closest similar item
 

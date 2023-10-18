@@ -6,7 +6,7 @@
 
 Upper-room UVGI systems effectively inactivate viruses in the air, reducing the risk of infection for building occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in schools and childcare facilities would benefit from implementing hygiene protocols as it would increase the attractiveness and reputation of the institution, leading to potential increased enrollment and revenue.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_188.md)
 * [Private investors in nursing homes would benefit from implementing stricter infection control measures as it would enhance the reputation and safety of the facility, potentially attracting more residents and increasing revenue.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_189.md)
@@ -26,4 +26,12 @@ Upper-room UVGI systems effectively inactivate viruses in the air, reducing the 
 * [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_165.md)
+* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_164.md)
+* [Air filtration with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_845.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_520.md)
+* [Upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_846.md)
 

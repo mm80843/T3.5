@@ -6,7 +6,7 @@
 
 OpenKG-COVID19 provides a comprehensive and continuously updated knowledge base on COVID-19, allowing researchers and healthcare professionals to better understand, study, and respond to the pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved decision-making and resource allocation, leading to more effective response measures and potentially reduced economic impact.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_128.md)
 
@@ -18,4 +18,8 @@ OpenKG-COVID19 provides a comprehensive and continuously updated knowledge base 
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Construction of OpenKG-COVID19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_110.md)
 

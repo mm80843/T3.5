@@ -48,3 +48,16 @@ Covid-19 and the politics of sustainable energy transitions
 * [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
 * [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
 
+## This article mentions these technologies
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
+* [advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_929.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_930.md)
+* [smart grid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_926.md)
+* [microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
+* [energy trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_927.md)
+* [financial instruments for price hedging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_928.md)
+* [off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_932.md)
+

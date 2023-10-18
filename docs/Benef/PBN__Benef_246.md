@@ -6,7 +6,7 @@
 
 The use of occupancy sensing setback thermostats can lead to reduced energy consumption by adjusting the temperature when rooms are unoccupied.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing energy-efficient appliances can attract tenants seeking cost savings and a greener lifestyle.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_258.md)
 * [Private investors can benefit from the implementation of energy-efficient technologies and renewable energy sources, leading to increased market demand and investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_665.md)
@@ -28,4 +28,12 @@ The use of occupancy sensing setback thermostats can lead to reduced energy cons
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
+
+## Risks which can benefit from this action
+
+* [Occupancy sensing setback thermostat](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1254.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_616.md)
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1253.md)
+* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_235.md)
+* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_837.md)
 

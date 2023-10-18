@@ -6,7 +6,7 @@
 
 Accessible green spaces promote physical activity, contributing to improved physical health and wellbeing.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved population health and well-being, increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_375.md)
 * [Improved population health and well-being, reduced air pollution, increased economic productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_378.md)
@@ -22,4 +22,11 @@ Accessible green spaces promote physical activity, contributing to improved phys
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
+
+## Risks which can benefit from this action
+
+* [Promotion of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_358.md)
+* [Provision of guidelines on safe physical activity outdoors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_354.md)
+* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
+* [Creating new space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_357.md)
 

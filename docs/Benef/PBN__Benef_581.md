@@ -6,7 +6,7 @@
 
 Enhanced efficiency and effectiveness in addressing global health emergencies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in innovative and modern technologies by improving healthcare service delivery and attracting skilled professionals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_634.md)
 
@@ -18,4 +18,8 @@ Enhanced efficiency and effectiveness in addressing global health emergencies
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
+
+## Risks which can benefit from this action
+
+* [Integration of Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_587.md)
 

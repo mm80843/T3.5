@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from investing in greenspace projects in low-income neighborhoods by improving the overall health and well-being of residents, which can lead to increased demand for housing and other amenities in these neighborhoods.__
 
+## This return can be realized by these benefits
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+

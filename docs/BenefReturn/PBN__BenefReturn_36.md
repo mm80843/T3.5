@@ -2,3 +2,7 @@
 
 # __Private investors can develop and offer innovative healthcare applications and services, attracting healthcare providers and patients as customers.__
 
+## This return can be realized by these benefits
+
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_36.md)
+

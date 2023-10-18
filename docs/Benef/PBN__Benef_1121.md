@@ -6,7 +6,7 @@
 
 Air filtration devices remove a broad range of bacterial, viral, and fungal pathogens from the air, reducing the risk of hospital-acquired respiratory infections.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from investing in air filtration devices as it would improve patient safety, attract more patients, and reduce healthcare costs associated with infections.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1252.md)
 
@@ -18,4 +18,8 @@ Air filtration devices remove a broad range of bacterial, viral, and fungal path
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Air filtration and UV light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 

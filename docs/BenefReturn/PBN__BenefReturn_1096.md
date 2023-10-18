@@ -2,3 +2,7 @@
 
 # __Investing in epidemiological research improves public health outcomes and guides public health interventions.__
 
+## This return can be realized by these benefits
+
+* [Understanding disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_989.md)
+

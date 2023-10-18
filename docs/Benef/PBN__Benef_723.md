@@ -6,7 +6,7 @@
 
 Maintaining education continuity while ensuring social isolation
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improve education outcomes and student well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_777.md)
 
@@ -17,4 +17,8 @@ Maintaining education continuity while ensuring social isolation
 ## Stakeholders benefitting from this Benefit
 
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+
+## Risks which can benefit from this action
+
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 

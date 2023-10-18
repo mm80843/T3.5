@@ -2,3 +2,7 @@
 
 # __Better management of future crises, reduced impact on the city__
 
+## This return can be realized by these benefits
+
+* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
+

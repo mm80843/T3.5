@@ -6,7 +6,7 @@
 
 Enhanced ability to locate affected areas and allocate resources accordingly
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in positioning technologies by improving disaster response efforts and reducing infrastructure damage.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_632.md)
 
@@ -18,4 +18,8 @@ Enhanced ability to locate affected areas and allocate resources accordingly
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_245.md)
+
+## Risks which can benefit from this action
+
+* [Use of positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_585.md)
 

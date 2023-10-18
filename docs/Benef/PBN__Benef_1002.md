@@ -6,14 +6,8 @@
 
 ------------------------------------------------
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
-* [-------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1109.md)
-* [-----------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1111.md)
-* [------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1113.md)
-* [-------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1115.md)
-* [----------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1117.md)
-* [------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1119.md)
 
 ## Articles mentionning this Benefit
 
@@ -21,5 +15,7 @@
 
 ## Stakeholders benefitting from this Benefit
 
-* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_396.md)
+
+## Risks which can benefit from this action
+
 

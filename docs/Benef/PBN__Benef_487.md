@@ -6,7 +6,7 @@
 
 Cloud, edge, and fog computing enable efficient storage and analysis of wearable data, facilitating research and decision-making
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in cloud, edge, and fog computing infrastructure can enhance research capabilities, accelerate knowledge generation, and improve healthcare outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_530.md)
 
@@ -18,4 +18,8 @@ Cloud, edge, and fog computing enable efficient storage and analysis of wearable
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [Cloud, edge, and fog computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_501.md)
 

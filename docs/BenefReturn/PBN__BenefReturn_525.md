@@ -2,3 +2,7 @@
 
 # __Private investors benefit from a more equitable society, reducing social unrest and creating a conducive environment for business operations.__
 
+## This return can be realized by these benefits
+
+* [Balancing income distribution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_482.md)
+

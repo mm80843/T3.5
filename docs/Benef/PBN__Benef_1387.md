@@ -6,7 +6,7 @@
 
 Monitoring and ensuring proper sanitation practices are followed
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health and safety, decreased risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1574.md)
 
@@ -18,4 +18,8 @@ Monitoring and ensuring proper sanitation practices are followed
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
+
+## Risks which can benefit from this action
+
+* [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
 

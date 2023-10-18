@@ -47,3 +47,20 @@ The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case o
 * [Enhanced Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
 * [Restricted Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_681.md)
 
+## This article mentions these technologies
+
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
+* [financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
+* [job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+* [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+* [contingency planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_635.md)
+* [financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_636.md)
+* [cost-cutting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
+* [diversification strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
+* [supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
+* [digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
+

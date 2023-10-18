@@ -44,3 +44,18 @@ Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and 
 * [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
 * [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
 
+## This article mentions these technologies
+
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
+* [information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1898.md)
+* [collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1895.md)
+* [data encryption tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1901.md)
+* [expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
+* [data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
+* [validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1900.md)
+* [data integration and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
+* [security audit platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
+

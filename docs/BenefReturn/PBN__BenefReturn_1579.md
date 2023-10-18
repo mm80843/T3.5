@@ -2,3 +2,7 @@
 
 # __Remote monitoring ensures timely medical intervention and potentially reduces hospitalizations and complications.__
 
+## This return can be realized by these benefits
+
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
+

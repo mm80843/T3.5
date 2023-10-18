@@ -49,3 +49,21 @@ Association between indoor-outdoor green features and psychological health durin
 * [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1998.md)
 * [Living on a road with higher levels of greenness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1999.md)
 
+## This article mentions these technologies
+
+* [development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1619.md)
+* [community initiatives for using nearby green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
+* [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
+* [sun tubes)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1614.md)
+* [indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+* [urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1620.md)
+* [telemedicine for mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1611.md)
+* [window views of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1615.md)
+* [mobile apps for green space access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1616.md)
+* [gender-sensitive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1622.md)
+* [guidelines for accessing private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
+* [online nature experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
+* [natural light solutions (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1613.md)
+* [gender-specific research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1621.md)
+

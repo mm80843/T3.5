@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_328.md)
+* [The trend towards remote and digital healthcare is encompassing telecommuting, telehealth, teleconferencing, wearable technology, touchless technologies, and mobile applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
@@ -19,13 +19,13 @@
 * [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1741.md)
 * [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
+* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
 * [Improved work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_521.md)
 * [Reduced transportation costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_522.md)
 * [Environmental benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_523.md)
-* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
 
 ## Risks possibly mitigated by this Mitigation
 

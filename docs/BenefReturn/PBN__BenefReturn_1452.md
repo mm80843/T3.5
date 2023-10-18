@@ -2,3 +2,7 @@
 
 # __Improved mental well-being leads to increased satisfaction, productivity, and reduced absenteeism, improving the asset value of the property.__
 
+## This return can be realized by these benefits
+
+* [Improved mood and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1287.md)
+

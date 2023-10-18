@@ -2,3 +2,7 @@
 
 # __Reduces further transmission, facilitates early intervention, and supports timely testing and isolation__
 
+## This return can be realized by these benefits
+
+* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1165.md)
+

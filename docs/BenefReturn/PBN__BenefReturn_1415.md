@@ -2,3 +2,7 @@
 
 # __Implementing this measure would protect the health and safety of medical staff, reducing sick leave and improving productivity.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+

@@ -6,7 +6,7 @@
 
 Improved ventilation and air quality create a healthier and more comfortable indoor environment, reducing the risk of COVID-19 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in improved ventilation and air quality enhances member satisfaction, reduces the risk of illness among staff and members, and improves the overall reputation of the health club.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_696.md)
 
@@ -18,4 +18,8 @@ Improved ventilation and air quality create a healthier and more comfortable ind
 
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [health club members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_272.md)
+
+## Risks which can benefit from this action
+
+* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_643.md)
 

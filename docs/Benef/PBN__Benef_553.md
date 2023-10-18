@@ -6,7 +6,7 @@
 
 Early implementation of mitigation measures delays outbreaks and prevents further spread of disease
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Delayed outbreaks allow for better medical care, reduced strain on healthcare workers, and social stability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_607.md)
 
@@ -17,4 +17,8 @@ Early implementation of mitigation measures delays outbreaks and prevents furthe
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Timely implementation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_567.md)
 

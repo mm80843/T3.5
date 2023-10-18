@@ -2,3 +2,7 @@
 
 # __Improved public health outcomes and reduced healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1016.md)
+

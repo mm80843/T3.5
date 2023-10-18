@@ -6,7 +6,7 @@
 
 Equal access to employment, equal pay, and career advancement opportunities
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Gender equality leads to greater economic empowerment of women, increased productivity, and positive impacts on economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_581.md)
 
@@ -17,4 +17,8 @@ Equal access to employment, equal pay, and career advancement opportunities
 ## Stakeholders benefitting from this Benefit
 
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+
+## Risks which can benefit from this action
+
+* [Investment in gender equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_541.md)
 

@@ -55,3 +55,13 @@ Preparing critical infrastructure for the future: Lessons learnt from the Covid-
 * [Rapidity of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
 * [Redundancy of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
 
+## This article mentions these technologies
+
+* [interconnected system management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1793.md)
+* [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1792.md)
+* [cybersecurity tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1794.md)
+* [risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
+* [hazard mapping tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1795.md)
+* [business continuity management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1791.md)
+

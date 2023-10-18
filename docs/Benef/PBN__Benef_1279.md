@@ -6,7 +6,7 @@
 
 Social entrepreneurship funds demonstrated superior performance compared to other types during the Covid-19 pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in social entrepreneurship funds can provide direct benefits to private investors in terms of superior performance and potentially higher returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1442.md)
 
@@ -17,4 +17,8 @@ Social entrepreneurship funds demonstrated superior performance compared to othe
 ## Stakeholders benefitting from this Benefit
 
 * [social entrepreneurship funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_504.md)
+
+## Risks which can benefit from this action
+
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1297.md)
 

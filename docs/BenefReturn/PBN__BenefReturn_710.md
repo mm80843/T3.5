@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare facilities in LMIC would benefit from improved access to healthcare services for marginalized populations, potentially increasing patient numbers and revenue.__
 
+## This return can be realized by these benefits
+
+* [Reduced health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_664.md)
+

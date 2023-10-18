@@ -90,3 +90,13 @@ The socio-economic implications of the coronavirus pandemic (COVID-19): A review
 * [Food Parcels and Free Meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
 * [Limiting Product Range](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1455.md)
 
+## This article mentions these technologies
+
+* [financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_636.md)
+* [telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1172.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
+* [technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1170.md)
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+

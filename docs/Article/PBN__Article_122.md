@@ -58,3 +58,16 @@ Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World
 * [Rapid conversion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1210.md)
 * [Hot water availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
 
+## This article mentions these technologies
+
+* [use of air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1045.md)
+* [reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1046.md)
+* [utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1049.md)
+* [upgrading ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1044.md)
+* [building information model (bim)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1043.md)
+* [efficient gas distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1047.md)
+* [efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1048.md)
+* [hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1050.md)
+* [steam sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
+* [specialized waste treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1052.md)
+

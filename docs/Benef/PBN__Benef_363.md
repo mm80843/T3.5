@@ -6,7 +6,7 @@
 
 Plants reduce the need for outdoor air ventilation, leading to lower energy consumption and cost savings
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased property value and reduced operating expenses](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_391.md)
 
@@ -17,4 +17,7 @@ Plants reduce the need for outdoor air ventilation, leading to lower energy cons
 ## Stakeholders benefitting from this Benefit
 
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+
+## Risks which can benefit from this action
+
 

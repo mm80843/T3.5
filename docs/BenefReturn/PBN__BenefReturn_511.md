@@ -2,3 +2,7 @@
 
 # __Private investors can enhance property values by incorporating water bodies in urban designs, improving comfort and attracting residents.__
 
+## This return can be realized by these benefits
+
+* [Cooling effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_471.md)
+

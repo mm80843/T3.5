@@ -6,7 +6,7 @@
 
 Enhancing employment retraining and redeployment programs can help unemployed workers find suitable employment, improve labour market outcomes, and facilitate a just transition to new industries.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from a skilled and adaptable workforce, reduced unemployment rates, and potential investment opportunities in emerging sectors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_675.md)
 
@@ -17,4 +17,8 @@ Enhancing employment retraining and redeployment programs can help unemployed wo
 ## Stakeholders benefitting from this Benefit
 
 * [unemployed workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_260.md)
+
+## Risks which can benefit from this action
+
+* [Employment retraining and redeployment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_626.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
+* [Encouraging the use of masks, practicing social distancing, and promoting good hygiene practices are vital preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Implementing automated face recognition technology with AI integration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2660.md)
 * [Mandatory use of masks,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_972.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Limit spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1261.md)
 

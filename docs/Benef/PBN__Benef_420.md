@@ -6,7 +6,7 @@
 
 The relaxation of NPIs in Phase III resulted in a reduction in SARS-CoV-2 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from implementing this measure as it would help reduce the spread of the virus, leading to a safer and healthier community and potentially preventing lockdowns or business closures, which could protect economic stability and property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_450.md)
 * [Private investors would benefit from implementing this measure as it would help prevent a resurgence in cases, leading to a more stable and resilient economy and potentially protecting property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_451.md)
@@ -18,4 +18,13 @@ The relaxation of NPIs in Phase III resulted in a reduction in SARS-CoV-2 transm
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
+* [Isolate and Test with School Closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_425.md)
+* [Phase III relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_430.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_426.md)
+* [Phase I relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_428.md)
+* [Phase II relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_429.md)
 

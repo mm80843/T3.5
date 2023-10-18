@@ -6,7 +6,7 @@
 
 Designing spaces that support physical distancing and provide adequate living and privacy spaces improves safety and comfort during pandemics and other crises.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased resident safety and satisfaction, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1490.md)
 
@@ -17,4 +17,8 @@ Designing spaces that support physical distancing and provide adequate living an
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Appropriate unit sizes and layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1339.md)
 

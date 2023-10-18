@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from a more stable global economy, increased market potential in developing countries, and potential investment opportunities in sectors contributing to sustainable development.__
 
+## This return can be realized by these benefits
+
+* [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
+

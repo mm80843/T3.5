@@ -2,3 +2,7 @@
 
 # __Investing in autonomous vehicles can contribute to public health and safety by reducing the reliance on human contact and enabling the efficient delivery of essential goods and services during a pandemic.__
 
+## This return can be realized by these benefits
+
+* [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1270.md)
+

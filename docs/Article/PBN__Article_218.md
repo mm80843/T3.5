@@ -44,3 +44,11 @@ Open-source analytics tools for studying the COVID-19 coronavirus outbreak
 * [Maintenance of web apps during outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2409.md)
 * [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2408.md)
 
+## This article mentions these technologies
+
+* [data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [real-time data aggregation tools and apis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1965.md)
+* [data backup and storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
+* [forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1968.md)
+* [data monitoring tools and regular updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
+

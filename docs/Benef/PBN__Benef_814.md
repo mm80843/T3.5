@@ -6,7 +6,7 @@
 
 Robots can assist in patient care and reduce transmission risk
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved patient care, reduced risk of infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_882.md)
 
@@ -18,4 +18,8 @@ Robots can assist in patient care and reduce transmission risk
 
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Risks which can benefit from this action
+
+* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_809.md)
 

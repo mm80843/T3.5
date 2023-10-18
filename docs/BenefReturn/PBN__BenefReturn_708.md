@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare facilities would benefit from reduced workload on clinicians and improved patient management, leading to increased efficiency and potentially improved patient outcomes.__
 
+## This return can be realized by these benefits
+
+* [Automated patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_662.md)
+

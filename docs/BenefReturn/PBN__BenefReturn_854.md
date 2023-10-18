@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from reduced legal costs and improved project timelines.__
 
+## This return can be realized by these benefits
+
+* [Resolved disputes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_786.md)
+

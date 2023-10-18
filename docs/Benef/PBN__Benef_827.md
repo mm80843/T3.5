@@ -6,7 +6,7 @@
 
 Back-calculating infections from deaths allows for a more accurate estimation of the true number of infections, accounting for cases that are missed by testing and surveillance systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in accurate estimations of infections can provide policymakers and health authorities with better information for decision-making and resource allocation, leading to more effective control measures and targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_898.md)
 
@@ -18,4 +18,8 @@ Back-calculating infections from deaths allows for a more accurate estimation of
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Back-calculation of infections from observed deaths](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_823.md)
 

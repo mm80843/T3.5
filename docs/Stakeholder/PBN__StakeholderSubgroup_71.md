@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Rental participants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_261.md)
+* [Rental participants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_254.md)
 
 ## Closest similar item
 

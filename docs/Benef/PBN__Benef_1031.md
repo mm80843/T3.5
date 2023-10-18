@@ -6,7 +6,7 @@
 
 Strengthened coordination and collaboration between different agencies and stakeholders improve the overall response to health emergencies, enabling faster and more efficient control measures.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in emergency management and coordination systems can benefit from increased demand and improved asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1152.md)
 
@@ -19,4 +19,8 @@ Strengthened coordination and collaboration between different agencies and stake
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
+
+## Risks which can benefit from this action
+
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
 

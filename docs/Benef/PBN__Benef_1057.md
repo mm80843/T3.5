@@ -6,7 +6,7 @@
 
 Blockchain technology provides a secure environment for online education, ensuring the security and privacy of student and teacher data
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in blockchain-based online education platforms would benefit from improved security and privacy, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1178.md)
 
@@ -20,4 +20,8 @@ Blockchain technology provides a secure environment for online education, ensuri
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 * [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
 * [colleges](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_426.md)
+
+## Risks which can benefit from this action
+
+* [Blockchain-based secure cross-platform sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1059.md)
 

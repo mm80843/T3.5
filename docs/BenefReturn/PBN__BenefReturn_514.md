@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from improved property values by investing in sustainable transportation systems, attracting environmentally-conscious residents.__
 
+## This return can be realized by these benefits
+
+* [Heat reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_472.md)
+

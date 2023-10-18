@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Creating and maintaining a harmony between nature, sound and light, and structural surroundings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_271.md)
+* [Creating and maintaining a harmony between nature, sound and light, and structural surroundings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_264.md)
 
 ## Closest similar item
 

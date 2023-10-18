@@ -2,3 +2,7 @@
 
 # __Private investors investing in neighborhood-oriented development can benefit from increased demand for residential properties in well-developed and vibrant communities.__
 
+## This return can be realized by these benefits
+
+* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
+

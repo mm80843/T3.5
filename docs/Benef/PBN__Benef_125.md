@@ -6,7 +6,7 @@
 
 Proper maintenance of temperature, humidity, lighting, and ventilation ensures a healthy indoor environment, reducing the risk of infection transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing measures in operation and maintenance improves occupant comfort, productivity, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_124.md)
 
@@ -17,4 +17,8 @@ Proper maintenance of temperature, humidity, lighting, and ventilation ensures a
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
+
+## Risks which can benefit from this action
+
+* [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_108.md)
 

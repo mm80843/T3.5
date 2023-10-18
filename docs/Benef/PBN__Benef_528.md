@@ -6,7 +6,7 @@
 
 Reduced poverty levels and improved living conditions
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduction in poverty can lead to increased economic activity and social stability, benefiting both local communities and foreign investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_579.md)
 
@@ -17,4 +17,8 @@ Reduced poverty levels and improved living conditions
 ## Stakeholders benefitting from this Benefit
 
 * [developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)
+
+## Risks which can benefit from this action
+
+* [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_539.md)
 

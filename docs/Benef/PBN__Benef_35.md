@@ -6,7 +6,7 @@
 
 Strengthened health systems lead to better access to healthcare services, improving overall public health.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can offer telehealth platforms and services to healthcare providers, increasing their revenue streams.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_35.md)
 * [Private investors can see an increase in the value of healthcare facilities due to increased demand and utilization.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_139.md)
@@ -23,4 +23,10 @@ Strengthened health systems lead to better access to healthcare services, improv
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Strengthening health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_282.md)
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_27.md)
 

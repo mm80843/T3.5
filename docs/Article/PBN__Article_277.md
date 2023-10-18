@@ -60,3 +60,17 @@ Houses amid COVID-19: Environmental challenges and design adaptation
 * [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
 * [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [remote working](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_720.md)
+* [smart lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_722.md)
+* [touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_721.md)
+* [light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
+

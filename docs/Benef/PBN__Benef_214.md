@@ -6,7 +6,7 @@
 
 Increased ability to predict and plan for future waves of the pandemic, allowing for more effective mitigation measures.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced economic impact and improved public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_221.md)
 
@@ -17,4 +17,8 @@ Increased ability to predict and plan for future waves of the pandemic, allowing
 ## Stakeholders benefitting from this Benefit
 
 * [public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_122.md)
+
+## Risks which can benefit from this action
+
+* [Develop predictive models using SIR and vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_200.md)
 

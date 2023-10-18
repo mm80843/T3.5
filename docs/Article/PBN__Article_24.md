@@ -55,3 +55,6 @@ Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactiv
 * [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
 * [Clear and compassionate public communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2325.md)
 
+## This article mentions these technologies
+
+

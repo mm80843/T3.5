@@ -6,7 +6,7 @@
 
 Implementing proper drainage systems can prevent the formation of stagnant water pools, which are ideal breeding grounds for mosquitoes. This can reduce the risk of mosquito-borne diseases such as malaria for the general public.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this mitigation measure can benefit from improved public health outcomes, increased asset value of buildings in areas with reduced risk of malaria.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1448.md)
 
@@ -17,4 +17,8 @@ Implementing proper drainage systems can prevent the formation of stagnant water
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Proper drainage systems to prevent stagnant water pools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1302.md)
 

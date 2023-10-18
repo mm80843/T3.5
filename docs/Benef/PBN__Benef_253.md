@@ -6,7 +6,7 @@
 
 Availability of personal space allows residents to establish boundaries and maintain privacy in a shared living environment
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Providing personal space can enhance tenant satisfaction and create a more comfortable living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_265.md)
 
@@ -17,4 +17,8 @@ Availability of personal space allows residents to establish boundaries and main
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
 

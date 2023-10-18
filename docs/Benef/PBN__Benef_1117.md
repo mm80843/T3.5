@@ -6,7 +6,7 @@
 
 VR can help patients with psychosomatic disturbances by providing a powerful tool for therapy
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental health outcomes for patients, leading to reduced psychological distress and improved quality of life.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1249.md)
 
@@ -18,4 +18,8 @@ VR can help patients with psychosomatic disturbances by providing a powerful too
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+
+## Risks which can benefit from this action
+
+* [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1128.md)
 

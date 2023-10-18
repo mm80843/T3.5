@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Research equipment used for conducting scientific experiments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)
+* [Research equipment used for conducting scientific experiments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_49.md)
 
 ## Closest similar item
 

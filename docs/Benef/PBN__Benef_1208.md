@@ -6,7 +6,7 @@
 
 WBS can function as an early warning system for the onset of disease, allowing for preemptive public health measures and reducing the need for widespread lockdowns
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing WBS can lead to improved public health measures, reducing the economic impact of lockdowns and preserving the value of assets.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1351.md)
 
@@ -18,4 +18,8 @@ WBS can function as an early warning system for the onset of disease, allowing f
 
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 

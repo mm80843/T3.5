@@ -2,3 +2,7 @@
 
 # __Private investors investing in testing policies can support early detection and containment measures, reducing the risk of outbreaks and potential disruptions to their investments in the built environment.__
 
+## This return can be realized by these benefits
+
+* [Early detection and containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_526.md)
+

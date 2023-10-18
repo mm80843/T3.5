@@ -6,10 +6,10 @@
 
 Cleaning surfaces reduces the risk of transmission and improves overall safety
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
-* [Improved hygiene practices, reduced risk of infection, and improved overall public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_776.md)
 * [Improved safety and reduced risk of infection for healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1055.md)
+* [Improved hygiene practices, reduced risk of infection, and improved overall public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_776.md)
 
 ## Articles mentionning this Benefit
 
@@ -21,4 +21,9 @@ Cleaning surfaces reduces the risk of transmission and improves overall safety
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_954.md)
+* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_721.md)
 

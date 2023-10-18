@@ -6,7 +6,7 @@
 
 Lockdown measures limit population movements and reduce transmission within urban areas
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in real estate and infrastructure would benefit from improved public health outcomes and reduced strain on healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_945.md)
 
@@ -17,4 +17,8 @@ Lockdown measures limit population movements and reduce transmission within urba
 ## Stakeholders benefitting from this Benefit
 
 * [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
+
+## Risks which can benefit from this action
+
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_863.md)
 

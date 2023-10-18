@@ -6,7 +6,7 @@
 
 Real-time monitoring of patients' health conditions enables early detection of symptoms, prompt medical intervention, and effective disease control.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved pandemic management, optimized resource allocation, reduced mortality rates, improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_686.md)
 * [Investing in IoT for real-time monitoring can lead to better patient outcomes, reduced healthcare costs, and improved hospital efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1217.md)
@@ -22,4 +22,9 @@ Real-time monitoring of patients' health conditions enables early detection of s
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [Internet of Things (IoT)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1098.md)
+* [Digital tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_633.md)
 

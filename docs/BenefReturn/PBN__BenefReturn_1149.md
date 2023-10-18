@@ -2,3 +2,7 @@
 
 # __Private investors in health care and surveillance systems can benefit from increased demand for surveillance technology and services.__
 
+## This return can be realized by these benefits
+
+* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1028.md)
+

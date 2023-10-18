@@ -6,7 +6,7 @@
 
 The expansion of wearables in healthcare can lead to new applications, such as smart facemasks and biomarker detection, improving healthcare delivery and outcomes.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the development and commercialization of new wearable technologies for healthcare applications.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1054.md)
 
@@ -18,4 +18,8 @@ The expansion of wearables in healthcare can lead to new applications, such as s
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Exploring new applications of wearables in healthcare, such as smart facemasks and biomarker detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_953.md)
 

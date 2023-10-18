@@ -2,3 +2,7 @@
 
 # __Private investors benefit from a more stable and harmonious society, creating favorable investment conditions.__
 
+## This return can be realized by these benefits
+
+* [Reduction in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_480.md)
+

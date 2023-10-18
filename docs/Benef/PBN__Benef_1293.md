@@ -6,7 +6,7 @@
 
 Increased ability to visit green areas, leading to improved physical and mental well-being
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can invest in improving transportation infrastructure to green areas, which can lead to increased property values and demand for housing in those areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1460.md)
 
@@ -17,4 +17,8 @@ Increased ability to visit green areas, leading to improved physical and mental 
 ## Stakeholders benefitting from this Benefit
 
 * [low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
+
+## Risks which can benefit from this action
+
+* [Improve transportation to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1313.md)
 

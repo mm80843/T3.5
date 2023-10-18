@@ -48,3 +48,7 @@ Significant applications of virtual reality for COVID-19 pandemic
 * [Management of pain & physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1943.md)
 * [Disease awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1944.md)
 
+## This article mentions these technologies
+
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+

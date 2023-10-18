@@ -6,7 +6,7 @@
 
 Running HVAC systems for longer hours or continuously increases the amount of fresh air and filtration in the building, reducing the concentration of virus particles in the air and decreasing the risk of transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from implementing this measure by improving the overall indoor air quality, reducing the risk of infection, enhancing tenant satisfaction, and maintaining a healthy and productive environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_210.md)
 
@@ -17,4 +17,8 @@ Running HVAC systems for longer hours or continuously increases the amount of fr
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Operate HVAC systems for longer hours or 24/7](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_189.md)
 

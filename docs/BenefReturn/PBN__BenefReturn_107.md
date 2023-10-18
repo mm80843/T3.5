@@ -2,3 +2,7 @@
 
 # __Investment in multilingual communication can improve public understanding, enhance trust, and facilitate compliance with public health measures.__
 
+## This return can be realized by these benefits
+
+* [Improved information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_108.md)
+

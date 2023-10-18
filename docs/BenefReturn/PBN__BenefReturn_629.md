@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from investing in healthcare infrastructure by improving asset value and attracting more patients.__
 
+## This return can be realized by these benefits
+
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_576.md)
+

@@ -2,3 +2,7 @@
 
 # __Improved accuracy in identifying symptomatic individuals, better disease control__
 
+## This return can be realized by these benefits
+
+* [Objective symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_944.md)
+

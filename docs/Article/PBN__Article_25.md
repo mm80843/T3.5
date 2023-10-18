@@ -54,3 +54,16 @@ Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavio
 * [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
 * [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 
+## This article mentions these technologies
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_992.md)
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_993.md)
+* [customer feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_994.md)
+* [destination marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_995.md)
+* [online travel platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
+* [real-time travel updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
+

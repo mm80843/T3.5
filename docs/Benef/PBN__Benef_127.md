@@ -6,7 +6,7 @@
 
 The use of antimicrobial materials on high-touch surfaces reduces the risk of virus transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing antimicrobial surfaces improves hygiene standards, reduces cleaning costs, and enhances building hygiene reputation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_126.md)
 * [Implementing antimicrobial materials can enhance the property’s value and attract health-conscious individuals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_240.md)
@@ -20,4 +20,9 @@ The use of antimicrobial materials on high-touch surfaces reduces the risk of vi
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
+
+## Risks which can benefit from this action
+
+* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_217.md)
+* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
 

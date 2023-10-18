@@ -6,7 +6,7 @@
 
 Access to accurate information, timely healthcare services, and improvement in living conditions can reduce health disparities among vulnerable populations.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in greenspace projects in low-income neighborhoods by improving the overall health and well-being of residents, which can lead to increased demand for housing and other amenities in these neighborhoods.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_233.md)
 * [Reducing health inequalities can improve social cohesion, enhance quality of life, and potentially increase property values in less affluent neighborhoods, making it a beneficial investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_382.md)
@@ -27,4 +27,10 @@ Access to accurate information, timely healthcare services, and improvement in l
 * [indigenous populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_443.md)
 * [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
 * [people in prison or detention](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_447.md)
+
+## Risks which can benefit from this action
+
+* [Provide adequate healthcare services and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1137.md)
+* [Increase greenspace availability in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_210.md)
+* [Redistributing housing, schools, and businesses to decrease agglomeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_361.md)
 

@@ -6,7 +6,7 @@
 
 Biosensors can quickly detect waterborne pathogens, monitor disease outbreaks
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved disease surveillance, faster response to outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_884.md)
 
@@ -18,4 +18,8 @@ Biosensors can quickly detect waterborne pathogens, monitor disease outbreaks
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Risks which can benefit from this action
+
+* [Biosensors and nanoscale tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_811.md)
 

@@ -2,3 +2,7 @@
 
 # __Improved decision making and response measures based on real-time information, leading to better control and management of the outbreak, reduced transmission, and potentially saving lives__
 
+## This return can be realized by these benefits
+
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
+

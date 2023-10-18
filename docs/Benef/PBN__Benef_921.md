@@ -6,7 +6,7 @@
 
 Government decisions based on risk communication would lead to improved information transparency, which in turn would benefit the public and government in making informed decisions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved information transparency in terms of increased trust and confidence in the government, leading to more stable economic conditions for their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1010.md)
 
@@ -18,4 +18,8 @@ Government decisions based on risk communication would lead to improved informat
 
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_922.md)
 

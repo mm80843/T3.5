@@ -6,7 +6,7 @@
 
 Stronger collective response to crisis, enhanced trust and collaboration among Member States
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved crisis management, more effective decision making, faster and comprehensive actions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_848.md)
 
@@ -18,4 +18,8 @@ Stronger collective response to crisis, enhanced trust and collaboration among M
 
 * [member states](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_315.md)
 * [ec](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_316.md)
+
+## Risks which can benefit from this action
+
+* [Greater European solidarity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_776.md)
 

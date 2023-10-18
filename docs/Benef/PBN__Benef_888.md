@@ -6,7 +6,7 @@
 
 Optimizing the layout for north-south orientation can enhance thermal comfort and reduce the need for excessive heating or cooling, resulting in energy savings and lower utility bills.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from reduced operational costs and increased energy efficiency, leading to higher returns on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_969.md)
 
@@ -17,4 +17,8 @@ Optimizing the layout for north-south orientation can enhance thermal comfort an
 ## Stakeholders benefitting from this Benefit
 
 * [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+
+## Risks which can benefit from this action
+
+* [Optimize layout for north-south orientation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_885.md)
 

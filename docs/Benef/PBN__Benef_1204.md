@@ -6,7 +6,7 @@
 
 Provide a central platform for coordination and information sharing among different government agencies involved in pandemic management
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced efficiency, reduced duplication of efforts, and improved decision-making, leading to better resource allocation and cost savings, which can attract private investment and support economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1347.md)
 
@@ -17,4 +17,8 @@ Provide a central platform for coordination and information sharing among differ
 ## Stakeholders benefitting from this Benefit
 
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+
+## Risks which can benefit from this action
+
+* [Integrated command and control centers (ICCCs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1204.md)
 

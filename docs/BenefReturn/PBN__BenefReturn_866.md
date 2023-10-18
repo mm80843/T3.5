@@ -2,3 +2,7 @@
 
 # __Improved readability increases the effectiveness of the signage, ensuring that customers are able to understand and follow social distancing measures more effectively.__
 
+## This return can be realized by these benefits
+
+* [Improved readability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_797.md)
+

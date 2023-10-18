@@ -6,7 +6,7 @@
 
 Enables data sharing and formal reasoning
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Facilitates data analysis and integration](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1383.md)
 
@@ -18,4 +18,8 @@ Enables data sharing and formal reasoning
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
+
+## Risks which can benefit from this action
+
+* [Build an OBO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1242.md)
 

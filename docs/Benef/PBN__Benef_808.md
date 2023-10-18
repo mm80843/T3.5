@@ -6,7 +6,7 @@
 
 Detection of SARS-CoV-2 genetic material in wastewater can provide early warning of outbreaks.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health response, faster containment of outbreaks, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_878.md)
 
@@ -18,4 +18,8 @@ Detection of SARS-CoV-2 genetic material in wastewater can provide early warning
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 

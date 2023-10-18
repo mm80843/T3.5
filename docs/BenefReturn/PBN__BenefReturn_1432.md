@@ -2,3 +2,7 @@
 
 # __Implementing social distancing measures reduces the risk of virus transmission, ensuring the safety of workers and passengers and maintaining public trust and confidence in the transport system.__
 
+## This return can be realized by these benefits
+
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
+

@@ -2,3 +2,7 @@
 
 # __Higher public trust leads to compliance with mitigation measures, preventing further spread of disease__
 
+## This return can be realized by these benefits
+
+* [Verified information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_550.md)
+

@@ -6,7 +6,7 @@
 
 Promoting influenza vaccination can reduce the burden on healthcare systems and prevent additional deaths from influenza, especially among vulnerable populations
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in companies involved in vaccine production, distribution, or promotion can benefit from increased demand for influenza vaccines.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_538.md)
 
@@ -17,4 +17,8 @@ Promoting influenza vaccination can reduce the burden on healthcare systems and 
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_508.md)
 

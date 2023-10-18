@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from the increased demand for secure data transfer technologies and privacy-enhancing features in wearables.__
 
+## This return can be realized by these benefits
+
+* [Protection of personal data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_956.md)
+

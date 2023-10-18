@@ -2,3 +2,8 @@
 
 # __legal__
 
+## Risks labelled under this category
+
+* [Legal Issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1580.md)
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Knowledge enhancement and skill development through AI, ML, and educational resources and programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_14.md)
+* [Knowledge enhancement and skill development through AI, ML, and educational resources and programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 

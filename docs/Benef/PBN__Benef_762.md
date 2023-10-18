@@ -6,7 +6,7 @@
 
 Maintaining hygiene in neighbourhood reduces transmission risk of COVID-19 and promotes public health.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in neighbourhood hygiene maintenance can create a safer and healthier community, increasing desirability and asset value of the neighbourhood.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_830.md)
 
@@ -17,4 +17,8 @@ Maintaining hygiene in neighbourhood reduces transmission risk of COVID-19 and p
 ## Stakeholders benefitting from this Benefit
 
 * [community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_313.md)
+
+## Risks which can benefit from this action
+
+* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
 

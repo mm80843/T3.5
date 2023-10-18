@@ -6,7 +6,7 @@
 
 Increased financial stability
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved financial performance and resiliency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1116.md)
 
@@ -17,4 +17,8 @@ Increased financial stability
 ## Stakeholders benefitting from this Benefit
 
 * [water utilities/public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_398.md)
+
+## Risks which can benefit from this action
+
+* [Economic diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1002.md)
 

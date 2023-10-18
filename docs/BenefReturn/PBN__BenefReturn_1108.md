@@ -2,3 +2,7 @@
 
 # __Enhanced public health__
 
+## This return can be realized by these benefits
+
+* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1001.md)
+

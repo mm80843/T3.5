@@ -2,3 +2,7 @@
 
 # __Private investors investing in early enforcement of lockdown would benefit from a decreased risk of infection, potential reduction in healthcare costs, and improved economic stability.__
 
+## This return can be realized by these benefits
+
+* [Decrease in case growth rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_85.md)
+

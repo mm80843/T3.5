@@ -6,7 +6,7 @@
 
 Providing outdoor and indoor communal spaces that support physical distancing creates safe spaces for passive and active social interactions, improving mental health and satisfaction.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased sense of community and social cohesion, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1487.md)
 
@@ -17,4 +17,8 @@ Providing outdoor and indoor communal spaces that support physical distancing cr
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Restorative common spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1336.md)
 

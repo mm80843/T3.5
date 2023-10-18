@@ -6,7 +6,7 @@
 
 Green roofs are considered property amenities and can increase the value of properties.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Property owners investing in green roofs can increase the value of their properties and attract potential buyers or tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1409.md)
 
@@ -17,4 +17,7 @@ Green roofs are considered property amenities and can increase the value of prop
 ## Stakeholders benefitting from this Benefit
 
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+
+## Risks which can benefit from this action
+
 

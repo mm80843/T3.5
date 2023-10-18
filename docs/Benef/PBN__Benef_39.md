@@ -6,7 +6,7 @@
 
 Privacy-by-Design and other privacy protection measures can ensure that personal data is securely managed and shared, protecting users' privacy and complying with legal requirements.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can develop and offer privacy protection solutions, attracting customers who prioritize privacy and security in healthcare technologies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_39.md)
 
@@ -17,4 +17,8 @@ Privacy-by-Design and other privacy protection measures can ensure that personal
 ## Stakeholders benefitting from this Benefit
 
 * [users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
+
+## Risks which can benefit from this action
+
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_31.md)
 

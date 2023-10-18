@@ -2,3 +2,7 @@
 
 # __Investment in sanitization protocols demonstrates a commitment to worker safety, reduces the likelihood of COVID-19 outbreaks, and enhances project productivity and efficiency.__
 
+## This return can be realized by these benefits
+
+* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_413.md)
+

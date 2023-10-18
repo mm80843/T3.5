@@ -2,3 +2,7 @@
 
 # __Improved management and response to the pandemic, reducing its impact on healthcare systems__
 
+## This return can be realized by these benefits
+
+* [Real-time data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1306.md)
+

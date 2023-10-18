@@ -6,7 +6,7 @@
 
 Data sharing through digital tools and communication platforms improve public awareness
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improve public compliance and adherence to health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_779.md)
 
@@ -17,4 +17,7 @@ Data sharing through digital tools and communication platforms improve public aw
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
 

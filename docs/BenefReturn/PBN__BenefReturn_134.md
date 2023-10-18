@@ -2,3 +2,7 @@
 
 # __Reduces computational cost and enables large-scale problem solving__
 
+## This return can be realized by these benefits
+
+* [Enhanced computational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_135.md)
+

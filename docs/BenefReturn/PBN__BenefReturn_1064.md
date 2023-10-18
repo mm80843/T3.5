@@ -2,3 +2,7 @@
 
 # __Private investors investing in sustainable urban design practices that prioritize UGS integration can benefit from increased demand for properties in well-planned and environmentally conscious areas, leading to potential asset value improvement.__
 
+## This return can be realized by these benefits
+
+* [Improved integration of UGS in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_967.md)
+

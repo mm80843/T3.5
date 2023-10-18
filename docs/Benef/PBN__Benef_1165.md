@@ -6,7 +6,7 @@
 
 Alerts individuals who have been in close contact with infected persons to take necessary precautions and seek testing
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduces further transmission, facilitates early intervention, and supports timely testing and isolation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1296.md)
 
@@ -19,4 +19,8 @@ Alerts individuals who have been in close contact with infected persons to take 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Risks which can benefit from this action
+
+* [COVID-19 tracking apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1164.md)
 

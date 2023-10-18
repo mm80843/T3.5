@@ -6,7 +6,7 @@
 
 Lowering prices of wearables and ensuring equal access can help bridge the gap in access to healthcare technologies and benefits across socioeconomic groups.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased market demand for affordable wearables and the potential for government funding or subsidies to promote equal access.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1052.md)
 
@@ -17,4 +17,8 @@ Lowering prices of wearables and ensuring equal access can help bridge the gap i
 ## Stakeholders benefitting from this Benefit
 
 * [individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_375.md)
+
+## Risks which can benefit from this action
+
+* [Lowering prices of wearables and ensuring equal access across socioeconomic groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_951.md)
 

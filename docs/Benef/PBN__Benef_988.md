@@ -6,7 +6,7 @@
 
 Living close to high-quality urban green spaces is associated with positive impacts on health, both physical and mental.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in the development of urban green spaces as it can enhance the overall health and well-being of the population, thereby increasing the long-term value and sustainability of the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1092.md)
 
@@ -17,4 +17,8 @@ Living close to high-quality urban green spaces is associated with positive impa
 ## Stakeholders benefitting from this Benefit
 
 * [general population of kraków](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_393.md)
+
+## Risks which can benefit from this action
+
+* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
 

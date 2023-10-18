@@ -6,7 +6,7 @@
 
 Accurate information can alleviate fears and reduce anxiety
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental well-being and reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_54.md)
 
@@ -17,4 +17,8 @@ Accurate information can alleviate fears and reduce anxiety
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Enhance health education using online platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_48.md)
 

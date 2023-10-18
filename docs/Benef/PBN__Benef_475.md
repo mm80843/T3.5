@@ -6,7 +6,7 @@
 
 Wastewater monitoring can provide data on the status and trend of COVID-19 infection, helping authorities make informed decisions on public health responses and resource allocation.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in wastewater monitoring can improve the effectiveness of public health measures and reduce the economic burden of combating COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_518.md)
 
@@ -17,4 +17,8 @@ Wastewater monitoring can provide data on the status and trend of COVID-19 infec
 ## Stakeholders benefitting from this Benefit
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+
+## Risks which can benefit from this action
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
 

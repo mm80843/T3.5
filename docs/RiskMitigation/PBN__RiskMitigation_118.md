@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
 * [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3231.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved estimation accuracy with constraints handling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_137.md)
 * [Reduced bias in estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_138.md)

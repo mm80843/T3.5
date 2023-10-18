@@ -2,3 +2,7 @@
 
 # __Private investors can improve urban property values by implementing vegetation strategies, enhancing the temperature comfort of residents.__
 
+## This return can be realized by these benefits
+
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_417.md)
+

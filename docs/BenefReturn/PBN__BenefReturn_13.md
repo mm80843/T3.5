@@ -2,3 +2,7 @@
 
 # __Enables more effective and targeted implementation of social distancing measures__
 
+## This return can be realized by these benefits
+
+* [Quantitative assessment of occupant exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_13.md)
+

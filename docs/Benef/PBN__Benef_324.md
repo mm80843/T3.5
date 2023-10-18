@@ -6,7 +6,7 @@
 
 IBEM integrates multiple sensors for air temperature, relative humidity, CO2, PM2.5, and illuminance, providing a more comprehensive understanding of IEQ.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced research capabilities, ability to study correlations between different IEQ parameters.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_341.md)
 
@@ -17,4 +17,8 @@ IBEM integrates multiple sensors for air temperature, relative humidity, CO2, PM
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
 

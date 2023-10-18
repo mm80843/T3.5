@@ -50,3 +50,15 @@ An environmental and health perspective for COVID-19 outbreak: Meteorology and a
 * [Chlorine Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_227.md)
 * [Drug Therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_228.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_234.md)
+* [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+* [antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
+* [ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
+* [air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_233.md)
+* [anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
+* [anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
+

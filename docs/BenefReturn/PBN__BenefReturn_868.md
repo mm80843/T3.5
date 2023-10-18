@@ -2,3 +2,7 @@
 
 # __Eye-catching signs are more likely to grab customers’ attention, increasing their awareness of and engagement with social distancing measures.__
 
+## This return can be realized by these benefits
+
+* [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
+

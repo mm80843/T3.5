@@ -2,3 +2,7 @@
 
 # __This leads to more resilient and equitable conservation efforts.__
 
+## This return can be realized by these benefits
+
+* [Rethinking social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
+

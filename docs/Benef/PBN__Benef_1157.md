@@ -6,7 +6,7 @@
 
 Provides accurate and reliable information, helping to counter misinformation and educate the public
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances public understanding, reduces panic, and promotes adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1289.md)
 
@@ -17,4 +17,8 @@ Provides accurate and reliable information, helping to counter misinformation an
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
 

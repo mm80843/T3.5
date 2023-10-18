@@ -2,3 +2,7 @@
 
 # __Implementing non-contact interaction measures can contribute to a safer environment for community residents, reducing the risk of contagious diseases and ensuring public health.__
 
+## This return can be realized by these benefits
+
+* [Increased safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1362.md)
+

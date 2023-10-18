@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from improved information transparency in terms of increased trust and confidence in the government, leading to more stable economic conditions for their investments.__
 
+## This return can be realized by these benefits
+
+* [Improved information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_921.md)
+

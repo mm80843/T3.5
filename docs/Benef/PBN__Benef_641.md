@@ -6,7 +6,7 @@
 
 QR code systems, tracking devices, and electronic monitoring enable targeted quarantine and movement control, allowing for less strict restrictions on the general population
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Restricted movements of individuals under quarantine reduces transmission risk and allows for less stringent lockdown measures, minimizing socioeconomic consequences](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_690.md)
 
@@ -18,4 +18,8 @@ QR code systems, tracking devices, and electronic monitoring enable targeted qua
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [individuals under quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_268.md)
+
+## Risks which can benefit from this action
+
+* [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_637.md)
 

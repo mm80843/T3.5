@@ -2,3 +2,7 @@
 
 # __Reduced business disruptions, improved public health, increased asset value through reputation and tenant retention__
 
+## This return can be realized by these benefits
+
+* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1194.md)
+

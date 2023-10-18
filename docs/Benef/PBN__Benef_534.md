@@ -6,7 +6,7 @@
 
 Customized indoor controls based on CFD analyses create cleaner and healthier environments for patients, reducing the risk of infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in personalized indoor controls can differentiate healthcare facilities, attract patients, and improve patient outcomes, leading to increased revenue and reputation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_586.md)
 
@@ -17,4 +17,8 @@ Customized indoor controls based on CFD analyses create cleaner and healthier en
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
+
+## Risks which can benefit from this action
+
+* [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_546.md)
 

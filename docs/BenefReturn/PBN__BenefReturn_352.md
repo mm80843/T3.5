@@ -2,3 +2,7 @@
 
 # __Implementing vector control measures can lead to a reduction in both morbidity and mortality, improving the overall health and well-being of the population and potentially increasing economic productivity.__
 
+## This return can be realized by these benefits
+
+* [Reduction in disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_335.md)
+

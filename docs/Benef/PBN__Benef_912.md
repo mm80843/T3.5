@@ -6,7 +6,7 @@
 
 Provides accurate information on medication use, reducing the spread of misinformation and potential harm.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased public awareness can lead to more informed decision-making and potentially decrease the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_998.md)
 * [Private investors benefit from increased demand for climate-friendly investments and improved long-term asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1373.md)
@@ -21,4 +21,10 @@ Provides accurate information on medication use, reducing the spread of misinfor
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Use of social media for information retrieval](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_910.md)
+* [Clear and accurate communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1442.md)
+* [Focus on immediate consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1234.md)
 

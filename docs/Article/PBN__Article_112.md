@@ -50,3 +50,19 @@ Covid-19 and community mitigation strategies in a pandemic
 * [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
 * [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_598.md)
 
+## This article mentions these technologies
+
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
+* [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
+* [remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_551.md)
+* [travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
+* [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
+* [event planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
+* [crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
+* [early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
+* [research and development of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_545.md)
+* [cultural sensitivity training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_552.md)
+

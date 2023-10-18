@@ -49,3 +49,13 @@ Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmissi
 * [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
 * [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
 
+## This article mentions these technologies
+
+* [air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
+* [research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_257.md)
+* [ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
+* [computational fluid dynamics (cfd) modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_260.md)
+

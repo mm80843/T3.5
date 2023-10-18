@@ -6,7 +6,7 @@
 
 Systematic understanding of project delivery model, emphasis on value in critical path of work
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased asset value, improved project performance, reduced cost overruns](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_394.md)
 
@@ -18,4 +18,8 @@ Systematic understanding of project delivery model, emphasis on value in critica
 
 * [project stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_178.md)
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+
+## Risks which can benefit from this action
+
+* [Value integrated project delivery model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_367.md)
 

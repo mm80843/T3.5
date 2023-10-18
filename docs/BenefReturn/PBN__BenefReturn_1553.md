@@ -2,3 +2,7 @@
 
 # __Private investors benefit from increased productivity and efficiency, leading to potential cost savings and improved project outcomes__
 
+## This return can be realized by these benefits
+
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1366.md)
+

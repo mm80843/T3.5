@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [The range of materials and techniques listed includes various disinfectants, nanomaterials, manufacturing methods, coatings, sustainability measures, and analytical tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
 * [surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
 * [copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+
+## This technology is mentioned by
+
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
 ## Risks linked to this technology
 

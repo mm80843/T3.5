@@ -2,3 +2,7 @@
 
 # __Private investors benefit from reduced costs of sick leave and improved productivity, leading to improved asset value of the building__
 
+## This return can be realized by these benefits
+
+* [Reduced sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1070.md)
+

@@ -6,7 +6,7 @@
 
 Implementation of far-UVC light in public places would enhance the safety and cleanliness of the built environment, making properties more attractive and valuable to tenants and investors.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors and property owners would benefit from the increased demand and higher rents or sale prices of properties equipped with far-UVC light technology.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_983.md)
 
@@ -18,4 +18,8 @@ Implementation of far-UVC light in public places would enhance the safety and cl
 
 * [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
 * [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+
+## Risks which can benefit from this action
+
+* [Use of far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_897.md)
 

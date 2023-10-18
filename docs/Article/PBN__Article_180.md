@@ -50,3 +50,11 @@ Assessing the health and hygiene performance of apartment buildings
 * [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
 * [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
 
+## This article mentions these technologies
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_752.md)
+* [telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_754.md)
+* [automated cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_753.md)
+* [sensor-activated faucets and soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_751.md)
+

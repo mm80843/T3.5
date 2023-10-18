@@ -6,7 +6,7 @@
 
 Improving access to quality education for students from low-income backgrounds reduces educational inequality, improves social mobility, and provides opportunities for economic growth and development.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in education infrastructure and technology can benefit from increased demand and improved asset value of educational facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1154.md)
 
@@ -18,4 +18,8 @@ Improving access to quality education for students from low-income backgrounds r
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [students from low-income backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_410.md)
+
+## Risks which can benefit from this action
+
+* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1036.md)
 

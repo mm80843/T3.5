@@ -2,3 +2,7 @@
 
 # __Private investors can benefit indirectly from the improved understanding and analysis of anti-coronavirus drugs, potentially leading to better-targeted and more effective treatments, attracting investment and commercial interest.__
 
+## This return can be realized by these benefits
+
+* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_64.md)
+

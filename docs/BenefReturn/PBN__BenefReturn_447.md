@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from reduced energy consumption for cooling and increased property value for buildings with green infrastructure.__
 
+## This return can be realized by these benefits
+
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_417.md)
+

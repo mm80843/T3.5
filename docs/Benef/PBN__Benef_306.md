@@ -6,7 +6,7 @@
 
 Collaborative agreements to adapt and repurpose supply chains
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Ability to quickly adjust and respond to changes in demand or disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_324.md)
 
@@ -18,4 +18,8 @@ Collaborative agreements to adapt and repurpose supply chains
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Upstream agreements for supply chain re-purposing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_303.md)
 

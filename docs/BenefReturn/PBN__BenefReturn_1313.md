@@ -2,3 +2,7 @@
 
 # __Improves mental health and social cohesion, leading to increased productivity and well-being__
 
+## This return can be realized by these benefits
+
+* [Increased social connections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1179.md)
+

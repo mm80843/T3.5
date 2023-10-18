@@ -6,7 +6,7 @@
 
 Proper maintenance and cleaning of germicidal irradiation systems leads to increased efficiency and prolonged service life of HVAC systems.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced replacement and repair costs, enhancing return on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1146.md)
 
@@ -17,4 +17,8 @@ Proper maintenance and cleaning of germicidal irradiation systems leads to incre
 ## Stakeholders benefitting from this Benefit
 
 * [building owners/operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_406.md)
+
+## Risks which can benefit from this action
+
+* [Extended service life of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1028.md)
 

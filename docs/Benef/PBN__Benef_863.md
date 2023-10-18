@@ -6,7 +6,7 @@
 
 Travel bans restrict international travel and reduce the spread of the virus across borders
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in travel and tourism industries would benefit from reduced financial losses due to decreased international travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_944.md)
 
@@ -17,4 +17,8 @@ Travel bans restrict international travel and reduce the spread of the virus acr
 ## Stakeholders benefitting from this Benefit
 
 * [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
+
+## Risks which can benefit from this action
+
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_862.md)
 

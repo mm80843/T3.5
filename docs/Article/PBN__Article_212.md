@@ -47,3 +47,12 @@ Prototype Early Warning Systems for Vector-Borne Diseases in Europe
 * [Healthcare Access and Early Treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
 * [Improved Blood Safety Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1862.md)
 
+## This article mentions these technologies
+
+* [remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1531.md)
+* [improved screening and testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
+* [data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
+* [pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
+* [vector control techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1532.md)
+* [advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1533.md)
+

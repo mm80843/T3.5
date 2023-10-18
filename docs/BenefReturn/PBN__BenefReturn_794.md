@@ -2,3 +2,7 @@
 
 # __Private investors benefit from a healthier population, which can lead to increased productivity and reduced healthcare costs.__
 
+## This return can be realized by these benefits
+
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_735.md)
+

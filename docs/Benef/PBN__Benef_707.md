@@ -6,7 +6,7 @@
 
 Normal economic conditions, no infection
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reference scenario for comparison](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_755.md)
 
@@ -19,4 +19,8 @@ Normal economic conditions, no infection
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Baseline scenario](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_700.md)
 

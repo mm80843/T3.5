@@ -6,7 +6,7 @@
 
 Cost-effective and portable biosensors and LOC/POC systems will expand the reach of wastewater analysis, enabling monitoring in resource-limited settings and remote areas.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Cost-effective and portable technology will enhance accessibility and scalability of wastewater analysis, increasing the value of research findings and attracting more funding and collaboration opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_966.md)
 
@@ -17,4 +17,8 @@ Cost-effective and portable biosensors and LOC/POC systems will expand the reach
 ## Stakeholders benefitting from this Benefit
 
 * [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
+
+## Risks which can benefit from this action
+
+* [Development of biosensors and LOC/POC systems for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_882.md)
 

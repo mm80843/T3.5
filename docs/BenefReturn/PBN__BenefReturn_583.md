@@ -2,3 +2,7 @@
 
 # __Transitioning to clean energy sources can lead to a more sustainable and resilient economy, attracting environmentally-conscious investors.__
 
+## This return can be realized by these benefits
+
+* [Reduced environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_532.md)
+

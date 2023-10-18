@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
+* [Efforts to study, detect, and control the spread of SARS-CoV-2 in various environments and populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Improve specificity of PCR assays to distinguish between SARS-CoV-2 and other coronaviruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3042.md)
 * [Conduct research to determine the mechanisms of cell entry and membrane fusion of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3061.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Estimating prevalence of infections in the population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_992.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Assistance in the form of money and resources for community projects, contractual obligations, and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_26.md)
+* [Assistance in the form of money and resources for community projects, contractual obligations, and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_16.md)
 
 ## Closest similar item
 

@@ -6,7 +6,7 @@
 
 Smaller and individual spaces reduce the chances of disease transmission and provide a safer and healthier environment for occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced safety and well-being attract tenants, improve occupancy rates, and increase property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_318.md)
 
@@ -18,4 +18,8 @@ Smaller and individual spaces reduce the chances of disease transmission and pro
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Redesign of internal layouts for better safety and health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_297.md)
 

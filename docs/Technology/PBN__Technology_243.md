@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+* [A comprehensive list of mobile applications, including contact-tracing apps, mental health apps, mobile banking, and fitness tracking devices, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -18,6 +18,10 @@
 * [semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
 * [Semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2085.md)
 * [web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3932.md)
+
+## This technology is mentioned by
+
+* [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
 
 ## Risks linked to this technology
 

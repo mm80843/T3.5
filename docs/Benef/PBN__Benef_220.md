@@ -6,7 +6,7 @@
 
 Ensures protection of privacy and minimizes stigmatization of vulnerable populations, promoting ethical practices in surveillance and data collection
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this mitigation measure could benefit from improved asset value by promoting social responsibility and community trust, leading to positive reputational impact and increased customer loyalty.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_226.md)
 
@@ -18,4 +18,8 @@ Ensures protection of privacy and minimizes stigmatization of vulnerable populat
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Risks which can benefit from this action
+
+* [Ethical guidelines for WBE](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_203.md)
 

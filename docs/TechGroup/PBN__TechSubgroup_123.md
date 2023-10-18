@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Sanitary measures encompassing hygiene protocols, safety standards, waste management, and cleaning supplies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_47.md)
+* [Sanitary measures encompassing hygiene protocols, safety standards, waste management, and cleaning supplies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_37.md)
 
 ## Closest similar item
 

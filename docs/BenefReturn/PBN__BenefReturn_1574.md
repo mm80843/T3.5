@@ -2,3 +2,7 @@
 
 # __Improved public health and safety, decreased risk of infection__
 
+## This return can be realized by these benefits
+
+* [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
+

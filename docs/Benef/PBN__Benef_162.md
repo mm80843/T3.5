@@ -6,7 +6,7 @@
 
 Reduced risk of transmission through local strategies for home isolation, reduced contact in congested areas
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced spread of COVID-19 in informal settlements, improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_164.md)
 
@@ -17,4 +17,8 @@ Reduced risk of transmission through local strategies for home isolation, reduce
 ## Stakeholders benefitting from this Benefit
 
 * [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
+
+## Risks which can benefit from this action
+
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_145.md)
 

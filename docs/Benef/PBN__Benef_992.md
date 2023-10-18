@@ -6,7 +6,7 @@
 
 Provides an estimate of the number of infected individuals in a catchment area using wastewater data, improving understanding of community spread
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better understanding of disease burden, improved resource allocation, targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1099.md)
 
@@ -18,4 +18,8 @@ Provides an estimate of the number of infected individuals in a catchment area u
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [Quantification of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
 

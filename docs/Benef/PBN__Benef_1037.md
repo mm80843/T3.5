@@ -6,7 +6,7 @@
 
 Enhancing local production capacity reduces dependence on imports, improves self-sufficiency, and increases resilience in times of supply chain disruptions, ensuring availability of essential goods and services.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in local industries and manufacturing can benefit from increased demand and improved asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1158.md)
 
@@ -18,4 +18,8 @@ Enhancing local production capacity reduces dependence on imports, improves self
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [local industries and businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_412.md)
+
+## Risks which can benefit from this action
+
+* [Enhance local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
 

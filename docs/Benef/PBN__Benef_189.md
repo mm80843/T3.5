@@ -6,7 +6,7 @@
 
 Quality, rather than quantity, of green space is crucial for delivering the positives associated with it
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved quality of green space can lead to better health outcomes and overall wellbeing for disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_194.md)
 
@@ -17,4 +17,8 @@ Quality, rather than quantity, of green space is crucial for delivering the posi
 ## Stakeholders benefitting from this Benefit
 
 * [communities with lower socio-economic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_109.md)
+
+## Risks which can benefit from this action
+
+* [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
 

@@ -6,7 +6,7 @@
 
 Enables future adaptability and responsiveness to changing needs and circumstances
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased longevity of buildings, reduced need for future renovations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1210.md)
 
@@ -18,4 +18,8 @@ Enables future adaptability and responsiveness to changing needs and circumstanc
 
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+
+## Risks which can benefit from this action
+
+* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1091.md)
 

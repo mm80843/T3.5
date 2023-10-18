@@ -2,3 +2,7 @@
 
 # __Investing in wastewater surveillance can help in understanding the virus circulation.__
 
+## This return can be realized by these benefits
+
+* [Estimation of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_167.md)
+

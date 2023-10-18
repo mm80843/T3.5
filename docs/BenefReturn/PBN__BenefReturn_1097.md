@@ -2,3 +2,7 @@
 
 # __Investing in international collaboration enhances global health security and mitigates the impact of pandemics.__
 
+## This return can be realized by these benefits
+
+* [Global response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_990.md)
+

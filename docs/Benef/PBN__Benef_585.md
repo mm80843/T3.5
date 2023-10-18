@@ -6,7 +6,7 @@
 
 Implementing smart city solutions for social distancing monitoring can provide real-time detection of social distancing violations, allowing for timely intervention and enforcement of social distancing measures.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private organizations investing in smart city solutions can contribute to public health and safety by facilitating the detection of social distancing violations, thereby reducing the risk of COVID-19 transmission and potential outbreaks. This can help protect public health and minimize economic losses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_638.md)
 
@@ -18,4 +18,8 @@ Implementing smart city solutions for social distancing monitoring can provide r
 
 * [private organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_247.md)
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Smart city solutions for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_589.md)
 

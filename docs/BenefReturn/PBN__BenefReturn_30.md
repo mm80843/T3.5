@@ -2,3 +2,7 @@
 
 # __Private investors can invest in the development of more essential services in urban areas, attracting residents with convenient access to everyday needs, leading to increased demand for properties and potential for higher rental income.__
 
+## This return can be realized by these benefits
+
+* [Lower infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_30.md)
+

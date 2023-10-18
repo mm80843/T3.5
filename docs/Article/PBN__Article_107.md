@@ -47,3 +47,16 @@ Public housing and COVID-19: contestation, challenge and change
 * [Improved lift maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1641.md)
 * [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
 
+## This article mentions these technologies
+
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+* [lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1327.md)
+* [automated cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1321.md)
+* [notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1326.md)
+* [translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1322.md)
+* [touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_721.md)
+* [regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1325.md)
+* [multilingual resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
+* [lift monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
+

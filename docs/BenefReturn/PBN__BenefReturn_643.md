@@ -2,3 +2,7 @@
 
 # __Potential for new intellectual property and commercial applications__
 
+## This return can be realized by these benefits
+
+* [Virus recreation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_590.md)
+

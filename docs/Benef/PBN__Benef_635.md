@@ -6,7 +6,7 @@
 
 Access to reliable information reduces anxiety and stress caused by misinformation or information overload during the pandemic
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved mental health of the general population, leading to increased productivity and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_681.md)
 
@@ -17,4 +17,8 @@ Access to reliable information reduces anxiety and stress caused by misinformati
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
 

@@ -6,7 +6,7 @@
 
 Addressing the over-exposure of women in healthcare and social services promotes gender equality and reduces gender-based vulnerabilities.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from a more inclusive and diverse workforce, enhancing productivity and innovation in various industries.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_309.md)
 
@@ -17,4 +17,8 @@ Addressing the over-exposure of women in healthcare and social services promotes
 ## Stakeholders benefitting from this Benefit
 
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+
+## Risks which can benefit from this action
+
+* [Addressing over-exposure of women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_286.md)
 

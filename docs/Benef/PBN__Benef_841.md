@@ -6,7 +6,7 @@
 
 Incorporating occupant presence data in risk estimation improves accuracy
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Better assessment of COVID-19 transmission risk, effective mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_915.md)
 
@@ -18,4 +18,8 @@ Incorporating occupant presence data in risk estimation improves accuracy
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_838.md)
 

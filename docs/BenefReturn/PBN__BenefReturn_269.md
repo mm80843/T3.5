@@ -2,3 +2,7 @@
 
 # __Investing in modifying architectural design can lead to an improvement in the built environment microbiome, enhancing the value of the building and attracting tenants.__
 
+## This return can be realized by these benefits
+
+* [Improvement in indoor microbial biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_257.md)
+

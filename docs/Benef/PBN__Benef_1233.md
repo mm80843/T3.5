@@ -6,7 +6,7 @@
 
 Research can provide quantitative evidence on the effectiveness of UBPI, improving its credibility and acceptance in the field
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved credibility of UBPI, leading to increased adoption and utilization, and opportunities for research collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1380.md)
 
@@ -18,4 +18,8 @@ Research can provide quantitative evidence on the effectiveness of UBPI, improvi
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [mental health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_478.md)
+
+## Risks which can benefit from this action
+
+* [Research and evaluation of UBPI effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1239.md)
 

@@ -2,3 +2,7 @@
 
 # __Private investors investing in spatial planning considerations can benefit from increased asset value of the built environment, as well as improved public health and safety.__
 
+## This return can be realized by these benefits
+
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+

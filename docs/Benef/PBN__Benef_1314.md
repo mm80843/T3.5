@@ -6,7 +6,7 @@
 
 Designing spaces with adaptable lighting and thermal comfort levels supports various activities and improves occupant health and productivity.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased resident satisfaction and productivity, potentially leading to higher tenant retention and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1485.md)
 
@@ -17,4 +17,8 @@ Designing spaces with adaptable lighting and thermal comfort levels supports var
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1334.md)
 

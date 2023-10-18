@@ -49,3 +49,11 @@ Combating COVID-19—The role of robotics in managing public health and infectio
 * [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2423.md)
 * [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
 
+## This article mentions these technologies
+
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1985.md)
+* [social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1987.md)
+* [robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
+* [teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1988.md)
+

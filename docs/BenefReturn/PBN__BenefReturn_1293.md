@@ -2,3 +2,7 @@
 
 # __Ensures continuity of education, reduces learning disruptions, and promotes skill development__
 
+## This return can be realized by these benefits
+
+* [Online learning and virtual classes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1161.md)
+

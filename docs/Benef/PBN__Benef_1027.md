@@ -6,7 +6,7 @@
 
 Energy efficiency improvements in HVAC systems, including the use of germicidal irradiation, contribute to lower greenhouse gas emissions and reduced environmental impact.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced sustainability and contribution to global climate change efforts.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1148.md)
 
@@ -17,4 +17,8 @@ Energy efficiency improvements in HVAC systems, including the use of germicidal 
 ## Stakeholders benefitting from this Benefit
 
 * [environment and society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_407.md)
+
+## Risks which can benefit from this action
+
+* [Reduced greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1030.md)
 

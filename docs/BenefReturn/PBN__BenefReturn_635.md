@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from investing in digital technologies by improving public health outcomes, reducing healthcare costs, and attracting skilled professionals.__
 
+## This return can be realized by these benefits
+
+* [Improved epidemic monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_582.md)
+

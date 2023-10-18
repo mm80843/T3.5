@@ -6,7 +6,7 @@
 
 Enables researchers and officials to obtain comprehensive, up-to-date data on the outbreak
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved decision making and response measures based on real-time information, leading to better control and management of the outbreak, reduced transmission, and potentially saving lives](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1171.md)
 
@@ -19,4 +19,8 @@ Enables researchers and officials to obtain comprehensive, up-to-date data on th
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Risks which can benefit from this action
+
+* [nCov2019 package](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
 

@@ -2,3 +2,7 @@
 
 # __Private investors benefit from reduced transmission rates, a healthier and more confident population, and potential increase in asset values.__
 
+## This return can be realized by these benefits
+
+* [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_752.md)
+

@@ -6,7 +6,7 @@
 
 Designing rooms with moveable partition walls and flexible layouts allows for adjustment and reconfiguration to maintain social distancing requirements.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from improved safety measures, increased flexibility for future pandemics or emergencies, and potential increase in asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_820.md)
 
@@ -17,4 +17,8 @@ Designing rooms with moveable partition walls and flexible layouts allows for ad
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_748.md)
 

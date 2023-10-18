@@ -6,7 +6,7 @@
 
 Big data analytics promote data sharing initiatives, improving access to real-time data for effective monitoring and management of the pandemic.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved data availability, leading to better-informed decision-making and reduced response time.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_562.md)
 
@@ -18,4 +18,8 @@ Big data analytics promote data sharing initiatives, improving access to real-ti
 
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Risks which can benefit from this action
+
+* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
 

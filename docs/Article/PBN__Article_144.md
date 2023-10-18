@@ -57,3 +57,22 @@ Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Str
 * [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
 * [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
 
+## This article mentions these technologies
+
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [data analytics for targeted assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1244.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
+* [remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
+* [digital reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
+* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
+* [hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
+* [precision agriculture technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1246.md)
+* [online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
+* [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1247.md)
+* [ai-driven triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1245.md)
+

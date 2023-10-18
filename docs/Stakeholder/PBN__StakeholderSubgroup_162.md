@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Exploration and study encompass scientific research, environmental management and research, education and research, as well as laboratory and research.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_250.md)
+* [Exploration and study encompass scientific research, environmental management and research, education and research, as well as laboratory and research.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
 
 ## Closest similar item
 

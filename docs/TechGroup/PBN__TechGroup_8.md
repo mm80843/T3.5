@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Observation and surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_298.md)
+* [Observation and surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_291.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_92.md)
 * [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_93.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)

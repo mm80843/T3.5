@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Social hierarchy and its impact on individuals within a community.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_253.md)
+* [Social hierarchy and its impact on individuals within a community.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
 
 ## Closest similar item
 

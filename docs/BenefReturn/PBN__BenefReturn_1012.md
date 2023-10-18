@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from increased credibility of the government by having more confidence in the stability of the economic environment, resulting in increased investment opportunities and asset value.__
 
+## This return can be realized by these benefits
+
+* [Increased credibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_923.md)
+

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Additive manufacturing process that creates objects by layering materials according to digital designs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)
+* [Additive manufacturing process that creates objects by layering materials according to digital designs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_48.md)
 
 ## Closest similar item
 

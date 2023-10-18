@@ -6,7 +6,7 @@
 
 Increased understanding of the physical, mental, and social benefits of green areas, leading to higher demand and utilization
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from increased property values and demand for housing in areas with well-maintained green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1464.md)
 
@@ -17,4 +17,8 @@ Increased understanding of the physical, mental, and social benefits of green ar
 ## Stakeholders benefitting from this Benefit
 
 * [all residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_512.md)
+
+## Risks which can benefit from this action
+
+* [Increase awareness of the value of green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1317.md)
 

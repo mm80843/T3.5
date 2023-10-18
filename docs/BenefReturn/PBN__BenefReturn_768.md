@@ -2,3 +2,7 @@
 
 # __Prepares workforce for future challenges and sustainability__
 
+## This return can be realized by these benefits
+
+* [Skill development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_715.md)
+

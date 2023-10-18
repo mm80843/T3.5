@@ -6,7 +6,7 @@
 
 Requiring people to wear masks in enclosed communal spaces reduces the risk of COVID-19 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from reduced transmission rates, a healthier population, and the restoration of normal activities and economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_816.md)
 
@@ -17,4 +17,8 @@ Requiring people to wear masks in enclosed communal spaces reduces the risk of C
 ## Stakeholders benefitting from this Benefit
 
 * [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+
+## Risks which can benefit from this action
+
+* [Mandatory wearing of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_745.md)
 

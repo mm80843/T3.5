@@ -2,3 +2,7 @@
 
 # __Investing in IoT for real-time monitoring can lead to better patient outcomes, reduced healthcare costs, and improved hospital efficiency.__
 
+## This return can be realized by these benefits
+
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_638.md)
+

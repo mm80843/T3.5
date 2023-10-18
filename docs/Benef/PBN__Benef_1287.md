@@ -6,7 +6,7 @@
 
 Enhanced mood, happiness, and overall well-being
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental well-being leads to increased satisfaction, productivity, and reduced absenteeism, improving the asset value of the property.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1452.md)
 
@@ -17,4 +17,8 @@ Enhanced mood, happiness, and overall well-being
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1305.md)
 

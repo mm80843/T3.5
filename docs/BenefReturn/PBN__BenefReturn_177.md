@@ -2,3 +2,7 @@
 
 # __Occupants have access to clean and safe water, reducing the risk of waterborne diseases and improving overall health.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_173.md)
+

@@ -6,7 +6,7 @@
 
 Big data analytics techniques can extract significant information from multiple sources, generating real-time statistics for monitoring COVID-19
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investing in big data analytics as it provides timely and accurate insights for effective pandemic management, reducing potential economic losses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_921.md)
 
@@ -18,4 +18,8 @@ Big data analytics techniques can extract significant information from multiple 
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)
 

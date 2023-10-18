@@ -2,3 +2,7 @@
 
 # __Increases social equity and improves social cohesion, leading to stable and inclusive communities__
 
+## This return can be realized by these benefits
+
+* [Equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1181.md)
+

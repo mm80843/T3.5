@@ -6,7 +6,7 @@
 
 Promoting diversification and self-sufficiency in production and trade reduces the dependence on global connectivity, leading to increased stability and resilience in the face of unexpected events.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in diversified and self-sufficient industries would benefit from reduced risk of disruptions and increased market stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_26.md)
 
@@ -17,4 +17,8 @@ Promoting diversification and self-sufficiency in production and trade reduces t
 ## Stakeholders benefitting from this Benefit
 
 * [global economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_24.md)
+
+## Risks which can benefit from this action
+
+* [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_18.md)
 

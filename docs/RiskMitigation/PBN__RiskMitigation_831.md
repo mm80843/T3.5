@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
+* [Enhanced surveillance, monitoring, and real-time tracking for improved control and response to various situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Establish clear performance expectations, regular check-ins, and project milestones. Implement software for monitoring progress, communication, and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2588.md)
 * [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_715.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Improved provider well-being and performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_834.md)
 

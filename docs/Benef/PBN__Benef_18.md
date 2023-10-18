@@ -6,7 +6,7 @@
 
 Investing in infrastructure and training can enhance the resilience of the supply chain, allowing organizations to better withstand and recover from disruptions.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from improved asset value and long-term sustainability of the supply chain, reducing the risk of major disruptions impacting their operations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_18.md)
 
@@ -17,4 +17,8 @@ Investing in infrastructure and training can enhance the resilience of the suppl
 ## Stakeholders benefitting from this Benefit
 
 * [supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
+
+## Risks which can benefit from this action
+
+* [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_10.md)
 

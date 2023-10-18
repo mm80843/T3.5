@@ -2,3 +2,7 @@
 
 # __Improved infection control and reduced transmission risk__
 
+## This return can be realized by these benefits
+
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
+

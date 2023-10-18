@@ -6,7 +6,7 @@
 
 Secure storage and careful sharing of personal data to prevent misuse
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Protection of privacy rights, increased trust in smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1564.md)
 
@@ -18,4 +18,8 @@ Secure storage and careful sharing of personal data to prevent misuse
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [data subjects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_535.md)
+
+## Risks which can benefit from this action
+
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1409.md)
 

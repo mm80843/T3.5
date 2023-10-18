@@ -2,3 +2,7 @@
 
 # __Continued business operations, reduced risk for real estate professionals and clients__
 
+## This return can be realized by these benefits
+
+* [Minimized risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_685.md)
+

@@ -2,3 +2,8 @@
 
 # __Private investors would benefit from increased demand for HEMS, leading to potential business growth and profit.__
 
+## This return can be realized by these benefits
+
+* [Reduction in electricity bills](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_599.md)
+* [Improvement of energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_600.md)
+

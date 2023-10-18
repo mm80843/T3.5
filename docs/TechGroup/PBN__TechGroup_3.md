@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Remote healthcare services provided through telecommunications, enabling virtual consultations and remote patient monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_296.md)
+* [Remote healthcare services provided through telecommunications, enabling virtual consultations and remote patient monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_289.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_72.md)
 * [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_73.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)

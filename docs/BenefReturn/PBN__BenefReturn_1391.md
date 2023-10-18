@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from increased property value and reduced energy costs for homeowners, leading to increased demand for energy-efficient buildings.__
 
+## This return can be realized by these benefits
+
+* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1240.md)
+

@@ -6,7 +6,7 @@
 
 Providing continued social interactions and adherence to treatment regimes without spreading disease
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_102.md)
 
@@ -17,4 +17,8 @@ Providing continued social interactions and adherence to treatment regimes witho
 ## Stakeholders benefitting from this Benefit
 
 * [isolated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_65.md)
+
+## Risks which can benefit from this action
+
+* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_90.md)
 

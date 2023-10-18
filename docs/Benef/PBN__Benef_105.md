@@ -6,7 +6,7 @@
 
 Remote access for telemedicine, online courses, and virtual conferences, reducing the need for physical presence and travel
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased accessibility and flexibility, reduced disease transmission, and cost savings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_103.md)
 
@@ -19,4 +19,8 @@ Remote access for telemedicine, online courses, and virtual conferences, reducin
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
 * [companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
+
+## Risks which can benefit from this action
+
+* [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_91.md)
 

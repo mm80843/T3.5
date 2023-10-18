@@ -6,7 +6,7 @@
 
 Rapid diagnostic tests provide same-day results, reducing waiting time and allowing for immediate treatment and isolation, reducing the spread of COVID-19.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in the development and deployment of rapid diagnostic tests can improve healthcare efficiency, reduce costs, and prevent the spread of the virus, leading to improved public health and potential economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1425.md)
 
@@ -18,4 +18,8 @@ Rapid diagnostic tests provide same-day results, reducing waiting time and allow
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Risks which can benefit from this action
+
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1282.md)
 

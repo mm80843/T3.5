@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Strong actions taken to ensure compliance or punishment for violating rules, regulations, or laws.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_294.md)
+* [Strong actions taken to ensure compliance or punishment for violating rules, regulations, or laws.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_287.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_54.md)
 * [enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_55.md)
 
-## This Technology belongs to this TechnologyGroup
+## Technology in the TechnologyGroup
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)

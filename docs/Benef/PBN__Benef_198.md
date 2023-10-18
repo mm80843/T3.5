@@ -6,7 +6,7 @@
 
 Medicaid expansion reduces medical debt and financial burden, increasing tenants' ability to make rent payments and lowering eviction rates, reducing the risk of homelessness and COVID-19 transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in rental properties would benefit from reduced vacancies, improved tenant stability, and reduced risk of rental income loss.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_202.md)
 
@@ -18,4 +18,8 @@ Medicaid expansion reduces medical debt and financial burden, increasing tenants
 
 * [low-income renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_112.md)
 * [people facing eviction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_113.md)
+
+## Risks which can benefit from this action
+
+* [Medicaid expansion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_181.md)
 

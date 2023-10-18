@@ -2,3 +2,7 @@
 
 # __Private investors investing in travel restrictions can benefit from decreased transmission and faster containment of the virus, leading to improved public health and economic stability.__
 
+## This return can be realized by these benefits
+
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1198.md)
+

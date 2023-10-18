@@ -2,3 +2,7 @@
 
 # __Private investors can contribute to public health and support economic recovery by investing in NPIs, which can restore confidence in the built environment and stimulate economic activity.__
 
+## This return can be realized by these benefits
+
+* [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1358.md)
+

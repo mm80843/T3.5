@@ -6,7 +6,7 @@
 
 Establishes guidelines for the ethical and responsible use of data, ensuring data is not used for unauthorized purposes
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhances privacy protection and ensures data is used for the intended purpose, increasing public trust and confidence in the smart and safe city concepts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_74.md)
 
@@ -19,4 +19,8 @@ Establishes guidelines for the ethical and responsible use of data, ensuring dat
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [private entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_56.md)
+
+## Risks which can benefit from this action
+
+* [Clear data usage policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_67.md)
 

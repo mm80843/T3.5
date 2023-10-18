@@ -6,7 +6,7 @@
 
 Reduces the number of cases requiring hospitalization, lowering the demand on healthcare systems, particularly intensive care units
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors could benefit by investing in measures that reduce healthcare demand as it would alleviate strain on healthcare facilities, potentially leading to improved efficiency and better quality of care.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_432.md)
 
@@ -17,4 +17,8 @@ Reduces the number of cases requiring hospitalization, lowering the demand on he
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Risks which can benefit from this action
+
+* [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_406.md)
 

@@ -6,7 +6,7 @@
 
 Reduced maintenance costs
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enhanced system reliability and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1112.md)
 
@@ -17,4 +17,8 @@ Reduced maintenance costs
 ## Stakeholders benefitting from this Benefit
 
 * [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
+
+## Risks which can benefit from this action
+
+* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)
 

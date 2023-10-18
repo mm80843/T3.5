@@ -2,3 +2,7 @@
 
 # __Investing in the monitoring of outdoor absolute humidity can improve public health interventions, leading to reduced healthcare costs and societal benefits.__
 
+## This return can be realized by these benefits
+
+* [Improved influenza incidence predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_270.md)
+

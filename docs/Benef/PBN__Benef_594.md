@@ -6,7 +6,7 @@
 
 Improved understanding of COVID-19-associated coagulopathy
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Asset value increase from improved treatment options](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_645.md)
 
@@ -17,4 +17,8 @@ Improved understanding of COVID-19-associated coagulopathy
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Risks which can benefit from this action
+
+* [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_596.md)
 

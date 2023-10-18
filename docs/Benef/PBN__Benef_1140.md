@@ -6,7 +6,7 @@
 
 Users can access the latest information about COVID-19, including prevention measures and case updates.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health, increased users’ trust and satisfaction, increased demand for the mobile application.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1273.md)
 
@@ -17,4 +17,8 @@ Users can access the latest information about COVID-19, including prevention mea
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Inclusion of COVID-19 prevention and mitigation information in the mobile application using web scraping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1143.md)
 

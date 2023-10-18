@@ -2,3 +2,7 @@
 
 # __Preserves lives, maintains some economic activity__
 
+## This return can be realized by these benefits
+
+* [Optimal compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_706.md)
+

@@ -6,7 +6,7 @@
 
 Provides clear guidance for creating adaptable and flexible buildings
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased efficiency in design process, improved building functionality](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1201.md)
 
@@ -18,4 +18,8 @@ Provides clear guidance for creating adaptable and flexible buildings
 
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+
+## Risks which can benefit from this action
+
+* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1082.md)
 

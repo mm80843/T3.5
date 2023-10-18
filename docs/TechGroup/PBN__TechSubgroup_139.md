@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Promoting knowledge, understanding, and openness through educational campaigns, communication tools, privacy techniques, and information sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_24.md)
+* [Promoting knowledge, understanding, and openness through educational campaigns, communication tools, privacy techniques, and information sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Closest similar item
 

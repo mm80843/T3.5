@@ -6,7 +6,7 @@
 
 Provides access to support services, helplines, and information for victims of domestic violence
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved support and resources for victims, reduced impact of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_735.md)
 
@@ -17,4 +17,8 @@ Provides access to support services, helplines, and information for victims of d
 ## Stakeholders benefitting from this Benefit
 
 * [domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_286.md)
+
+## Risks which can benefit from this action
+
+* [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_680.md)
 

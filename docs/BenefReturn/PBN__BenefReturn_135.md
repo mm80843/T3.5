@@ -2,3 +2,7 @@
 
 # __Improves accuracy and validity of people flow models, resulting in more accurate occupancy estimation__
 
+## This return can be realized by these benefits
+
+* [Elimination of unknown parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_136.md)
+

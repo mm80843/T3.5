@@ -6,7 +6,7 @@
 
 Improves officer morale and job satisfaction
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in this measure would benefit from improved officer retention and performance, leading to a safer campus environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_277.md)
 
@@ -17,4 +17,8 @@ Improves officer morale and job satisfaction
 ## Stakeholders benefitting from this Benefit
 
 * [campus police officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_135.md)
+
+## Risks which can benefit from this action
+
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
 

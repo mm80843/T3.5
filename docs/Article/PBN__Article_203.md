@@ -55,3 +55,17 @@ The impact of the COVID-19 pandemic on the importance of urban green spaces to t
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
 * [Closure of Public Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
 
+## This article mentions these technologies
+
+* [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+* [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+* [maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
+* [policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
+* [adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
+* [community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
+* [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1181.md)
+* [enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
+* [targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1183.md)
+

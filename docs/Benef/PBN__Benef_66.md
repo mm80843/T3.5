@@ -6,7 +6,7 @@
 
 Green investments stimulate economic recovery and create jobs.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in green stimulus measures can lead to economic growth and job creation in the sustainable energy sector.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_66.md)
 
@@ -18,4 +18,8 @@ Green investments stimulate economic recovery and create jobs.
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
+
+## Risks which can benefit from this action
+
+* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_59.md)
 

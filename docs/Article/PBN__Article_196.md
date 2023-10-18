@@ -50,3 +50,17 @@ Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital
 * [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_557.md)
 * [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_558.md)
 
+## This article mentions these technologies
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_511.md)
+* [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
+* [self-cleaning surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_508.md)
+* [biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
+* [regular cleaning and disinfection of toilets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_510.md)
+* [strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
+

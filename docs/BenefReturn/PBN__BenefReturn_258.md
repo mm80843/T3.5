@@ -2,3 +2,7 @@
 
 # __Implementing energy-efficient appliances can attract tenants seeking cost savings and a greener lifestyle.__
 
+## This return can be realized by these benefits
+
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+

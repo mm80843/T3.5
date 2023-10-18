@@ -6,7 +6,7 @@
 
 Filtering reliable evidence and combining results of multiple studies provides decision-makers with reliable evidence syntheses to inform control and mitigation measures
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Policies and practices informed by reliable evidence increase effectiveness, reduce costs, and improve outcomes, leading to increased trust and public confidence](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_591.md)
 
@@ -18,4 +18,8 @@ Filtering reliable evidence and combining results of multiple studies provides d
 
 * [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
 * [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Risks which can benefit from this action
+
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
 

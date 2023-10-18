@@ -69,3 +69,17 @@ Startups in times of crisis – A rapid response to the COVID-19 pandemic
 * [Strengthening Entrepreneurial Ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
 * [Innovation and Creativity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
 
+## This article mentions these technologies
+
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
+* [crowdfunding platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_911.md)
+* [angel investor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_912.md)
+* [market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
+* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
+* [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
+* [online entrepreneurship communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_914.md)
+* [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+* [lobbying initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
+* [customer feedback platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)
+

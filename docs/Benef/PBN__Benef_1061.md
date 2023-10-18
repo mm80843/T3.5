@@ -6,7 +6,7 @@
 
 Local investment and leadership increase community involvement and sense of ownership.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [This leads to increased support and long-term commitment to conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1186.md)
 
@@ -18,4 +18,8 @@ Local investment and leadership increase community involvement and sense of owne
 
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+
+## Risks which can benefit from this action
+
+* [Local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1066.md)
 

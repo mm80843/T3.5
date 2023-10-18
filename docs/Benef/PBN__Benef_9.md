@@ -6,7 +6,7 @@
 
 Analyzing the correlation between SARS-CoV-2 RNA concentration in sewage and reported COVID-19 cases can provide insights into the prevalence of the virus in the population
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in data analysis and interpretation can benefit from contributing to valuable epidemiological research, leading to potential collaborations and partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_9.md)
 
@@ -18,4 +18,8 @@ Analyzing the correlation between SARS-CoV-2 RNA concentration in sewage and rep
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
+
+## Risks which can benefit from this action
+
+* [Comparative analysis of virus RNA concentration and reported COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5.md)
 

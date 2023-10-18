@@ -57,3 +57,17 @@ Digital technology and COVID-19
 * [AI-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
 * [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2118.md)
 
+## This article mentions these technologies
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [internet of things (iot)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
+* [big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
+* [social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
+* [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
+* [facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1713.md)
+* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+* [chat bot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
+* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
+

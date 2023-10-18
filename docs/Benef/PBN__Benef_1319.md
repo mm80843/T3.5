@@ -6,7 +6,7 @@
 
 Sharing data between cities allows for early detection and containment of virus outbreaks, reducing the spread and impact of diseases.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved early detection of virus outbreaks leads to faster containment and reduced economic and social impacts, benefiting healthcare systems and the general population.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1491.md)
 
@@ -18,4 +18,8 @@ Sharing data between cities allows for early detection and containment of virus 
 
 * [general populace](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_517.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Risks which can benefit from this action
+
+* [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1340.md)
 

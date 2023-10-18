@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from reduced energy expenses and improved asset value, as well as potential incentives or tax benefits for implementing energy-efficient measures.__
 
+## This return can be realized by these benefits
+
+* [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
+

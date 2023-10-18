@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_336.md)
+* [Advancements in bioinformatics, divestment, automated sample collection, and artificial intelligence are facilitating early disease detection and control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
@@ -19,7 +19,7 @@
 * [Conduct infectivity tests to determine whether the genetic material is present in intact virus particles or as free nucleic acids.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3044.md)
 * [Exploration and development of alternative detection methods such as CRISPR, digital PCR, lab-on-a-chip, and biosensors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1604.md)
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Virus recreation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_590.md)
 

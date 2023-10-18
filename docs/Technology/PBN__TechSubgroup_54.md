@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Digital channels and advertising via the internet and digital tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_38.md)
+* [Digital channels and advertising via the internet and digital tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_28.md)
 
 ## Closest similar item
 

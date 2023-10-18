@@ -2,3 +2,7 @@
 
 # __Enhanced supply chain resilience, reduced risk of disruption__
 
+## This return can be realized by these benefits
+
+* [Strengthened supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_684.md)
+

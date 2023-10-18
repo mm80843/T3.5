@@ -6,7 +6,7 @@
 
 Ensuring rights are respected in public health interventions safeguards privacy, avoids discrimination, and promotes equitable governance approaches
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved individual and collective rights, increased trust in public health measures, enhanced social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_380.md)
 
@@ -17,4 +17,8 @@ Ensuring rights are respected in public health interventions safeguards privacy,
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Risks which can benefit from this action
+
+* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_359.md)
 

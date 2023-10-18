@@ -6,7 +6,7 @@
 
 Improved ventilation systems to maintain fresh air in the building, which can help prevent the spread of viruses and improve air quality
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investment in this mitigation measure can increase the value of the property, attracting more tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_237.md)
 
@@ -17,4 +17,8 @@ Improved ventilation systems to maintain fresh air in the building, which can he
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
 

@@ -2,3 +2,7 @@
 
 # __Improved competitiveness and cost savings for organizations investing in digital transformation.__
 
+## This return can be realized by these benefits
+
+* [Enhanced operational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_394.md)
+

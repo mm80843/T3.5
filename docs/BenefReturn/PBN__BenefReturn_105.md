@@ -2,3 +2,7 @@
 
 # __Implementing effective quarantine measures can reduce the spread of the virus, protect public health, and prevent overwhelming healthcare systems.__
 
+## This return can be realized by these benefits
+
+* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_106.md)
+

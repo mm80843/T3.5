@@ -6,7 +6,7 @@
 
 Urban greening can promote the presence of efficient virus-carrying mosquitoes, reducing the risk of West Nile virus infection.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors in urban greening initiatives would benefit from improved public health and the associated economic benefits of reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_82.md)
 
@@ -17,4 +17,8 @@ Urban greening can promote the presence of efficient virus-carrying mosquitoes, 
 ## Stakeholders benefitting from this Benefit
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+
+## Risks which can benefit from this action
+
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
 

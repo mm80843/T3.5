@@ -6,7 +6,7 @@
 
 Access to financial resources and reduced risk of food insecurity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved financial well-being, reduced risk of undernutrition](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1191.md)
 
@@ -17,4 +17,8 @@ Access to financial resources and reduced risk of food insecurity
 ## Stakeholders benefitting from this Benefit
 
 * [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
+
+## Risks which can benefit from this action
+
+* [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1071.md)
 

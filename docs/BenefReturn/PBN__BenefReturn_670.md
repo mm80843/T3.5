@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from improved public health infrastructure through increased demand for healthcare services and potential investment opportunities in healthcare facilities and technology.__
 
+## This return can be realized by these benefits
+
+* [Enhanced public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_627.md)
+

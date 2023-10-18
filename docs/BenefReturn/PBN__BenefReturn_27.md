@@ -2,3 +2,7 @@
 
 # __Private investors in sustainable technologies, organic farming, low-carbon transportation, and recyclable materials would benefit from increased investment opportunities and market growth.__
 
+## This return can be realized by these benefits
+
+* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
+

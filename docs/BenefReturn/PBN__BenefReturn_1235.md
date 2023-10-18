@@ -2,3 +2,7 @@
 
 # __Implementing this revised waste collection protocol can protect the health and safety of waste collection workers and the general public, improving public perception and maintaining the operational efficiency of waste management systems.__
 
+## This return can be realized by these benefits
+
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
+

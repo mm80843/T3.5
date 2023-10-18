@@ -6,7 +6,7 @@
 
 Monitoring the IEQ parameters allows for ensuring adequate temperature and humidity conditions, improving the comfort and productivity of the occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from improved tenant satisfaction and reduced vacancy rates, leading to potentially higher rental income and property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1257.md)
 
@@ -17,4 +17,8 @@ Monitoring the IEQ parameters allows for ensuring adequate temperature and humid
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Risks which can benefit from this action
+
+* [IEQ monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1133.md)
 

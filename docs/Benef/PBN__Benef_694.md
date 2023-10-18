@@ -6,7 +6,7 @@
 
 Improved access to preventive measures reduces disparities in COVID-19 risk and testing
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved health outcomes, reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_742.md)
 
@@ -17,4 +17,8 @@ Improved access to preventive measures reduces disparities in COVID-19 risk and 
 ## Stakeholders benefitting from this Benefit
 
 * [individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
+
+## Risks which can benefit from this action
+
+* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_686.md)
 

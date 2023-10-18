@@ -6,7 +6,7 @@
 
 Reduced pain and discomfort; improved productivity and well-being
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Reduced pain and improved comfort lead to increased productivity and reduced absenteeism, increasing the asset value of the property.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1451.md)
 
@@ -17,4 +17,8 @@ Reduced pain and discomfort; improved productivity and well-being
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1304.md)
 

@@ -8,7 +8,7 @@ enabler_014
 
 ## Category to which it belongs
 
-* [Mechanical entities that possess artificial intelligence, can fly or maneuver independently, and operate without human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_73.md)
+* [Mechanical entities that possess artificial intelligence, can fly or maneuver independently, and operate without human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 

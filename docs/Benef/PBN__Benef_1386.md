@@ -6,7 +6,7 @@
 
 Imposing restrictions on crowding may result in increased public transport capacity
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public transportation, reduced congestion](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1573.md)
 
@@ -18,4 +18,8 @@ Imposing restrictions on crowding may result in increased public transport capac
 
 * [commuters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_532.md)
 * [city transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_531.md)
+
+## Risks which can benefit from this action
+
+* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1417.md)
 

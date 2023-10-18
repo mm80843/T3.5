@@ -6,7 +6,7 @@
 
 Provides vital information for decision-making and risk assessment in implementing social distancing measures in buildings
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Enables more effective and targeted implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_13.md)
 
@@ -18,4 +18,8 @@ Provides vital information for decision-making and risk assessment in implementi
 
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
 * [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+
+## Risks which can benefit from this action
+
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

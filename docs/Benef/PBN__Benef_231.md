@@ -6,7 +6,7 @@
 
 Touchless technologies reduce the need for physical contact with potentially infected surfaces, decreasing the risk of virus transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing touchless technologies can enhance the property’s value and attract health-conscious tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_238.md)
 
@@ -17,4 +17,8 @@ Touchless technologies reduce the need for physical contact with potentially inf
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Risks which can benefit from this action
+
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
 

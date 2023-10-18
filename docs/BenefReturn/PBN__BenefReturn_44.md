@@ -2,3 +2,7 @@
 
 # __Private investors investing in zone-based lockdown measures can benefit from improved public health and safety in high-density districts, leading to increased demand for real estate and property value.__
 
+## This return can be realized by these benefits
+
+* [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_44.md)
+

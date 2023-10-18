@@ -6,7 +6,7 @@
 
 Access to quality education, enhanced skills, and improved employment prospects
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved education can lead to a more skilled workforce, innovation, and economic development, attracting investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_580.md)
 
@@ -17,4 +17,8 @@ Access to quality education, enhanced skills, and improved employment prospects
 ## Stakeholders benefitting from this Benefit
 
 * [students and young workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_224.md)
+
+## Risks which can benefit from this action
+
+* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
 

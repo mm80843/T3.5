@@ -6,7 +6,7 @@
 
 Increased livelihood opportunities, improved working conditions, enhanced economic resilience
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved economic outcomes, reduced poverty, increased social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1404.md)
 
@@ -18,4 +18,8 @@ Increased livelihood opportunities, improved working conditions, enhanced econom
 
 * [informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_96.md)
 * [street vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_492.md)
+
+## Risks which can benefit from this action
+
+* [Integrating informal street vendors and workers into public space design and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1265.md)
 

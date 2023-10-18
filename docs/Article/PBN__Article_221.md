@@ -55,3 +55,21 @@ Envisioning a resilient future for biodiversity conservation in the wake of the 
 * [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2093.md)
 * [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
 
+## This article mentions these technologies
+
+* [crowdfunding platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_911.md)
+* [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
+* [online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
+* [capacity-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1569.md)
+* [marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+* [online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1701.md)
+* [identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
+* [remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
+* [remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
+* [virtual tourism platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
+* [digital fundraising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1696.md)
+* [sustainable tourism initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1703.md)
+* [impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1697.md)
+* [remote data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1700.md)
+* [dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1706.md)
+

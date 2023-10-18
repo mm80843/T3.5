@@ -6,7 +6,7 @@
 
 Research on sustainable solutions during and after the pandemic can accelerate the transition to renewable energy, energy efficiency, and low-carbon technologies
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from investment in innovative solutions and technologies, creating new market opportunities and driving economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_668.md)
 
@@ -18,4 +18,8 @@ Research on sustainable solutions during and after the pandemic can accelerate t
 
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [energy and climate researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_255.md)
+
+## Risks which can benefit from this action
+
+* [Research on sustainable solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_619.md)
 

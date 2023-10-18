@@ -6,7 +6,7 @@
 
 Blockchain ensures secure and traceable sharing of COVID-19 data, such as patient information, vaccination records, and supply chain management, enhancing data integrity and transparency.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in blockchain technology can enhance data security, facilitate interoperability, and build trust among stakeholders, enabling efficient information exchange and improving overall pandemic response.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1223.md)
 
@@ -18,4 +18,8 @@ Blockchain ensures secure and traceable sharing of COVID-19 data, such as patien
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+
+## Risks which can benefit from this action
+
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1104.md)
 

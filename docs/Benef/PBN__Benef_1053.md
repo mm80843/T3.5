@@ -6,7 +6,7 @@
 
 Blockchain technology provides verifiable and secure data by using distributed ledger technology and peer-to-peer networking features
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors investing in blockchain-based data storage would benefit from improved data reliability and security, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1174.md)
 
@@ -18,4 +18,8 @@ Blockchain technology provides verifiable and secure data by using distributed l
 
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
+
+## Risks which can benefit from this action
+
+* [Digitally data storage using blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1055.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Social networks, individuals, groups, technology, and protection, all interrelated in the context of communities and online safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_266.md)
+* [Social networks, individuals, groups, technology, and protection, all interrelated in the context of communities and online safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_259.md)
 
 ## Closest similar item
 

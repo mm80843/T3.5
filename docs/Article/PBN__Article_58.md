@@ -68,3 +68,20 @@ COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS
 * [Medical student support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1819.md)
 * [Soap and water access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1824.md)
 
+## This article mentions these technologies
+
+* [renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_355.md)
+* [agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
+* [sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1507.md)
+* [distance learning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1509.md)
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
+* [climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+* [water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1510.md)
+* [job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+* [income support measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
+* [ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1508.md)
+

@@ -6,7 +6,7 @@
 
 UV-C light sterilizes clothing and footwear, reducing the likelihood of virus transfer from surfaces to occupants.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in UV-C cupboards improves hygiene standards and reduces the risk of infection, making the property more appealing to potential buyers or renters.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_293.md)
 
@@ -17,4 +17,8 @@ UV-C light sterilizes clothing and footwear, reducing the likelihood of virus tr
 ## Stakeholders benefitting from this Benefit
 
 * [occupants of the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_140.md)
+
+## Risks which can benefit from this action
+
+* [Installation of UV-C cupboards for external clothing and footwear](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_270.md)
 

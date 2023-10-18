@@ -56,3 +56,18 @@ Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers
 * [Adequate Planning of Infrastructural Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
 * [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
 
+## This article mentions these technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
+* [public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
+* [remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_863.md)
+* [sensors for contactless inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_865.md)
+* [increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
+* [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
+* [renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_861.md)
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+

@@ -6,7 +6,7 @@
 
 Appropriate balance between benefits and costs of stockpiling essential goods
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Greater resilience to supply shocks, reduced reliance on emergency refills](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_325.md)
 
@@ -18,4 +18,8 @@ Appropriate balance between benefits and costs of stockpiling essential goods
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Risks which can benefit from this action
+
+* [Calibrated stockpiles of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_304.md)
 

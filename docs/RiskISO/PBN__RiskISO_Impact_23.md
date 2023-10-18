@@ -2,3 +2,7 @@
 
 # __Responsbile resource use__
 
+## Risks with this purpose
+
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
+

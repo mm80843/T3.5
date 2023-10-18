@@ -6,7 +6,7 @@
 
 Better access to information in residents' native language leads to improved comprehension of public health guidelines and increased adherence to safety protocols.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved public health outcomes reduce the risk of outbreaks, ensuring long-term stability and potential appreciation in value for invested properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_566.md)
 
@@ -17,4 +17,8 @@ Better access to information in residents' native language leads to improved com
 ## Stakeholders benefitting from this Benefit
 
 * [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+
+## Risks which can benefit from this action
+
+* [Provision of language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_530.md)
 

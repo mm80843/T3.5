@@ -6,7 +6,7 @@
 
 Improving access to water, sanitation, and shelter reduces the number of susceptible people and decreases disease transmission
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Higher asset value due to improved public health and reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_745.md)
 
@@ -17,4 +17,8 @@ Improving access to water, sanitation, and shelter reduces the number of suscept
 ## Stakeholders benefitting from this Benefit
 
 * [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
+
+## Risks which can benefit from this action
+
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_690.md)
 

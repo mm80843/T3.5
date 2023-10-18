@@ -2,3 +2,7 @@
 
 # __Improved surveillance and control strategies__
 
+## This return can be realized by these benefits
+
+* [Identifying high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_387.md)
+

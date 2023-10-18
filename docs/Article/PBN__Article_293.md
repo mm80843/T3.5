@@ -52,3 +52,19 @@ Perception of COVID-19 impacts on the construction industry over time
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
 * [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
 
+## This article mentions these technologies
+
+* [project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
+* [contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1462.md)
+* [contingency planning frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
+* [real-time project tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1460.md)
+* [risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
+* [cloud-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1455.md)
+* [remote access software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1454.md)
+* [telecommuting and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1453.md)
+* [hardware resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1456.md)
+

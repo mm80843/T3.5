@@ -6,7 +6,7 @@
 
 Increased trust in information shared on social media, decreased panic and anxiety from false information
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Decreased spread of misinformation would lead to a more informed public and potentially decrease the economic impact of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_996.md)
 
@@ -17,4 +17,8 @@ Increased trust in information shared on social media, decreased panic and anxie
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Risks which can benefit from this action
+
+* [Increased government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_908.md)
 

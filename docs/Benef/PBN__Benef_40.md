@@ -6,7 +6,7 @@
 
 Lightweight and scalable security mechanisms, encryption, blockchain, and distributed security solutions can protect healthcare systems and user data from cyberattacks and unauthorized access.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can develop and offer cybersecurity solutions, increasing the value of their investment as healthcare facilities and users of healthcare technologies prioritize security and data protection.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_40.md)
 
@@ -18,4 +18,8 @@ Lightweight and scalable security mechanisms, encryption, blockchain, and distri
 
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
+
+## Risks which can benefit from this action
+
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_32.md)
 

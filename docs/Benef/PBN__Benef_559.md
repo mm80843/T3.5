@@ -6,7 +6,7 @@
 
 Real-time information allows passengers to avoid crowded buses/trains, reducing the risk of virus transmission and improving comfort.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased perception of safety, encourages more passengers to use public transport](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_611.md)
 * [Private investors in real-time passenger information systems can benefit from increased demand for their technology, leading to financial returns and growth opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_810.md)
@@ -19,4 +19,9 @@ Real-time information allows passengers to avoid crowded buses/trains, reducing 
 ## Stakeholders benefitting from this Benefit
 
 * [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
+
+## Risks which can benefit from this action
+
+* [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_568.md)
+* [Real-time passenger information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_740.md)
 

@@ -6,7 +6,7 @@
 
 Layout changes to adjust spacing reduce the risk of virus transmission and enhance social distancing within the building.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Increased comfort and sense of safety for occupants, leading to higher occupant satisfaction and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_502.md)
 
@@ -18,4 +18,8 @@ Layout changes to adjust spacing reduce the risk of virus transmission and enhan
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Risks which can benefit from this action
+
+* [Adjustments to spacing and circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_478.md)
 

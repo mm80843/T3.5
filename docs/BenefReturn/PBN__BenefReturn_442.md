@@ -2,3 +2,7 @@
 
 # __Investing in social distancing measures helps to prevent COVID-19 outbreaks on construction sites, ensuring business continuity and protecting public health.__
 
+## This return can be realized by these benefits
+
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
+

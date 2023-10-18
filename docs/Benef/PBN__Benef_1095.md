@@ -6,7 +6,7 @@
 
 Repurposing existing smart city infrastructure (e.g., wearables, surveillance systems) for pandemic control
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Improved healthcare service delivery and patient care, reduced burden on healthcare staff, enhanced response capacity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1224.md)
 
@@ -17,4 +17,8 @@ Repurposing existing smart city infrastructure (e.g., wearables, surveillance sy
 ## Stakeholders benefitting from this Benefit
 
 * [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
+
+## Risks which can benefit from this action
+
+* [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
 

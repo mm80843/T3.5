@@ -98,3 +98,13 @@ How is COVID-19 Experience Transforming Sustainability Requirements of Residenti
 * [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2170.md)
 * [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
 
+## This article mentions these technologies
+
+* [touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_143.md)
+* [additional segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1789.md)
+* [waste separation and disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1790.md)
+* [solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1788.md)
+* [energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [smart power strips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1787.md)
+

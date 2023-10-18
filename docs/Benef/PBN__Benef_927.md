@@ -6,7 +6,7 @@
 
 Flourishing was associated with significantly lower sickness benefit transfers per person in 2017, as compared to below the threshold level of flourishing.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing programs and policies to promote mental health and well-being can lead to lower sickness benefit transfers for individuals and the government.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1016.md)
 
@@ -18,4 +18,8 @@ Flourishing was associated with significantly lower sickness benefit transfers p
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Risks which can benefit from this action
+
+* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_927.md)
 

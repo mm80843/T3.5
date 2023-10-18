@@ -2,3 +2,7 @@
 
 # __Private investors would benefit from investing in portfolio transformation as it would allow for a more agile and adaptable workplace strategy, reducing the risk of obsolescence and vacancy, and attracting a wider range of tenants.__
 
+## This return can be realized by these benefits
+
+* [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_947.md)
+

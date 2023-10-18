@@ -54,3 +54,20 @@ How our homes impact our health: using a COVID-19 informed approach to examine u
 * [Restorative spaces to support positive social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1597.md)
 * [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
 
+## This article mentions these technologies
+
+* [provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1264.md)
+* [glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1265.md)
+* [balconies in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1266.md)
+* [outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+* [use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1267.md)
+* [provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1276.md)
+* [courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1273.md)
+* [incorporate shared roof terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1272.md)
+* [communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1270.md)
+* [provide balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
+* [use operable windows and shading devices for natural ventilation and temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
+* [communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1274.md)
+* [incorporate operable windows and natural ventilation for passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1277.md)
+* [ensure proper daylight exposure in bedrooms and create dark environments for restful sleep](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1275.md)
+

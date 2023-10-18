@@ -2,7 +2,7 @@
 
 # __Modification of occupants’ behavior__
 
-## Property: has_MitigationBenefit
+## Benefits linked to a risk
 
 * [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1241.md)
 

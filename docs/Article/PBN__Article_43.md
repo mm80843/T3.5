@@ -46,3 +46,6 @@ Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Prima
 * [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
 * [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
 
+## This article mentions these technologies
+
+

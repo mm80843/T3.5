@@ -6,7 +6,7 @@
 
 Virtual platforms and tax incentives promote local economy and entrepreneurship
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Support local businesses and stimulate economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_782.md)
 
@@ -17,4 +17,8 @@ Virtual platforms and tax incentives promote local economy and entrepreneurship
 ## Stakeholders benefitting from this Benefit
 
 * [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
+
+## Risks which can benefit from this action
+
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 

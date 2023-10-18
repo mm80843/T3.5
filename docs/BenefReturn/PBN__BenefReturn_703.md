@@ -2,3 +2,7 @@
 
 # __Private investors in healthcare facilities would see improved patient flow and potentially faster treatment outcomes, leading to increased efficiency and revenue.__
 
+## This return can be realized by these benefits
+
+* [Faster identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_657.md)
+

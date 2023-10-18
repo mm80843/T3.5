@@ -6,7 +6,7 @@
 
 Increasing the dimensions of apartments can reduce depressive symptoms and improve mental health
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Investing in improving indoor qualities can enhance the living experience and mental well-being of individuals, potentially leading to increased property value and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1360.md)
 * [Investing in creating better views, especially of green spaces, can enhance the living environment and mental well-being of individuals, potentially leading to increased property value and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1361.md)
@@ -19,4 +19,10 @@ Increasing the dimensions of apartments can reduce depressive symptoms and impro
 ## Stakeholders benefitting from this Benefit
 
 * [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
+
+## Risks which can benefit from this action
+
+* [Enhance indoor qualities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1218.md)
+* [Improve housing dimensions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1220.md)
+* [Better views from apartments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1219.md)
 

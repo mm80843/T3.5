@@ -61,3 +61,12 @@ Mental Health and the Role of Physical Activity During the COVID-19 Pandemic
 * [Exercise programs for specific groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
 * [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
 
+## This article mentions these technologies
+
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
+* [exergames](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_64.md)
+* [smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
+* [wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
+* [virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
+

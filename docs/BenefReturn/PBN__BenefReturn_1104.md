@@ -2,3 +2,7 @@
 
 # __Private investors can benefit from increased demand and desirability of buildings with effective air disinfection strategies, leading to higher occupancy rates and rental income.__
 
+## This return can be realized by these benefits
+
+* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
+

@@ -62,3 +62,8 @@ The COVID-19 pandemic: Lessons on building more equal and sustainable societies
 * [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
 * [Green New Deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
 
+## This article mentions these technologies
+
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+

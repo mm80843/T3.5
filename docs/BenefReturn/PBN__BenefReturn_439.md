@@ -2,3 +2,7 @@
 
 # __Private investors can benefit by investing in the development and implementation of travel anxiety reduction strategies, attracting more tourists and increasing revenue in the tourism industry.__
 
+## This return can be realized by these benefits
+
+* [Reduction of travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_410.md)
+

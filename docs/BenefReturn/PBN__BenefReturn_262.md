@@ -2,3 +2,7 @@
 
 # __Implementing water-efficient appliances and fixtures can attract tenants seeking cost savings and eco-conscious living.__
 
+## This return can be realized by these benefits
+
+* [Reduced water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_250.md)
+

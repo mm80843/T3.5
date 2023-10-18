@@ -2,3 +2,7 @@
 
 # __Private investors can invest in the development of home-based exercise programs, fitness equipment, and online platforms for physical activity, which can support individuals in maintaining their physical fitness and health while practicing social distancing.__
 
+## This return can be realized by these benefits
+
+* [Maintenance of physical fitness and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_895.md)
+

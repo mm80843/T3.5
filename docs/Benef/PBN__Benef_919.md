@@ -6,7 +6,7 @@
 
 Graphene-based coatings can provide long-lasting disinfection with low toxicity, reducing the need for harmful chemical disinfectants and minimizing side effects.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors can benefit from the increased demand for and sales of graphene-based coatings as a safer and more effective alternative to traditional disinfection methods.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1008.md)
 
@@ -20,4 +20,8 @@ Graphene-based coatings can provide long-lasting disinfection with low toxicity,
 * [public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_367.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
+
+## Risks which can benefit from this action
+
+* [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
 

@@ -6,7 +6,7 @@
 
 High-efficiency air filters, such as HEPA filters, can effectively capture and remove small particles, including viruses, from the air, reducing the risk of transmission.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Implementing high-efficiency air filters can provide a safer work environment, preventing the spread of COVID-19 among workers. This can contribute to improved employee health, increased productivity, and potentially reduced healthcare costs for employers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_398.md)
 
@@ -18,4 +18,8 @@ High-efficiency air filters, such as HEPA filters, can effectively capture and r
 
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+
+## Risks which can benefit from this action
+
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_373.md)
 

@@ -6,7 +6,7 @@
 
 Adjusting energy contracts based on actual energy demand can lead to cost savings and more accurate billing, avoiding the payment of unnecessary demand charges.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors would benefit from reduced energy expenses and improved financial management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1520.md)
 
@@ -17,4 +17,8 @@ Adjusting energy contracts based on actual energy demand can lead to cost saving
 ## Stakeholders benefitting from this Benefit
 
 * [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
+
+## Risks which can benefit from this action
+
+* [Analyze and adjust energy contracts based on actual energy demand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1373.md)
 

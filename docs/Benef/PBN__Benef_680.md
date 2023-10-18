@@ -6,7 +6,7 @@
 
 Credit guarantee schemes decrease the risk for banks when lending to SMEs, leading to increased lending activities and reduced default rates.
 
-## Description of Benefits pertaining to Beneficiaries
+## Description of actual returns pertaining to this benefit
 
 * [Private investors benefit from reduced legal costs and the avoidance of project delays and financial losses. Efficient contract and claims management enhances the reputation and credibility of construction firms, attracting more investors and clients.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_728.md)
 * [Private investors can benefit from early serving of notices by ensuring project continuity, preventing delays, and minimizing financial losses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1132.md)
@@ -31,4 +31,13 @@ Credit guarantee schemes decrease the risk for banks when lending to SMEs, leadi
 * [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
 * [construction firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_282.md)
 * [banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_528.md)
+
+## Risks which can benefit from this action
+
+* [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1368.md)
+* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1369.md)
+* [Robust contract and claims management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_673.md)
+* [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1398.md)
+* [Personal measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1370.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
 

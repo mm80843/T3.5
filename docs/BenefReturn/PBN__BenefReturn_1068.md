@@ -2,3 +2,7 @@
 
 # __Implementing the coating would result in cost savings due to reduced need for frequent reapplication or replacement of the film.__
 
+## This return can be realized by these benefits
+
+* [Robustness of the film](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_971.md)
+
